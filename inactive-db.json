@@ -204,9 +204,7 @@
             "adserver.singnet.com",
             "adserver.smashtv.com",
             "adserver.startnow.com",
-            "adserver.synergetic.de"
-        ],
-        "to_test": [
+            "adserver.synergetic.de",
             "adserver.telalink.net",
             "adserver.teracent.net",
             "adserver.terra.com",
@@ -282,10 +280,8 @@
             "adsimg.t1msn.com.mx",
             "adsinconline.info",
             "adsincontext.com",
-            "adsinfo-active.biz",
             "adsintl.starwave.com",
             "adsitelo.com",
-            "adsk2.co",
             "adsl-126.23.165.info.com.ph",
             "adsl-24-17-182-81.severnaya.net",
             "adsl-66-101-192-81.adsl2.iam.net.ma",
@@ -303,7 +299,6 @@
             "adsolution-2016.info",
             "adsor.openrunner.com",
             "adspidernow.info",
-            "adspiro.pl",
             "adsports.co.kr",
             "adspr.haber7.net",
             "adsr3pg.com.br",
@@ -323,7 +318,6 @@
             "adsrv.worldvillage.com",
             "adsrv1.tapad.com",
             "adsrv2.gainesvillesun.com",
-            "adss-infoo.co",
             "adssl01.adtech.de",
             "adssl02.adtech.de",
             "adsspace.net",
@@ -385,7 +379,9 @@
             "adult-name.com",
             "adult-nude-teens-sex.com",
             "adult-open.net",
-            "adult-plaesure.org",
+            "adult-plaesure.org"
+        ],
+        "to_test": [
             "adult-revolution.com",
             "adult-s-portal.com",
             "adult-sea.com",
