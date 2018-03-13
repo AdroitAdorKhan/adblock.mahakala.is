@@ -15056,9 +15056,7 @@
             "ads.billiton.de",
             "ads.bitsonthewire.com",
             "ads.blick.ch",
-            "ads.blitz.bg"
-        ],
-        "to_test": [
+            "ads.blitz.bg",
             "ads.bloggingclicks.com",
             "ads.blp.calueclick.net",
             "ads.blp.valueclick.net",
@@ -15077,7 +15075,6 @@
             "ads.burstly.com",
             "ads.burstnet.com",
             "ads.buscape.cl",
-            "ads.buscape.com.mx",
             "ads.buysellads.com",
             "ads.buzzcity.net",
             "ads.buzzfeed.com",
@@ -15184,11 +15181,12 @@
             "ads.ecapixaba.com.br",
             "ads.ecosalon.com",
             "ads.edatracker.com",
-            "ads.edelight.de",
             "ads.edirectme.com",
             "ads.egrappler.com",
             "ads.einmedia.com",
-            "ads.eins.de",
+            "ads.eins.de"
+        ],
+        "to_test": [
             "ads.eluniversal.com.mx",
             "ads.emailpromotion.com.br",
             "ads.emeraldcoast.com",
