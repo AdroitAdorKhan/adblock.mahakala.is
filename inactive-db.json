@@ -15184,9 +15184,7 @@
             "ads.edirectme.com",
             "ads.egrappler.com",
             "ads.einmedia.com",
-            "ads.eins.de"
-        ],
-        "to_test": [
+            "ads.eins.de",
             "ads.eluniversal.com.mx",
             "ads.emailpromotion.com.br",
             "ads.emeraldcoast.com",
@@ -15342,7 +15340,9 @@
             "ads.kleinman.com",
             "ads.kokteyl.com",
             "ads.komli.com",
-            "ads.kompas.com",
+            "ads.kompas.com"
+        ],
+        "to_test": [
             "ads.lanetro.com",
             "ads.latinmedios.com",
             "ads.lavoix.com",
