@@ -1706,9 +1706,7 @@
             "all-tuts.com",
             "all-videos-home.com",
             "all-websearch.com",
-            "all-xxx-vogue.com"
-        ],
-        "to_test": [
+            "all-xxx-vogue.com",
             "all.businessfromabottle.com",
             "all.cuongvemaybay.com",
             "all.pupilmark.com",
@@ -1771,6 +1769,7 @@
             "allcybersearch.com",
             "alldaylinks.com",
             "alldayporn.net",
+            "alldcs-distinct.outbrain.com",
             "alldirplanet.org",
             "alldiskscheck300.com",
             "alldnserrors.com",
@@ -1971,7 +1970,9 @@
             "alnadhagroup.com",
             "alnewsonline.info",
             "alofreecafluglsioncustomizeheremultid.com",
-            "alog.umeng.co",
+            "alog.umeng.co"
+        ],
+        "to_test": [
             "aloi3mdo-3ukhgds.moskalodaret.in",
             "alokvasishta.me",
             "alomal-yemen.org",
