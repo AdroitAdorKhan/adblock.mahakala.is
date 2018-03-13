@@ -15655,9 +15655,7 @@
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
-            "ads.tritonmedia.com"
-        ],
-        "to_test": [
+            "ads.tritonmedia.com",
             "ads.trueweather.com",
             "ads.trutv.com",
             "ads.tucows.com",
@@ -15693,6 +15691,7 @@
             "ads.viewx.co.uk",
             "ads.vintageporntubenet.com",
             "ads.vip.strlng.exodus.discovery.com",
+            "ads.vipcams.com",
             "ads.virgin.net",
             "ads.virtumundo.com",
             "ads.vnuemedia.com",
@@ -15874,7 +15873,9 @@
             "ads5.mconetwork.com",
             "ads5.sabah.com.tr",
             "ads5.udc.advance.net",
-            "ads5.vertamedia.com",
+            "ads5.vertamedia.com"
+        ],
+        "to_test": [
             "ads5.virtumundo.com",
             "ads5.woamobile.com",
             "ads520.com",
