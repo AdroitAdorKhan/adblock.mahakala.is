@@ -14561,9 +14561,7 @@
             "adimages.beeb.com",
             "adimages.earthweb.com",
             "adimages.myjizztube.com",
-            "adimages.watchmygf.net"
-        ],
-        "to_test": [
+            "adimages.watchmygf.net",
             "adincl.go2net.com",
             "adincl.gopher.com",
             "adindex.ocweekly.com",
@@ -14784,6 +14782,7 @@
             "admoens.biz",
             "admon1.count.brat-online.ro",
             "admost.nl",
+            "admp-tc.delfi.ee",
             "admp-tc.krak.dk",
             "admyxto.net",
             "adn.adagogo.com",
@@ -14845,11 +14844,12 @@
             "adnet.medialand.ru",
             "adnetinteractive.net",
             "adnetwork.net.vn",
-            "adnetworkperformance.compopcash.net",
             "adng.ascii24.com",
             "adnirvgo.qhigh.com",
             "adnserror.com",
-            "adnsline.com",
+            "adnsline.com"
+        ],
+        "to_test": [
             "adobe-acrobat-reader-upgrade.com",
             "adobe-reader-it.com",
             "adobe-update.org",
