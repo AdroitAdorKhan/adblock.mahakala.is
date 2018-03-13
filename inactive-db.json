@@ -4715,9 +4715,7 @@
             "armitageinn.com",
             "armiwati.staff.unja.ac.id",
             "armonia-de-ifach-46.org",
-            "armory.mmo-champion.com.nyud.net"
-        ],
-        "to_test": [
+            "armory.mmo-champion.com.nyud.net",
             "armrespect.com",
             "armychange.info",
             "armyconquer.net",
@@ -4904,7 +4902,9 @@
             "asalogistics.net",
             "asanroque.com",
             "asapiurod.info",
-            "asapp.isettingcente.com",
+            "asapp.isettingcente.com"
+        ],
+        "to_test": [
             "asbeirasporto.com",
             "asbrie.com",
             "asbstatement.5gbfree.com",
