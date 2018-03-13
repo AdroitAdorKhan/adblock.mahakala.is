@@ -1371,9 +1371,7 @@
             "alabamamortgageonline.info",
             "alabamamyhome.info",
             "alabamapropertyguide.info",
-            "alabamarealtoronline.info"
-        ],
-        "to_test": [
+            "alabamarealtoronline.info",
             "alabamasocceronline.info",
             "alabamastatebarter.info",
             "alabamastatedot.info",
@@ -1708,7 +1706,9 @@
             "all-tuts.com",
             "all-videos-home.com",
             "all-websearch.com",
-            "all-xxx-vogue.com",
+            "all-xxx-vogue.com"
+        ],
+        "to_test": [
             "all.businessfromabottle.com",
             "all.cuongvemaybay.com",
             "all.pupilmark.com",
