@@ -6318,9 +6318,7 @@
             "bankaccountverify.com",
             "bankafomerica.keo.in",
             "bankakartsorgulamaislemleri.com",
-            "bankameryca.com"
-        ],
-        "to_test": [
+            "bankameryca.com",
             "bankas.paladin-global.net",
             "bankcashadvance.com",
             "bankcity.info",
@@ -6552,7 +6550,9 @@
             "banners.heavenmedia.com",
             "banners.hetnet.nl",
             "banners.hosting-il.com",
-            "banners.i-comers.com",
+            "banners.i-comers.com"
+        ],
+        "to_test": [
             "banners.interclimax.com",
             "banners.japantoday.com",
             "banners.kfmb.com",
