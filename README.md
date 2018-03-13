@@ -1,8 +1,6 @@
-# About [adblock.mahakala.is]
+# About adblock.mahakala.is
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/adblock.mahakala.is.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/adblock.mahakala.is)
-
-[Description]
 
 --------------------------------------------------------------------------------
 
