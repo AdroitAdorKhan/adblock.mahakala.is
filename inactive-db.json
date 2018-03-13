@@ -15467,9 +15467,7 @@
             "ads.nwso.net",
             "ads.nyjournalnews.com",
             "ads.nypost.com",
-            "ads.okazii.ro"
-        ],
-        "to_test": [
+            "ads.okazii.ro",
             "ads.ole.org",
             "ads.oneview.de",
             "ads.online.discovery.com",
@@ -15565,6 +15563,7 @@
             "ads.rockstargames.com",
             "ads.rodale.com",
             "ads.roiserver.com",
+            "ads.rootzoo.com",
             "ads.rottentomatoes.com",
             "ads.rp-online.de",
             "ads.rpgdot.com",
@@ -15656,7 +15655,9 @@
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
-            "ads.tritonmedia.com",
+            "ads.tritonmedia.com"
+        ],
+        "to_test": [
             "ads.trueweather.com",
             "ads.trutv.com",
             "ads.tucows.com",
