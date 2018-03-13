@@ -3310,9 +3310,7 @@
             "aol-dkfaahnd.info",
             "aol-dkfh3.info",
             "aol-dkfhdkhdfd.info",
-            "aol-dkhzfdk.info"
-        ],
-        "to_test": [
+            "aol-dkhzfdk.info",
             "aol-dkifhks.info",
             "aol-dsfkha.info",
             "aol-eieefldkf.info",
@@ -3730,7 +3728,6 @@
             "api.truuapp.com",
             "api.usercycle.com",
             "api.v2.sslsecure10.com",
-            "api.v2.sslsecure2.com",
             "api.v2.sslsecure3.com",
             "api.v2.sslsecure4.com",
             "api.v2.sslsecure5.com",
@@ -3748,6 +3745,7 @@
             "api43.cc",
             "api68.co.uk",
             "apice-snn.com",
+            "apiconnect.co",
             "apicpreview.com",
             "apicturetool.com",
             "apid-1.com",
@@ -3756,7 +3754,9 @@
             "apidev.kindredprints.com",
             "apie-apple.com",
             "apifx9.com",
-            "apikomindo.net",
+            "apikomindo.net"
+        ],
+        "to_test": [
             "apinpal.com",
             "apiparbion.com",
             "apis.sharethrough.com",
