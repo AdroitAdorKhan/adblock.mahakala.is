@@ -14407,9 +14407,7 @@
             "adarmor5.com",
             "adarmor6.com",
             "adastra-ars.ru",
-            "adatepekarot.com"
-        ],
-        "to_test": [
+            "adatepekarot.com",
             "adaware.cc",
             "adazplace.com",
             "adbbf-bn.com",
@@ -14428,6 +14426,7 @@
             "adclick.dig-online.de",
             "adclick.gamespy.com",
             "adclient.rottentomatoes.com",
+            "adclock.zdworks.com",
             "adcode.optimatic.com",
             "adcodes.aim4media.com",
             "adcomatoz.com",
@@ -14562,7 +14561,9 @@
             "adimages.beeb.com",
             "adimages.earthweb.com",
             "adimages.myjizztube.com",
-            "adimages.watchmygf.net",
+            "adimages.watchmygf.net"
+        ],
+        "to_test": [
             "adincl.go2net.com",
             "adincl.gopher.com",
             "adindex.ocweekly.com",
