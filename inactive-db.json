@@ -6550,9 +6550,7 @@
             "banners.heavenmedia.com",
             "banners.hetnet.nl",
             "banners.hosting-il.com",
-            "banners.i-comers.com"
-        ],
-        "to_test": [
+            "banners.i-comers.com",
             "banners.interclimax.com",
             "banners.japantoday.com",
             "banners.kfmb.com",
@@ -6745,7 +6743,9 @@
             "basketsexotica.com",
             "baskinsteal.info",
             "basorp.com",
-            "basrim.com",
+            "basrim.com"
+        ],
+        "to_test": [
             "bastards100.com",
             "bastavsem.info",
             "bastfirstcredit.com",
