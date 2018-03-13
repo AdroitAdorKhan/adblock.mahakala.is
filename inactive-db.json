@@ -5627,9 +5627,7 @@
             "avegeni.com",
             "avemantavernz.com",
             "avenidapremium.com.br",
-            "aventurespatiale.com"
-        ],
-        "to_test": [
+            "aventurespatiale.com",
             "avenuepills.com",
             "avgmuseum.com",
             "avi80.xyz",
@@ -5889,10 +5887,8 @@
             "azixwkmrp.ns2.name",
             "azn.is",
             "azntalk.com",
-            "azo.pl",
             "azongift.com",
             "azonsh.info",
-            "azqmmfhmfnpsvb.bid",
             "azteou.com",
             "aztxobzipyijon.com",
             "azuldomar.com.br",
@@ -5916,7 +5912,9 @@
             "b.dotnetadvisor.info",
             "b.fl1xfl1x.dynv6.net",
             "b.getprizenow.top",
-            "b.grvcdn.com",
+            "b.grvcdn.com"
+        ],
+        "to_test": [
             "b.livesport.eu",
             "b.nkb.co.jp",
             "b.paipai.com",
