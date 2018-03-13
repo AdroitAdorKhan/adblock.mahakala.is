@@ -15340,9 +15340,7 @@
             "ads.kleinman.com",
             "ads.kokteyl.com",
             "ads.komli.com",
-            "ads.kompas.com"
-        ],
-        "to_test": [
+            "ads.kompas.com",
             "ads.lanetro.com",
             "ads.latinmedios.com",
             "ads.lavoix.com",
@@ -15372,6 +15370,7 @@
             "ads.maksimum.net",
             "ads.mambocommunities.com",
             "ads.maotec-00.de",
+            "ads.mapcity.com",
             "ads.maratonporno.com",
             "ads.masbuchin.com",
             "ads.matomymobile.com",
@@ -15468,7 +15467,9 @@
             "ads.nwso.net",
             "ads.nyjournalnews.com",
             "ads.nypost.com",
-            "ads.okazii.ro",
+            "ads.okazii.ro"
+        ],
+        "to_test": [
             "ads.ole.org",
             "ads.oneview.de",
             "ads.online.discovery.com",
