@@ -5912,10 +5912,9 @@
             "b.dotnetadvisor.info",
             "b.fl1xfl1x.dynv6.net",
             "b.getprizenow.top",
-            "b.grvcdn.com"
-        ],
-        "to_test": [
+            "b.grvcdn.com",
             "b.livesport.eu",
+            "b.meiliyue.top",
             "b.nkb.co.jp",
             "b.paipai.com",
             "b.porncity.net",
@@ -6007,6 +6006,7 @@
             "babyboomersgenerationva.com",
             "babygerecht.de",
             "babylille.com",
+            "babymarket.it",
             "babyruscoupon.com",
             "babysinwindeln.de",
             "babyslingalong.com",
@@ -6097,7 +6097,9 @@
             "badvirgins.com",
             "baegtyp.com",
             "baepapo.com",
-            "baer-conference.org",
+            "baer-conference.org"
+        ],
+        "to_test": [
             "bafpalvarietystore.com",
             "bafy.cdscollectibles.com",
             "bag84040.com",
