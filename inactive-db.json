@@ -588,9 +588,7 @@
             "advertising-odds.info",
             "advertising-power.info",
             "advertising-security.info",
-            "advertising.mortgagebankers.org"
-        ],
-        "to_test": [
+            "advertising.mortgagebankers.org",
             "advertising.ninemsn.com.au",
             "advertising.zenit.org",
             "advertisingaerator.info",
@@ -751,7 +749,6 @@
             "aewroun.net",
             "aeysop.com",
             "aezzelarab.com",
-            "afa15.com.ne.kr",
             "afakakeuqplvqdsaltg.com",
             "afantispy.com",
             "afb-developers.pe.hu",
@@ -799,7 +796,9 @@
             "affiliates.amorix.biz",
             "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
-            "affiliates.jlist.com",
+            "affiliates.jlist.com"
+        ],
+        "to_test": [
             "affiliates.matchmaker.com",
             "affiliates.mediaring.com",
             "affiliates.picaboocorp.com",
