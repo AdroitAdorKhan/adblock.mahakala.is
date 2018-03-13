@@ -13805,9 +13805,7 @@
             "achkomachkogaveriri.xyz",
             "achromatdesign.com",
             "achvon.com",
-            "achyro89.com"
-        ],
-        "to_test": [
+            "achyro89.com",
             "acidetective.com",
             "acidjet.org",
             "acidrunman.org",
@@ -13975,7 +13973,9 @@
             "ad-411.com",
             "ad-images.suntimes.com",
             "ad-incisive.grapeshot.co.uk",
-            "ad-peta.makeit-online.de",
+            "ad-peta.makeit-online.de"
+        ],
+        "to_test": [
             "ad-servicestats.net",
             "ad-soft.net",
             "ad-uk.tiscali.com",
