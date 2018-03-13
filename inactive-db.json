@@ -14142,9 +14142,7 @@
             "ad.mainichi.jp",
             "ad.membrana.ru",
             "ad.millennialmedia.com",
-            "ad.minddrivers.com"
-        ],
-        "to_test": [
+            "ad.minddrivers.com",
             "ad.mittelbayerische.de",
             "ad.mobcircle.com",
             "ad.mobfox.com",
@@ -14273,7 +14271,9 @@
             "ad1.yomiuri.co.jp",
             "ad1.zendmedia.com",
             "ad10.atlas.cz",
-            "ad101com.adbureau.net",
+            "ad101com.adbureau.net"
+        ],
+        "to_test": [
             "ad11.atlas.cz",
             "ad12.atlas.cz",
             "ad13.atlas.cz",
