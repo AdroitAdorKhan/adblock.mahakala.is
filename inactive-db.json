@@ -13973,9 +13973,7 @@
             "ad-411.com",
             "ad-images.suntimes.com",
             "ad-incisive.grapeshot.co.uk",
-            "ad-peta.makeit-online.de"
-        ],
-        "to_test": [
+            "ad-peta.makeit-online.de",
             "ad-servicestats.net",
             "ad-soft.net",
             "ad-uk.tiscali.com",
@@ -14144,7 +14142,9 @@
             "ad.mainichi.jp",
             "ad.membrana.ru",
             "ad.millennialmedia.com",
-            "ad.minddrivers.com",
+            "ad.minddrivers.com"
+        ],
+        "to_test": [
             "ad.mittelbayerische.de",
             "ad.mobcircle.com",
             "ad.mobfox.com",
