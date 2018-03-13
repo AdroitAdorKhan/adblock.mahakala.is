@@ -14271,9 +14271,7 @@
             "ad1.yomiuri.co.jp",
             "ad1.zendmedia.com",
             "ad10.atlas.cz",
-            "ad101com.adbureau.net"
-        ],
-        "to_test": [
+            "ad101com.adbureau.net",
             "ad11.atlas.cz",
             "ad12.atlas.cz",
             "ad13.atlas.cz",
@@ -14364,11 +14362,9 @@
             "ad4mat.fr",
             "ad4mat.gr",
             "ad4mat.hu",
-            "ad4mat.it",
             "ad4mat.mx",
             "ad4mat.nl",
             "ad4mat.no",
-            "ad4mat.pl",
             "ad4mat.ro",
             "ad4mat.ru",
             "ad4mat.tr",
@@ -14411,7 +14407,9 @@
             "adarmor5.com",
             "adarmor6.com",
             "adastra-ars.ru",
-            "adatepekarot.com",
+            "adatepekarot.com"
+        ],
+        "to_test": [
             "adaware.cc",
             "adazplace.com",
             "adbbf-bn.com",
