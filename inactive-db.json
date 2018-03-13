@@ -13521,9 +13521,7 @@
             "abyzam.com",
             "ac-loptxt.com",
             "ac-mapa.org",
-            "ac-verify.us"
-        ],
-        "to_test": [
+            "ac-verify.us",
             "ac.eu.enecto.com",
             "ac2.msn.com",
             "ac5diavoli.com",
@@ -13533,7 +13531,6 @@
             "academyofbartending.org",
             "acaifrutodamazonia.com.br",
             "acananmdaf.com",
-            "acansorga.it",
             "acbet.lalorshop.com",
             "acble.lalorshop.com",
             "acbly.lalorshop.com",
@@ -13808,7 +13805,9 @@
             "achkomachkogaveriri.xyz",
             "achromatdesign.com",
             "achvon.com",
-            "achyro89.com",
+            "achyro89.com"
+        ],
+        "to_test": [
             "acidetective.com",
             "acidjet.org",
             "acidrunman.org",
