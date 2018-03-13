@@ -14847,9 +14847,7 @@
             "adng.ascii24.com",
             "adnirvgo.qhigh.com",
             "adnserror.com",
-            "adnsline.com"
-        ],
-        "to_test": [
+            "adnsline.com",
             "adobe-acrobat-reader-upgrade.com",
             "adobe-reader-it.com",
             "adobe-update.org",
@@ -15000,6 +14998,7 @@
             "ads.adwitserver.com",
             "ads.adx.nu",
             "ads.adxpose.mpire.akadns.net",
+            "ads.affbuzzads.com",
             "ads.ah-ha.com",
             "ads.ahvuw.com",
             "ads.aintitcool.com",
@@ -15057,7 +15056,9 @@
             "ads.billiton.de",
             "ads.bitsonthewire.com",
             "ads.blick.ch",
-            "ads.blitz.bg",
+            "ads.blitz.bg"
+        ],
+        "to_test": [
             "ads.bloggingclicks.com",
             "ads.blp.calueclick.net",
             "ads.blp.valueclick.net",
