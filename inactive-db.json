@@ -9934,9 +9934,7 @@
             "buty-konkurs.pl",
             "buty-kupony.pl",
             "butzan.com",
-            "buvcazex.com"
-        ],
-        "to_test": [
+            "buvcazex.com",
             "buxdowe.net",
             "buy-adipex-cheap-adipex-online.com",
             "buy-adipex-online.md-online24.de",
@@ -10317,7 +10315,9 @@
             "c.gzsanxiaomingshi.cn",
             "c.homestore.com",
             "c.kuryjs.info",
-            "c.maccosmetics.com",
+            "c.maccosmetics.com"
+        ],
+        "to_test": [
             "c.ninemsn.com.au",
             "c.openclick.com",
             "c.setterlistjob.biz",
