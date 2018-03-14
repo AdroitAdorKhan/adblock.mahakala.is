@@ -16570,9 +16570,7 @@
             "da.mgtv.com",
             "da3a9edfe0868555.secured.yahoo.com.wcgrants.com",
             "da5w2k479hyx2.cloudfront.net",
-            "da7l9o2y7.info"
-        ],
-        "to_test": [
+            "da7l9o2y7.info",
             "dabannase.com",
             "dabasatates.net",
             "dabejqde.top",
@@ -16705,7 +16703,6 @@
             "dancekept.com",
             "danceloft.ch",
             "danceseparate.com",
-            "danceshoes.co.nz",
             "dancesoil.com",
             "dancewear.com.au",
             "dancewearpcf.com",
@@ -16763,12 +16760,15 @@
             "darkbasementindustries.com",
             "darkblade.ath.cx",
             "darkdomen.com",
+            "darkeningsun.org",
             "darkeragaming.co.uk",
             "darkermindz.com",
             "darkforever.info",
             "darkgod.org",
             "darkgreenhead.com",
-            "darkhacks.eu",
+            "darkhacks.eu"
+        ],
+        "to_test": [
             "darkhitch.net",
             "darklingsdemense.com",
             "darkrageknights.info",
