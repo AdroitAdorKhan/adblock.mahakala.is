@@ -8677,9 +8677,7 @@
             "blog-antivirus.com",
             "blog-findmyretirementhome.com.au",
             "blog.3kingsclothing.com",
-            "blog.alphonso.tv"
-        ],
-        "to_test": [
+            "blog.alphonso.tv",
             "blog.ampersandhelen.net",
             "blog.basket-gang.org",
             "blog.basket-philia.org",
@@ -8730,7 +8728,6 @@
             "bloqueodecuentas-pp.com",
             "blossomclub.info",
             "blossomonline.info",
-            "blossomsbnb.com.au",
             "blots.org",
             "blowfish.hitbox.com",
             "blowingkisses.net",
@@ -8763,6 +8760,7 @@
             "bluegaragesale.com",
             "bluegolfshop.info",
             "bluegreenskies.com",
+            "bluehack.eu",
             "bluehomepages.com",
             "bluejul.com",
             "bluekart.biz",
@@ -8832,7 +8830,6 @@
             "bmwwindowss.cn",
             "bmwx6foreva.ru",
             "bmwxi.com",
-            "bn-01.adtomafusion.com",
             "bn.bfast.nl",
             "bn.xp1.ru4.com",
             "bn1.homefot.ru",
@@ -8888,7 +8885,9 @@
             "bo2wallhack.com",
             "boa-message-center-r.com",
             "boa-message-setup-rez.com",
-            "boa-onlineservices.com",
+            "boa-onlineservices.com"
+        ],
+        "to_test": [
             "boa-server-setup-message.com",
             "boa-ssl.com",
             "boa.chat-host.org",
