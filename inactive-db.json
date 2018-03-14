@@ -2843,9 +2843,7 @@
             "e-worldhacks.com",
             "e-zagadki.pl",
             "e-zero.com.br",
-            "e-zug.com"
-        ],
-        "to_test": [
+            "e-zug.com",
             "e.analytics.yahoo.com",
             "e.as-eu.falkag.net",
             "e.ilovethat.co.uk",
@@ -2984,6 +2982,7 @@
             "earthproafrica.co.za",
             "earthses.org.in",
             "earthshineco.com",
+            "earthspiruitr.top",
             "earthstarcasino.com",
             "earthtier.info",
             "eartllink.net",
@@ -3035,7 +3034,9 @@
             "easyautohajj.com",
             "easyboxhosting.com",
             "easybuydx.info",
-            "easycheat.org",
+            "easycheat.org"
+        ],
+        "to_test": [
             "easyconsultingltd.com",
             "easycoolbuy.com",
             "easydivorceguide.com",
