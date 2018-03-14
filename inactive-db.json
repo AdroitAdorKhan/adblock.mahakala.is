@@ -12340,9 +12340,7 @@
             "chaseonline.chase.com.richmorby.com",
             "chaseonline.chase.com.secure.logon.sukamalaysia.com",
             "chaseonline.chase.com.us-chs.com",
-            "chaseonline.chase.com.webssl.xyse.tk"
-        ],
-        "to_test": [
+            "chaseonline.chase.com.webssl.xyse.tk",
             "chaseonline.chase.com.xeroxteknikservis.net",
             "chaseonline.chase.fatherzhoues.com",
             "chaseonline.chase.wcspl.org",
@@ -12602,7 +12600,9 @@
             "cheep.tsairyuarn.com",
             "cheerleader-webcams.com",
             "cheerlemage.com",
-            "cheetahsms.com",
+            "cheetahsms.com"
+        ],
+        "to_test": [
             "chefnormarleanadraftedmmpersonnal.pe.hu",
             "chefvillehacks.info",
             "chegouaahora.16mb.com",
