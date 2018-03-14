@@ -1385,9 +1385,7 @@
             "dltvwp.it",
             "dlupload.com",
             "dlv.ad-serving.co",
-            "dlyasvobornyx.biz"
-        ],
-        "to_test": [
+            "dlyasvobornyx.biz",
             "dm43rr95vvmjq9.nationet.com.hk",
             "dm77.xftnam.com",
             "dm8ojo46iwxm2.cloudfront.net",
@@ -1552,7 +1550,9 @@
             "doclosegoa.top",
             "docments.nstrefa.pl",
             "doconflict.info",
-            "doconlineaof.top",
+            "doconlineaof.top"
+        ],
+        "to_test": [
             "docs-kolview.tk",
             "docs.midiavisual.org",
             "docs.pinion.gg",
