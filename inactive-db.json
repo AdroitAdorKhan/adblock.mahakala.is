@@ -14640,9 +14640,7 @@
             "computer-error.net",
             "computer-inspector.com",
             "computer-offer.net",
-            "computerantiviruspro.com"
-        ],
-        "to_test": [
+            "computerantiviruspro.com",
             "computerdellonline.info",
             "computerelated.net",
             "computererrordefeatshop.online",
@@ -14937,7 +14935,9 @@
             "content-type.cn",
             "content.12345sex.com",
             "content.91s.com",
-            "content.ad-flow.com",
+            "content.ad-flow.com"
+        ],
+        "to_test": [
             "content.axill.com",
             "content.dl-rms.com",
             "content.medialand.ru",
