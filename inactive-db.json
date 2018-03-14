@@ -13229,9 +13229,7 @@
             "click.investopedia.com",
             "click.lovltrzwzqeux.info",
             "click.maxxandmore.com",
-            "click.mediapaper.biz"
-        ],
-        "to_test": [
+            "click.mediapaper.biz",
             "click.netpondcash.com",
             "click.pgs03.com",
             "click.pulse360.com",
@@ -13409,7 +13407,9 @@
             "clipzocean.com",
             "clipzportal.com",
             "clipzsaloon.com",
-            "clix2themax.net",
+            "clix2themax.net"
+        ],
+        "to_test": [
             "clk.about.com",
             "clk.aboxdeal.com",
             "clk.bcmtrk.com",
