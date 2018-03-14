@@ -10898,9 +10898,7 @@
             "card500.pochta.ru",
             "carderforum.su",
             "cardgen.co",
-            "cardiffbankplc.com"
-        ],
-        "to_test": [
+            "cardiffbankplc.com",
             "cardinalcorp.ml",
             "cardingworld.biz",
             "cardinternationalservices.net",
@@ -11101,7 +11099,6 @@
             "cartworkshop.com",
             "carvedchristmas4u.com",
             "carvip.com.ua",
-            "carwashmelnik.cz",
             "carze.com.es",
             "casadasluzes35.com",
             "casadeart.info",
@@ -11216,7 +11213,9 @@
             "casino-online.100gal.net",
             "casino-poter.biz",
             "casino-staff.info",
-            "casino-superbonus.biz",
+            "casino-superbonus.biz"
+        ],
+        "to_test": [
             "casino-vegas777.biz",
             "casino-vip1.com",
             "casino-vip1.net",
