@@ -15474,9 +15474,7 @@
             "craftbeerhereny.com",
             "craftcavern.co.uk",
             "craftendo.com",
-            "craftferfree.com"
-        ],
-        "to_test": [
+            "craftferfree.com",
             "craftsmensearch.com",
             "craftycauldron.co.uk",
             "cragslistmobile.org",
@@ -15712,7 +15710,9 @@
             "cross-nation-couples.org",
             "cross-stitch.ca",
             "crossbolaget.com",
-            "crosschoose.com",
+            "crosschoose.com"
+        ],
+        "to_test": [
             "crossgone.com",
             "crossingencounter.org",
             "crosskirknet.com",
