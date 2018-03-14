@@ -7049,9 +7049,7 @@
             "fioricet.3.p2l.info",
             "fioricet.4.p2l.info",
             "fipbol2-k.info",
-            "fiperweb.com"
-        ],
-        "to_test": [
+            "fiperweb.com",
             "fire-hacks.com",
             "fire-play.com",
             "fire-serials.info",
@@ -7069,6 +7067,7 @@
             "firehacks.eu",
             "firehacks.net",
             "firehorny.com",
+            "firellia.ws",
             "firenzeantica.org",
             "fireoniraw.com",
             "firepaydirect.info",
@@ -7169,6 +7168,7 @@
             "fitchburgstatecoll.info",
             "fitergt.com",
             "fitga.ru",
+            "fitgolf.com.au",
             "fitmoreonline.info",
             "fitness-365.ru",
             "fitness.org.za",
@@ -7265,6 +7265,7 @@
             "flagstaffarizonaworld.info",
             "flagstar-128.com",
             "flagstarbanking.us",
+            "flakonik.pl",
             "flakymace.com",
             "flanch.co.nz",
             "flangey.com",
@@ -7291,7 +7292,9 @@
             "flashgames.roxy.lv",
             "flashgames.to",
             "flashgamesdatabase.com",
-            "flashgamesinc.com",
+            "flashgamesinc.com"
+        ],
+        "to_test": [
             "flashghetto.pl",
             "flashkof.free.fr",
             "flashnaruto.com",
