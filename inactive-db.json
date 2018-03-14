@@ -8825,9 +8825,7 @@
             "frontiertravelalaska.info",
             "frontline-directive.net",
             "frontline-engine.net",
-            "frontlineanalyzer.net"
-        ],
-        "to_test": [
+            "frontlineanalyzer.net",
             "frontlinelatitude.com",
             "frontreceive.com",
             "frontrespect.com",
@@ -9037,7 +9035,6 @@
             "fun.ynet.com",
             "fun2me.pl",
             "fun87.hk",
-            "funanimaux.com",
             "funbroker.net",
             "funcityonlinegames.com",
             "funcitysg.com",
@@ -9095,7 +9092,9 @@
             "funnyforme2008.com",
             "funnygames1.net",
             "funnyidcard.com",
-            "funnyjokevidsite.org",
+            "funnyjokevidsite.org"
+        ],
+        "to_test": [
             "funnymysite.com",
             "funnypicsvidworld.org",
             "funnysearch.net",
