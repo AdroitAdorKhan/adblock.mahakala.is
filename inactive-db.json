@@ -8426,9 +8426,7 @@
             "bitreneel.com",
             "bitromix.com",
             "bits4houlrly.com",
-            "bitsandbridlessaddlery.com"
-        ],
-        "to_test": [
+            "bitsandbridlessaddlery.com",
             "bitsgold.biz",
             "bitshostingdownloads.com",
             "bitsourceinteractive.com",
@@ -8679,7 +8677,9 @@
             "blog-antivirus.com",
             "blog-findmyretirementhome.com.au",
             "blog.3kingsclothing.com",
-            "blog.alphonso.tv",
+            "blog.alphonso.tv"
+        ],
+        "to_test": [
             "blog.ampersandhelen.net",
             "blog.basket-gang.org",
             "blog.basket-philia.org",
