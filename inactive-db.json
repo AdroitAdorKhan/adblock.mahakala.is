@@ -9263,9 +9263,7 @@
             "gadayel.com",
             "gaddybaby.info",
             "gadesunheranwui.com",
-            "gadget-and-gizmos.co.uk"
-        ],
-        "to_test": [
+            "gadget-and-gizmos.co.uk",
             "gadgetfreeks.com",
             "gadgetgiveawayz.com",
             "gadgets-lab.ru",
@@ -9441,7 +9439,9 @@
             "gamefreaks.co.nz",
             "gamefric.com",
             "gamegame.es",
-            "gamegeniecheats.com",
+            "gamegeniecheats.com"
+        ],
+        "to_test": [
             "gamegoldonline.in",
             "gamegoods.de",
             "gamegratuit.fr",
