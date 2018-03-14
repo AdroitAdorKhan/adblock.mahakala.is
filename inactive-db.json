@@ -120,9 +120,7 @@
             "delivery.ads.assistance.bg",
             "delivery.bannerd.ru",
             "delivery.bluefinmediaads.com",
-            "delivery.ipvertising.com"
-        ],
-        "to_test": [
+            "delivery.ipvertising.com",
             "delivery.racingpost.com",
             "delivery.reklamz.com",
             "delivery.serve.bluelinkmarketing.com",
@@ -321,7 +319,6 @@
             "designsbyholiday.com",
             "designstarinc.info",
             "desinfiziertetpsalterist.vidtag.us",
-            "desire.nl",
             "desirebecame.net",
             "desireclothes.net",
             "desiresmell.net",
@@ -331,7 +328,9 @@
             "desjardins.celcon.com",
             "desjardinss.org",
             "desjardinss.pl",
-            "desjerden.com",
+            "desjerden.com"
+        ],
+        "to_test": [
             "desk.opt.fimserve.com",
             "deskbarads.com",
             "desklinks.com",
