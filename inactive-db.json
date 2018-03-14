@@ -9578,9 +9578,7 @@
             "gamesunite.net",
             "gamesurf.tk",
             "gameswithcracks.com",
-            "gamesworld.es"
-        ],
-        "to_test": [
+            "gamesworld.es",
             "gameterror.net",
             "gametoolsworld.com",
             "gametopia.nl",
@@ -9802,7 +9800,9 @@
             "gazgaped778.com",
             "gazinomonster.com",
             "gazipur24.net",
-            "gazipurland.com",
+            "gazipurland.com"
+        ],
+        "to_test": [
             "gb-en01.com",
             "gb-recrut.com",
             "gb53.ru",
