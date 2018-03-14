@@ -16417,9 +16417,7 @@
             "d.unanimis.co.uk",
             "d.ustream.tv",
             "d.wiyun.com",
-            "d.xaoyo.com"
-        ],
-        "to_test": [
+            "d.xaoyo.com",
             "d07d50a751bc6ddf12bf3af0efee9b45.dvdvideosoft.com",
             "d08r.cn",
             "d0d0n0.info",
@@ -16572,7 +16570,9 @@
             "da.mgtv.com",
             "da3a9edfe0868555.secured.yahoo.com.wcgrants.com",
             "da5w2k479hyx2.cloudfront.net",
-            "da7l9o2y7.info",
+            "da7l9o2y7.info"
+        ],
+        "to_test": [
             "dabannase.com",
             "dabasatates.net",
             "dabejqde.top",
