@@ -8885,9 +8885,7 @@
             "bo2wallhack.com",
             "boa-message-center-r.com",
             "boa-message-setup-rez.com",
-            "boa-onlineservices.com"
-        ],
-        "to_test": [
+            "boa-onlineservices.com",
             "boa-server-setup-message.com",
             "boa-ssl.com",
             "boa.chat-host.org",
@@ -9118,7 +9116,9 @@
             "boobiefetish.com",
             "BoobiesDaily.stumbleupon.com",
             "boobs-space.com",
-            "boobsdom.com",
+            "boobsdom.com"
+        ],
+        "to_test": [
             "boogtop-sandrat.smallbusinessretreat.com",
             "booj7tho.com",
             "book-dozer.com",
