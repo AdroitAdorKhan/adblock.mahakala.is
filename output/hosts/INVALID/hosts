@@ -266,3 +266,7 @@
 0.0.0.0 spankbang 
 0.0.0.0 ssl-nl.persgroep.edgekey.neto 
 0.0.0.0 ssl-nl.persgroep.edgekey.netO 
+0.0.0.0 telemetry.appex.bing.net:443 
+0.0.0.0 test 
+0.0.0.0 test.invalid 
+0.0.0.0 testing 
