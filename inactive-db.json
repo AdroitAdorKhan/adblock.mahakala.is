@@ -5106,9 +5106,7 @@
             "adbbf-bn.com",
             "adbiz.us",
             "adblockdetect.xyz",
-            "adbnr.ru"
-        ],
-        "to_test": [
+            "adbnr.ru",
             "adbpt.com",
             "adbreak.ubeei.com",
             "adbtch.com",
@@ -5121,7 +5119,6 @@
             "adclick.dig-online.de",
             "adclick.gamespy.com",
             "adclient.rottentomatoes.com",
-            "adclock.zdworks.com",
             "adcode.optimatic.com",
             "adcodes.aim4media.com",
             "adcomatoz.com",
@@ -5222,7 +5219,9 @@
             "adfeed.pagefair.net",
             "adfiles.pitchforkmedia.com",
             "adfirefox.cn",
-            "adflow.orbitcycle.com",
+            "adflow.orbitcycle.com"
+        ],
+        "to_test": [
             "adforce.ads.imgis.com",
             "adforce.adtech.de",
             "adforce.imgis.com",
