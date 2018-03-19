@@ -4720,9 +4720,7 @@
             "ad.airpush.com",
             "ad.ajanshaber.com",
             "ad.aliceadsl.fr",
-            "ad.allyes.cn"
-        ],
-        "to_test": [
+            "ad.allyes.cn",
             "ad.ameba.jp",
             "ad.anprom.com",
             "ad.appflood.com",
@@ -4865,7 +4863,9 @@
             "ad.pandora.tv",
             "ad.parrot.mable-inc.com",
             "ad.pdassi.de",
-            "ad.philipstreehouse.info",
+            "ad.philipstreehouse.info"
+        ],
+        "to_test": [
             "ad.placeplay.com",
             "ad.playground.ru",
             "ad.playhaven.com",
