@@ -6905,9 +6905,7 @@
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
             "adtegrity.spinbox.org",
-            "adtology3.com"
-        ],
-        "to_test": [
+            "adtology3.com",
             "adtrack.ministerial5.com",
             "adtracker.meinungsstudie.de",
             "adtracking.net-on.net",
@@ -7092,7 +7090,6 @@
             "advance-security-alert-request-support.info",
             "advance-system-optimisation-critical-controlreport.info",
             "advance-systemalert-error12baca-trojandec.info",
-            "advance.zarca.net",
             "advanceacademyestheticmededu.us",
             "advanceboy.info",
             "advanced-axioms.com",
@@ -7118,7 +7115,9 @@
             "adveraction.pl",
             "adverdaemon.com",
             "adverdomain.com",
-            "adverlounge.com",
+            "adverlounge.com"
+        ],
+        "to_test": [
             "advert-department-pages-info.twomini.com",
             "advert.api.no",
             "advert.gameranger.com",
