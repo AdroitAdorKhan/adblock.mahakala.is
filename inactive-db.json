@@ -11068,9 +11068,7 @@
             "appstore-unclocked.com",
             "appstores-unlockservice.com",
             "appstroma.com",
-            "appsunlocker.com"
-        ],
-        "to_test": [
+            "appsunlocker.com",
             "appunti-tesine.net",
             "appusage.intel.com",
             "appvideosface.variedadesdevideos.net",
@@ -11201,7 +11199,6 @@
             "archaeo.cc",
             "archeage-rebellion.com",
             "archie11111.com",
-            "archivesmonomenclatures.info",
             "archiveviewsoftware.com",
             "archivio-film.com",
             "archiviohard.com",
@@ -11214,7 +11211,6 @@
             "arcomage.welscotch.net",
             "arcor-clan.de",
             "arcot-cembra.net",
-            "arcotechoswaldo.com",
             "arctechwindows.com",
             "arcticministries.org",
             "arctophilia.com",
@@ -11239,7 +11235,9 @@
             "arenafi.biz",
             "arenaforces.com",
             "arenasyquarzosindustriales.com",
-            "arendovalka.xyz",
+            "arendovalka.xyz"
+        ],
+        "to_test": [
             "areposte.com",
             "ares-galaxy-music-p2p.com",
             "aresiq.com",
