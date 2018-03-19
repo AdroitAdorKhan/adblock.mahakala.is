@@ -6014,9 +6014,7 @@
             "ads.ivillage.com",
             "ads.iweb.cortica.com",
             "ads.jacksonville.com",
-            "ads.jeneauempire.com"
-        ],
-        "to_test": [
+            "ads.jeneauempire.com",
             "ads.jetphotos.net",
             "ads.jlisting.jp",
             "ads.joetec.net",
@@ -6168,7 +6166,6 @@
             "ads.onlinevenditatio.space",
             "ads.ontheweb.com",
             "ads.ookla.com",
-            "ads.optamail.com",
             "ads.orsm.net",
             "ads.osdn.com",
             "ads.pandora.tv.net",
@@ -6177,7 +6174,9 @@
             "ads.parkedskins.com",
             "ads.partner2profit.com",
             "ads.pastemagazine.com",
-            "ads.pauservice.net",
+            "ads.pauservice.net"
+        ],
+        "to_test": [
             "ads.pcper.com",
             "ads.pdxguide.com",
             "ads.pennyweb.com",
