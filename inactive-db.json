@@ -6174,9 +6174,7 @@
             "ads.parkedskins.com",
             "ads.partner2profit.com",
             "ads.pastemagazine.com",
-            "ads.pauservice.net"
-        ],
-        "to_test": [
+            "ads.pauservice.net",
             "ads.pcper.com",
             "ads.pdxguide.com",
             "ads.pennyweb.com",
@@ -6255,7 +6253,6 @@
             "ads.rockstargames.com",
             "ads.rodale.com",
             "ads.roiserver.com",
-            "ads.rootzoo.com",
             "ads.rottentomatoes.com",
             "ads.rp-online.de",
             "ads.rpgdot.com",
@@ -6289,6 +6286,7 @@
             "ads.smni.com",
             "ads.smowtion.com",
             "ads.sohh.com",
+            "ads.solutionsic.com",
             "ads.somethingawful.com",
             "ads.songs.pk",
             "ads.soush.com",
@@ -6343,7 +6341,9 @@
             "ads.topix.net",
             "ads.track-star.com",
             "ads.trademob.com",
-            "ads.tradermedia.co.uk",
+            "ads.tradermedia.co.uk"
+        ],
+        "to_test": [
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
