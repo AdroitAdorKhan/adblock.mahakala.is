@@ -4972,9 +4972,7 @@
             "ad14.atlas.cz",
             "ad15.atlas.cz",
             "ad16.atlas.cz",
-            "ad17.atlas.cz"
-        ],
-        "to_test": [
+            "ad17.atlas.cz",
             "ad18.atlas.cz",
             "ad19.atlas.cz",
             "ad2.163.com",
@@ -5001,7 +4999,6 @@
             "ad2.smni.com",
             "ad2.tr.mediainter.net",
             "ad2.ycasmd.info",
-            "ad2.zapmedya.com",
             "ad20.atlas.cz",
             "ad21.atlas.cz",
             "ad22.atlas.cz",
@@ -5109,7 +5106,9 @@
             "adbbf-bn.com",
             "adbiz.us",
             "adblockdetect.xyz",
-            "adbnr.ru",
+            "adbnr.ru"
+        ],
+        "to_test": [
             "adbpt.com",
             "adbreak.ubeei.com",
             "adbtch.com",
