@@ -6341,9 +6341,7 @@
             "ads.topix.net",
             "ads.track-star.com",
             "ads.trademob.com",
-            "ads.tradermedia.co.uk"
-        ],
-        "to_test": [
+            "ads.tradermedia.co.uk",
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
@@ -6383,7 +6381,6 @@
             "ads.viewx.co.uk",
             "ads.vintageporntubenet.com",
             "ads.vip.strlng.exodus.discovery.com",
-            "ads.vipcams.com",
             "ads.virgin.net",
             "ads.virtumundo.com",
             "ads.vnuemedia.com",
@@ -6536,7 +6533,9 @@
             "ads3.advance.net",
             "ads3.advertwizard.com",
             "ads3.canoe.ca",
-            "ads3.ihaberadserver.com",
+            "ads3.ihaberadserver.com"
+        ],
+        "to_test": [
             "ads3.net2day.de",
             "ads3.udc.advance.net",
             "ads3.vertamedia.com",
