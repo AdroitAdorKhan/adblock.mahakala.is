@@ -1842,9 +1842,7 @@
             "367032-deu-storno-angabe-benutzer.sicherheitshilfe-schutz.ml",
             "367336-deutschland-nutzung-sicher-konto_identity.sicherheitshilfe-hilfeservice.ga",
             "367993--verbraucher-sicherheit-benutzer.sicherheitshilfe-hilfeservice.ml",
-            "368493-deu-storno-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.cf"
-        ],
-        "to_test": [
+            "368493-deu-storno-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.cf",
             "36dreams.org",
             "36people.org",
             "37.adsonar.com",
@@ -1877,6 +1875,7 @@
             "39as6y7ikptfnmte.com",
             "39icmp.gs",
             "39k16n1.com",
+            "39o9mcr2.party",
             "39p44.info",
             "3ad.doubleclick.net",
             "3antivirus2008.com",
@@ -2027,7 +2026,6 @@
             "404mispage.com",
             "404sorry.com",
             "406761-deu-verbraucher-angabe-account.hilfeservice-sicherheitshilfe.ga",
-            "4074c4aeda7021213cf61ec23013085e.pw",
             "407851--nutzung-angabe-nachweis.schutz-sicherheitshilfe.cf",
             "409125-de-gast-angabe-benutzer.schutz-sicherheitsabfrage.cf",
             "409253--nutzung-kenntnis-konto_identity.hilfeservice-sicherheitshilfe.ml",
@@ -2054,7 +2052,9 @@
             "427731--gast-sicher-validierung.vorkehrung-sicherheitsabwehr.cf",
             "429995--nutzung-sicherheit-benutzer.sicherheitshilfe-hilfeservice.ga",
             "42ld1.com",
-            "431810-germany-storno-sicher-konto_identity.vorkehrung-sicherheitsabwehr.cf",
+            "431810-germany-storno-sicher-konto_identity.vorkehrung-sicherheitsabwehr.cf"
+        ],
+        "to_test": [
             "432afterfg.cn",
             "436-xxx-video.info",
             "437391--prob-sicher-konto_identity.sicherheitshilfe-hilfeservice.gq",
