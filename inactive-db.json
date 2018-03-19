@@ -873,9 +873,7 @@
             "101imagedatabase.com",
             "101jokes.dk",
             "101talleres.com",
-            "101view.net"
-        ],
-        "to_test": [
+            "101view.net",
             "101wnetrz.waw.pl",
             "1024321c.com",
             "104248-deutschland-gast-kenntnis-benutzer.sicherheitsabwehr-sicher.ga",
@@ -1077,7 +1075,9 @@
             "181884008000.com",
             "182643--verbraucher-sicher-nachweis.hilfeservice-sicherheitshilfe.gq",
             "1830bowyerclarkhouse.com",
-            "183809-de-gast-mitteilung-benutzer.sicherheitshilfe-hilfeservice.ga",
+            "183809-de-gast-mitteilung-benutzer.sicherheitshilfe-hilfeservice.ga"
+        ],
+        "to_test": [
             "1839.ic-live.com",
             "1844112.cn",
             "185566-de-gast-mitteilung-nachweis.hilfeservice-sicherheitshilfe.tk",
