@@ -1620,9 +1620,7 @@
             "2bumsabroad.com",
             "2c3p12.nsa.northpeninsulaopenspacetrust.com",
             "2c3rnzqw1rd96cpx.com",
-            "2checkqayqal.com"
-        ],
-        "to_test": [
+            "2checkqayqal.com",
             "2cow.info",
             "2cpaxce.com",
             "2d1f548fg7f.com",
@@ -1764,7 +1762,6 @@
             "330648-de-nutzung-angabe-benutzer.sicherheitshilfe-hilfeservice.tk",
             "332222-deu-verbraucher-angabe-benutzer.sicherheitsabwehr-sicher.cf",
             "332818-de-prob-sicherheit-validierung.sicherheitshilfe-schutz.ml",
-            "332gm.com",
             "3332210.net",
             "333bloet.com",
             "333crty8.com",
@@ -1845,7 +1842,9 @@
             "367032-deu-storno-angabe-benutzer.sicherheitshilfe-schutz.ml",
             "367336-deutschland-nutzung-sicher-konto_identity.sicherheitshilfe-hilfeservice.ga",
             "367993--verbraucher-sicherheit-benutzer.sicherheitshilfe-hilfeservice.ml",
-            "368493-deu-storno-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.cf",
+            "368493-deu-storno-mitteilung-nachweis.sicherheitssystem-sicherheitshilfe.cf"
+        ],
+        "to_test": [
             "36dreams.org",
             "36people.org",
             "37.adsonar.com",
