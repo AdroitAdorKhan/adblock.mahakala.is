@@ -6748,9 +6748,7 @@
             "adserver.nicestream.com",
             "adserver.nzoom.com",
             "adserver.onetaste-media.de",
-            "adserver.pc-cooling.de"
-        ],
-        "to_test": [
+            "adserver.pc-cooling.de",
             "adserver.phillyburbs.com",
             "adserver.plhb.com",
             "adserver.pollstar.com",
@@ -6907,7 +6905,9 @@
             "adtech.panthercustomer.com",
             "adtech.sabitreklam.com",
             "adtegrity.spinbox.org",
-            "adtology3.com",
+            "adtology3.com"
+        ],
+        "to_test": [
             "adtrack.ministerial5.com",
             "adtracker.meinungsstudie.de",
             "adtracking.net-on.net",
