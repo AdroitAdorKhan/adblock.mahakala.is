@@ -9960,9 +9960,7 @@
             "apartments-baden-baden.de",
             "apassmanager.com",
             "apatme.com",
-            "apdate-active-account.com"
-        ],
-        "to_test": [
+            "apdate-active-account.com",
             "apdern.com",
             "apdert.com",
             "apeeunion1104.com",
@@ -10325,7 +10323,6 @@
             "api43.cc",
             "api68.co.uk",
             "apice-snn.com",
-            "apiconnect.co",
             "apicpreview.com",
             "apicturetool.com",
             "apid-1.com",
@@ -10342,7 +10339,9 @@
             "apjpfacebook.com",
             "apkandroidhack.com",
             "apkhackz.com",
-            "apkplaystore.in",
+            "apkplaystore.in"
+        ],
+        "to_test": [
             "aplamv.com",
             "aplauzi.com",
             "aple-apple.com",
