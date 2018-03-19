@@ -5680,9 +5680,7 @@
             "ads.adservhere.com",
             "ads.adshub.net",
             "ads.adsmobi.com",
-            "ads.adsoptimizer.net"
-        ],
-        "to_test": [
+            "ads.adsoptimizer.net",
             "ads.adsrig.com",
             "ads.adsrvr.org",
             "ads.adtekmedia.com",
@@ -5693,7 +5691,6 @@
             "ads.adwitserver.com",
             "ads.adx.nu",
             "ads.adxpose.mpire.akadns.net",
-            "ads.affbuzzads.com",
             "ads.ah-ha.com",
             "ads.ahvuw.com",
             "ads.aintitcool.com",
@@ -5702,6 +5699,7 @@
             "ads.ak.facebook.com",
             "ads.allaboutvision.com",
             "ads.alwayson-network.com",
+            "ads.amarillo.com",
             "ads.amazingmedia.com",
             "ads.americanidol.com",
             "ads.and6.ch",
@@ -5769,7 +5767,6 @@
             "ads.bullchat.eu",
             "ads.burstly.com",
             "ads.burstnet.com",
-            "ads.buscape.cl",
             "ads.buysellads.com",
             "ads.buzzcity.net",
             "ads.buzzfeed.com",
@@ -5818,7 +5815,6 @@
             "ads.comicskingdom.net",
             "ads.communityserver.org",
             "ads.console.net",
-            "ads.contentabc.net",
             "ads.contextclick.com",
             "ads.coopson.com",
             "ads.cos.com",
@@ -5858,7 +5854,9 @@
             "ads.discovery.com",
             "ads.doclix.com",
             "ads.docmorris.de",
-            "ads.doko.jp",
+            "ads.doko.jp"
+        ],
+        "to_test": [
             "ads.dontpanicmedia.com",
             "ads.dot1media.com",
             "ads.dotfront.com",
