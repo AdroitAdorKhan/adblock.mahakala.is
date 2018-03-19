@@ -4863,9 +4863,7 @@
             "ad.pandora.tv",
             "ad.parrot.mable-inc.com",
             "ad.pdassi.de",
-            "ad.philipstreehouse.info"
-        ],
-        "to_test": [
+            "ad.philipstreehouse.info",
             "ad.placeplay.com",
             "ad.playground.ru",
             "ad.playhaven.com",
@@ -4946,7 +4944,6 @@
             "ad.yashi.com",
             "ad.yieldads.com",
             "ad.yieldmanager.net",
-            "ad.yieldx.com",
             "ad.zaman.com",
             "ad.zaman.com.tr",
             "ad.zoglafi.info",
@@ -4975,7 +4972,9 @@
             "ad14.atlas.cz",
             "ad15.atlas.cz",
             "ad16.atlas.cz",
-            "ad17.atlas.cz",
+            "ad17.atlas.cz"
+        ],
+        "to_test": [
             "ad18.atlas.cz",
             "ad19.atlas.cz",
             "ad2.163.com",
