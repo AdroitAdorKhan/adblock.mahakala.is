@@ -5442,9 +5442,7 @@
             "admin.fingalcsrnetwork.ie",
             "admin.getmagno.com",
             "admin.iesnare.co.uk",
-            "admin.iesnare.com"
-        ],
-        "to_test": [
+            "admin.iesnare.com",
             "admin.inq.com",
             "admin.prettysecrets.com",
             "admin.redlionhouston.com",
@@ -5477,7 +5475,6 @@
             "admoens.biz",
             "admon1.count.brat-online.ro",
             "admost.nl",
-            "admp-tc.delfi.ee",
             "admp-tc.krak.dk",
             "admyxto.net",
             "adn.adagogo.com",
@@ -5539,6 +5536,7 @@
             "adnet.medialand.ru",
             "adnetinteractive.net",
             "adnetwork.net.vn",
+            "adnetworkperformance.compopcash.net",
             "adng.ascii24.com",
             "adnirvgo.qhigh.com",
             "adnserror.com",
@@ -5550,7 +5548,6 @@
             "adobeacrobatpack.com",
             "adobeacrobatreader-8.com",
             "adobeaflash.com",
-            "adobedownloadupdate.com",
             "adobee.secure.isibaleafrica.co.za",
             "adobefilesignin.pe.hu",
             "adobeflashupdate14.com",
@@ -5593,6 +5590,7 @@
             "adpopshow.net",
             "adpopups.net",
             "adpowqbvcfds677.info",
+            "adprojekt.pl",
             "adprotect.biz",
             "adprudence.rotator.hadj7.adjuggler.net",
             "adpush.dreamscape.com",
@@ -5682,7 +5680,9 @@
             "ads.adservhere.com",
             "ads.adshub.net",
             "ads.adsmobi.com",
-            "ads.adsoptimizer.net",
+            "ads.adsoptimizer.net"
+        ],
+        "to_test": [
             "ads.adsrig.com",
             "ads.adsrvr.org",
             "ads.adtekmedia.com",
