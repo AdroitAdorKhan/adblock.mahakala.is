@@ -9067,9 +9067,7 @@
             "analytics.artirix.com",
             "analytics.bloomberg.com",
             "analytics.closealert.com",
-            "analytics.colacoweb.net"
-        ],
-        "to_test": [
+            "analytics.colacoweb.net",
             "analytics.digitouch.it",
             "analytics.edgekey.net",
             "analytics.edgesuite.net",
@@ -9093,6 +9091,7 @@
             "analytics.services.distractify.com",
             "analytics.sonymusic.com",
             "analytics.tbm-ntwk.com",
+            "analytics.traidnt.net",
             "analytics.unister-gmbh.de",
             "analytics.urx.io",
             "analytics.whatculture.com",
@@ -9182,6 +9181,7 @@
             "androidsystemalert.info",
             "andromeda-av.com",
             "andru40.ru",
+            "andrwnolas.top",
             "andrzej-burdzy.pl",
             "andyfux.site",
             "andyserver.info",
@@ -9247,7 +9247,9 @@
             "angelina-and-friends.com",
             "angelina-jolie-doing-it.info",
             "angelina-jolie-eats-cum.info",
-            "angelina-jolie-showing-off-her-boobs.info",
+            "angelina-jolie-showing-off-her-boobs.info"
+        ],
+        "to_test": [
             "angelinacrow.net",
             "angelinacrow.org",
             "angelinajolie.1stok.com",
