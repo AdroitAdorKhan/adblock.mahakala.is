@@ -4524,9 +4524,7 @@
             "acontentview.com",
             "acorn-computers.biz",
             "acorng.com.au",
-            "acount-summary.net"
-        ],
-        "to_test": [
+            "acount-summary.net",
             "acount.renew-an-account-validation-verification.acadianafriends.com",
             "acountreview.info",
             "acounts-verification.com",
@@ -4722,7 +4720,9 @@
             "ad.airpush.com",
             "ad.ajanshaber.com",
             "ad.aliceadsl.fr",
-            "ad.allyes.cn",
+            "ad.allyes.cn"
+        ],
+        "to_test": [
             "ad.ameba.jp",
             "ad.anprom.com",
             "ad.appflood.com",
