@@ -5219,9 +5219,7 @@
             "adfeed.pagefair.net",
             "adfiles.pitchforkmedia.com",
             "adfirefox.cn",
-            "adflow.orbitcycle.com"
-        ],
-        "to_test": [
+            "adflow.orbitcycle.com",
             "adforce.ads.imgis.com",
             "adforce.adtech.de",
             "adforce.imgis.com",
@@ -5410,6 +5408,7 @@
             "adm.72zx.com",
             "adm.shacknews.com",
             "admagnet1.com",
+            "adman.in.gr",
             "admanagement.tagblattmedien.ch",
             "admanager.kilio.com",
             "admanager1.collegepublisher.com",
@@ -5443,7 +5442,9 @@
             "admin.fingalcsrnetwork.ie",
             "admin.getmagno.com",
             "admin.iesnare.co.uk",
-            "admin.iesnare.com",
+            "admin.iesnare.com"
+        ],
+        "to_test": [
             "admin.inq.com",
             "admin.prettysecrets.com",
             "admin.redlionhouston.com",
