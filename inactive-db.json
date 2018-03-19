@@ -11932,9 +11932,7 @@
             "atlaspalmsprings.com",
             "atley.eu.pn",
             "atm-centralbank-ng.com",
-            "atm.youku.com"
-        ],
-        "to_test": [
+            "atm.youku.com",
             "atmape.ru",
             "atmidnitedee.us",
             "atmmakarewicz.pl",
@@ -12118,7 +12116,9 @@
             "auto.ricardo-auto.one",
             "auto.ricardo-ch.one",
             "auto.ricardo.ch-kaufen-899181100.laats-mijn-profiel.de",
-            "autoatmseguro.com",
+            "autoatmseguro.com"
+        ],
+        "to_test": [
             "autobuster.com.ar",
             "autocaes.com",
             "autocomms.co.za",
