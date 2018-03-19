@@ -5854,9 +5854,7 @@
             "ads.discovery.com",
             "ads.doclix.com",
             "ads.docmorris.de",
-            "ads.doko.jp"
-        ],
-        "to_test": [
+            "ads.doko.jp",
             "ads.dontpanicmedia.com",
             "ads.dot1media.com",
             "ads.dotfront.com",
@@ -6016,7 +6014,9 @@
             "ads.ivillage.com",
             "ads.iweb.cortica.com",
             "ads.jacksonville.com",
-            "ads.jeneauempire.com",
+            "ads.jeneauempire.com"
+        ],
+        "to_test": [
             "ads.jetphotos.net",
             "ads.jlisting.jp",
             "ads.joetec.net",
