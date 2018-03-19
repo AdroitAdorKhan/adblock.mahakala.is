@@ -7800,9 +7800,7 @@
             "airsalecapsules.com",
             "airsalemedicines.com",
             "airsalemeds.com",
-            "airsaletablet.com"
-        ],
-        "to_test": [
+            "airsaletablet.com",
             "airshoptablet.com",
             "airstest.gov.bm",
             "airstorecapsules.com",
@@ -7877,7 +7875,6 @@
             "akciyavkontakte.ru",
             "akcomercios.com",
             "akdenizozalit.com",
-            "akdenizyildizi.com.tr",
             "akdinchotel.com",
             "akearmory.com",
             "akeupmoreofthemone.com",
@@ -8030,6 +8027,7 @@
             "alcsid.com",
             "alcycleworld.info",
             "aldatagroup.info",
+            "aldeiadascompras.com.br",
             "aldenvids.com",
             "aldenzplace.com",
             "alderferandassociates.com",
@@ -8063,7 +8061,9 @@
             "alert-fdm.xyz",
             "alert-fjg.xyz",
             "alert-help.net",
-            "alert-hgd.xyz",
+            "alert-hgd.xyz"
+        ],
+        "to_test": [
             "alert-jdh.xyz",
             "alert-login-gmail.com",
             "alert-mess-p-no3421.com",
