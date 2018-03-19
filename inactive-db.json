@@ -7329,9 +7329,7 @@
             "afeunkiontungenrandesinkin.com",
             "afexcreditbank.890m.com",
             "aff.buonisconto.it",
-            "aff.foxtab.com"
-        ],
-        "to_test": [
+            "aff.foxtab.com",
             "aff.lottobooker.com",
             "aff.svjump.com",
             "aff.tamvakti.com",
@@ -7368,7 +7366,6 @@
             "affiliates.picaboocorp.com",
             "affiliates.swappernet.com",
             "affiliates.turbo-surfer.com",
-            "affiliates.umaxsearch.com",
             "affiliatesys.interwetten.it",
             "affiliati.cellulare.net",
             "affiliation.comweb.fr",
@@ -7465,6 +7462,7 @@
             "agechief.com",
             "ageclaim.com",
             "agedesseigneurs.com",
+            "agedmodels.com",
             "ageexact.com",
             "agek.kr",
             "agemcamp.sp.gov.br",
@@ -7494,7 +7492,9 @@
             "aggmen.com",
             "aggrito2.ch",
             "aggrito2.li",
-            "aggroupmentflsemget.forskolinsupremeplus.com",
+            "aggroupmentflsemget.forskolinsupremeplus.com"
+        ],
+        "to_test": [
             "agiaet.com",
             "agifirm.com",
             "agil-littoral.org",
