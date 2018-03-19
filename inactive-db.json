@@ -7115,9 +7115,7 @@
             "adveraction.pl",
             "adverdaemon.com",
             "adverdomain.com",
-            "adverlounge.com"
-        ],
-        "to_test": [
+            "adverlounge.com",
             "advert-department-pages-info.twomini.com",
             "advert.api.no",
             "advert.gameranger.com",
@@ -7331,7 +7329,9 @@
             "afeunkiontungenrandesinkin.com",
             "afexcreditbank.890m.com",
             "aff.buonisconto.it",
-            "aff.foxtab.com",
+            "aff.foxtab.com"
+        ],
+        "to_test": [
             "aff.lottobooker.com",
             "aff.svjump.com",
             "aff.tamvakti.com",
