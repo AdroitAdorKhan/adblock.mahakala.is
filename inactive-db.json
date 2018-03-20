@@ -23263,9 +23263,7 @@
             "dailyxratedimages.com",
             "dailyxxxmovs.info",
             "daima.yiyuanyigou8.com",
-            "dainpot.com"
-        ],
-        "to_test": [
+            "dainpot.com",
             "daisydaisy.me.uk",
             "daizheha.com",
             "daj.ne.jp",
@@ -23385,7 +23383,6 @@
             "darkbasementindustries.com",
             "darkblade.ath.cx",
             "darkdomen.com",
-            "darkeningsun.org",
             "darkeragaming.co.uk",
             "darkermindz.com",
             "darkforever.info",
@@ -23459,7 +23456,9 @@
             "data.adiquity.com",
             "data.admarvel.com",
             "data.admob.com",
-            "data.admoda.com",
+            "data.admoda.com"
+        ],
+        "to_test": [
             "data.adsmobi.com",
             "data.adwhirl.com",
             "data.applifier.com",
