@@ -817,9 +817,7 @@
             "emergsign.agrimlltd.com",
             "emestec.net",
             "emilioedwards.cl",
-            "emilkchocolate.info"
-        ],
-        "to_test": [
+            "emilkchocolate.info",
             "emilythumbs.com",
             "eminemticket.freespaces.com",
             "eminfoway.com",
@@ -878,12 +876,10 @@
             "en.dd.blueline.be",
             "en.finofynobad.com",
             "en.freshboiyoung.com",
-            "en.hd8888.com",
             "en.likefever.org",
             "en.ludanto.org",
             "en.marketgid.com",
             "en.spankbang.com",
-            "en.ultrex.ru",
             "enablequecentral.info",
             "enablequeonline.info",
             "enagrody.com",
@@ -1006,6 +1002,7 @@
             "enkishon.org",
             "enkisoy.net",
             "enlargeyourpockets.com",
+            "enlgine-freemobile-service.info",
             "enligne.authentifications.e-carste.com",
             "enmiendaerrores.com",
             "enn.advertserve.com",
@@ -1019,7 +1016,9 @@
             "enorthmenmedssite.com",
             "enorthsaletablet.com",
             "enorthtexas.com",
-            "enorthtradecapsulesguide.com",
+            "enorthtradecapsulesguide.com"
+        ],
+        "to_test": [
             "enorthtradepharm.com",
             "enorthtrustedpharm.com",
             "enoughking.com",
