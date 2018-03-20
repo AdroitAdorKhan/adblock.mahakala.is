@@ -23037,9 +23037,7 @@
             "d.serve-sys.com",
             "d.sspcash.adxcore.com",
             "d.taomato.com",
-            "d.unanimis.co.uk"
-        ],
-        "to_test": [
+            "d.unanimis.co.uk",
             "d.ustream.tv",
             "d.wiyun.com",
             "d.xaoyo.com",
@@ -23265,7 +23263,9 @@
             "dailyxratedimages.com",
             "dailyxxxmovs.info",
             "daima.yiyuanyigou8.com",
-            "dainpot.com",
+            "dainpot.com"
+        ],
+        "to_test": [
             "daisydaisy.me.uk",
             "daizheha.com",
             "daj.ne.jp",
