@@ -23456,9 +23456,7 @@
             "data.adiquity.com",
             "data.admarvel.com",
             "data.admob.com",
-            "data.admoda.com"
-        ],
-        "to_test": [
+            "data.admoda.com",
             "data.adsmobi.com",
             "data.adwhirl.com",
             "data.applifier.com",
@@ -23523,6 +23521,7 @@
             "datacollector.coin.scribol.com",
             "datae.5gbfree.com",
             "datajto.com",
+            "datajunction.org",
             "datalogin-member.info",
             "dataplusmore.info",
             "datasecurity-de.gq",
@@ -23673,7 +23672,9 @@
             "dazzlephotomemoir.com.ng",
             "db1.site-stats.net",
             "db23.co.uk",
-            "db35.co.uk",
+            "db35.co.uk"
+        ],
+        "to_test": [
             "db63.co.uk",
             "db8mh.info",
             "dbaguide.com.au",
