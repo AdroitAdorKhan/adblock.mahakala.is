@@ -18912,9 +18912,7 @@
             "chase-verify.notmadebymanon.com",
             "chase.activityconfirmation.barrandeguy.com.ar",
             "chase.activityconfirmations.barrandeguy.com.ar",
-            "chase.chase.com.smp1jepon.sch.id"
-        ],
-        "to_test": [
+            "chase.chase.com.smp1jepon.sch.id",
             "chase.com-verify-your-account-inforrmation.schodrive.info",
             "chase.com.cy.cgi-bin.webscr.cmd.login-submit.hhsimonis.com",
             "chase.com.ec.p-stella.com",
@@ -18925,7 +18923,6 @@
             "chase.com.us.talkshatel.ir",
             "chase.com.us.x.access.oacnt.com",
             "chase.com.wrmi.l-as.co.jp",
-            "chase.mavelfund.com",
             "chase.newraysbeauty.com",
             "chase.online.update.boatseverywhere.com",
             "chase.security.login.nunnarealty.com",
@@ -18935,6 +18932,7 @@
             "chase64.myjino.ru",
             "chaseallaccountsupdate.com",
             "chasebank.kuanyeh.com",
+            "chasebankaccountlogin-loginaccess-control.gajamitengineering.com",
             "chasebankus.com",
             "chasebankusa.paradisepaymentgold.com",
             "chasecards.info",
@@ -19234,7 +19232,9 @@
             "chemistrycphotomeet.3eeweb.com",
             "chemistswinksmeet.twomini.com",
             "chendrichomechoodllwoodindust.pe.hu",
-            "chenmo.hrb600.com",
+            "chenmo.hrb600.com"
+        ],
+        "to_test": [
             "chepsdestyle-imdeloge.com",
             "cheremosh.chv.ukrpack.net",
             "cheriezplace.com",
