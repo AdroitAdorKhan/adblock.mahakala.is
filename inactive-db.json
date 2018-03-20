@@ -101,9 +101,7 @@
             "eby8837.com",
             "eby8837.net",
             "ebycom.pochta.ru",
-            "ebyfyge.net"
-        ],
-        "to_test": [
+            "ebyfyge.net",
             "ec-paypol.uk",
             "ec.bancapichincha-com.ga",
             "ec1.bancapichincha-com.gq",
@@ -115,7 +113,6 @@
             "ecard-pickup.com",
             "ecard-pickup.net",
             "ecard-pickup.org",
-            "ecardbar.com",
             "ecb.onejumpwebinc.netdna-cdn.com",
             "ecbuyplaza.com",
             "ecccc3.com",
@@ -236,7 +233,6 @@
             "edcapoltu.com",
             "edcm1ebill.caroeirn.com",
             "eddamedia.linkpulse.com",
-            "edegrees.net",
             "edei8nu.top",
             "edeliverycapsules.com",
             "edeliverytablet.net",
@@ -277,6 +273,7 @@
             "edmontondrugs.com",
             "ednihon.com",
             "edo-popken.com",
+            "edocsecure.us",
             "edoladowanie.com.pl",
             "edonaldduck.info",
             "edonaldtrump.info",
@@ -319,7 +316,9 @@
             "edv5ebf.com",
             "edvard12.flywheelsites.com",
             "edw.insideline.com",
-            "edwards-enterprises.com",
+            "edwards-enterprises.com"
+        ],
+        "to_test": [
             "edwinkonijn.com.au",
             "eeaftp.com",
             "eeaoaa.com",
