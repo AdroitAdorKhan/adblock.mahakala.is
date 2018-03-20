@@ -16269,9 +16269,7 @@
             "btctradex.biz",
             "btcworld365.com",
             "btcxreward.com",
-            "btes.kz"
-        ],
-        "to_test": [
+            "btes.kz",
             "btfile.mycosmetiks.fr",
             "btfw1.com",
             "btgrab.com",
@@ -16285,7 +16283,6 @@
             "bts0wn3d.info",
             "bts48.info",
             "bts5.ru",
-            "btsd.co.nz",
             "btstfirstcredit.com",
             "btthost.com",
             "btyonro.com",
@@ -16460,7 +16457,9 @@
             "businesingwealth.com",
             "business-gap.net",
             "business-rewardpath.com",
-            "business-verify.com",
+            "business-verify.com"
+        ],
+        "to_test": [
             "business2quick.info",
             "business32.xyz",
             "businessaires.com",
