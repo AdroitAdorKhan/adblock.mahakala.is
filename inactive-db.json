@@ -13158,10 +13158,9 @@
             "banners.pcsecurityshield.com",
             "banners.phoneaccess.com",
             "banners.prazerlesbico.com",
-            "banners.primaryclick.com"
-        ],
-        "to_test": [
+            "banners.primaryclick.com",
             "banners.romania-insider.com",
+            "banners.rspworldwide.com",
             "banners.sotransexuais.com",
             "banners.spiceworks.com",
             "banners.swingers-match.com",
@@ -13187,6 +13186,7 @@
             "banwitheritage.us",
             "banwithheritage.com",
             "bao247.top",
+            "baodsajky.top",
             "baolinyouxipingtai.com",
             "baoshlda.com",
             "bapoyxaqpx.net",
@@ -13345,7 +13345,9 @@
             "batashopsa.fr",
             "batata2015.com",
             "batch.iovation.com",
-            "batcho9.com",
+            "batcho9.com"
+        ],
+        "to_test": [
             "bathfare.com",
             "bathtubb.in.net",
             "batikdiajengsolo.co.id",
