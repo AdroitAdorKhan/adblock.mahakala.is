@@ -495,9 +495,7 @@
             "ehg-gatehoussmedia.hitbox.com",
             "ehg-newarkinone.hitbox.com.hitbox.com",
             "ehg-newsinternational.hitbox.com",
-            "ehg-oreilley.hitbox.com"
-        ],
-        "to_test": [
+            "ehg-oreilley.hitbox.com",
             "ehg-presentigsolutions.hitbox.com",
             "ehg-sportsline.hitbox.com",
             "ehg-warner-brothers.hitbox.com",
@@ -589,7 +587,6 @@
             "ekpate.com",
             "ekrito.info",
             "ekrot.net",
-            "ekrzesla.com.pl",
             "eksentertainment.com",
             "ekta-project.com",
             "el-cash.org",
@@ -644,7 +641,9 @@
             "elegantangelppv.com",
             "elegantbabyct.com",
             "eleganza.ae",
-            "eleganza.pk",
+            "eleganza.pk"
+        ],
+        "to_test": [
             "elemaby.com",
             "element.sapb1addons.in",
             "elementalfile.com",
