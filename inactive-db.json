@@ -15285,9 +15285,7 @@
             "blog.satyamgroupofcompanies.com",
             "blog.sexy-ranch.org",
             "blog.svetlanaohramenko.com",
-            "blog.teatroacorte.it"
-        ],
-        "to_test": [
+            "blog.teatroacorte.it",
             "blog.trianglewebhosting.com",
             "blog.usafibremarin.ml",
             "blogads.ebanner.nl",
@@ -15325,6 +15323,7 @@
             "bloqueodecuentas-pp.com",
             "blossomclub.info",
             "blossomonline.info",
+            "blotevrouw.nl",
             "blots.org",
             "blowfish.hitbox.com",
             "blowingkisses.net",
@@ -15492,7 +15491,9 @@
             "boabfa.com",
             "boahellozzz.com",
             "boakrungsrionline.com",
-            "board-books.com",
+            "board-books.com"
+        ],
+        "to_test": [
             "boardbox.ru",
             "boardgameman.com",
             "boardofsearching.com",
