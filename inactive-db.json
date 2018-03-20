@@ -19915,9 +19915,7 @@
             "clickonseek.com",
             "clickrp.ziyu.net",
             "clicks.about.nl",
-            "clicks.emarketmakers.com"
-        ],
-        "to_test": [
+            "clicks.emarketmakers.com",
             "clicks.m4n.nl",
             "clicks.pureleads.com",
             "clicks.searchconscious.com",
@@ -19941,7 +19939,6 @@
             "clickstrip.6wav.es",
             "clicksuite.net",
             "clicktale.pantherssl.com",
-            "clicktalecdn.sslcs.cdngc.net",
             "clicktheguide.info",
             "clickthrough.wegcash.com",
             "clickthrunet.net",
@@ -20036,6 +20033,7 @@
             "clk.bcmtrk.com",
             "clk.cloudyisland.com",
             "clk.kaztorka.org",
+            "clk.konflab.com",
             "clk.mongxw.com",
             "clk.sjopt.com",
             "clk.umelly.com",
@@ -20091,7 +20089,9 @@
             "cloud.tickmein.com",
             "cloud02.conquistasc.com",
             "cloud954.org",
-            "cloudhour.net",
+            "cloudhour.net"
+        ],
+        "to_test": [
             "cloudserver090070.home.net.pl",
             "cloudsites.com.br",
             "cloudtunesconnect.com",
