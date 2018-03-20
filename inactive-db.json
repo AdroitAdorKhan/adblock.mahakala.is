@@ -316,9 +316,7 @@
             "edv5ebf.com",
             "edvard12.flywheelsites.com",
             "edw.insideline.com",
-            "edwards-enterprises.com"
-        ],
-        "to_test": [
+            "edwards-enterprises.com",
             "edwinkonijn.com.au",
             "eeaftp.com",
             "eeaoaa.com",
@@ -472,8 +470,8 @@
             "egyffr.info",
             "egymoxrsoo.com",
             "EGYpolice.com",
-            "egypolice.net",
             "EGYpolice.net",
+            "egypolice.net",
             "egyptgoogle.myjino.ru",
             "egyptianwar.net",
             "egyptmet.com",
@@ -497,7 +495,9 @@
             "ehg-gatehoussmedia.hitbox.com",
             "ehg-newarkinone.hitbox.com.hitbox.com",
             "ehg-newsinternational.hitbox.com",
-            "ehg-oreilley.hitbox.com",
+            "ehg-oreilley.hitbox.com"
+        ],
+        "to_test": [
             "ehg-presentigsolutions.hitbox.com",
             "ehg-sportsline.hitbox.com",
             "ehg-warner-brothers.hitbox.com",
