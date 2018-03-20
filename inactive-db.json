@@ -23673,9 +23673,7 @@
             "db1.site-stats.net",
             "db23.co.uk",
             "db35.co.uk",
-            "db63.co.uk"
-        ],
-        "to_test": [
+            "db63.co.uk",
             "db8mh.info",
             "dbaguide.com.au",
             "dban4-549565586.eu-west-1.elb.amazonaws.com",
@@ -23793,12 +23791,10 @@
             "ddlproject.info",
             "ddlreg.com",
             "ddos.ayddos.com",
-            "ddos130.6655.la",
             "ddoservice.com",
             "ddosmanager.org",
             "ddrgaming.com",
             "ddsoldes.fr",
-            "ddsqkuwwv.top",
             "ddtankhack.net",
             "ddtfff.ru",
             "ddts0bzupd01y.cloudfront.net",
@@ -23822,7 +23818,6 @@
             "de.marketgid.com",
             "de.ssl-paypalservice.com",
             "de.static.planet49.com",
-            "de.wildjack.co.uk",
             "de082ak.com",
             "de1.pl",
             "de1et.info",
@@ -23919,7 +23914,9 @@
             "deck1.info",
             "decodeglobal.net",
             "decon.ufpe.br",
-            "decorandgiftshopping.com",
+            "decorandgiftshopping.com"
+        ],
+        "to_test": [
             "decorativetowelsonline.com",
             "decorator.crabgrab.cl",
             "decoshades.com.au",
