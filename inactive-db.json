@@ -21396,9 +21396,7 @@
             "confirm.jamescsi.com",
             "confirm.mydyn.net",
             "confirm.su",
-            "confirm.yourinformation.us"
-        ],
-        "to_test": [
+            "confirm.yourinformation.us",
             "confirmapple.com",
             "confirmation-4s8e1x4des55e7s46.868-710-d4dx44sdd-s1.tsipiras.gr",
             "confirmation-account-userpaypal.ga",
@@ -21518,6 +21516,7 @@
             "consumer-credits.com",
             "consumer-org.com",
             "consumercares.net",
+            "consumerfinancialbureau.gov",
             "consumerhorizon.com",
             "consumerincentivenetwork.com",
             "consumerresearchbureau.net",
@@ -21565,7 +21564,6 @@
             "content.ad-flow.com",
             "content.axill.com",
             "content.dl-rms.com",
-            "content.liveuniverse.com",
             "content.medialand.ru",
             "content.promoisland.net",
             "content.pulse360.com",
@@ -21675,7 +21673,9 @@
             "coolbreezegardens.co.ke",
             "coolcatdocsite.sg",
             "cooldressup.com",
-            "cooleefbaldw.uk.to",
+            "cooleefbaldw.uk.to"
+        ],
+        "to_test": [
             "coolfamerl.top",
             "coolgalway.info",
             "coolgames.gr",
