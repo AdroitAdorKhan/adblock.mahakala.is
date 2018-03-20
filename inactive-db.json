@@ -24679,9 +24679,7 @@
             "didlegacy.com",
             "didresponsibility.com",
             "didrex.1.p2l.info",
-            "didsharp.com"
-        ],
-        "to_test": [
+            "didsharp.com",
             "diecastmotors.com",
             "diecutgroup.info",
             "diecutonline.info",
@@ -24826,6 +24824,7 @@
             "diplomadoidiomas.com",
             "diplomytut.com",
             "diplomytut.net",
+            "dipp.lt",
             "dipplieffects.com",
             "diprosol.net",
             "dipstoresec.com",
@@ -24910,7 +24909,9 @@
             "dis.ny.us.criteo.com",
             "disa.generalsfloppscouts.net",
             "disa.lengthwellform.net",
-            "disa5t.biz",
+            "disa5t.biz"
+        ],
+        "to_test": [
             "disc0unt.us",
             "disc101-prod.do.dsp.mp.microsoft.com",
             "disc201-prod.do.dsp.mp.microsoft.com",
