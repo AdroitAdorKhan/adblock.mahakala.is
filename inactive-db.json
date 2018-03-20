@@ -25132,9 +25132,7 @@
             "dl.bzgthg.com",
             "dl.futureus.com",
             "dl.goreald.net",
-            "dl.microsword.net"
-        ],
-        "to_test": [
+            "dl.microsword.net",
             "dl.ourinfoonlinestack.com",
             "dl.webprodcdn.com",
             "dl.yizhan123.com",
@@ -25332,6 +25330,7 @@
             "dlupload.com",
             "dlv.ad-serving.co",
             "dlyasvobornyx.biz",
+            "dm.huochepiao.com",
             "dm43rr95vvmjq9.nationet.com.hk",
             "dm77.xftnam.com",
             "dm8ojo46iwxm2.cloudfront.net",
@@ -25353,7 +25352,9 @@
             "dmwt9.onlinephonenewtips.xyz",
             "dmzjs.net",
             "dmzreg.com",
-            "dn.binsetup.com",
+            "dn.binsetup.com"
+        ],
+        "to_test": [
             "dna1.mookie1.com",
             "dna3.mookie1.com",
             "dnaofsuccess.net",
