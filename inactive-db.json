@@ -24385,9 +24385,7 @@
             "dev103.hitbox.com",
             "devanirferreira.com.br",
             "devansforkeepsakes.com",
-            "devart.adbureau.net"
-        ],
-        "to_test": [
+            "devart.adbureau.net",
             "devboa.website",
             "devc.uk",
             "devedent.com",
@@ -24487,7 +24485,6 @@
             "deviantflash.com",
             "device-found-apple.com",
             "device-shell-breach-alert.us",
-            "device.zhiliaoapp.com",
             "device2508742-c1c91054.wd2go.com",
             "devicefield.com",
             "devicetrans.info",
@@ -24660,6 +24657,7 @@
             "dice-profit.top",
             "dicecount.info",
             "dicerreq.com",
+            "dichvutangsub.com",
             "dicint1.com.es",
             "dicint2.com.es",
             "dicint3.com.es",
@@ -24681,7 +24679,9 @@
             "didlegacy.com",
             "didresponsibility.com",
             "didrex.1.p2l.info",
-            "didsharp.com",
+            "didsharp.com"
+        ],
+        "to_test": [
             "diecastmotors.com",
             "diecutgroup.info",
             "diecutonline.info",
