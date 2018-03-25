@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock.mahakala.is/domains.list": {
-        "1521897136": [
+        "1521984230": [
             ".doubleclick.net",
             "0-act.channel.facebook.com",
             "0000mps.webpreview.dsl.net",
@@ -689,7 +689,6 @@
             "085.craigslist.org-zxc.xyz",
             "08570857.lionfree.net",
             "086orfqz.info",
-            ".doubleclick.com",
             "08nigbmwk43i01y6.com",
             "08shoea.com",
             "08shoec.com",
@@ -812,13 +811,7 @@
             "1-look.org",
             "1-radar-laser-jammers-detectors.com",
             "1-securebanking.com",
-            "1.adbrite.com",
-            "1.che-ka.com",
-            "1.forgetstore.com",
-            "1.hot-dances.com",
-            "1.httpads.com",
-            "1.login.security.appleid.icloud.com-valid-informations.md58djdbx7ejd7djdd6d.lumtech.gr",
-            "1.panduoduo.net"
+            "1.adbrite.com"
         ],
         "to_test": [
             "eubble.com",
@@ -86350,7 +86343,14 @@
             "eu-vipcasino.net",
             "eu.xtms.net",
             "eu1.recompenses.win",
-            "1.win7china.com"
+            "1.win7china.com",
+            "1.che-ka.com",
+            "1.forgetstore.com",
+            "1.hot-dances.com",
+            "1.httpads.com",
+            "1.login.security.appleid.icloud.com-valid-informations.md58djdbx7ejd7djdd6d.lumtech.gr",
+            "1.panduoduo.net",
+            ".doubleclick.com"
         ]
     }
 }
