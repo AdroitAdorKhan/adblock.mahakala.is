@@ -807,7 +807,8 @@
             "1-act.channel.facebook.com",
             "1-best-buy-electronics.com",
             "1-britney-spears-nude.com",
-            "1-g.ro"
+            "1-g.ro",
+            ".doubleclick.com"
         ],
         "to_test": [
             "eubble.com",
@@ -86349,8 +86350,7 @@
             "1.httpads.com",
             "1.login.security.appleid.icloud.com-valid-informations.md58djdbx7ejd7djdd6d.lumtech.gr",
             "1.panduoduo.net",
-            "1.win7china.com",
-            ".doubleclick.com"
+            "1.win7china.com"
         ]
     }
 }
