@@ -14064,9 +14064,7 @@
             "may.tomsturf.org",
             "mayansale.com",
             "mayaronline.info",
-            "mayatek.info"
-        ],
-        "to_test": [
+            "mayatek.info",
             "maybe.netbuyerguide.com",
             "maybeyes.biz",
             "maydaynet2008.co.uk",
@@ -14337,7 +14335,9 @@
             "media.opencandy.com",
             "media.pileoffiles.com",
             "media.placeplay.com",
-            "media.playhaven.com",
+            "media.playhaven.com"
+        ],
+        "to_test": [
             "media.privatporevo.com",
             "media.rapid-pass.net",
             "media.revmob.com",
