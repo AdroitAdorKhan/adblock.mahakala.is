@@ -12791,9 +12791,7 @@
             "m-vk.serulom.tk",
             "m-yrezabal.biz",
             "m.adbridge.de",
-            "m.advc.us"
-        ],
-        "to_test": [
+            "m.advc.us",
             "m.camera360.cn",
             "m.camera360.com",
             "m.carinf0.com",
@@ -12820,11 +12818,14 @@
             "m.facebook.com.kablsazan.com",
             "m.facebook.com.solutions-hub.com",
             "m.fr.2mdn.net",
+            "m.loldlxmy.com",
             "m.mimzw.com",
             "m.see3k.com",
             "m.serulom.tk",
+            "m.shanghetrade.com",
             "m.stabbingnews.info",
             "m.tamilmalls.com",
+            "m.trk44.mobi",
             "m.uk.2mdn.net",
             "m.webtrends.com",
             "m0-s.san.ru",
@@ -13140,7 +13141,9 @@
             "machineend.com",
             "machinefifteen.net",
             "machinefurther.net",
-            "machinegas.com",
+            "machinegas.com"
+        ],
+        "to_test": [
             "machinejoin.com",
             "machineorder.com",
             "machinerealization.com",
