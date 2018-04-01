@@ -14700,9 +14700,7 @@
             "meincheck.de-informationallekunden.eu",
             "meine-deutschebank.net",
             "meinkonto-ebay.de-kundeninformationen2333233.ru",
-            "meinooriut3.info"
-        ],
-        "to_test": [
+            "meinooriut3.info",
             "meistertubacinternational.com",
             "meitui155.com",
             "mejiacrececontigo.com",
@@ -14719,6 +14717,7 @@
             "melissaolsonmarketing.com",
             "melodytype.com",
             "melok-warez.info",
+            "melopnt.com",
             "melpomeranz.com",
             "melsanazaria.com",
             "melsbeads.com",
@@ -14951,7 +14950,9 @@
             "metrics.chmedia.com",
             "metrics.codahale.com",
             "metrics.dailymotion.com",
-            "metrics.fandome.com",
+            "metrics.fandome.com"
+        ],
+        "to_test": [
             "metrics.frontlineshop.com",
             "metrics.gamestop.com",
             "metrics.ksl.com",
