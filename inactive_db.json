@@ -14950,9 +14950,7 @@
             "metrics.chmedia.com",
             "metrics.codahale.com",
             "metrics.dailymotion.com",
-            "metrics.fandome.com"
-        ],
-        "to_test": [
+            "metrics.fandome.com",
             "metrics.frontlineshop.com",
             "metrics.gamestop.com",
             "metrics.ksl.com",
@@ -15223,7 +15221,9 @@
             "miew.info",
             "mifamiliastickers.com",
             "mig29here.com",
-            "migahr.com",
+            "migahr.com"
+        ],
+        "to_test": [
             "migentelocalokc.com",
             "mightbroughtwarheat.com",
             "mightfillit.cn",
