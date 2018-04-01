@@ -13370,9 +13370,7 @@
             "main.greengoaec.com",
             "main.inlandempirebellydancer.info",
             "main.pioneertanksupplies.com",
-            "main.quh.ir"
-        ],
-        "to_test": [
+            "main.quh.ir",
             "main.shamrathoshen.com",
             "main62.net",
             "mainadt.com",
@@ -13570,6 +13568,7 @@
             "manage.helps-services.net",
             "manage.jbcoperfectpoint.com",
             "manage.kukuzer.info",
+            "manage.riolabz.com",
             "manage001.adtech.de",
             "manage5.tv",
             "manageaccount-securitypaypalinformationdetail-paymentdispute.com",
@@ -13655,7 +13654,9 @@
             "mantcheap.com",
             "manthough.com",
             "mantisputters.com",
-            "manu.courtindental.com",
+            "manu.courtindental.com"
+        ],
+        "to_test": [
             "manuelfernandojr.com",
             "manukahealthnz.com",
             "manukazorada.biz",
