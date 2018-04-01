@@ -12542,9 +12542,7 @@
             "loydagent.biz",
             "loyvert.com",
             "loyweb.be",
-            "loz1ioja.info"
-        ],
-        "to_test": [
+            "loz1ioja.info",
             "lp.downloadquick.net",
             "lp.ilividnewtab.com",
             "lp.jeux-lk.com",
@@ -12793,7 +12791,9 @@
             "m-vk.serulom.tk",
             "m-yrezabal.biz",
             "m.adbridge.de",
-            "m.advc.us",
+            "m.advc.us"
+        ],
+        "to_test": [
             "m.camera360.cn",
             "m.camera360.com",
             "m.carinf0.com",
