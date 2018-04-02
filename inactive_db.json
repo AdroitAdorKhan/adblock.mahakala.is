@@ -16755,9 +16755,8 @@
             "mumbaiislandlionsclub.com",
             "mumbaikhoj.com",
             "mumblesandsqueaks.com",
-            "mumdownunder.com"
-        ],
-        "to_test": [
+            "mumdownunder.com",
+            "mumm.bubler.com",
             "mummels-internet-shop.de",
             "mummint.net",
             "mundiroms.org",
@@ -16890,7 +16889,6 @@
             "mx01.openinternetexchange.net",
             "mx01.webwise.com",
             "mx1.aufj.fr",
-            "mx2.dynu.net",
             "mx7.fasterdupdate.com",
             "mxapple-icloud.com",
             "mxmodd.mxmfb.com",
@@ -17013,7 +17011,9 @@
             "myavailcode.info",
             "myavailover.info",
             "myaviance.in",
-            "myb2d.biz",
+            "myb2d.biz"
+        ],
+        "to_test": [
             "mybdsmdot.com",
             "mybeasties.net",
             "mybestcam.info",
