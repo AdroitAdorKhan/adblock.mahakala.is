@@ -19173,9 +19173,7 @@
             "nonedomain.net",
             "nonehome.net",
             "nonemancipation.romaanairlines.com",
-            "nonexit.info"
-        ],
-        "to_test": [
+            "nonexit.info",
             "nonnested.karenmayne.co.uk",
             "nonnonv.com",
             "nonnopeppino.com",
@@ -19564,7 +19562,9 @@
             "nps-techno.com",
             "npwg2el.info",
             "nqm.blackcurranthumidifiers.site",
-            "nqtqrolapq.top",
+            "nqtqrolapq.top"
+        ],
+        "to_test": [
             "nrads.1host.co.il",
             "nranp.info",
             "nrbiusa.com",
