@@ -3831,9 +3831,7 @@
             "a1host.com.au",
             "a1s1a.net",
             "a2.364736.com",
-            "a2.mediagra.com"
-        ],
-        "to_test": [
+            "a2.mediagra.com",
             "a2.websponsors.com",
             "a2.yimg.com",
             "a2.yyfensi.com",
@@ -3902,6 +3900,8 @@
             "aa7192fc4ab48025.cdn.jiashule.com",
             "aaa.piccash.net",
             "aaa38852e886ac4af1a3cff9b47cab6272.com",
+            "aaa520.izlinix.com",
+            "aaaa.tly331.pw",
             "aaaaa.8jbt.com",
             "aaaaaa.icfoscolosoverato.it",
             "aaabestwatches.net",
@@ -4053,10 +4053,13 @@
             "abchost.us",
             "abcjeux.net",
             "abcles.com",
+            "abcn123kids.com",
             "abcnews.footprint.net",
             "abconstructions.us",
             "abcpharmx.org",
-            "abcsearch4u.com",
+            "abcsearch4u.com"
+        ],
+        "to_test": [
             "abdelach.com",
             "abdicate.fj.cn",
             "abdicate.jl.cn",
