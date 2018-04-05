@@ -3768,9 +3768,7 @@
             "a.dlqm.net",
             "a.dolphin-browser.jp",
             "a.forestern.info",
-            "a.gismeteo.ru"
-        ],
-        "to_test": [
+            "a.gismeteo.ru",
             "a.jango.com",
             "a.kandiaoyu.com",
             "a.karmatrail.club",
@@ -3833,7 +3831,9 @@
             "a1host.com.au",
             "a1s1a.net",
             "a2.364736.com",
-            "a2.mediagra.com",
+            "a2.mediagra.com"
+        ],
+        "to_test": [
             "a2.websponsors.com",
             "a2.yimg.com",
             "a2.yyfensi.com",
