@@ -5934,9 +5934,8 @@
             "ads.exhedra.com",
             "ads.expressindia.com",
             "ads.ezboard.com",
-            "ads.facebook.net"
-        ],
-        "to_test": [
+            "ads.facebook.net",
+            "ads.famegame.com",
             "ads.fark.com",
             "ads.fayettevillenc.com",
             "ads.filez.nl",
@@ -6110,7 +6109,9 @@
             "ads.mambocommunities.com",
             "ads.maotec-00.de",
             "ads.mapcity.com",
-            "ads.maratonporno.com",
+            "ads.maratonporno.com"
+        ],
+        "to_test": [
             "ads.masbuchin.com",
             "ads.matomymobile.com",
             "ads.mconetwork.com",
