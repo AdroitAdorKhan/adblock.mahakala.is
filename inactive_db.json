@@ -5046,9 +5046,7 @@
             "ad3.l3go.com",
             "ad3.lbn.ru",
             "ad3.liverail.com",
-            "ad3.nationalreview.com"
-        ],
-        "to_test": [
+            "ad3.nationalreview.com",
             "ad30.atlas.cz",
             "ad31.atlas.cz",
             "ad32.atlas.cz",
@@ -5087,7 +5085,6 @@
             "ad4mat.mx",
             "ad4mat.nl",
             "ad4mat.no",
-            "ad4mat.pl",
             "ad4mat.ro",
             "ad4mat.ru",
             "ad4mat.tr",
@@ -5149,7 +5146,9 @@
             "adclick.dig-online.de",
             "adclick.gamespy.com",
             "adclient.rottentomatoes.com",
-            "adcode.optimatic.com",
+            "adcode.optimatic.com"
+        ],
+        "to_test": [
             "adcodes.aim4media.com",
             "adcomatoz.com",
             "adcontent.videoegg.com",
