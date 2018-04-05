@@ -5776,9 +5776,7 @@
             "ads.battle.net",
             "ads.baventures.com",
             "ads.beeb.com",
-            "ads.beenetworks.net"
-        ],
-        "to_test": [
+            "ads.beenetworks.net",
             "ads.beta.itravel2000.com",
             "ads.beyond.com",
             "ads.bfast.com",
@@ -5813,6 +5811,7 @@
             "ads.calgarysun.com",
             "ads.callofdutyblackopsforum.net",
             "ads.camfuze.com",
+            "ads.cardea.se",
             "ads.cardplayer.com",
             "ads.carrieriq.com",
             "ads.cartoonnetwork.com",
@@ -5890,6 +5889,7 @@
             "ads.digitalacre.com",
             "ads.digitalealthcare.com",
             "ads.digitalhealthcare.com",
+            "ads.digitalpressconsortium.com",
             "ads.digitalwow.ro",
             "ads.directnetadvertising.net",
             "ads.discovery.com",
@@ -5934,7 +5934,9 @@
             "ads.exhedra.com",
             "ads.expressindia.com",
             "ads.ezboard.com",
-            "ads.facebook.net",
+            "ads.facebook.net"
+        ],
+        "to_test": [
             "ads.fark.com",
             "ads.fayettevillenc.com",
             "ads.filez.nl",
