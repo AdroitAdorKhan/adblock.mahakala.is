@@ -6266,9 +6266,7 @@
             "ads.psxextreme.com",
             "ads.publicast.be",
             "ads.puls24.mk",
-            "ads.pulse360.com"
-        ],
-        "to_test": [
+            "ads.pulse360.com",
             "ads.qadserve.com",
             "ads.qadservice.com",
             "ads.quicken.com",
@@ -6439,7 +6437,9 @@
             "ads.vreme.bg",
             "ads.vs.co",
             "ads.vs.com",
-            "ads.waframedia1.com",
+            "ads.waframedia1.com"
+        ],
+        "to_test": [
             "ads.wanadooregie.com",
             "ads.warcraftmovies.com",
             "ads.waterbondage.com",
