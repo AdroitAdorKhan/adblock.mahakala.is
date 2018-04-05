@@ -5146,9 +5146,7 @@
             "adclick.dig-online.de",
             "adclick.gamespy.com",
             "adclient.rottentomatoes.com",
-            "adcode.optimatic.com"
-        ],
-        "to_test": [
+            "adcode.optimatic.com",
             "adcodes.aim4media.com",
             "adcomatoz.com",
             "adcontent.videoegg.com",
@@ -5378,7 +5376,9 @@
             "adkmob.net",
             "adlacenow.info",
             "adland.medialand.ru",
-            "adlantic.nl",
+            "adlantic.nl"
+        ],
+        "to_test": [
             "adlerobservatory.com",
             "adlily.adperium.com",
             "adlimahsool.com",
