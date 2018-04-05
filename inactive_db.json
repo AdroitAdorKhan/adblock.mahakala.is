@@ -6109,9 +6109,7 @@
             "ads.mambocommunities.com",
             "ads.maotec-00.de",
             "ads.mapcity.com",
-            "ads.maratonporno.com"
-        ],
-        "to_test": [
+            "ads.maratonporno.com",
             "ads.masbuchin.com",
             "ads.matomymobile.com",
             "ads.mconetwork.com",
@@ -6156,7 +6154,6 @@
             "ads.mt.valueclick.net",
             "ads.mweb.co.th",
             "ads.mycity.com",
-            "ads.mydailyhoroscope.net",
             "ads.myhobbystore.co.uk",
             "ads.myjizztube.com",
             "ads.n-ws.org",
@@ -6269,7 +6266,9 @@
             "ads.psxextreme.com",
             "ads.publicast.be",
             "ads.puls24.mk",
-            "ads.pulse360.com",
+            "ads.pulse360.com"
+        ],
+        "to_test": [
             "ads.qadserve.com",
             "ads.qadservice.com",
             "ads.quicken.com",
