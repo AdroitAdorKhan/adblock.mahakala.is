@@ -7203,9 +7203,7 @@
             "advertising-investments.com",
             "advertising-odds.info",
             "advertising-power.info",
-            "advertising-security.info"
-        ],
-        "to_test": [
+            "advertising-security.info",
             "advertising.mortgagebankers.org",
             "advertising.ninemsn.com.au",
             "advertising.zenit.org",
@@ -7388,7 +7386,9 @@
             "aff.lottobooker.com",
             "aff.svjump.com",
             "aff.tamvakti.com",
-            "aff1.gittigidiyor.com",
+            "aff1.gittigidiyor.com"
+        ],
+        "to_test": [
             "aff4.gittigidiyor.com",
             "affichage.clicrevenus.com",
             "affil.mupromo.com",
