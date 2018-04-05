@@ -6437,9 +6437,7 @@
             "ads.vreme.bg",
             "ads.vs.co",
             "ads.vs.com",
-            "ads.waframedia1.com"
-        ],
-        "to_test": [
+            "ads.waframedia1.com",
             "ads.wanadooregie.com",
             "ads.warcraftmovies.com",
             "ads.waterbondage.com",
@@ -6523,6 +6521,7 @@
             "ads1.theglobeandmail.com",
             "ads1.ucomics.com",
             "ads1.udc.advance.net",
+            "ads1.updated.com",
             "ads1.vertamedia.com",
             "ads1.virtumundo.com",
             "ads1.zdnet.com",
@@ -6643,7 +6642,9 @@
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adsbanknepal.com",
-            "adsby.uzoogle.com",
+            "adsby.uzoogle.com"
+        ],
+        "to_test": [
             "adsclick.yx.js.cn",
             "adsearch.www1.biz",
             "adsentnetwork.com",
