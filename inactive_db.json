@@ -5567,9 +5567,7 @@
             "adnet.medialand.ru",
             "adnetinteractive.net",
             "adnetwork.net.vn",
-            "adnetworkperformance.compopcash.net"
-        ],
-        "to_test": [
+            "adnetworkperformance.compopcash.net",
             "adng.ascii24.com",
             "adnirvgo.qhigh.com",
             "adnserror.com",
@@ -5653,6 +5651,7 @@
             "adriennebarbeau.org",
             "adriennezplace.com",
             "adrunner.mycomputer.nl",
+            "ads-a-darwin.hulu.com",
             "ads-aa.wunderground.com",
             "ads-cool.pro",
             "ads-de.spray.net",
@@ -5702,7 +5701,6 @@
             "ads.adhostcenter.com",
             "ads.adhostingsolutions.com",
             "ads.adiquity.com",
-            "ads.adjet.de",
             "ads.adman.gr",
             "ads.admaximize.com",
             "ads.admixer.co.kr",
@@ -5778,7 +5776,9 @@
             "ads.battle.net",
             "ads.baventures.com",
             "ads.beeb.com",
-            "ads.beenetworks.net",
+            "ads.beenetworks.net"
+        ],
+        "to_test": [
             "ads.beta.itravel2000.com",
             "ads.beyond.com",
             "ads.bfast.com",
