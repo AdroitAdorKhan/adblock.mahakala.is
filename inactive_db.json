@@ -4576,9 +4576,7 @@
             "actinconline.info",
             "actinomorphous.excelwood.co.uk",
             "action.ientry.net",
-            "actionbellimeited.com"
-        ],
-        "to_test": [
+            "actionbellimeited.com",
             "actiongameshack.com",
             "actiongamesplace.com",
             "actiongamesteam.com",
@@ -4685,6 +4683,7 @@
             "acxscketn.com",
             "acyclovir.1.p2l.info",
             "ad-411.com",
+            "ad-blockeds.com",
             "ad-images.suntimes.com",
             "ad-incisive.grapeshot.co.uk",
             "ad-peta.makeit-online.de",
@@ -4787,7 +4786,9 @@
             "ad.dsnrmg.com",
             "ad.e-go.gr",
             "ad.e-sport.com",
-            "ad.e-viral.com",
+            "ad.e-viral.com"
+        ],
+        "to_test": [
             "ad.edision-nord.it",
             "ad.erektor.ru",
             "ad.ero.ru",
