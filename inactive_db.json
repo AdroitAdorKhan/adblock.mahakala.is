@@ -5376,9 +5376,7 @@
             "adkmob.net",
             "adlacenow.info",
             "adland.medialand.ru",
-            "adlantic.nl"
-        ],
-        "to_test": [
+            "adlantic.nl",
             "adlerobservatory.com",
             "adlily.adperium.com",
             "adlimahsool.com",
@@ -5569,7 +5567,9 @@
             "adnet.medialand.ru",
             "adnetinteractive.net",
             "adnetwork.net.vn",
-            "adnetworkperformance.compopcash.net",
+            "adnetworkperformance.compopcash.net"
+        ],
+        "to_test": [
             "adng.ascii24.com",
             "adnirvgo.qhigh.com",
             "adnserror.com",
