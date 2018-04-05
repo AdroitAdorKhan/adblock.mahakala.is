@@ -6642,9 +6642,7 @@
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adsbanknepal.com",
-            "adsby.uzoogle.com"
-        ],
-        "to_test": [
+            "adsby.uzoogle.com",
             "adsclick.yx.js.cn",
             "adsearch.www1.biz",
             "adsentnetwork.com",
@@ -6665,7 +6663,6 @@
             "adserv.qconline.com",
             "adserv.quality-channel.com",
             "adserv.quality-channel.de",
-            "adserv.roundrockmedia.com",
             "adserv.spiegel.de",
             "adserv.windowenhancer.com",
             "adserv.wiredmediainc.com",
@@ -6791,7 +6788,6 @@
             "adserver.monstersandcritics.com",
             "adserver.motonews.pl",
             "adserver.motorpresse.de",
-            "adserver.nav2.net",
             "adserver.netshelter.net",
             "adserver.newdigitalgroup.com",
             "adserver.newmassmedia.net",
@@ -6833,7 +6829,9 @@
             "adserver.trb.com",
             "adserver.tribuneinteractive.com",
             "adserver.tsgadv.com",
-            "adserver.tulsaworld.com",
+            "adserver.tulsaworld.com"
+        ],
+        "to_test": [
             "adserver.ugo.com",
             "adserver.ugo.nl",
             "adserver.ukplus.co.uk",
