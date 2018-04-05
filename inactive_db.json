@@ -6829,9 +6829,7 @@
             "adserver.trb.com",
             "adserver.tribuneinteractive.com",
             "adserver.tsgadv.com",
-            "adserver.tulsaworld.com"
-        ],
-        "to_test": [
+            "adserver.tulsaworld.com",
             "adserver.ugo.com",
             "adserver.ugo.nl",
             "adserver.ukplus.co.uk",
@@ -7022,7 +7020,9 @@
             "adult5search.info",
             "adult9films.cn",
             "adultactionvids.com",
-            "adultan.com",
+            "adultan.com"
+        ],
+        "to_test": [
             "adultcashtraffic.com",
             "adultcd.org",
             "adultchatgay.com",
