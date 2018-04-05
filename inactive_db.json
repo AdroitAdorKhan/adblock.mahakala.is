@@ -7020,9 +7020,7 @@
             "adult5search.info",
             "adult9films.cn",
             "adultactionvids.com",
-            "adultan.com"
-        ],
-        "to_test": [
+            "adultan.com",
             "adultcashtraffic.com",
             "adultcd.org",
             "adultchatgay.com",
@@ -7087,6 +7085,7 @@
             "adultrull5.net",
             "adultrull6.net",
             "adultseek.info",
+            "adultsex.dk",
             "adultsexcar.com",
             "adultsexdot.info",
             "adultsexpro.com",
@@ -7141,6 +7140,7 @@
             "advance-security-alert-request-support.info",
             "advance-system-optimisation-critical-controlreport.info",
             "advance-systemalert-error12baca-trojandec.info",
+            "advance.zarca.net",
             "advanceacademyestheticmededu.us",
             "advanceboy.info",
             "advanced-axioms.com",
@@ -7203,7 +7203,9 @@
             "advertising-investments.com",
             "advertising-odds.info",
             "advertising-power.info",
-            "advertising-security.info",
+            "advertising-security.info"
+        ],
+        "to_test": [
             "advertising.mortgagebankers.org",
             "advertising.ninemsn.com.au",
             "advertising.zenit.org",
