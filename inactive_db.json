@@ -9811,9 +9811,7 @@
             "gameroyalz.org",
             "gameroyalzonline.com",
             "gamersfile.info",
-            "gamersfile.net"
-        ],
-        "to_test": [
+            "gamersfile.net",
             "gamersxpro.info",
             "gamerz-cheats.com",
             "games-award2007.com",
@@ -9957,7 +9955,9 @@
             "gandesuikinyandeso.com",
             "gandesukinyantreswed.com",
             "gandesunjindkerunhdas.com",
-            "gandesuyunkinmas.com",
+            "gandesuyunkinmas.com"
+        ],
+        "to_test": [
             "ganek.eu",
             "ganeshabakery.id",
             "gang-wars.org.uk",
