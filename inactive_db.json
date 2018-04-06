@@ -2252,9 +2252,7 @@
             "downeastproducts.com",
             "downflvplayer.com",
             "downgradepc.update-plus.net",
-            "downlaod1.vstart.net"
-        ],
-        "to_test": [
+            "downlaod1.vstart.net",
             "downlaodvideo.net",
             "downldboost.com",
             "downlloadfiles.com",
@@ -2398,7 +2396,6 @@
             "dr-protection.com",
             "dr-search4u.com",
             "dr-searchengine.com",
-            "dr0pb0xsecured.fileuploads.com.circusposter.net",
             "dr4reyd.com",
             "dr6.co.uk",
             "dr9ocm7yc6j3.info",
@@ -2471,8 +2468,9 @@
             "dreamcentury.cn",
             "dreamdrama.tv",
             "dreameskisehir.com",
-            "dreamfully-chilostoma.com",
-            "dreamimoveis.com.br",
+            "dreamfully-chilostoma.com"
+        ],
+        "to_test": [
             "dreamlica.com",
             "dreamloanrate.com",
             "dreamoperate.com",
