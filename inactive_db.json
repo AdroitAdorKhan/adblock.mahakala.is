@@ -8396,9 +8396,7 @@
             "allcigarette.net",
             "allcitiu.com",
             "allcitypages.net",
-            "allcollisions.com"
-        ],
-        "to_test": [
+            "allcollisions.com",
             "allcontactlens.info",
             "allcook.net",
             "allcount.net",
@@ -8641,7 +8639,6 @@
             "alphanamluxurydanang.xyz",
             "alphaomegahomes.net",
             "alphasigmasigmagrad.com",
-            "alphaxiom.com",
             "alphonsezplace.com",
             "alphonsozplace.com",
             "alpinum-planet.co",
@@ -8673,7 +8670,9 @@
             "alsobranch.com",
             "alsosrupther.com",
             "alt-angel.com",
-            "alt-i-roedt.dk",
+            "alt-i-roedt.dk"
+        ],
+        "to_test": [
             "alt.paypcl.com-elogiinpage.com",
             "altaiholidays.ru",
             "altair.marketsite.ru",
