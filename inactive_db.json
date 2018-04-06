@@ -5317,9 +5317,7 @@
             "eventiago.top",
             "eventlog.inspsearch.com",
             "events-amz.tk",
-            "events.bounceexchange.com"
-        ],
-        "to_test": [
+            "events.bounceexchange.com",
             "events.indyloyaltyclub.com",
             "events.marquee-cdn.net",
             "events.medio.com",
@@ -5355,6 +5353,7 @@
             "everything-tr.com",
             "everything4find.com",
             "everythingforthehomenews.com",
+            "everythingfou.net",
             "everythinggone.com",
             "everythingonweb.net",
             "everythingtr.com",
@@ -5549,7 +5548,9 @@
             "exnjadgda2.doubleclick.net",
             "exnjadgds1.doubleclick.net",
             "exnjmdgda1.doubleclick.net",
-            "exnjmdgds1.doubleclick.net",
+            "exnjmdgds1.doubleclick.net"
+        ],
+        "to_test": [
             "exostiastics.xyz",
             "exotic-777-casino.com",
             "exotic-roulette.com",
