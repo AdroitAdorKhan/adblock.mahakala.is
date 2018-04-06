@@ -3026,9 +3026,7 @@
             "e-currencyhacks.com",
             "e-currencymoneymachine.com",
             "e-dat.us",
-            "e-doladowania.com.pl"
-        ],
-        "to_test": [
+            "e-doladowania.com.pl",
             "e-dxr.gr",
             "e-egold.net",
             "e-erotic.pl",
@@ -3264,7 +3262,6 @@
             "earthmover7970602.ellercorp.com",
             "earthproafrica.co.za",
             "earthses.org.in",
-            "earthshineco.com",
             "earthstarcasino.com",
             "earthtier.info",
             "eartllink.net",
@@ -3279,7 +3276,9 @@
             "easier-dater.com",
             "easiestgals.com",
             "easilmail.com",
-            "east-west-finance.org",
+            "east-west-finance.org"
+        ],
+        "to_test": [
             "eastbet.net",
             "eastcoastflowersltd.com",
             "easterncarolinaonline.info",
