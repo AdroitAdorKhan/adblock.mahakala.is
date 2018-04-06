@@ -10220,9 +10220,7 @@
             "gdaol.com",
             "gdb53.com",
             "gdbxltd.co.uk",
-            "gdeal.nuggad.net"
-        ],
-        "to_test": [
+            "gdeal.nuggad.net",
             "gdgames.com.mx",
             "gdi24.tw",
             "gdiefu.net",
@@ -10237,7 +10235,6 @@
             "gdotbotns.net",
             "gdox.coxslot.com",
             "gdri.si",
-            "gdrive-141.getforge.io",
             "gdrive-signin.ga",
             "gdriverixestates.com.openscritors.grolintorexecutives.co.uk",
             "gdrw4no.com.cn",
@@ -10442,7 +10439,9 @@
             "georgeanlake.com",
             "georgiaswearableart.com",
             "geoservice.webengage.com",
-            "geosirgas.com.br",
+            "geosirgas.com.br"
+        ],
+        "to_test": [
             "ger.bibliebooks.org",
             "ger.clicebooks.org",
             "gera-design.de",
