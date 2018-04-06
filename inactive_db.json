@@ -469,9 +469,7 @@
             "demooniak.tv",
             "demosgratis.com",
             "demoticket.net",
-            "demovideons.com"
-        ],
-        "to_test": [
+            "demovideons.com",
             "dempsterstories.com",
             "demr.opt.fimserve.com",
             "demselt.com",
@@ -487,8 +485,8 @@
             "denimsfromgullcottage.com",
             "deniosantos.com.br",
             "denis-ponomarev.info",
-            "deniserichards.1stOK.com",
             "deniserichards.1stok.com",
+            "deniserichards.1stOK.com",
             "denixsearch.com",
             "denizendream.org",
             "dennisbonder.com",
@@ -523,6 +521,7 @@
             "deposit.nationalrainharvestgroup.com",
             "depositgift.chalany.com.au",
             "depositgift3344.cabin.net.au",
+            "deposito.traffic-advance.net",
             "depositodevideos.com.br",
             "depositodinegrimorti.com",
             "depotfichiers.us",
@@ -665,7 +664,9 @@
             "dev.adagogo.com",
             "dev.adbuddiz.com",
             "dev.adiquity.com",
-            "dev.admixer.co.kr",
+            "dev.admixer.co.kr"
+        ],
+        "to_test": [
             "dev.admob.com",
             "dev.admoda.com",
             "dev.adsmobi.com",
