@@ -1459,9 +1459,7 @@
             "dkwm.suwan.co.id",
             "dkyetw45poq.biz",
             "dl-cresult.com",
-            "dl-plugin.com"
-        ],
-        "to_test": [
+            "dl-plugin.com",
             "dl.admon.cn",
             "dl.bzgthg.com",
             "dl.futureus.com",
@@ -1664,9 +1662,9 @@
             "dlupload.com",
             "dlv.ad-serving.co",
             "dlyasvobornyx.biz",
+            "dm.haojuzi.net",
             "dm.huochepiao.com",
             "dm43rr95vvmjq9.nationet.com.hk",
-            "dm77.xftnam.com",
             "dm8ojo46iwxm2.cloudfront.net",
             "dma-p.a.y.p.a.l-c.o.m-au-country-au-locale-adm-secured-dfr74.gurojs.com",
             "dmacdoc.com",
@@ -1752,7 +1750,9 @@
             "dns75.us",
             "dnsallabout.com",
             "dnsbakler.com",
-            "dnscareers.com",
+            "dnscareers.com"
+        ],
+        "to_test": [
             "dnsculo.com",
             "dnsduepage.com",
             "dnse.linkpulse.com",
