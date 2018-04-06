@@ -23203,9 +23203,7 @@
             "czotest.pl",
             "czrow.com",
             "czuaro.com",
-            "czupload.com"
-        ],
-        "to_test": [
+            "czupload.com",
             "d-photo.biz",
             "d-register.org",
             "d-ssl.ustream.tv",
@@ -23237,7 +23235,6 @@
             "d.unanimis.co.uk",
             "d.ustream.tv",
             "d.wiyun.com",
-            "d.xaoyo.com",
             "d07d50a751bc6ddf12bf3af0efee9b45.dvdvideosoft.com",
             "d08r.cn",
             "d0d0n0.info",
@@ -23423,7 +23420,9 @@
             "daginstount.info",
             "dahlstromanbehaltendem.greatestatesofsonomacounty.info",
             "dahonim.com",
-            "dahtic.nasikuninglamongan.co.id",
+            "dahtic.nasikuninglamongan.co.id"
+        ],
+        "to_test": [
             "daiffemapeal.cn",
             "daiichi-engei.co.jp",
             "daikiyugenfiopink.com",
