@@ -3915,9 +3915,7 @@
             "efinancialnews.biz",
             "efinder.cc",
             "efirepay.info",
-            "efishingrod.info"
-        ],
-        "to_test": [
+            "efishingrod.info",
             "efocvuiodiet.com",
             "eforhalthz.com",
             "eforhealthred.com",
@@ -4001,8 +3999,8 @@
             "egyffr.info",
             "egymoxrsoo.com",
             "EGYpolice.com",
-            "EGYpolice.net",
             "egypolice.net",
+            "EGYpolice.net",
             "egyptgoogle.myjino.ru",
             "egyptianwar.net",
             "egyptmet.com",
@@ -4034,7 +4032,9 @@
             "ehg.commjun.hitbox.com",
             "ehg.fedex.com",
             "ehg.mindshare.hitbox.com",
-            "ehhmailt.biz",
+            "ehhmailt.biz"
+        ],
+        "to_test": [
             "ehnecvalthyred.com",
             "ehomecapsules.com",
             "ehometablet.com",
