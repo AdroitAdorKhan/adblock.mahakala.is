@@ -664,9 +664,7 @@
             "dev.adagogo.com",
             "dev.adbuddiz.com",
             "dev.adiquity.com",
-            "dev.admixer.co.kr"
-        ],
-        "to_test": [
+            "dev.admixer.co.kr",
             "dev.admob.com",
             "dev.admoda.com",
             "dev.adsmobi.com",
@@ -971,7 +969,9 @@
             "dianaschoice.net",
             "dianie.net",
             "diannaoqingjieji.com",
-            "diannemackay.com",
+            "diannemackay.com"
+        ],
+        "to_test": [
             "diaremover.com",
             "diariodaputaria.xxx",
             "diariodeeditais.com.br",
