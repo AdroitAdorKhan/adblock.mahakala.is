@@ -5548,9 +5548,7 @@
             "exnjadgda2.doubleclick.net",
             "exnjadgds1.doubleclick.net",
             "exnjmdgda1.doubleclick.net",
-            "exnjmdgds1.doubleclick.net"
-        ],
-        "to_test": [
+            "exnjmdgds1.doubleclick.net",
             "exostiastics.xyz",
             "exotic-777-casino.com",
             "exotic-roulette.com",
@@ -5798,7 +5796,9 @@
             "f150123.privacy4browsing.com",
             "f16.smaato.net",
             "f17.smaato.net",
-            "f18.smaato.net",
+            "f18.smaato.net"
+        ],
+        "to_test": [
             "f19.smaato.net",
             "f1b1f4.iudasitebuildng.net",
             "f1del.in",
