@@ -11277,9 +11277,7 @@
             "go.verymuchad.com",
             "go.vidrock.co",
             "go1sti.biz",
-            "go27.net"
-        ],
-        "to_test": [
+            "go27.net",
             "go2mike.ru",
             "go2president.com",
             "go2realsearch.com",
@@ -11308,7 +11306,6 @@
             "gobestgolf.info",
             "gobloid.hk",
             "goblueshift.info",
-            "gobrain.info",
             "gocampworld.info",
             "gocarisoprodol.polybuild.ru",
             "gocduz.com",
@@ -11437,6 +11434,7 @@
             "goldencash.bz",
             "goldencorporation.org",
             "goldendownloads247.com",
+            "goldeneaglefoundations3scholarships.org",
             "goldeneuroprime.com",
             "goldeneurovip.com",
             "goldenfreehost.com",
@@ -11470,7 +11468,6 @@
             "goldhelper.net",
             "goldiezplace.com",
             "goldilocksdreads.com.au",
-            "goldisn.cu.cc",
             "goldjinoz.com",
             "goldleaftarot.com",
             "goldmir.info",
@@ -11498,6 +11495,7 @@
             "golfdigt.com",
             "golffanclubs.info",
             "golfgaggift.info",
+            "golfgti.petrolhead.it",
             "golflinkmedical.com.au",
             "golfliquidationusa.com",
             "golfmanclub.info",
@@ -11583,7 +11581,9 @@
             "goodbestforyou.com",
             "goodbuynow.org",
             "goodcarsworld.info",
-            "goodcleangirls.com",
+            "goodcleangirls.com"
+        ],
+        "to_test": [
             "goodclubcasino.net",
             "goodcounter.net",
             "goodess.altervista.org",
