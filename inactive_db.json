@@ -1,9 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock.mahakala.is/domains.list": {
         "1523019000": [
-            "db63.co.uk"
-        ],
-        "to_test": [
+            "db63.co.uk",
             "db8mh.info",
             "dbaguide.com.au",
             "dban4-549565586.eu-west-1.elb.amazonaws.com",
@@ -140,6 +138,10 @@
             "de-produkteundpreise.com",
             "de-se.5a535397.2018.cbricdns.com",
             "de-serviceundkredite.com",
+            "de-sicherheits-update-011.info",
+            "de-sicherheits-update-017.info",
+            "de-sicherheits-update-030.info",
+            "de-sicherheits-update-051.info",
             "de-ve.5a535441.2018.cbricdns.com",
             "de.5.p2l.info",
             "de.intellitxt.com",
@@ -213,7 +215,9 @@
             "debrawilso.com",
             "debriscone.com",
             "debt-consolidationforall.com",
-            "debug73.com",
+            "debug73.com"
+        ],
+        "to_test": [
             "debuguean.do",
             "debxppgxqryh.com",
             "decapolis-trading.com",
