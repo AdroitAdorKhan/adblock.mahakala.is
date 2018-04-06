@@ -13472,9 +13472,7 @@
             "battery-booster-apps.com",
             "battery-problems.com",
             "batterymarksid.biz",
-            "batterypowerupgrade.com"
-        ],
-        "to_test": [
+            "batterypowerupgrade.com",
             "battgames.com",
             "batthis.com",
             "battle-empire.co.uk",
@@ -13686,7 +13684,9 @@
             "bdsm-mpeg.com",
             "bdsm-toons.com",
             "bdsmathome.info",
-            "bdsmcategory.com",
+            "bdsmcategory.com"
+        ],
+        "to_test": [
             "bdsmfreelinks.com",
             "bdsmmachine.com",
             "bdsmnow.net",
