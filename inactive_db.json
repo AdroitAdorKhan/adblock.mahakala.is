@@ -4640,11 +4640,10 @@
             "eofficialtablet.com",
             "eohealhgirl.com",
             "eojversuib.org.in",
-            "eomars.com"
-        ],
-        "to_test": [
+            "eomars.com",
             "eonerealitty.com",
             "eonerget.com",
+            "eonline-celebnews.com",
             "eonlinetablets.com",
             "eoo2.info",
             "eoob.us",
@@ -4830,11 +4829,12 @@
             "error-found.xyz",
             "error-warning-alert-critical-5x.com",
             "error.facebook.net",
-            "error.freewebsites.com",
             "error.highefficiencyirrigationsystems.com",
             "error404site.net",
             "errorallhere.com",
-            "errorbrowser.com",
+            "errorbrowser.com"
+        ],
+        "to_test": [
             "errordigger.com",
             "errordns404.com",
             "errordnspage.com",
