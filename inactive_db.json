@@ -6098,9 +6098,7 @@
             "fallbody.com",
             "fallconsider.com",
             "fallcrop.com",
-            "fallelse.net"
-        ],
-        "to_test": [
+            "fallelse.net",
             "fallencrafts.info",
             "falliance.net",
             "falling-aseraj.com",
@@ -6183,6 +6181,7 @@
             "fantasticdollars.com",
             "fantasticroyalgame.com",
             "fantasticsearch.net",
+            "fantasticvidz.com",
             "fantasy.sonsofmetal.org",
             "fantasy4you.info",
             "fantasyforced.com",
@@ -6277,6 +6276,7 @@
             "fast.mocitysing.co",
             "fast.parentem.com",
             "fast.thenaturebox.co",
+            "fast.zhileng.co",
             "fast.zti.co.za",
             "fast5.co.in",
             "fast5.firm.in",
@@ -6284,7 +6284,9 @@
             "fast5.ind.in",
             "fast5.net.in",
             "fast5.org.cn",
-            "fast5.org.in",
+            "fast5.org.in"
+        ],
+        "to_test": [
             "fastaweb.su",
             "fastbdsm.com",
             "fastboxhosting.com",
