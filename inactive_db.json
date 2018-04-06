@@ -19993,9 +19993,7 @@
             "click.avenuea.com",
             "click.bristlesa.info",
             "click.buzzcity.net",
-            "click.casonizedlot.com"
-        ],
-        "to_test": [
+            "click.casonizedlot.com",
             "click.commenemail.info",
             "click.debita.info",
             "click.eggineurylot.com",
@@ -20161,6 +20159,7 @@
             "clients.tbo.com",
             "clientserveruseronlinegb.is-found.org",
             "clientstat.castup.net",
+            "cliftonscommercialconcepts.com",
             "climate.lasotras.cl",
             "climb.somachi.cl",
             "climbfamous.com",
@@ -20191,7 +20190,9 @@
             "clk.about.com",
             "clk.aboxdeal.com",
             "clk.bcmtrk.com",
-            "clk.cloudyisland.com",
+            "clk.cloudyisland.com"
+        ],
+        "to_test": [
             "clk.kaztorka.org",
             "clk.konflab.com",
             "clk.mongxw.com",
