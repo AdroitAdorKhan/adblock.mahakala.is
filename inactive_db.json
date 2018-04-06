@@ -12670,9 +12670,7 @@
             "ba2.shinobi.jp",
             "ba3.shinobi.jp",
             "ba4.shinobi.jp",
-            "ba5.shinobi.jp"
-        ],
-        "to_test": [
+            "ba5.shinobi.jp",
             "ba5koy.es",
             "ba6.shinobi.jp",
             "ba7.shinobi.jp",
@@ -12783,6 +12781,7 @@
             "badhard.com",
             "badiens.com",
             "badman7.com",
+            "badmoebelwelt.de",
             "badoalain.com",
             "badoeudn.com",
             "badpopop.com",
@@ -12823,7 +12822,9 @@
             "bajumuslimmurah.co.id",
             "bajzmtnejc.gvhaqzryeeaqqvktboki.ml",
             "bajzu.com",
-            "bakadns.com",
+            "bakadns.com"
+        ],
+        "to_test": [
             "bakasoftware.com",
             "bakasoftware.net",
             "bakeraccountingsolutions.com",
