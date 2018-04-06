@@ -11163,9 +11163,7 @@
             "appstore-unclocked.com",
             "appstores-unlockservice.com",
             "appstroma.com",
-            "appsunlocker.com"
-        ],
-        "to_test": [
+            "appsunlocker.com",
             "appunti-tesine.net",
             "appusage.intel.com",
             "appvideosface.variedadesdevideos.net",
@@ -11204,6 +11202,7 @@
             "aq6wbjftqg.info",
             "aqartec.com",
             "aqbly.com",
+            "aqfla.com",
             "aqhost.org",
             "aqlgdjeni.com",
             "aqorj.net",
@@ -11292,7 +11291,9 @@
             "arcc.com.bd",
             "arcelikankaramerkezservisi.com",
             "arcelikpendikservisi.gen.tr",
-            "arcevault.cn",
+            "arcevault.cn"
+        ],
+        "to_test": [
             "archaeo.cc",
             "archeage-rebellion.com",
             "archie11111.com",
