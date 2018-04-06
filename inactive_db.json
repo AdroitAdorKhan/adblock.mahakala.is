@@ -13684,9 +13684,7 @@
             "bdsm-mpeg.com",
             "bdsm-toons.com",
             "bdsmathome.info",
-            "bdsmcategory.com"
-        ],
-        "to_test": [
+            "bdsmcategory.com",
             "bdsmfreelinks.com",
             "bdsmmachine.com",
             "bdsmnow.net",
@@ -13760,7 +13758,6 @@
             "beast6.net",
             "beastlist.net",
             "beastmasters.ch",
-            "beastpage.com",
             "beastvideoarchive.com",
             "beastvideopost.com",
             "beat.fj.cn",
@@ -13787,6 +13784,7 @@
             "beautifulshopstreetshoes.com",
             "beautifulstreetshopshoes.com",
             "beauty-b0x.pl",
+            "beauty-pack.pl",
             "beauty.artnfest.in",
             "beautyazaria.com",
             "beautycharm.co.kr",
@@ -13914,7 +13912,9 @@
             "beilel.com",
             "beingforw.info",
             "beitfirstcredit.com",
-            "beitliqa-shop.org",
+            "beitliqa-shop.org"
+        ],
+        "to_test": [
             "bejtfirstcredit.com",
             "bekiarena.pl",
             "beklom.com",
