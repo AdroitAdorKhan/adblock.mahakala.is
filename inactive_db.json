@@ -3674,9 +3674,7 @@
             "eco.goldgramsandcash.net",
             "eco.mgbowl.com",
             "ecoalworld.info",
-            "ecoartmuseum.com"
-        ],
-        "to_test": [
+            "ecoartmuseum.com",
             "ecobank-nig.com",
             "ecobankhomeonlineplc.com",
             "ecobankplcsn.com",
@@ -3917,7 +3915,9 @@
             "efinancialnews.biz",
             "efinder.cc",
             "efirepay.info",
-            "efishingrod.info",
+            "efishingrod.info"
+        ],
+        "to_test": [
             "efocvuiodiet.com",
             "eforhalthz.com",
             "eforhealthred.com",
