@@ -4032,9 +4032,7 @@
             "ehg.commjun.hitbox.com",
             "ehg.fedex.com",
             "ehg.mindshare.hitbox.com",
-            "ehhmailt.biz"
-        ],
-        "to_test": [
+            "ehhmailt.biz",
             "ehnecvalthyred.com",
             "ehomecapsules.com",
             "ehometablet.com",
@@ -4118,6 +4116,7 @@
             "ekpate.com",
             "ekrito.info",
             "ekrot.net",
+            "ekrzesla.com.pl",
             "eksentertainment.com",
             "ekta-project.com",
             "el-cash.org",
@@ -4218,7 +4217,9 @@
             "elite-video-feeds.com",
             "elite-wars.com",
             "eliteassclub.com",
-            "elitecodec.com",
+            "elitecodec.com"
+        ],
+        "to_test": [
             "elitefilez.com",
             "elitefinancegroup.com",
             "elitefind.net",
