@@ -21218,9 +21218,7 @@
             "com-wellsonline.info",
             "com-ws-isapidll-member.us",
             "com-ws-isapidll.com",
-            "com-ws-isapidll.us"
-        ],
-        "to_test": [
+            "com-ws-isapidll.us",
             "com-ws.biz",
             "com-ws.org",
             "com-ws3-isapidll.com",
@@ -21260,7 +21258,6 @@
             "com82.biz",
             "com92.biz",
             "com94.net",
-            "comaca.com.ve",
             "comaccount.net",
             "comadverts.bcmpweb.co.nz",
             "comalcustomhomes.com",
@@ -21387,7 +21384,6 @@
             "compacttraveller.com.au",
             "compadult.com",
             "companyabuse.net",
-            "companycreators.co.uk",
             "companyheon.info",
             "companymailpro.info",
             "companyphonetexas.com",
@@ -21451,8 +21447,8 @@
             "computerelated.net",
             "computererrordefeatshop.online",
             "computererrordefeattech.online",
+            "computerfaultsfixed.com",
             "computerforw.info",
-            "computerquestions.on.nimp.org",
             "computers-electronics-rewardpath.com",
             "computershello.cn",
             "computersncs.com",
@@ -21498,7 +21494,9 @@
             "conclluxury.com",
             "conclusion00.cc",
             "conclusionoverhost.info",
-            "concorddesignsflorist.com",
+            "concorddesignsflorist.com"
+        ],
+        "to_test": [
             "concretosfamasa.com",
             "concurrent-innovations.com",
             "concurrent-onlines.com",
