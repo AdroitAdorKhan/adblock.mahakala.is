@@ -9488,9 +9488,7 @@
             "anoint.popomxm.com",
             "anointefbha.com",
             "anonamizer.com",
-            "anonimutente.com"
-        ],
-        "to_test": [
+            "anonimutente.com",
             "anonymous-hacks.com",
             "anonymouscheaters.com",
             "anonymwinpc.com",
@@ -9537,6 +9535,7 @@
             "antauke.com",
             "antems.com",
             "antenasbrandao.com.br",
+            "antenna.dolphin-browser.jp",
             "antepbayrak.com",
             "anthonybailey.com.au",
             "anthonydemeo.com",
@@ -9568,6 +9567,7 @@
             "antibodies-thefts.info",
             "anticarding.info",
             "anticheaters-sxe.com",
+            "anticrawler.org",
             "antidepressants.1.p2l.info",
             "antiduterte.club",
             "antiekclaes.com",
@@ -9580,6 +9580,7 @@
             "antiguedadesdigenaro.com",
             "antigusanos2008.com",
             "antiiphishing.com",
+            "antijuegos.com",
             "antiklerikalen.kiyahona.com",
             "antikookmin.info",
             "antimalware-09.com",
@@ -9889,7 +9890,6 @@
             "anunah.com",
             "anunciatucasa.info",
             "anunturi.anatech.ro",
-            "anunturiaici.com",
             "anuoluwa.info",
             "anurizum.com",
             "anusblast.com",
@@ -10026,7 +10026,9 @@
             "apac.analytics.yahoo.com",
             "apac.rel.msn.com",
             "apache2-wp223656.wp223656.dreamhostps.com",
-            "apandl.com",
+            "apandl.com"
+        ],
+        "to_test": [
             "aparentingstudy.com",
             "apartamentyskandynawskie.pl",
             "apartments-baden-baden.de",
