@@ -17039,9 +17039,7 @@
             "c.91wan.com",
             "c.adforgeinc.com",
             "c.adroll.com",
-            "c.adverpages.com"
-        ],
-        "to_test": [
+            "c.adverpages.com",
             "c.allegrostatic.pl",
             "c.am10.ru",
             "c.as-us.falkag.net",
@@ -17052,6 +17050,7 @@
             "c.compete.com",
             "c.coneco.net",
             "c.datajunction.org",
+            "c.enhance.com",
             "c.fa.jd.com",
             "c.fsx.com",
             "c.getsmartcontent.com",
@@ -17256,7 +17255,9 @@
             "cafeden.biz",
             "cafegourmel.com",
             "cafemarker52.com",
-            "cafepaths077.com",
+            "cafepaths077.com"
+        ],
+        "to_test": [
             "cafodgroups.com",
             "cafofd.com",
             "cafpit.com",
