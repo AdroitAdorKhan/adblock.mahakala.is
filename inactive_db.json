@@ -6284,9 +6284,7 @@
             "fast5.ind.in",
             "fast5.net.in",
             "fast5.org.cn",
-            "fast5.org.in"
-        ],
-        "to_test": [
+            "fast5.org.in",
             "fastaweb.su",
             "fastbdsm.com",
             "fastboxhosting.com",
@@ -6399,7 +6397,6 @@
             "fb-games-gifts.com",
             "fb-hacks.com",
             "fb-hosting.net",
-            "fb-m.cu.cc",
             "fb-recover-102.esy.es",
             "fb-recover-110.esy.es",
             "fb-securelognotification1.esy.es",
@@ -6603,7 +6600,9 @@
             "fedreservesystem.net",
             "fedsukingansde.com",
             "feed-send.info",
-            "feed.hype-ads.com",
+            "feed.hype-ads.com"
+        ],
+        "to_test": [
             "feed.teasermaster.ru",
             "feed.topadvert.ru",
             "feed.yoodeal.net",
