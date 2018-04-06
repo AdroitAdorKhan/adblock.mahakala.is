@@ -20190,9 +20190,7 @@
             "clk.about.com",
             "clk.aboxdeal.com",
             "clk.bcmtrk.com",
-            "clk.cloudyisland.com"
-        ],
-        "to_test": [
+            "clk.cloudyisland.com",
             "clk.kaztorka.org",
             "clk.konflab.com",
             "clk.mongxw.com",
@@ -20239,6 +20237,7 @@
             "cloud-photo.net",
             "cloud.duba.cn",
             "cloud.duba.com",
+            "cloud.insightera.com",
             "cloud.liebao.cn",
             "cloud.liebao.com",
             "cloud.liebao.net",
@@ -20331,6 +20330,7 @@
             "clutgedyna.info",
             "clvcnt.com",
             "cm-tv.com",
+            "cm.enhance.com",
             "cm.ksmobile.com",
             "cm.ksmobile.net",
             "cm.lander-for-you.com",
@@ -20752,7 +20752,9 @@
             "cmd-restore1-xpggsirt3a.info.ve",
             "cmd-restore1-xpggsirt3a.org.ve",
             "cmd-updates.com",
-            "cmd-verify.mn",
+            "cmd-verify.mn"
+        ],
+        "to_test": [
             "cmdbin-runpplogonform.info",
             "cmdcgi.us",
             "cmdpp-runlogin.info",
