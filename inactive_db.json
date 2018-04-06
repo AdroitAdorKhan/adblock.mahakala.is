@@ -20752,9 +20752,7 @@
             "cmd-restore1-xpggsirt3a.info.ve",
             "cmd-restore1-xpggsirt3a.org.ve",
             "cmd-updates.com",
-            "cmd-verify.mn"
-        ],
-        "to_test": [
+            "cmd-verify.mn",
             "cmdbin-runpplogonform.info",
             "cmdcgi.us",
             "cmdpp-runlogin.info",
@@ -20773,8 +20771,8 @@
             "cmpp.com.au",
             "cmpsmarter-downloader.maynemyltf.netdna-cdn.com",
             "cmreqtmp03wt.info",
-            "cmrpolice.com",
             "CMRpolice.com",
+            "cmrpolice.com",
             "cms.egsys.net",
             "cmservice-login.com",
             "cmsko.com",
@@ -20872,7 +20870,6 @@
             "cobotc.com",
             "cobracars.com.ve",
             "cobraimports.com",
-            "cobrajeans.pl",
             "cobras-fussballmanager.de",
             "cobrebactericida.org",
             "cocalolo.top",
@@ -20965,7 +20962,9 @@
             "codepsngratuitgratuit.fr",
             "codepsngratuitps3.com",
             "codepsnmaintenant.fr",
-            "coderlbgfc.com",
+            "coderlbgfc.com"
+        ],
+        "to_test": [
             "codesfreexbl.com",
             "codesnhacks.net",
             "codesplaystationnetwork.fr",
