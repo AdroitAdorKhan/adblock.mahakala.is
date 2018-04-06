@@ -8949,9 +8949,8 @@
             "ameliasurence-japaninformation.rhcloud.com",
             "ameliaswardrobe.com.au",
             "ameliazplace.com",
-            "amelieassurancesmaladiess.eu"
-        ],
-        "to_test": [
+            "amelieassurancesmaladiess.eu",
+            "ameliservc-remb.com",
             "amell.ir",
             "amentar.com",
             "amer.hops.glbdns.microsoft.com",
@@ -9134,8 +9133,11 @@
             "analytics-rhwg.rhcloud.com",
             "analytics-static.unister-gmbh.de",
             "analytics-union.xunlei.com",
+            "analytics-v2.anvato.com",
             "analytics.adeevo.com",
-            "analytics.admob.com",
+            "analytics.admob.com"
+        ],
+        "to_test": [
             "analytics.amilliamilli.com",
             "analytics.anvato.net",
             "analytics.artirix.com",
