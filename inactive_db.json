@@ -11030,9 +11030,7 @@
             "gladcourage.com",
             "gladdiscuss.com",
             "gladelement.com",
-            "gladiateurs2.fr"
-        ],
-        "to_test": [
+            "gladiateurs2.fr",
             "gladjune.net",
             "gladoxygen.com",
             "gladpopulate.com",
@@ -11279,7 +11277,9 @@
             "go.verymuchad.com",
             "go.vidrock.co",
             "go1sti.biz",
-            "go27.net",
+            "go27.net"
+        ],
+        "to_test": [
             "go2mike.ru",
             "go2president.com",
             "go2realsearch.com",
