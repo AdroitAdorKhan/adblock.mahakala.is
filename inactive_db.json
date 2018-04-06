@@ -7783,9 +7783,7 @@
             "airbnb.com.online-booking.reference1618.pw",
             "airbnb.com.westpeak.ca",
             "airbnb.es.offerta-99384.eu",
-            "airbnb.it.appartamenti47778.com"
-        ],
-        "to_test": [
+            "airbnb.it.appartamenti47778.com",
             "airbnb.listing-long-term-rental-landlord-online.info",
             "airbnb.rental-rooms.com",
             "airbnb.reserva.legal",
@@ -7813,6 +7811,7 @@
             "airexpressmedications.com",
             "airfamalypharm.com",
             "airfamalypills.com",
+            "airfare4free.com",
             "airgenericdrugstore.com",
             "airgenericguide.com",
             "airgenericmeds.com",
@@ -7935,6 +7934,7 @@
             "akciyavkontakte.ru",
             "akcomercios.com",
             "akdenizozalit.com",
+            "akdenizyildizi.com.tr",
             "akdinchotel.com",
             "akearmory.com",
             "akeupmoreofthemone.com",
@@ -7965,6 +7965,7 @@
             "akorenramizefendiyurdu.com",
             "akpeti.com",
             "akronohioworld.info",
+            "aksamhaberi.net",
             "aksesorisbatu.co.id",
             "aksgees.com",
             "aksidkakd.info",
@@ -8095,7 +8096,9 @@
             "aldiegroup.info",
             "aldinecharlesbolli.com",
             "aldirectwholesale.info",
-            "aldiseramafarm.biz.id",
+            "aldiseramafarm.biz.id"
+        ],
+        "to_test": [
             "aldozplace.com",
             "aldul.com",
             "ale-gratka.pl",
