@@ -13160,9 +13160,7 @@
             "banner.3ddownloads.com",
             "banner.affactive.com",
             "banner.alphacool.de",
-            "banner.amateri.cz"
-        ],
-        "to_test": [
+            "banner.amateri.cz",
             "banner.aranzulla.it",
             "banner.arttoday.com",
             "banner.automotiveworld.com",
@@ -13289,7 +13287,9 @@
             "banners.tucson.com",
             "banners.unfaithful.com",
             "banners.visitguernsey.com",
-            "banners.winanylotto.com",
+            "banners.winanylotto.com"
+        ],
+        "to_test": [
             "banners.xoom.zy.com",
             "banners1.linkbuddies.com",
             "banners2.castles.org",
