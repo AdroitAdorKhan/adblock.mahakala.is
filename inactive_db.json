@@ -12180,9 +12180,7 @@
             "sentrix.wltechnology.com",
             "sentshared.com",
             "sentthen.com",
-            "sentyge.biz"
-        ],
-        "to_test": [
+            "sentyge.biz",
             "sentyge.net",
             "senvangvn.vn",
             "senzadoppioni.com",
@@ -12420,7 +12418,6 @@
             "service-pauo.org",
             "service-payment.fr",
             "service-paypal-key.com",
-            "service-paypal.general-help-important.com",
             "service-paypal.info",
             "service-paypal.limit-resolvecenter.cf",
             "service-paypal08.com",
@@ -12483,10 +12480,12 @@
             "serviceparaguay.com",
             "servicepaymentaccount.solutions",
             "servicepaypal.myjino.ru",
+            "serviceresolve-navigasierrors.com",
             "services-account-verifications-required.com",
             "services-account-verifications-secure.com",
             "services-adminapps.from-ky.com",
             "services-associes-fr.com",
+            "services-autshpolicysagreements.com",
             "services-bankofamerican.com",
             "services-intlaccount-apple.com",
             "services-verify-information.com",
@@ -12542,7 +12541,9 @@
             "servuforce.info",
             "servugallon.info",
             "servuhorse.info",
-            "servupull.info",
+            "servupull.info"
+        ],
+        "to_test": [
             "servuwheel.info",
             "servv254.info",
             "servv66.com",
