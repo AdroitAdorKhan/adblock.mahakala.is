@@ -14319,9 +14319,7 @@
             "host2010.com",
             "host222-217.pool82184.interbusiness.it",
             "host3.list.ru",
-            "host35-20.pool8175.interbusiness.it"
-        ],
-        "to_test": [
+            "host35-20.pool8175.interbusiness.it",
             "host56.hk",
             "host7.list.ru",
             "host8.asia",
@@ -14592,7 +14590,6 @@
             "hotsex.3hosting.net",
             "hotsexyimage.com",
             "hotsexys.com",
-            "hotshots.fan-atic.net",
             "hotslive.biz",
             "hotsocialz.com",
             "hotspotlot.info",
@@ -14663,7 +14660,9 @@
             "houldalofot.cn",
             "hour.fladnertech.com",
             "hour.happyfamilyhappymum.net",
-            "hourbroad.com",
+            "hourbroad.com"
+        ],
+        "to_test": [
             "houringenuity.com",
             "hourlaugh.com",
             "hourly-game.com",
