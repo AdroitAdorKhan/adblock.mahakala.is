@@ -28575,9 +28575,7 @@
             "nevpost.com",
             "nevroll.us",
             "nevudkl.com",
-            "new-access.biz"
-        ],
-        "to_test": [
+            "new-access.biz",
             "new-ads.eurogamer.net",
             "new-center-security.dk",
             "new-content-s2008.com",
@@ -28955,7 +28953,9 @@
             "nexnics.com",
             "nexoa.net",
             "nexon-loginc.com",
-            "nexqtdiet.com",
+            "nexqtdiet.com"
+        ],
+        "to_test": [
             "next.mediajunctionco.com",
             "next.miblogviral.com",
             "next.thenaturebox.in",
