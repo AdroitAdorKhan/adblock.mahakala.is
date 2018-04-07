@@ -470,9 +470,7 @@
             "ondiplom.info",
             "ondunes.com",
             "one-chance-with-ebay.us",
-            "one-liker.net"
-        ],
-        "to_test": [
+            "one-liker.net",
             "one-of-the-finest.com",
             "one-picture.net",
             "one-stop-giftshop.com",
@@ -877,6 +875,7 @@
             "onlineservices.wellsfargo.com.agserve.com.au",
             "onlineservices.wellsfargo.com.tld-client.ml",
             "onlineservices777.com",
+            "onlineservicessupport.com",
             "onlineshoethis.com",
             "onlineshoeville.com",
             "onlineshopeforusa.in",
@@ -898,7 +897,9 @@
             "onlinetoday33.xyz",
             "onlinetoday34.xyz",
             "onlinetoday35.xyz",
-            "onlinetoday36.xyz",
+            "onlinetoday36.xyz"
+        ],
+        "to_test": [
             "onlinetoday37.xyz",
             "onlinetradings.net",
             "onlinetreasury77.com",
