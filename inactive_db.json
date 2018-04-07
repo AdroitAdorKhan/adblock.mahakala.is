@@ -15840,9 +15840,7 @@
             "igrandpharm.com",
             "igrandpills.com",
             "igrandpills.net",
-            "igrapoker.info"
-        ],
-        "to_test": [
+            "igrapoker.info",
             "igreatrx.com",
             "igrejaprojetodedeus.com.br",
             "igxdfdfds.com",
@@ -15982,7 +15980,6 @@
             "ilumigrafias.adriancugar.com",
             "iluminante.com.br",
             "iluni-psiui.org",
-            "iluzjonnisttka.za.pl",
             "im-consultants.net",
             "im.800.com",
             "im.aol.de",
@@ -16095,7 +16092,9 @@
             "images.bryghtads.com",
             "images.burstly.com",
             "images.carrieriq.com",
-            "images.casee.cn",
+            "images.casee.cn"
+        ],
+        "to_test": [
             "images.cenniche.com",
             "images.chartboost.com",
             "images.clickfinders.com",
