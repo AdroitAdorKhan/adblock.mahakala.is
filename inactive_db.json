@@ -30169,9 +30169,7 @@
             "nyt5ds.com",
             "nytimesnews.biz",
             "nyxaeltggspy.com",
-            "nzads.net.nz"
-        ],
-        "to_test": [
+            "nzads.net.nz",
             "nzp0bz44c4.ru",
             "nzrxadrux.com",
             "nzsteamcommunity.com",
@@ -30404,7 +30402,9 @@
             "oca.telemetry.microsoft.com.nsatc.net",
             "ocadocument.com",
             "ocalalivestockmarket.com",
-            "ocarinasthepylons.com",
+            "ocarinasthepylons.com"
+        ],
+        "to_test": [
             "occurfeed.com",
             "oceanic-bankplc.co.uk",
             "oceanic-bankplc.com",
