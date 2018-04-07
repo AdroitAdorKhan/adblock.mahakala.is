@@ -12541,9 +12541,7 @@
             "servuforce.info",
             "servugallon.info",
             "servuhorse.info",
-            "servupull.info"
-        ],
-        "to_test": [
+            "servupull.info",
             "servuwheel.info",
             "servv254.info",
             "servv66.com",
@@ -12645,6 +12643,7 @@
             "severina-vuckovic-video.com",
             "sevice-gouvonline.com",
             "sevisepaypal.com",
+            "sevrisca.com",
             "sevvalsenturk.com",
             "sewamainananak.co.id",
             "sewellgardenservices.com.au",
@@ -12746,7 +12745,9 @@
             "sexmadams.net",
             "sexmasterka-nago.pl",
             "sexmenss.com",
-            "sexmetjepaard.nl",
+            "sexmetjepaard.nl"
+        ],
+        "to_test": [
             "sexnavigador.com",
             "sexnavigador.net",
             "sexo-navigador.com",
