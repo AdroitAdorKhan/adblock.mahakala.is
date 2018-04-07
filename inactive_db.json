@@ -15023,9 +15023,7 @@
             "spincert.info",
             "spincertainty.info",
             "spincerts.info",
-            "spincertskydiving.info"
-        ],
-        "to_test": [
+            "spincertskydiving.info",
             "spindyirl.info",
             "spindyn.info",
             "spindyncentral.info",
@@ -15262,7 +15260,9 @@
             "spymaxx.com",
             "spymedic.co.kr",
             "spynettest.microsoft.com",
-            "spynuker-review.com",
+            "spynuker-review.com"
+        ],
+        "to_test": [
             "spyofficer.com",
             "spyopposition.com",
             "spyopposition.org",
