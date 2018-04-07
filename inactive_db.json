@@ -3305,9 +3305,7 @@
             "pegbh.com",
             "pegsemmy.com",
             "pegsfunfarm.us",
-            "peguards.cc"
-        ],
-        "to_test": [
+            "peguards.cc",
             "peipal.info",
             "peitrn.com",
             "pejafic.com",
@@ -3369,6 +3367,7 @@
             "pentriveso.com",
             "penzawm.com",
             "penzoneonline.info",
+            "peopeo.de",
             "people-choice-sites.com",
             "people-dating.info",
             "people-onlinebank.net",
@@ -3526,6 +3525,7 @@
             "peryllocheap.com",
             "pes15cheats.com",
             "pescasantandrea.ch",
+            "peska.net",
             "pesnacional.com.br",
             "pesptz.org",
             "pesquisesuaviagem.com.br",
@@ -3539,7 +3539,9 @@
             "petcamonline.info",
             "petcollarsandmore.com",
             "peterboroughmover.com",
-            "peterboroughmoving.com",
+            "peterboroughmoving.com"
+        ],
+        "to_test": [
             "peterlittlepublications.com",
             "petermcala.net",
             "petermcannon.com",
