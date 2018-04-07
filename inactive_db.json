@@ -1118,9 +1118,7 @@
             "opsfiles.com",
             "opsnet.pocketmoneyfund.com",
             "opt-out-tech.com",
-            "optical1.xyz"
-        ],
-        "to_test": [
+            "optical1.xyz",
             "opticguardzip.net",
             "optick.info",
             "optikhani.co.id",
@@ -1200,7 +1198,6 @@
             "orbitrative.com",
             "orbitsafaris.com",
             "orc.blizzweb.net",
-            "orca.co.nz",
             "orchardviewstickers.com",
             "orchestragruppo70.it",
             "orchidee2000.de",
@@ -1276,6 +1273,7 @@
             "orhere.com",
             "orientalangelsmovs.com",
             "orientalvirgins.com",
+            "orientepro.com",
             "origin-cached.licenseacquisition.org",
             "origin.7-24ankaraelektrikci.com",
             "origin.bankrate.com",
@@ -1354,7 +1352,9 @@
             "osnads.osdn.com",
             "osohtsound.com",
             "osohtsound.info",
-            "osohtsound.net",
+            "osohtsound.net"
+        ],
+        "to_test": [
             "osorgu.biz",
             "ososososaa.pe.hu",
             "ospizabelin.pl",
