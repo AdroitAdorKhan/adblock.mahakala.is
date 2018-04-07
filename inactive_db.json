@@ -16225,9 +16225,7 @@
             "img3.yyape.com",
             "img4.cdn.adjuggler.com",
             "img4click.com",
-            "img8.lanseshuba.com"
-        ],
-        "to_test": [
+            "img8.lanseshuba.com",
             "imgcdn.ahzlep.com",
             "imgdirectz.com",
             "imgex.eu",
@@ -16421,6 +16419,7 @@
             "incalllan.info",
             "incallmobile.com",
             "incallspa.info",
+            "incapple.managesslservice.com",
             "incarcompany.info",
             "incbargains.info",
             "inccorpco.info",
@@ -16505,7 +16504,9 @@
             "indeliverymeds.com",
             "indemrunahswinkion.com",
             "indendns.org",
-            "independencefinger.com",
+            "independencefinger.com"
+        ],
+        "to_test": [
             "independencefour.com",
             "independencehand.com",
             "independencehunt.com",
