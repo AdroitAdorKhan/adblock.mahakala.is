@@ -897,9 +897,7 @@
             "onlinetoday33.xyz",
             "onlinetoday34.xyz",
             "onlinetoday35.xyz",
-            "onlinetoday36.xyz"
-        ],
-        "to_test": [
+            "onlinetoday36.xyz",
             "onlinetoday37.xyz",
             "onlinetradings.net",
             "onlinetreasury77.com",
@@ -1047,7 +1045,6 @@
             "openliteweb.info",
             "openlitewebip.info",
             "openlitewebonline.info",
-            "opennewsnz.top",
             "openoverflow.com",
             "openprotection.info",
             "openpub.ifensi.com",
@@ -1118,11 +1115,12 @@
             "opreny.com",
             "ops-screen.com",
             "opserver01.iti.net.pk",
-            "opsex.net",
             "opsfiles.com",
             "opsnet.pocketmoneyfund.com",
             "opt-out-tech.com",
-            "optical1.xyz",
+            "optical1.xyz"
+        ],
+        "to_test": [
             "opticguardzip.net",
             "optick.info",
             "optikhani.co.id",
