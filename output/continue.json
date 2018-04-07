@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/adblock.mahakala.is/domains.list": {
-        "down": 51844,
-        "invalid": 176,
-        "tested": 151111,
-        "up": 99091
+        "down": 52082,
+        "invalid": 177,
+        "tested": 151871,
+        "up": 99612
     }
 }
