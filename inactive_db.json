@@ -13924,9 +13924,7 @@
             "hk.ndx.nextmedia.com",
             "hk1eyenfzjd7.com",
             "hk365.info",
-            "hkaf-hk.org"
-        ],
-        "to_test": [
+            "hkaf-hk.org",
             "hkcsftku.biz",
             "hkcsftku.com",
             "hkcsftku.net",
@@ -13961,7 +13959,6 @@
             "hlebetspat.com",
             "hlebetstri.com",
             "hlemotorbike.com",
-            "hlisovd.pl",
             "hljyuxuan.com",
             "hlldmmvwrquy.com",
             "hloubek.com",
@@ -14121,6 +14118,9 @@
             "homealabamaworld.info",
             "homeamazonkh.com",
             "homeandopenhouse.info",
+            "homebestwebmart.ru"
+        ],
+        "to_test": [
             "homebodiespatterns.com",
             "homebussinesss.com",
             "homebuyingalabama.info",
