@@ -7390,9 +7390,7 @@
             "r001.info",
             "r007.info",
             "r00t3d.co.uk",
-            "r00x.info"
-        ],
-        "to_test": [
+            "r00x.info",
             "r0218.rsstatic.ru",
             "r0bots.name",
             "r0hayx.info",
@@ -7557,7 +7555,6 @@
             "ramachandratech.com",
             "ramadan.vallpros-as.com",
             "rambotrial.nl",
-            "rameshco.ir",
             "rameypics.com",
             "ramonaisnothappy.net",
             "ramonda-ramonda.net",
@@ -7607,7 +7604,9 @@
             "rangoberry.com",
             "rank.quedusex.com",
             "rank3w.com",
-            "rankball.com",
+            "rankball.com"
+        ],
+        "to_test": [
             "rankchecker.online",
             "ranking-net.de",
             "ranking.ynet.com",
