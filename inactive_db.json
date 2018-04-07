@@ -19146,9 +19146,7 @@
             "jx.kingsoft.com",
             "jx8.pl",
             "jxad.jx163.com",
-            "jxgxzgpdwqdx.cn"
-        ],
-        "to_test": [
+            "jxgxzgpdwqdx.cn",
             "jxhy5.cn",
             "jxqdry.ru",
             "jxqy2wg.com",
@@ -19297,7 +19295,6 @@
             "kamyst.websoft.kz",
             "kan.kanoner.com",
             "kan.karpovka.net",
-            "kandkonlinestore.com",
             "kangarootentcity.com.au",
             "kangous.com",
             "kangrims.com",
@@ -19353,7 +19350,9 @@
             "karmashop.in",
             "karmiksupport.com",
             "karmusingweb.com",
-            "karnawalowe-bony-do-drogerii.pl",
+            "karnawalowe-bony-do-drogerii.pl"
+        ],
+        "to_test": [
             "karolsamaha.co.uk",
             "karstard.com",
             "kartelelink.org",
