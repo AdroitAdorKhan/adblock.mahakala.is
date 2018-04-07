@@ -18849,9 +18849,7 @@
             "js.admngr.com",
             "js.betburdaaffiliates.com",
             "js.bigdoor.com",
-            "js.cdn.ac"
-        ],
-        "to_test": [
+            "js.cdn.ac",
             "js.dmtry.com",
             "js.e-satisfy.com",
             "js.eyouv.cn",
@@ -18957,7 +18955,9 @@
             "juegosdemario.tv",
             "juegosdepeluqueria.es",
             "juegosdesims.net",
-            "juegosdetiros.net",
+            "juegosdetiros.net"
+        ],
+        "to_test": [
             "juegosflash.pe",
             "juegosfree.ok.pe",
             "juegosgratis.bz",
