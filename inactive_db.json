@@ -25478,9 +25478,7 @@
             "microsoftes.cn",
             "microsoftgeneratorpoints.com",
             "microsofthelpcenter.xyz",
-            "microsofthelpline.xyz"
-        ],
-        "to_test": [
+            "microsofthelpline.xyz",
             "microsoftmediaplayer.net",
             "microsoftmg.com",
             "microsoftofficesetups.com",
@@ -25638,6 +25636,7 @@
             "millenniumflorist.com.au",
             "millergames.net",
             "millerssportshop.com",
+            "millicinthotel.com",
             "milliezplace.com",
             "millionairesweetheart.com",
             "millionrail.com",
@@ -25663,7 +25662,6 @@
             "mimageads9.googleadservices.com",
             "mimapandansari.sch.id",
             "mimiandmat.info",
-            "mimibabybooks.com",
             "mimiclipa.info",
             "mimidirect.info",
             "mimiguide.info",
@@ -25761,7 +25759,9 @@
             "minitavr1.xj.cn",
             "minitavr2.fj.cn",
             "minitavr2.xj.cn",
-            "minitavr3.fj.cn",
+            "minitavr3.fj.cn"
+        ],
+        "to_test": [
             "minitavr3.xj.cn",
             "minitavr4.fj.cn",
             "minitavr4.xj.cn",
