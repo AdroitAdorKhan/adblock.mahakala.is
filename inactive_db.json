@@ -3539,9 +3539,7 @@
             "petcamonline.info",
             "petcollarsandmore.com",
             "peterboroughmover.com",
-            "peterboroughmoving.com"
-        ],
-        "to_test": [
+            "peterboroughmoving.com",
             "peterlittlepublications.com",
             "petermcala.net",
             "petermcannon.com",
@@ -3588,7 +3586,6 @@
             "pg.buzzfeed.com",
             "pg.links.channelintelligence.com",
             "pgames.com.ar",
-            "pgamggzxj.top",
             "pgamilzicp.com",
             "pgh9gz9.info",
             "pglb.buzzfed.com",
@@ -3804,7 +3801,9 @@
             "phoryingluxury.com",
             "photo-club.co.za",
             "photo-contact.net",
-            "photo.knowwhatgodwants.com",
+            "photo.knowwhatgodwants.com"
+        ],
+        "to_test": [
             "photofundays.com",
             "photographie-nicolas.fr",
             "photography.prine.org",
