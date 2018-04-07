@@ -10063,9 +10063,7 @@
             "s1s1s1search.com",
             "s1w.co",
             "s2.buysellads.com",
-            "s2.gamecreds.com"
-        ],
-        "to_test": [
+            "s2.gamecreds.com",
             "s2.vendetta.fr",
             "s2.youtube.com",
             "s201.indexstats.com",
@@ -10265,7 +10263,9 @@
             "saidraise.net",
             "saidtook.net",
             "saidwatch.com",
-            "saiincap.com",
+            "saiincap.com"
+        ],
+        "to_test": [
             "sailfutpexpl.com",
             "sailing3.com",
             "sailother.com",
