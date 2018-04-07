@@ -25240,9 +25240,7 @@
             "metalmorning.com",
             "metalnogoad.info",
             "metalnopoke.info",
-            "metalnoprod.info"
-        ],
-        "to_test": [
+            "metalnoprod.info",
             "metals-trading.net",
             "metalsal.info",
             "metamailonline.com",
@@ -25401,7 +25399,6 @@
             "michiyonakajima.com",
             "mickeysmart.org",
             "miclosoft.org",
-            "micodes.com",
             "micoirsoft.com",
             "micosoft.com-web.support",
             "micq-h.info",
@@ -25481,7 +25478,9 @@
             "microsoftes.cn",
             "microsoftgeneratorpoints.com",
             "microsofthelpcenter.xyz",
-            "microsofthelpline.xyz",
+            "microsofthelpline.xyz"
+        ],
+        "to_test": [
             "microsoftmediaplayer.net",
             "microsoftmg.com",
             "microsoftofficesetups.com",
