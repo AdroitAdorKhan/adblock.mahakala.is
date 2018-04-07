@@ -10911,9 +10911,7 @@
             "scuritycheck-acct-25687.esy.es",
             "sd-2556.dedibox.fr",
             "sd.5.p2l.info",
-            "sd.play.com"
-        ],
-        "to_test": [
+            "sd.play.com",
             "sd1027.sivit.org",
             "sd11d176.com",
             "sd1kalirejokudus.sch.id",
@@ -11321,7 +11319,9 @@
             "searche.info",
             "searched.cc",
             "searcheleven.com",
-            "searchem.biz",
+            "searchem.biz"
+        ],
+        "to_test": [
             "searchempire.cc",
             "searchemup.info",
             "searchenginefoundation.com",
