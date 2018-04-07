@@ -3801,9 +3801,7 @@
             "phoryingluxury.com",
             "photo-club.co.za",
             "photo-contact.net",
-            "photo.knowwhatgodwants.com"
-        ],
-        "to_test": [
+            "photo.knowwhatgodwants.com",
             "photofundays.com",
             "photographie-nicolas.fr",
             "photography.prine.org",
@@ -3823,6 +3821,7 @@
             "photos.offers.analoganalytics.com",
             "photos.truprint.co.uk",
             "photosbylucinda.com",
+            "photostudiolightings.com",
             "photoswold.com",
             "phototphcm.com",
             "photozland.com",
@@ -4082,7 +4081,9 @@
             "pillztrip.com",
             "pillzzz.com",
             "pilot.pilotcoller.com",
-            "pilotcodec.com",
+            "pilotcodec.com"
+        ],
+        "to_test": [
             "pilshetree.info",
             "pilzdeal.com",
             "pimosta.com",
