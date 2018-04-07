@@ -29595,9 +29595,7 @@
             "northernarizonastorage.info",
             "northerncreditdirect.com",
             "northerngenerics.com",
-            "northernlightjewelry.com"
-        ],
-        "to_test": [
+            "northernlightjewelry.com",
             "northestpill.com",
             "northestprescription.com",
             "northfacestore.online",
@@ -29653,6 +29651,7 @@
             "nortlhfinance.com",
             "nortoklor.biz",
             "norton-antivirus-2007.com",
+            "norton-antivirus-trial.searchservice.info",
             "norton-av2007.com",
             "norton-kaspersky.ru",
             "norton-scan-mobile.com",
@@ -29935,7 +29934,9 @@
             "ns2.genericstrattera.com",
             "ns2.lalibco.com",
             "ns2.primeinteractive.net",
-            "ns2.rosprint.ru",
+            "ns2.rosprint.ru"
+        ],
+        "to_test": [
             "ns2.tsulqulzy.com",
             "ns2.webwise.com",
             "ns2.youcanoptout.com",
