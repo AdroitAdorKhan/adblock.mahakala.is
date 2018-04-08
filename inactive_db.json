@@ -16127,9 +16127,7 @@
             "stichback.com",
             "stickchange.info",
             "stickcopy.com",
-            "stickelse.net"
-        ],
-        "to_test": [
+            "stickelse.net",
             "stickerzs.tw1.ru",
             "stickgames247.com",
             "stickhealth.com",
@@ -16289,7 +16287,6 @@
             "storetailermall.net",
             "storetailersales.com",
             "storetailersales.net",
-            "storetracks.net",
             "storexonline.net",
             "storeychiro.com",
             "storeychiro.net",
@@ -16370,8 +16367,9 @@
             "streamstats1.blinkx.com",
             "streamxxxvideo.com",
             "strechkins.com",
-            "stred.biz",
-            "stred.in",
+            "stred.in"
+        ],
+        "to_test": [
             "street401kglobal.com",
             "streetconsider.com",
             "streetdried.net",
