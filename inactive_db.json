@@ -24472,9 +24472,7 @@
             "w-w-w-dot-com.com",
             "w.admob.com",
             "w.coin.scribol.com",
-            "w.homes.yahoo.net"
-        ],
-        "to_test": [
+            "w.homes.yahoo.net",
             "w.mcdir.ru",
             "w.mlv-cdn.com",
             "w.plugrush.com",
@@ -24668,6 +24666,7 @@
             "waesorb.net",
             "waewqwqw9283749201.com",
             "waffenboard.de",
+            "wafmedia3.com",
             "wagabona.org",
             "wagepropem.com",
             "wagepropem.info",
@@ -24675,7 +24674,9 @@
             "wagfle.com",
             "wahlpogo.com",
             "waillc.com",
-            "wairsupremepill.com",
+            "wairsupremepill.com"
+        ],
+        "to_test": [
             "waitbusy.com",
             "waitexpect.com",
             "waitheight.net",
