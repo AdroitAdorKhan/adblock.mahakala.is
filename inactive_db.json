@@ -20584,9 +20584,7 @@
             "trgarin.gs.cn",
             "trgarin.zj.cn",
             "trglobal.biz",
-            "trgt.eu"
-        ],
-        "to_test": [
+            "trgt.eu",
             "triad.technorati.com",
             "trial-collector.snplow.com",
             "trial-packs.com",
@@ -20835,7 +20833,9 @@
             "tscodec.com",
             "tscregistration.com",
             "tsheringlama.com",
-            "tshirtraja.com",
+            "tshirtraja.com"
+        ],
+        "to_test": [
             "tsintoe.com",
             "tsmfirm.com",
             "tsms-ad.tsms.com",
