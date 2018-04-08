@@ -26403,9 +26403,7 @@
             "winsystemalert2.xyz",
             "winsystemalert3.xyz",
             "winsystemalert4.xyz",
-            "winsystemalert5.xyz"
-        ],
-        "to_test": [
+            "winsystemalert5.xyz",
             "winsystemalert6.xyz",
             "winsystemalert7.xyz",
             "winsystemalert8.xyz",
@@ -26627,7 +26625,6 @@
             "wlsdud1122.ddns.net",
             "wm-interviews.com",
             "wm.17wan.info",
-            "wm.makeding.com",
             "wm.maxysearch.info",
             "wm21news.com",
             "wmadirection.com",
@@ -26833,7 +26830,9 @@
             "worldbestfireworks.com",
             "worldcash-options.com",
             "worldcasino.to",
-            "worldcheapestdrugstore.com",
+            "worldcheapestdrugstore.com"
+        ],
+        "to_test": [
             "worldcup2014streams.com",
             "worldcup2099.com",
             "worldeasymedications.com",
