@@ -15260,9 +15260,7 @@
             "spymaxx.com",
             "spymedic.co.kr",
             "spynettest.microsoft.com",
-            "spynuker-review.com"
-        ],
-        "to_test": [
+            "spynuker-review.com",
             "spyofficer.com",
             "spyopposition.com",
             "spyopposition.org",
@@ -15389,6 +15387,7 @@
             "srdcfoods.com",
             "srdnb.com",
             "srdxc9-s08-0.info",
+            "sreedharricemill.com",
             "sreeshbestdealstore.com",
             "srelom.com",
             "srilaktours.com",
@@ -15592,7 +15591,9 @@
             "st.n.ads1-adnow.com",
             "st.n.ads3-adnow.com",
             "st.valueclick.com",
-            "st.vq.ku6.cn",
+            "st.vq.ku6.cn"
+        ],
+        "to_test": [
             "st1.recreativ.ru",
             "st1.surf-town.net",
             "st2.surf-town.net",
