@@ -18548,9 +18548,7 @@
             "thatissearch.com",
             "thatscale.com",
             "thatshowwerollalways.com",
-            "thatspecialfavor.com"
-        ],
-        "to_test": [
+            "thatspecialfavor.com",
             "thattire.com",
             "thddod.biz",
             "the-amazing-spider-man2.info",
@@ -18704,6 +18702,7 @@
             "thecorpforward.info",
             "thecorporate.gift",
             "thecounter.com.invalid",
+            "thecountryboy.com.au",
             "thecowboyswaydancesaloon.com",
             "thecreatemajor.info",
             "thecreditcardsolution.com",
@@ -18757,6 +18756,7 @@
             "theftautoonline.info",
             "theftsite.info",
             "theftworld.info",
+            "thefuck.org",
             "thefuckcontest.com",
             "thefunny-08.com",
             "thefunny-s08.com",
@@ -18789,7 +18789,9 @@
             "thegreatpath.info",
             "thegreattablet.com",
             "thegreattablets.com",
-            "thegreenengineering.com",
+            "thegreenengineering.com"
+        ],
+        "to_test": [
             "thegrilledburger.com",
             "thegroupregsite.info",
             "thegrovegallery.com",
