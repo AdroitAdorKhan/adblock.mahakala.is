@@ -18789,9 +18789,7 @@
             "thegreatpath.info",
             "thegreattablet.com",
             "thegreattablets.com",
-            "thegreenengineering.com"
-        ],
-        "to_test": [
+            "thegreenengineering.com",
             "thegrilledburger.com",
             "thegroupregsite.info",
             "thegrovegallery.com",
@@ -18945,7 +18943,6 @@
             "theolsenbrothers.info",
             "theonlinegames.net",
             "theopenliteweb.info",
-            "theoreon.com",
             "theoriginalleather.info",
             "theorphanasylum.club",
             "theoutdoor-fitness.org",
@@ -19076,7 +19073,9 @@
             "thestraddlesite.info",
             "thestrangeangels.com",
             "thestreetshoehouse.com",
-            "thestreetshoeshouse.com",
+            "thestreetshoeshouse.com"
+        ],
+        "to_test": [
             "thesungs.us",
             "thesupercheats.com",
             "thesuperxxx.com",
