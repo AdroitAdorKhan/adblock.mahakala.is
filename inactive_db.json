@@ -20150,9 +20150,7 @@
             "track.msadcenter.xzwy.com",
             "track.msadcenter.yaz.com",
             "track.msadcenter.ytbp.com",
-            "track.msadcenter.zhv.com"
-        ],
-        "to_test": [
+            "track.msadcenter.zhv.com",
             "track.msadcenter.zlx.com",
             "track.msadcenter.zun.com",
             "track.myaffnet.com",
@@ -20201,8 +20199,8 @@
             "track.vivid.com",
             "track.webbranddeals.com",
             "track.webmatics.info",
+            "track.whatwhowhywhere.com",
             "track.whitespace57.com",
-            "track.www.zazzle.com",
             "track.yourmedicalpurchase.ru",
             "track.zalando.de",
             "track.zapromotions.com",
@@ -20305,7 +20303,9 @@
             "tracking.sim-technik.de",
             "tracking.times247.com",
             "tracking.tradeking.com",
-            "tracking.ustream.tv",
+            "tracking.ustream.tv"
+        ],
+        "to_test": [
             "tracking.vitringez.com",
             "tracking.we7.com",
             "tracking.web2corp.com",
