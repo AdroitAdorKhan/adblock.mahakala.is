@@ -20303,9 +20303,7 @@
             "tracking.sim-technik.de",
             "tracking.times247.com",
             "tracking.tradeking.com",
-            "tracking.ustream.tv"
-        ],
-        "to_test": [
+            "tracking.ustream.tv",
             "tracking.vitringez.com",
             "tracking.we7.com",
             "tracking.web2corp.com",
@@ -20586,7 +20584,9 @@
             "trgarin.gs.cn",
             "trgarin.zj.cn",
             "trglobal.biz",
-            "trgt.eu",
+            "trgt.eu"
+        ],
+        "to_test": [
             "triad.technorati.com",
             "trial-collector.snplow.com",
             "trial-packs.com",
