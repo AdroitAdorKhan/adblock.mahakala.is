@@ -17509,9 +17509,7 @@
             "t-72j.info",
             "t-online.de.uberprufung.konto.imminentgreenfarms.in",
             "t-recruit.com",
-            "t-redirect.com"
-        ],
-        "to_test": [
+            "t-redirect.com",
             "t.ad2games.com",
             "t.admob.com",
             "t.booksuper.info",
@@ -17611,6 +17609,7 @@
             "tag--portal.com",
             "tag-boardit.org",
             "tag-cdn.nestapaband.com",
+            "tag-stats.huffingtonpost.com",
             "tag-stats.huffpost.com",
             "tag.admeld.com",
             "tag.beanstock.co",
@@ -17664,7 +17663,9 @@
             "taiyo-gift.co.jp",
             "takahashisrv.com",
             "take-job.eu",
-            "take-me-today.com",
+            "take-me-today.com"
+        ],
+        "to_test": [
             "take5withgod.org",
             "takeawaytrainer.com",
             "takecarewage.com",
