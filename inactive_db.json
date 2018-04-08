@@ -17258,9 +17258,7 @@
             "swfutility.com",
             "swhmzq.com",
             "swiat-pobran.pl",
-            "swiatbotow.pl"
-        ],
-        "to_test": [
+            "swiatbotow.pl",
             "swietne-bony.pl",
             "swietne-kolekcje.pl",
             "swietne-promocje.pl",
@@ -17511,7 +17509,9 @@
             "t-72j.info",
             "t-online.de.uberprufung.konto.imminentgreenfarms.in",
             "t-recruit.com",
-            "t-redirect.com",
+            "t-redirect.com"
+        ],
+        "to_test": [
             "t.ad2games.com",
             "t.admob.com",
             "t.booksuper.info",
