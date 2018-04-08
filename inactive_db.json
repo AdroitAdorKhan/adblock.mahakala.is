@@ -23231,9 +23231,7 @@
             "verification-itunes.com",
             "verification-locked-account.com",
             "verification-members.net",
-            "verification-mobile-nab.com"
-        ],
-        "to_test": [
+            "verification-mobile-nab.com",
             "verification-of-your-email-account.com",
             "verification-requested.charlycarlos.com",
             "verification-safekeyaccount-required.com",
@@ -23294,6 +23292,7 @@
             "verify-info.net",
             "verify-information-id.com",
             "verify-intl-service.com",
+            "verify-message-craigslist.org",
             "verify-myaccount-paypal.com",
             "verify-myinfo.com",
             "verify-mypaypal-account.com",
@@ -23605,7 +23604,9 @@
             "videoparty-x.com",
             "videoplex.pl",
             "videoporn24.ru",
-            "videoporntube.xxx",
+            "videoporntube.xxx"
+        ],
+        "to_test": [
             "videos-access.com",
             "videos-delires.com",
             "videos.absexe.com",
