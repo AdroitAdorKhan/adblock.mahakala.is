@@ -1468,9 +1468,7 @@
             "xvcxc.com",
             "xved32.com",
             "xvgaoke.cn",
-            "xvideocodec.com"
-        ],
-        "to_test": [
+            "xvideocodec.com",
             "xvidsworld.com",
             "xvikings.com",
             "xvsenterprise.com",
@@ -1480,6 +1478,7 @@
             "xwsite.net",
             "xx-amateur-movies.org",
             "xx.m.gxwztv.com",
+            "xx2.pl",
             "xx4fr3.com",
             "xx52200.com",
             "xxbayxx.info",
@@ -1688,6 +1687,7 @@
             "yanuotianxia.org",
             "yanxiau.cn",
             "yaoneu.net",
+            "yaonie.me",
             "yapi.awe.sm",
             "yapsearch.biz",
             "yapsearch.info",
@@ -1728,7 +1728,9 @@
             "yawn.fj.cn",
             "yazhoutupianwang.com",
             "yazneoff.com",
-            "yazouh.com",
+            "yazouh.com"
+        ],
+        "to_test": [
             "ybbijjrhwcnm.com",
             "ybeanothernutrition.com",
             "ybmxjhfveg.net",
