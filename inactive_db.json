@@ -15941,9 +15941,7 @@
             "stats.indexstats.com",
             "stats.indextools.com",
             "stats.internet-yadro.com",
-            "stats.ipvertising.com"
-        ],
-        "to_test": [
+            "stats.ipvertising.com",
             "stats.jippii.com",
             "stats.klsoft.com",
             "stats.libera.org.uk",
@@ -15977,6 +15975,7 @@
             "stats.ssa.gov",
             "stats.staging.suite101.com",
             "stats.stats.fr",
+            "stats.street-jeni.us",
             "stats.styletechnology.me",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
@@ -16000,6 +15999,7 @@
             "stats4all.cc",
             "stats5.lightningcast.com",
             "stats6.lightningcast.net",
+            "stats777.com",
             "statsadvance-01.net",
             "statscash.org",
             "statsrv.451.com",
@@ -16047,7 +16047,6 @@
             "steamcomunity.su",
             "steamconmunicty.com",
             "steamconmuniity.com",
-            "steamconnmunitly.com",
             "steamcormuniity.com",
             "steamcornnnunity.com",
             "steamcoymmunity.com",
@@ -16128,7 +16127,9 @@
             "stichback.com",
             "stickchange.info",
             "stickcopy.com",
-            "stickelse.net",
+            "stickelse.net"
+        ],
+        "to_test": [
             "stickerzs.tw1.ru",
             "stickgames247.com",
             "stickhealth.com",
