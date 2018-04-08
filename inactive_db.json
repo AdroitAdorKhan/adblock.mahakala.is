@@ -15591,9 +15591,7 @@
             "st.n.ads1-adnow.com",
             "st.n.ads3-adnow.com",
             "st.valueclick.com",
-            "st.vq.ku6.cn"
-        ],
-        "to_test": [
+            "st.vq.ku6.cn",
             "st1.recreativ.ru",
             "st1.surf-town.net",
             "st2.surf-town.net",
@@ -15677,6 +15675,7 @@
             "stargolfshop.info",
             "starimaribor.com",
             "starintuition.com",
+            "starkvillereads.org",
             "starless.movie-maps.com",
             "starlight-events.net",
             "starlix.ql.st",
@@ -15801,7 +15800,9 @@
             "stateability.com",
             "stateandfed.cn",
             "statecolldirect.info",
-            "statements-icloudappleid.com",
+            "statements-icloudappleid.com"
+        ],
+        "to_test": [
             "statementsinsteelsa.co.za",
             "statesince.com",
             "stateudirect.com",
