@@ -15800,9 +15800,7 @@
             "stateability.com",
             "stateandfed.cn",
             "statecolldirect.info",
-            "statements-icloudappleid.com"
-        ],
-        "to_test": [
+            "statements-icloudappleid.com",
             "statementsinsteelsa.co.za",
             "statesince.com",
             "stateudirect.com",
@@ -15933,7 +15931,6 @@
             "stats.eyeviewdigital.com",
             "stats.f-secure.com",
             "stats.farfetch.com",
-            "stats.firedrive.com",
             "stats.foxcounter.com",
             "stats.free-rein.net",
             "stats.gamespy.com",
@@ -15944,7 +15941,9 @@
             "stats.indexstats.com",
             "stats.indextools.com",
             "stats.internet-yadro.com",
-            "stats.ipvertising.com",
+            "stats.ipvertising.com"
+        ],
+        "to_test": [
             "stats.jippii.com",
             "stats.klsoft.com",
             "stats.libera.org.uk",
