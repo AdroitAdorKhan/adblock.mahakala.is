@@ -24674,9 +24674,7 @@
             "wagfle.com",
             "wahlpogo.com",
             "waillc.com",
-            "wairsupremepill.com"
-        ],
-        "to_test": [
+            "wairsupremepill.com",
             "waitbusy.com",
             "waitexpect.com",
             "waitheight.net",
@@ -24913,7 +24911,9 @@
             "watchguardservices.info",
             "watchguardsoftware.info",
             "watchguardstore.info",
-            "watchhdmovie.biz",
+            "watchhdmovie.biz"
+        ],
+        "to_test": [
             "watchingthetube.com",
             "watchitonline.info",
             "watchlength.com",
