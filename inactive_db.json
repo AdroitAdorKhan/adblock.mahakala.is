@@ -29574,11 +29574,10 @@
             "www.promo.tristastevens.com",
             "www.promos.fling.com",
             "www.promos.meetlocals.com",
-            "www.promoserver.net"
-        ],
-        "to_test": [
+            "www.promoserver.net",
             "www.prosec-mobile.com",
             "www.prosoftware-de.info",
+            "www.protegetech.com",
             "www.protizer.net",
             "www.prrotocoll.xyz",
             "www.psbbanners.com",
@@ -29651,6 +29650,7 @@
             "www.refer85.outster.com",
             "www.referral.topbucks.com",
             "www.reg-cleaners.com",
+            "www.regcure.software-com.com",
             "www.regiepublicitairecpm.com",
             "www.registrarads.com",
             "www.registry-cleaners-reviews.net",
@@ -29719,7 +29719,9 @@
             "www.samsclub33.pochta.ru",
             "www.samscoupon.com",
             "www.samsung.ewygrana.pl",
-            "www.sanoma-adverteren.nl",
+            "www.sanoma-adverteren.nl"
+        ],
+        "to_test": [
             "www.sasson-cpa.co.il",
             "www.save-plan.com",
             "www.savings-specials.com",
