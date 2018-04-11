@@ -5270,9 +5270,7 @@
             "adguru.guruji.com",
             "adheration-credit-agricole.com",
             "adherationde-credit-agricole.com",
-            "adhfd.com"
-        ],
-        "to_test": [
+            "adhfd.com",
             "adhokuspokus.com",
             "adhosting.ohmyad.co",
             "adhref.pl",
@@ -5293,7 +5291,6 @@
             "adimages.4sure.com",
             "adimages.beeb.com",
             "adimages.earthweb.com",
-            "adimages.myjizztube.com",
             "adimages.watchmygf.net",
             "adincl.go2net.com",
             "adincl.gopher.com",
@@ -5459,6 +5456,7 @@
             "admaster.candela.com.au",
             "admatch-syndication.mochila.com",
             "admax.quisma.com",
+            "adme.selfip.org",
             "admedia.xoom.com",
             "admedia.xoom.org",
             "admediacpm.com",
@@ -5518,7 +5516,9 @@
             "admon1.count.brat-online.ro",
             "admost.nl",
             "admp-tc.krak.dk",
-            "admyxto.net",
+            "admyxto.net"
+        ],
+        "to_test": [
             "adn.adagogo.com",
             "adn.adbuddiz.com",
             "adn.adiquity.com",
