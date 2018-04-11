@@ -4697,9 +4697,7 @@
             "ad-images.suntimes.com",
             "ad-incisive.grapeshot.co.uk",
             "ad-peta.makeit-online.de",
-            "ad-servicestats.net"
-        ],
-        "to_test": [
+            "ad-servicestats.net",
             "ad-soft.net",
             "ad-uk.tiscali.com",
             "ad-us-east-1.pxlad.io",
@@ -4797,7 +4795,6 @@
             "ad.download.net",
             "ad.dsnrmg.com",
             "ad.e-go.gr",
-            "ad.e-sport.com",
             "ad.e-viral.com",
             "ad.edision-nord.it",
             "ad.erektor.ru",
@@ -4866,7 +4863,9 @@
             "ad.logro.com.tr",
             "ad.madvertise.com",
             "ad.madvertise.de",
-            "ad.mainichi.jp",
+            "ad.mainichi.jp"
+        ],
+        "to_test": [
             "ad.membrana.ru",
             "ad.millennialmedia.com",
             "ad.minddrivers.com",
