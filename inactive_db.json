@@ -3426,9 +3426,7 @@
             "80erros-notice5-alert5t1.com",
             "81-203-2-114.user.ono.com",
             "810810.org",
-            "812523-deutschland-prob-sicherheit-account.schutz-sicherheitshilfe.tk"
-        ],
-        "to_test": [
+            "812523-deutschland-prob-sicherheit-account.schutz-sicherheitshilfe.tk",
             "813aw0nr01jsxfj374ca.com",
             "815560-deu-gast-angabe-konto_identity.sicherheitsvorbeugung-vorbeugung.gq",
             "81blinks.net",
@@ -3495,7 +3493,6 @@
             "888europrime.com",
             "888onlineerrorreport.info",
             "889413--nutzung-sicher-account.schutz-sicherheitsabwehr.cf",
-            "88bocai.net",
             "88huang.cn",
             "88top.ch",
             "88top.li",
@@ -3582,6 +3579,7 @@
             "90minhalf.com",
             "90offtravel.com",
             "90pics.com",
+            "90s.co.nz",
             "910243-de-storno-sicher-nachweis.sicherheitsabfrage-schutz.gq",
             "911-search.com",
             "911-search.info",
@@ -3730,7 +3728,9 @@
             "a-cast.jp",
             "a-cd.info",
             "a-commando.info",
-            "a-find4u.com",
+            "a-find4u.com"
+        ],
+        "to_test": [
             "a-memory-foam-mattress.com",
             "a-n-d-the.com",
             "a-n-k-o-r.com",
