@@ -6267,9 +6267,7 @@
             "ads.postimees.ee",
             "ads.pramer.tv",
             "ads.premiereinteractive.com",
-            "ads.premiership.bg"
-        ],
-        "to_test": [
+            "ads.premiership.bg",
             "ads.premiumnetwork.com",
             "ads.prestigecasino.com",
             "ads.primaryclick.com",
@@ -6312,9 +6310,9 @@
             "ads.rockstargames.com",
             "ads.rodale.com",
             "ads.roiserver.com",
-            "ads.rottentomatoes.com",
             "ads.rp-online.de",
             "ads.rpgdot.com",
+            "ads.rte.ie",
             "ads.sandino.net",
             "ads.santanderrio.com.ar",
             "ads.savannahnow.com",
@@ -6340,6 +6338,7 @@
             "ads.skooiz.com",
             "ads.sl.interpals.net",
             "ads.slapdot.com",
+            "ads.slava.bg",
             "ads.smartclicks.net",
             "ads.smartdevicemedia.com",
             "ads.smartguide.ch",
@@ -6406,6 +6405,7 @@
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
+            "ads.tripican.com",
             "ads.tritonmedia.com",
             "ads.trueweather.com",
             "ads.trutv.com",
@@ -6442,7 +6442,9 @@
             "ads.viewx.co.uk",
             "ads.vintageporntubenet.com",
             "ads.vip.strlng.exodus.discovery.com",
-            "ads.virgin.net",
+            "ads.virgin.net"
+        ],
+        "to_test": [
             "ads.virtumundo.com",
             "ads.vnuemedia.com",
             "ads.vr-zone.com",
