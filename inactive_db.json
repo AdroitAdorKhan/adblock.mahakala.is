@@ -4995,9 +4995,7 @@
             "ad1.clickhype.com",
             "ad1.denverpost.com",
             "ad1.gamezone.com",
-            "ad1.hotel.com"
-        ],
-        "to_test": [
+            "ad1.hotel.com",
             "ad1.lbn.ru",
             "ad1.peel.com",
             "ad1.yomiuri.co.jp",
@@ -5115,7 +5113,9 @@
             "ada3343.li",
             "adagencyjax.com",
             "adagio.turboadv.com",
-            "adagrupinteraktif.com",
+            "adagrupinteraktif.com"
+        ],
+        "to_test": [
             "adalacenter.org",
             "adalur.com",
             "adalyaosgb.com",
