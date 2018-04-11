@@ -5113,9 +5113,7 @@
             "ada3343.li",
             "adagencyjax.com",
             "adagio.turboadv.com",
-            "adagrupinteraktif.com"
-        ],
-        "to_test": [
+            "adagrupinteraktif.com",
             "adalacenter.org",
             "adalur.com",
             "adalyaosgb.com",
@@ -5272,7 +5270,9 @@
             "adguru.guruji.com",
             "adheration-credit-agricole.com",
             "adherationde-credit-agricole.com",
-            "adhfd.com",
+            "adhfd.com"
+        ],
+        "to_test": [
             "adhokuspokus.com",
             "adhosting.ohmyad.co",
             "adhref.pl",
