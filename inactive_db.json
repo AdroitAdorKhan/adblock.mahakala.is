@@ -4466,9 +4466,7 @@
             "acdorn.lalorshop.com",
             "acdult.lalorshop.com",
             "ace-assist.biz",
-            "ace-cashexpress.com"
-        ],
-        "to_test": [
+            "ace-cashexpress.com",
             "acee159.kr.kr",
             "acefightgear.com.au",
             "acehsentral.id",
@@ -4489,7 +4487,7 @@
             "acessesantanderempresarial.com",
             "acessobb.app-bancario.com.br",
             "acessocaixa.app-gerenciamento.top",
-            "acessoinativa.online",
+            "acessocooperatlva.com",
             "acessomovel.mobi",
             "acessonetseguro.com",
             "acetechbd.com",
@@ -4559,6 +4557,7 @@
             "acountsitepanelacess2.net",
             "acountss-informations.com",
             "acountudate.andrelooks.com",
+            "acousticsolution.co.nz",
             "acpj-hkkh7.info",
             "acquiremeds.com",
             "acquiretrusteddrugs.com",
@@ -4698,7 +4697,9 @@
             "ad-images.suntimes.com",
             "ad-incisive.grapeshot.co.uk",
             "ad-peta.makeit-online.de",
-            "ad-servicestats.net",
+            "ad-servicestats.net"
+        ],
+        "to_test": [
             "ad-soft.net",
             "ad-uk.tiscali.com",
             "ad-us-east-1.pxlad.io",
