@@ -6099,9 +6099,7 @@
             "ads.ljworld.com",
             "ads.lmmob.com",
             "ads.lnkworld.com",
-            "ads.local.ie"
-        ],
-        "to_test": [
+            "ads.local.ie",
             "ads.localnow.com",
             "ads.locators.com",
             "ads.lubbockonline.com",
@@ -6167,7 +6165,6 @@
             "ads.mweb.co.th",
             "ads.mycity.com",
             "ads.myhobbystore.co.uk",
-            "ads.myjizztube.com",
             "ads.n-ws.org",
             "ads.nakidness.com",
             "ads.nandomedia.com",
@@ -6243,6 +6240,7 @@
             "ads.phishhook.com",
             "ads.pickmeup-ltd.com",
             "ads.pilotonline.com",
+            "ads.pimdesign.org",
             "ads.piramit.net",
             "ads.pkr.com",
             "ads.place1.com",
@@ -6269,7 +6267,9 @@
             "ads.postimees.ee",
             "ads.pramer.tv",
             "ads.premiereinteractive.com",
-            "ads.premiership.bg",
+            "ads.premiership.bg"
+        ],
+        "to_test": [
             "ads.premiumnetwork.com",
             "ads.prestigecasino.com",
             "ads.primaryclick.com",
