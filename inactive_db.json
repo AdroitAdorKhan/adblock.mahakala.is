@@ -5938,9 +5938,7 @@
             "ads.esmas.com",
             "ads.eudora.com",
             "ads.eunanoticias.com",
-            "ads.euniverseads.com"
-        ],
-        "to_test": [
+            "ads.euniverseads.com",
             "ads.evansville.net",
             "ads.exhedra.com",
             "ads.expressindia.com",
@@ -6096,11 +6094,14 @@
             "ads.leo.org",
             "ads.letemps.ch",
             "ads.lilengine.com",
+            "ads.linuxjournal.com",
             "ads.list-universe.com",
             "ads.ljworld.com",
             "ads.lmmob.com",
             "ads.lnkworld.com",
-            "ads.local.ie",
+            "ads.local.ie"
+        ],
+        "to_test": [
             "ads.localnow.com",
             "ads.locators.com",
             "ads.lubbockonline.com",
