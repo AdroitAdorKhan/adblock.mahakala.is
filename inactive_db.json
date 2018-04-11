@@ -4863,9 +4863,7 @@
             "ad.logro.com.tr",
             "ad.madvertise.com",
             "ad.madvertise.de",
-            "ad.mainichi.jp"
-        ],
-        "to_test": [
+            "ad.mainichi.jp",
             "ad.membrana.ru",
             "ad.millennialmedia.com",
             "ad.minddrivers.com",
@@ -4911,7 +4909,6 @@
             "ad.rbbtoday.com",
             "ad.recursosgratis.com",
             "ad.reduxmediia.com",
-            "ad.reklam.xyz",
             "ad.relatieplanet.nl",
             "ad.response.jp",
             "ad.revmob.com",
@@ -4951,6 +4948,7 @@
             "ad.telnet.hu",
             "ad.tgdaily.com",
             "ad.theequalground.info",
+            "ad.thehill.com",
             "ad.thinkmedia.cn",
             "ad.tijdbeursmedia.nl",
             "ad.tiscali.com",
@@ -4997,7 +4995,9 @@
             "ad1.clickhype.com",
             "ad1.denverpost.com",
             "ad1.gamezone.com",
-            "ad1.hotel.com",
+            "ad1.hotel.com"
+        ],
+        "to_test": [
             "ad1.lbn.ru",
             "ad1.peel.com",
             "ad1.yomiuri.co.jp",
