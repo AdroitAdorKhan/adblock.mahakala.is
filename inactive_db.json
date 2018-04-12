@@ -12159,9 +12159,7 @@
             "audiaacoustics.com",
             "audiary.id",
             "audiclubnyc.sg",
-            "audience.visiblemeasures.com"
-        ],
-        "to_test": [
+            "audience.visiblemeasures.com",
             "audio-ec.spotify.com",
             "audio-sexe.com",
             "audio-sp-sto.spotify.com",
@@ -12323,7 +12321,9 @@
             "av45t10oixo.info",
             "avadvisor.info",
             "availcode.info",
-            "availcodeonline.info",
+            "availcodeonline.info"
+        ],
+        "to_test": [
             "availmorse.info",
             "availover.info",
             "availovercentral.info",
