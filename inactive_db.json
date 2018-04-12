@@ -16399,9 +16399,7 @@
             "bsplaycodec.com",
             "bsplupdate.com",
             "bsplware.com",
-            "bsricil.com"
-        ],
-        "to_test": [
+            "bsricil.com",
             "bsspachod.com",
             "bsspending.com.cn",
             "bsstfirstcredit.com",
@@ -16610,7 +16608,9 @@
             "burtonzblog.com",
             "burttoet.com",
             "burtzblog.com",
-            "busainoac.co.id",
+            "busainoac.co.id"
+        ],
+        "to_test": [
             "buscandoempleointernacional.com",
             "buscards.net",
             "busestec.proyectosjk.cl",
