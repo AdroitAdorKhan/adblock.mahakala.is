@@ -6442,9 +6442,7 @@
             "ads.viewx.co.uk",
             "ads.vintageporntubenet.com",
             "ads.vip.strlng.exodus.discovery.com",
-            "ads.virgin.net"
-        ],
-        "to_test": [
+            "ads.virgin.net",
             "ads.virtumundo.com",
             "ads.vnuemedia.com",
             "ads.vr-zone.com",
@@ -6657,7 +6655,9 @@
             "Adsatt.go.starwave.com",
             "adsbanknepal.com",
             "adsby.uzoogle.com",
-            "adsclick.yx.js.cn",
+            "adsclick.yx.js.cn"
+        ],
+        "to_test": [
             "adsearch.www1.biz",
             "adsentnetwork.com",
             "adseo.net",
