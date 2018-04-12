@@ -2092,9 +2092,7 @@
             "CMRpolice.com",
             "cms.egsys.net",
             "cmservice-login.com",
-            "cmsko.com"
-        ],
-        "to_test": [
+            "cmsko.com",
             "cmtapestry.com",
             "cmweb.ilike.alibaba.com",
             "cmwer.com",
@@ -2150,6 +2148,7 @@
             "cns-ssaintander.com",
             "cnsh.biz",
             "cnspqy.com",
+            "cnt.likealaugh.org",
             "cnt.mastorage.net",
             "cnt.wortalszkoleniowy.pl",
             "cnt.xcounter.com",
@@ -2293,6 +2292,7 @@
             "coditronix.nl",
             "codzienne-wiadomosci.pl",
             "coedtril.biz",
+            "coes-conference.cl",
             "coeursombre.com",
             "cofeb13east.com",
             "coffeemaker4free.com",
@@ -2308,8 +2308,11 @@
             "coifdp.com",
             "coiiac.com",
             "coilt-3.info",
+            "coinarnatic.com",
             "coinmapusa.com",
-            "coinsforfree.online",
+            "coinsforfree.online"
+        ],
+        "to_test": [
             "cokeravepharm.com",
             "col.watercolor.net",
             "colagamento.info",
