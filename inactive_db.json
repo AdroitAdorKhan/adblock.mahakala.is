@@ -12748,9 +12748,7 @@
             "back.banking-regulations.com",
             "back.commercialrainwatercollecting.com",
             "back.knowthetruthng.com",
-            "back.mydiamondbarhomevalue.com"
-        ],
-        "to_test": [
+            "back.mydiamondbarhomevalue.com",
             "back.quansu24h.com",
             "back.value2u2.ca",
             "back.viedemerde.fr",
@@ -12970,7 +12968,9 @@
             "band.chakkaraya.com",
             "band.jainshasanraksha.com",
             "band.wwfcolvid.com",
-            "bandabaiaotropical.com.br",
+            "bandabaiaotropical.com.br"
+        ],
+        "to_test": [
             "bandabocadesino.com.br",
             "bandadesarme.com.br",
             "bandaigames.channel.or.jp",
