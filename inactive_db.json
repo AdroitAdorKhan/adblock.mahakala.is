@@ -13240,9 +13240,7 @@
             "bannerimages.pumpkinpatchkids.com",
             "bannermaster.geektech.com",
             "bannermercial.info",
-            "bannernetwork.cearchives.com"
-        ],
-        "to_test": [
+            "bannernetwork.cearchives.com",
             "banners.amateurtour.com",
             "banners.amoestecuzinho.com",
             "banners.apnuk.com",
@@ -13250,7 +13248,6 @@
             "banners.babylon-x.org",
             "banners.bebadasousadas.com",
             "banners.beted.com",
-            "banners.bgcatalog.net",
             "banners.bige.com",
             "banners.blogexplosion.com",
             "banners.broadwayworld.com",
@@ -13412,7 +13409,9 @@
             "bariit3.li",
             "barisul.com",
             "barjhxoye.info",
-            "bark.synricha.org",
+            "bark.synricha.org"
+        ],
+        "to_test": [
             "barkodeonline.info",
             "barkodeworld.info",
             "barkurenerji.net",
