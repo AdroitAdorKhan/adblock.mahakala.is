@@ -9911,9 +9911,7 @@
             "anunturi.anatech.ro",
             "anuoluwa.info",
             "anurizum.com",
-            "anusblast.com"
-        ],
-        "to_test": [
+            "anusblast.com",
             "anustyle.co.uk",
             "anutoew.com",
             "anutoew.net",
@@ -10057,7 +10055,6 @@
             "apdern.com",
             "apdert.com",
             "apeeunion1104.com",
-            "apenologia.pt",
             "apex0.cn",
             "apex001.org",
             "apex1.cn",
@@ -10355,7 +10352,9 @@
             "api.adwhirl.com",
             "api.ak.facebook.com",
             "api.bidmath.com",
-            "api.bizographics.com",
+            "api.bizographics.com"
+        ],
+        "to_test": [
             "api.bryghtapi.com",
             "api.burstly.com",
             "api.carrieriq.com",
