@@ -11713,9 +11713,7 @@
             "asg01.casalemedia.com",
             "asg02.casalemedia.com",
             "asg03.casalemedia.com",
-            "asg04.casalemedia.com"
-        ],
-        "to_test": [
+            "asg04.casalemedia.com",
             "asg05.casalemedia.com",
             "asg06.casalemedia.com",
             "asg07.casalemedia.com",
@@ -11950,7 +11948,9 @@
             "asstraffic18.net",
             "assuming-latitudes.com",
             "assuming-portal.net",
-            "assura-am1817.com",
+            "assura-am1817.com"
+        ],
+        "to_test": [
             "assurafric.com",
             "assure.portals-voscomptes.com",
             "astabar.com",
