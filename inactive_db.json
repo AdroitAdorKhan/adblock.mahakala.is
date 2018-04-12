@@ -9725,9 +9725,7 @@
             "engine-to-search.com",
             "engine.adland.ru",
             "engine.adpushup.com",
-            "engine.awaps.net"
-        ],
-        "to_test": [
+            "engine.awaps.net",
             "engine.cmmeglobal.com",
             "engine.fl-ads.com",
             "engine.gamerati.net",
@@ -9857,6 +9855,7 @@
             "enui5-r.info",
             "enutltmpiixg.com",
             "envatomarket.pk",
+            "envelbank.pl",
             "enviando-alegria.net",
             "envio-web.com",
             "enviolista.info",
@@ -9906,6 +9905,8 @@
             "epiflen.net",
             "epilepsyabout.info",
             "epinioncash.com",
+            "epl-digitalrefferallcommunications3034.info",
+            "epl-paypalagreements.com",
             "eplarine.com",
             "eplube.net",
             "epmidias.com.br",
@@ -9965,7 +9966,9 @@
             "equator-capital-fin.com",
             "equineperform.com",
             "equipe157.org",
-            "equipoantiespia.com",
+            "equipoantiespia.com"
+        ],
+        "to_test": [
             "equipodemexico.info",
             "equitablepcibank.org",
             "equitablepcibanklte.com",
