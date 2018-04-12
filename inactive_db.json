@@ -9074,9 +9074,7 @@
             "amparozplace.com",
             "amphibian.edivovina.hr",
             "ampjsppmftmfdblpt.info",
-            "ampmsearch.com"
-        ],
-        "to_test": [
+            "ampmsearch.com",
             "amrade.com",
             "amrutvahiniiti.com",
             "ams.addflow.ru",
@@ -9153,7 +9151,6 @@
             "analytics-v2.anvato.com",
             "analytics.adeevo.com",
             "analytics.admob.com",
-            "analytics.amilliamilli.com",
             "analytics.anvato.net",
             "analytics.artirix.com",
             "analytics.bloomberg.com",
@@ -9172,6 +9169,7 @@
             "analytics.magelan.it",
             "analytics.mmosite.com",
             "analytics.nextmedia.com",
+            "analytics.ntiermanaged.com",
             "analytics.performable.com",
             "analytics.photorank.me",
             "analytics.piksel.com",
@@ -9193,6 +9191,7 @@
             "anamality.info",
             "anandamida.com.br",
             "anantanitya.in",
+            "anapa-inns.ru",
             "anapado.ru",
             "anarkdigital.com",
             "anastasiazplace.com",
@@ -9246,7 +9245,9 @@
             "andrewpasswordexpiry.org",
             "andrewzplace.com",
             "andrezplace.com",
-            "andrionmobileapp.bid",
+            "andrionmobileapp.bid"
+        ],
+        "to_test": [
             "android",
             "android-app.software",
             "android-device-alert-online.xyz",
