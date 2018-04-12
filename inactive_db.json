@@ -6362,9 +6362,7 @@
             "diocleaner.com",
             "diocleanerpro.com",
             "diodns.com",
-            "diosoftware.com"
-        ],
-        "to_test": [
+            "diosoftware.com",
             "diplomadoidiomas.com",
             "diplomytut.com",
             "diplomytut.net",
@@ -6388,7 +6386,6 @@
             "direct.jp-bank.japanpost.eu",
             "direct.ninemsn.com.au",
             "direct18.net",
-            "direct84.com",
             "directclieck.com",
             "directcubeone.net",
             "directfilesave.com",
@@ -6396,6 +6393,7 @@
             "directgold4u.com",
             "directgolfball.info",
             "directile.info",
+            "directile.net",
             "directly-from-our-warehouse-a.com",
             "directly-from-our-warehouse-b.com",
             "directly-from-our-warehouse-c.com",
@@ -6631,7 +6629,9 @@
             "djagagasms.com",
             "djanut3.com",
             "djbdohgfd.com",
-            "djdj.k7physio.com",
+            "djdj.k7physio.com"
+        ],
+        "to_test": [
             "djfet.info",
             "djffrpz.cf",
             "djfha31847.com",
