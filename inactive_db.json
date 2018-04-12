@@ -2564,9 +2564,7 @@
             "com.kindkid.com",
             "com.shc-rebates.com",
             "com.utr.hk",
-            "com.websurvey.cc"
-        ],
-        "to_test": [
+            "com.websurvey.cc",
             "com143.cn",
             "com15.us",
             "com18.net",
@@ -2619,6 +2617,7 @@
             "comehomealabama.info",
             "comeinfx.com",
             "comeleft.com",
+            "comercializadorabanlu.com",
             "comeredfor.info",
             "comerfbdll.com",
             "comersetlogistics.com",
@@ -2843,7 +2842,9 @@
             "conditionrise.com",
             "conditionthin.com",
             "condominiumprofessionals.info",
-            "condorinvestigations.com",
+            "condorinvestigations.com"
+        ],
+        "to_test": [
             "conducteurprive.com",
             "conduit.srvoverlay.com",
             "conectandocomweb.com",
