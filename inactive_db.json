@@ -767,9 +767,7 @@
             "childrenneedhelp.biz",
             "childrenneedhelp.org",
             "childrenofanthares.org",
-            "childrenpower.net"
-        ],
-        "to_test": [
+            "childrenpower.net",
             "childrenshake.net",
             "childseason.com",
             "childwatchusa.info",
@@ -841,6 +839,7 @@
             "choices-best.com",
             "choices-good-quality.com",
             "choicesgood-quality.com",
+            "choicesurveypanel.com",
             "choicewide.com",
             "cholesterol-control.info",
             "chongdns102.com",
@@ -890,6 +889,7 @@
             "chriszplace.com",
             "chrklr.eu",
             "chrome-setup.bid",
+            "chromebewfk.top",
             "chromewindows10.com",
             "chronicbee.com",
             "chronicfilez.com",
@@ -950,7 +950,9 @@
             "cibconiine.com",
             "cibconlineuser.hiseru.id",
             "cibcupdates.bombas-calor.pt",
-            "cibleclick.com.invalid",
+            "cibleclick.com.invalid"
+        ],
+        "to_test": [
             "cibsu.com",
             "cic4you.cn",
             "cicero-dropbox.tk",
