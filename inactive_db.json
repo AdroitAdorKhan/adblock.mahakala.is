@@ -15875,9 +15875,7 @@
             "bookclub-offer.com",
             "bookdozer.net",
             "bookdozer.org",
-            "bookerzblog.com"
-        ],
-        "to_test": [
+            "bookerzblog.com",
             "booking-airbnb.com-reminder-reservation-request.info",
             "bookland.dk",
             "bookmark.t2t2.com",
@@ -15946,7 +15944,6 @@
             "bortomanbd.com",
             "boruncrystal.com",
             "borwes.com",
-            "boschetto.de",
             "boschservisigolcuk.org",
             "boscoy.com",
             "bosfinancialgroup.com",
@@ -16004,7 +16001,9 @@
             "boughtshell.com",
             "boughttrust.com",
             "boulognejh.com",
-            "bounce.elsalibanio.pt",
+            "bounce.elsalibanio.pt"
+        ],
+        "to_test": [
             "boundaryservers.info",
             "boundlessingrace.com",
             "boundprofit.cf",
