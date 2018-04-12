@@ -950,9 +950,7 @@
             "cibconiine.com",
             "cibconlineuser.hiseru.id",
             "cibcupdates.bombas-calor.pt",
-            "cibleclick.com.invalid"
-        ],
-        "to_test": [
+            "cibleclick.com.invalid",
             "cibsu.com",
             "cic4you.cn",
             "cicero-dropbox.tk",
@@ -1106,7 +1104,9 @@
             "cjmooter.xcache.kinxcdn.com",
             "cju0i.info",
             "ck4h5w1t57.ticklishpanda1.xyz",
-            "ckcandis.com",
+            "ckcandis.com"
+        ],
+        "to_test": [
             "ckick4thumbs.com",
             "ckidkina.ru",
             "cknvdvynlajqc.pw",
