@@ -5350,9 +5350,7 @@
             "de-sicherheits-update-011.info",
             "de-sicherheits-update-017.info",
             "de-sicherheits-update-030.info",
-            "de-sicherheits-update-051.info"
-        ],
-        "to_test": [
+            "de-sicherheits-update-051.info",
             "de-ve.5a535441.2018.cbricdns.com",
             "de.5.p2l.info",
             "de.intellitxt.com",
@@ -5545,6 +5543,7 @@
             "degreesuccess.net",
             "deguta.beidahuangheifeng.com",
             "dehvajaxjmkp.cn",
+            "deicoy.realstarta.su",
             "deingutscehine.fr",
             "deinhenry.myjino.ru",
             "deinkso.com",
@@ -5607,7 +5606,9 @@
             "delivery.serve.bluelinkmarketing.com",
             "delivery.simplytechnology.net",
             "delivery.uasdel.com",
-            "delivery.w00tads.com",
+            "delivery.w00tads.com"
+        ],
+        "to_test": [
             "deliverymedication.com",
             "dell.gelendwagensjeeps.info",
             "dell.jobpeopleforums.info",
