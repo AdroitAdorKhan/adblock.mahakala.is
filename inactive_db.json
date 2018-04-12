@@ -13493,9 +13493,7 @@
             "forum4.milkstreet.in",
             "forum4.minimol-techomusik.in",
             "forum4.sevkavstrreet.in",
-            "forum4.sportsmusics.in"
-        ],
-        "to_test": [
+            "forum4.sportsmusics.in",
             "forum5.minimol-techomusik.in",
             "forumatomowe.net",
             "forumkafadar.com",
@@ -13637,6 +13635,7 @@
             "fr-mobille-free.info",
             "fr-securitecentrepaypl.com",
             "fr-service-free.net",
+            "fr-subiscribe-free.info",
             "fr-update.org",
             "fr.1sponsor.com",
             "fr.apple.com-services-assistance-recuperations-des-comptes.com",
@@ -13749,7 +13748,9 @@
             "free-dominos.co.uk",
             "free-download-center.com",
             "free-factor.info",
-            "free-fetish.biz",
+            "free-fetish.biz"
+        ],
+        "to_test": [
             "free-floating-buttons.com",
             "free-forcedsex.com",
             "free-fr-moncompte.com",
