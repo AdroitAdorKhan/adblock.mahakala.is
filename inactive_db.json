@@ -12968,9 +12968,7 @@
             "band.chakkaraya.com",
             "band.jainshasanraksha.com",
             "band.wwfcolvid.com",
-            "bandabaiaotropical.com.br"
-        ],
-        "to_test": [
+            "bandabaiaotropical.com.br",
             "bandabocadesino.com.br",
             "bandadesarme.com.br",
             "bandaigames.channel.or.jp",
@@ -13242,7 +13240,9 @@
             "bannerimages.pumpkinpatchkids.com",
             "bannermaster.geektech.com",
             "bannermercial.info",
-            "bannernetwork.cearchives.com",
+            "bannernetwork.cearchives.com"
+        ],
+        "to_test": [
             "banners.amateurtour.com",
             "banners.amoestecuzinho.com",
             "banners.apnuk.com",
