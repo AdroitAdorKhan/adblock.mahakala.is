@@ -4880,9 +4880,7 @@
             "danuoyi.alicdn.com",
             "danyboyinstallation.com",
             "danysearch.com",
-            "daoc-planet.it"
-        ],
-        "to_test": [
+            "daoc-planet.it",
             "daoite.com",
             "daolink.hk",
             "daonetownealy.cn",
@@ -4899,6 +4897,7 @@
             "darasempurna.co.id",
             "darazweb.com",
             "darcfutqva.com",
+            "darcompare.it",
             "darfisod.com",
             "daritepodarok.com",
             "darjheef.com",
@@ -4979,6 +4978,7 @@
             "dastin1.nom.es",
             "dastin1.org.es",
             "data-collection.nikedev.com",
+            "data-domains.info",
             "data-host.org",
             "data-host.us",
             "data-jpmorganchase.com",
@@ -5178,7 +5178,9 @@
             "dawdqw-cmd.info",
             "dawnandwaltslifeadventure.com",
             "dawninvestmentfrem.com",
-            "dawnsworld.mysticalgateway.com",
+            "dawnsworld.mysticalgateway.com"
+        ],
+        "to_test": [
             "dawnyanges.com",
             "dawnyangg.com",
             "dawnyangs.com",
