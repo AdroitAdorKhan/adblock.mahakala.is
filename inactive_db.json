@@ -15657,9 +15657,7 @@
             "boasign.com",
             "boasign.info",
             "boassl.com",
-            "boatersner.com"
-        ],
-        "to_test": [
+            "boatersner.com",
             "boatyear.com",
             "boaupdateusa.com",
             "boaverificationidentityform.iascoachingindia.in",
@@ -15857,7 +15855,6 @@
             "bony.warszawa.pl",
             "bony247.pl",
             "bonydodrogeri.pl",
-            "bonykupony.pl",
             "bonzohosting.com",
             "boo-ya-games.com",
             "boob-party.com",
@@ -15878,7 +15875,9 @@
             "bookclub-offer.com",
             "bookdozer.net",
             "bookdozer.org",
-            "bookerzblog.com",
+            "bookerzblog.com"
+        ],
+        "to_test": [
             "booking-airbnb.com-reminder-reservation-request.info",
             "bookland.dk",
             "bookmark.t2t2.com",
