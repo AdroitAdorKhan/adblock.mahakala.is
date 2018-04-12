@@ -2842,9 +2842,7 @@
             "conditionrise.com",
             "conditionthin.com",
             "condominiumprofessionals.info",
-            "condorinvestigations.com"
-        ],
-        "to_test": [
+            "condorinvestigations.com",
             "conducteurprive.com",
             "conduit.srvoverlay.com",
             "conectandocomweb.com",
@@ -3035,6 +3033,7 @@
             "cont67.com",
             "contact-adult.com",
             "contact-adult.net",
+            "contact-apples.com",
             "contact-ebay.eu",
             "contact-intl.com",
             "contact-messenger.com",
@@ -3075,8 +3074,6 @@
             "content.91s.com",
             "content.ad-flow.com",
             "content.axill.com",
-            "content.dl-rms.com",
-            "content.liveuniverse.com",
             "content.medialand.ru",
             "content.promoisland.net",
             "content.pulse360.com",
@@ -3143,7 +3140,9 @@
             "convenient-values.net",
             "convenientbases.net",
             "convenientengines.net",
-            "conventofmercyros.com",
+            "conventofmercyros.com"
+        ],
+        "to_test": [
             "conversation.606h.net",
             "converse.ddsoldes.fr",
             "converse.tm-awx.com",
