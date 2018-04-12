@@ -10172,9 +10172,7 @@
             "eservice-bank-cembramoney.com",
             "eservicesanalytics.com.au",
             "esf-ct.com",
-            "esf-emm.org"
-        ],
-        "to_test": [
+            "esf-emm.org",
             "esfapplestore.ir",
             "esgic.1.p2l.info",
             "eshop-shiba.com",
@@ -10206,6 +10204,7 @@
             "espace-security-alert.com",
             "espace.client.desjardins.com-cg-bin-asp-page-index-11145-page-membre-accesd-desjardins.com",
             "espaceclientev3-orange.com",
+            "espaceclients-eservicelogin.com",
             "espaceprojets-villejuif.fr",
             "espacosaojorge.com.br",
             "espads.net",
@@ -10262,7 +10261,6 @@
             "estimates2u.com",
             "estingen.com",
             "estofbests.com",
-            "estolein.pl",
             "estorepill.com",
             "estpharmacyworld.com",
             "estplanete.com",
@@ -10327,6 +10325,7 @@
             "ettehtutorialadsensesite.com",
             "ettisssalat.bugs3.com",
             "etttttt.troycommunication.com",
+            "etunes-iapp.com",
             "etwec.com",
             "etwnfisdkms.info",
             "etype.adbureau.net",
@@ -10361,7 +10360,9 @@
             "euprimecasinos.com",
             "euro-biuro.com.pl",
             "euro-cigs.info",
-            "euro-drug-shop.com",
+            "euro-drug-shop.com"
+        ],
+        "to_test": [
             "euro-linkindex.de",
             "euro-monumenthouse-finance.org",
             "euro-passport.com",
