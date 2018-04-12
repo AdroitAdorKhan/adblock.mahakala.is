@@ -7424,9 +7424,7 @@
             "affiliates-cdn.mozilla.org",
             "affiliates.about.com",
             "affiliates.amorix.biz",
-            "affiliates.devilfishpartners.com"
-        ],
-        "to_test": [
+            "affiliates.devilfishpartners.com",
             "affiliates.ige.com",
             "affiliates.jlist.com",
             "affiliates.matchmaker.com",
@@ -7445,6 +7443,7 @@
             "affinilyplus.org",
             "affinityee.com",
             "affordable-consumer.net",
+            "affordableflowers.com.au",
             "affordablefunfamilyvacations.com",
             "affordablelocksmithgoldcoast.com.au",
             "affordablewebsitesandmobileapps.com",
@@ -7609,10 +7608,12 @@
             "agrivir.com",
             "agroadamek.pl",
             "agrogestionwebsite.com.ar",
+            "agropecuaria.ws",
             "agropplac.com",
             "agropus.pl",
             "agt-crux.com",
             "agtecnlogy.com",
+            "aguai.com.ar",
             "aguardsoftware.com",
             "aguardtoolbar.com",
             "aguiaservicesexpress.com.br",
@@ -7623,7 +7624,9 @@
             "agungberbagi.id",
             "agustinmerello.com",
             "agustinus.qwords.org",
-            "agustinzplace.com",
+            "agustinzplace.com"
+        ],
+        "to_test": [
             "agword.net",
             "agylcell.co.id",
             "ah.pricegrabber.com",
