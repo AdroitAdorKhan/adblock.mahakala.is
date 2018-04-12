@@ -12819,9 +12819,7 @@
             "flager1.cn",
             "flager3.cn",
             "flager4.cn",
-            "flagged-paypal.com"
-        ],
-        "to_test": [
+            "flagged-paypal.com",
             "flagsgiftsandjewelry.com",
             "flagstaff.at",
             "flagstaffarizonaworld.info",
@@ -12854,7 +12852,6 @@
             "flashgames.to",
             "flashgamesdatabase.com",
             "flashgamesinc.com",
-            "flashghetto.pl",
             "flashkof.free.fr",
             "flashnaruto.com",
             "flashoo.fr",
@@ -12906,7 +12903,6 @@
             "fligre.com",
             "fligrepol.com",
             "flindert.com",
-            "flinsut.pl",
             "flioop.info",
             "flipcurecartinnovasion.club",
             "flipmencool.com",
@@ -12983,7 +12979,9 @@
             "flowers-vietnam.com",
             "flowers2cebu.com",
             "flowersbloom.net",
-            "flowersbydickbaker.com",
+            "flowersbydickbaker.com"
+        ],
+        "to_test": [
             "flowersinfairyland.com",
             "flowerstogreece.com",
             "flowervary.com",
