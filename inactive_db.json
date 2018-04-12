@@ -1329,9 +1329,7 @@
             "click.search123.uk.com",
             "click.sockinga.info",
             "click.spiritemail.info",
-            "click.stabbingnews.info"
-        ],
-        "to_test": [
+            "click.stabbingnews.info",
             "click.teeny-cash.com",
             "click.whittlesbiz.info",
             "click.wishesemail.info",
@@ -1411,6 +1409,7 @@
             "clickstrip.6wav.es",
             "clicksuite.net",
             "clicktale.pantherssl.com",
+            "clicktalecdn.sslcs.cdngc.net",
             "clicktheguide.info",
             "clickthrough.wegcash.com",
             "clickthrunet.net",
@@ -1483,6 +1482,7 @@
             "climbvillage.com",
             "clinchimage.com",
             "clinicalhematologyunit.com",
+            "clinicamalvarosa.pt",
             "clinicarmel.com.br",
             "clinicasantabeatriz.es",
             "cliniqueyasalam.com",
@@ -1520,7 +1520,6 @@
             "clockbegan.com",
             "clockcontinue.com",
             "clockdivide.com",
-            "clockhealth.com",
             "clockintegrity.com",
             "clockmight.com",
             "clocknumeral.com",
@@ -1533,6 +1532,7 @@
             "clonetube.org",
             "cloocckksu.com",
             "close.24x7finance.com",
+            "close.cellphonesglobal.com",
             "close2you.us",
             "closebm.com",
             "closecalluk.info",
@@ -1550,7 +1550,9 @@
             "cloturesdesdemandesenligne.info",
             "cloud-flowss.com",
             "cloud-mobile.info",
-            "cloud-photo.net",
+            "cloud-photo.net"
+        ],
+        "to_test": [
             "cloud.duba.cn",
             "cloud.duba.com",
             "cloud.insightera.com",
