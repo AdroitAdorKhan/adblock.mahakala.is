@@ -6655,9 +6655,7 @@
             "Adsatt.go.starwave.com",
             "adsbanknepal.com",
             "adsby.uzoogle.com",
-            "adsclick.yx.js.cn"
-        ],
-        "to_test": [
+            "adsclick.yx.js.cn",
             "adsearch.www1.biz",
             "adsentnetwork.com",
             "adseo.net",
@@ -6852,7 +6850,9 @@
             "adserver.usermagnet.com",
             "adserver.virgin.net",
             "adserver.virtualminds.nl",
-            "adserver.voir.ca",
+            "adserver.voir.ca"
+        ],
+        "to_test": [
             "adserver.wemnet.nl",
             "adserver.xoom.com",
             "adserver.ya.com",
