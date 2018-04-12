@@ -8292,9 +8292,7 @@
             "alina259.myjino.ru",
             "alineeall.com",
             "alinexpres.pl",
-            "alinezplace.com"
-        ],
-        "to_test": [
+            "alinezplace.com",
             "alinmaagroup.com",
             "alip-photos.com",
             "alireza-javahery.ir",
@@ -8392,7 +8390,6 @@
             "allaroundlombardy.com",
             "allaskme.com",
             "allaspiration.com",
-            "allay.biz",
             "allbestitaly.info",
             "allbestuk.info",
             "allblackhair.info",
@@ -8424,7 +8421,6 @@
             "alldaylinks.com",
             "alldayporn.net",
             "alldcs-distinct.outbrain.com",
-            "alldcs.sphere.com",
             "alldirplanet.org",
             "alldiskscheck300.com",
             "alldnserrors.com",
@@ -8592,7 +8588,9 @@
             "allvideo.org.uk",
             "allvideoactivex.com",
             "allvideodirect.com",
-            "allvideos.sampleboot.xyz",
+            "allvideos.sampleboot.xyz"
+        ],
+        "to_test": [
             "allwhitesalt.com",
             "allworldcom.info",
             "allworldstars.net",
