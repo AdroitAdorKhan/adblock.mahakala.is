@@ -18395,11 +18395,8 @@
             "cdn.performance.hlads.com",
             "cdn.pinion.gg",
             "cdn.placeplay.com",
-            "cdn.playhaven.com"
-        ],
-        "to_test": [
+            "cdn.playhaven.com",
             "cdn.ppdownload.com",
-            "cdn.puata.info",
             "cdn.putono5.com",
             "cdn.revmob.com",
             "cdn.revmobmobilecdnetwork.com",
@@ -18562,6 +18559,7 @@
             "celphonat.com",
             "celtic-art.ltd.uk",
             "celticonlinejewelry.com",
+            "celular-para-empresa.com",
             "celularblog.com.br",
             "celulargame.net",
             "celvert.com",
@@ -18571,7 +18569,9 @@
             "cemkece.tv",
             "cenbankmail.info",
             "cenbankmanagement.com",
-            "cenbankonline.com",
+            "cenbankonline.com"
+        ],
+        "to_test": [
             "cenkat.com",
             "cenligne.com",
             "censoredrape.com",
