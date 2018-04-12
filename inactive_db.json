@@ -10987,9 +10987,7 @@
             "appleid-unlockaccounts.com",
             "appleid-usa.xyz",
             "appleid-user-inc.com",
-            "appleid-verificato-accouto.ml"
-        ],
-        "to_test": [
+            "appleid-verificato-accouto.ml",
             "appleid-verifing.com",
             "appleid-verify-accountdisabled.com",
             "appleid-verifylockedaccount.com",
@@ -11043,6 +11041,7 @@
             "appleidinfo.net",
             "appleidlocked.com",
             "appleidprivasilocation.com",
+            "appleids.info",
             "appleidsecuritysurvice.com",
             "appleidverification.com.feyiztekstil.com",
             "appleidverification.com.hdmombaca.com.br",
@@ -11069,7 +11068,6 @@
             "appleld-ios9.com",
             "appleld-kf.com",
             "appleld-onlineservices.com",
-            "appleld.apple.com.t5j2kdkc88dd2m423-verif.info",
             "appleldapple.com",
             "appleldisupport.com",
             "applelid-ios.com",
@@ -11099,6 +11097,7 @@
             "appleservicedn.com",
             "applespaceshipbnb.com",
             "applesservice.info",
+            "applesstore.top",
             "applestora.com",
             "applestore-login.solutions",
             "applestore-verification.com",
@@ -11293,7 +11292,9 @@
             "arcade.redskinschop.com",
             "arcade.tbmall.com",
             "arcade007.com",
-            "arcade4000.com",
+            "arcade4000.com"
+        ],
+        "to_test": [
             "arcadebannerexchange.net",
             "arcadebreak.net",
             "arcadebusters.com",
