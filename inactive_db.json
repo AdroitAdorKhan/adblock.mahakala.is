@@ -7216,9 +7216,7 @@
             "advertising-power.info",
             "advertising-security.info",
             "advertising.mortgagebankers.org",
-            "advertising.ninemsn.com.au"
-        ],
-        "to_test": [
+            "advertising.ninemsn.com.au",
             "advertising.zenit.org",
             "advertisingaerator.info",
             "advertisingemailcorporation.com",
@@ -7329,6 +7327,7 @@
             "aeboet.com",
             "aecma-international.org",
             "aeconsulting.co.kr",
+            "aed4uozi.com",
             "aedilhaimushkiil.xyz",
             "aeep.com.au",
             "aeghie6dien.info",
@@ -7425,7 +7424,9 @@
             "affiliates-cdn.mozilla.org",
             "affiliates.about.com",
             "affiliates.amorix.biz",
-            "affiliates.devilfishpartners.com",
+            "affiliates.devilfishpartners.com"
+        ],
+        "to_test": [
             "affiliates.ige.com",
             "affiliates.jlist.com",
             "affiliates.matchmaker.com",
