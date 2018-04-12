@@ -6850,9 +6850,7 @@
             "adserver.usermagnet.com",
             "adserver.virgin.net",
             "adserver.virtualminds.nl",
-            "adserver.voir.ca"
-        ],
-        "to_test": [
+            "adserver.voir.ca",
             "adserver.wemnet.nl",
             "adserver.xoom.com",
             "adserver.ya.com",
@@ -6925,6 +6923,7 @@
             "adsolution-2016.info",
             "adsor.openrunner.com",
             "adspidernow.info",
+            "adspiro.pl",
             "adsports.co.kr",
             "adspr.haber7.net",
             "adsr3pg.com.br",
@@ -7042,7 +7041,9 @@
             "adultcodec-2008.com",
             "adultcodecportal.com",
             "adultcodecstars.com",
-            "adultcollect.com",
+            "adultcollect.com"
+        ],
+        "to_test": [
             "adultcomp.com",
             "adultdvdsfor.com",
             "adulteducatio.com",
