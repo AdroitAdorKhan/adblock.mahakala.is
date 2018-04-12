@@ -15432,11 +15432,8 @@
             "blog.eaglefordshalecooking.com",
             "blog.freejuicywebcams.com",
             "blog.galstonhighschool.com.au",
-            "blog.ndstudio.xyz"
-        ],
-        "to_test": [
+            "blog.ndstudio.xyz",
             "blog.neo-matix.com",
-            "blog.onadvertise.com",
             "blog.raw-recruits.com",
             "blog.satyamgroupofcompanies.com",
             "blog.sexy-ranch.org",
@@ -15660,7 +15657,9 @@
             "boasign.com",
             "boasign.info",
             "boassl.com",
-            "boatersner.com",
+            "boatersner.com"
+        ],
+        "to_test": [
             "boatyear.com",
             "boaupdateusa.com",
             "boaverificationidentityform.iascoachingindia.in",
