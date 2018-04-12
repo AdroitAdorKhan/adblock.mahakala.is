@@ -10352,9 +10352,7 @@
             "api.adwhirl.com",
             "api.ak.facebook.com",
             "api.bidmath.com",
-            "api.bizographics.com"
-        ],
-        "to_test": [
+            "api.bizographics.com",
             "api.bryghtapi.com",
             "api.burstly.com",
             "api.carrieriq.com",
@@ -10365,6 +10363,7 @@
             "api.contentclick.co.uk",
             "api.dsnrmg.com",
             "api.flashnetworks.com",
+            "api.flicktweets.com",
             "api.geosrv.info",
             "api.hexagram.com",
             "api.indemandapi.com",
@@ -10483,7 +10482,7 @@
             "app.mstrck03d.com",
             "app.onlinecustomer-home-service.app.update.ten-four.com",
             "app.passionfruitads.com",
-            "app.riolabz.com",
+            "app.pho8.com",
             "app.seojee.com",
             "app.serviceaccount.support.skumarsangit.com",
             "app.store.appie.webapp-my-icloud.com",
@@ -10491,7 +10490,9 @@
             "app.updateserv.net",
             "app.us.struq.com",
             "app1.firstusa.com",
-            "app1.letitbefaster.today",
+            "app1.letitbefaster.today"
+        ],
+        "to_test": [
             "app1e-icloud-itunesa.com",
             "app2.letmacwork.world",
             "app2.su",
