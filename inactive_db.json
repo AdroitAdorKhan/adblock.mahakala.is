@@ -17154,9 +17154,7 @@
             "c21tina.com",
             "c22.smaato.net",
             "c23.smaato.net",
-            "c24.smaato.net"
-        ],
-        "to_test": [
+            "c24.smaato.net",
             "c25.smaato.net",
             "c26.smaato.net",
             "c27.smaato.net",
@@ -17254,6 +17252,7 @@
             "cache.download.turbopoker.fr",
             "cache.fimservecdn.com",
             "cache.gamercreated.com",
+            "cache.soloth.com",
             "cache.unicast.com",
             "cache1.adhostingsolutions.com",
             "cache6.in",
@@ -17277,7 +17276,6 @@
             "cadeaux-avenue.cn",
             "cadesfinjeriokas.com",
             "cadoganclinicshop.com",
-            "cadunico.com.br",
             "cadxiedan.com",
             "caeoma.com",
             "caerlat.net",
@@ -17328,7 +17326,6 @@
             "calderonconsulting.com.au",
             "cale.geesbeauty.com",
             "caledoniafabrics.com",
-            "calendar.protofilm.com",
             "calentreprise.com",
             "calfunddirect.info",
             "calhacks.org",
@@ -17379,7 +17376,9 @@
             "calm.differencemaking.com",
             "calminidirect.info",
             "calmobilehome.info",
-            "caloakshomes.info",
+            "caloakshomes.info"
+        ],
+        "to_test": [
             "calorimo.com",
             "calotteryafrica.com",
             "calpinedirect.info",
