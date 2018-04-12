@@ -15016,9 +15016,7 @@
             "bill-global.com",
             "bill-global.net",
             "bill-page.net",
-            "bill-personal.eurodir.ru"
-        ],
-        "to_test": [
+            "bill-personal.eurodir.ru",
             "billandcarolburke.com",
             "billandsandra.net",
             "billatpar.com",
@@ -15206,7 +15204,9 @@
             "bizpromotefreebooster.com",
             "bizrxpharm.com",
             "bizrxpills.com",
-            "biztech-co.cn",
+            "biztech-co.cn"
+        ],
+        "to_test": [
             "bizzibowsbybarbara.com",
             "bizzy-balloons.co.uk",
             "bj02.cww.com",
