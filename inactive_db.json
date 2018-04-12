@@ -5209,9 +5209,7 @@
             "dazzlephotomemoir.com.ng",
             "db1.site-stats.net",
             "db23.co.uk",
-            "db35.co.uk"
-        ],
-        "to_test": [
+            "db35.co.uk",
             "db63.co.uk",
             "db8mh.info",
             "dbaguide.com.au",
@@ -5352,7 +5350,9 @@
             "de-sicherheits-update-011.info",
             "de-sicherheits-update-017.info",
             "de-sicherheits-update-030.info",
-            "de-sicherheits-update-051.info",
+            "de-sicherheits-update-051.info"
+        ],
+        "to_test": [
             "de-ve.5a535441.2018.cbricdns.com",
             "de.5.p2l.info",
             "de.intellitxt.com",
