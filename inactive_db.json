@@ -3558,9 +3558,7 @@
             "mydnsweb.net",
             "mydo520.it",
             "mydollyandme.com.au",
-            "mydomnowlive.info"
-        ],
-        "to_test": [
+            "mydomnowlive.info",
             "mydvdarena.com",
             "mydynoprod.info",
             "myebay-secure.net",
@@ -3789,7 +3787,7 @@
             "mypassgenerator.com",
             "mypaypal-online.com",
             "mypaypal-secure.net",
-            "mypaypal.comservice.center",
+            "mypaypal-service.com",
             "mypc1004.com",
             "mypcalert.online",
             "mypcneedhelp.com",
@@ -3908,7 +3906,9 @@
             "mysupercheap.com",
             "mysuperclick.info",
             "mysuperload.info",
-            "mysupersoft.info",
+            "mysupersoft.info"
+        ],
+        "to_test": [
             "mysuscomul.com",
             "mysuscomul.net",
             "mysweetdarling.net",
