@@ -5322,9 +5322,7 @@
             "nicoteen3.free.fr",
             "nictechnetworks.com",
             "nicwatts.com",
-            "nidoserfisec.com"
-        ],
-        "to_test": [
+            "nidoserfisec.com",
             "niecepan.info",
             "niemaszprzyjaciol.pl",
             "nietien.com",
@@ -5479,6 +5477,7 @@
             "nl.count.worldstats.nl",
             "nl.webfaceapp.info",
             "nlads.go2net.com",
+            "nlazovic.mybesthost.com",
             "nlconsulateorlandoorg.siteprotect.net",
             "nlflop.com",
             "nlfsefnecrhglsnydi.com",
@@ -5501,7 +5500,6 @@
             "nmcolo.cn",
             "nmcsupport.net",
             "nmemiie.com",
-            "nmgdjg.com",
             "nmidahena.com",
             "nmli.ru",
             "nmnsd.com",
@@ -5587,6 +5585,7 @@
             "nodes.dkjkfwr8ie.com",
             "nodika.info",
             "nodns2.com",
+            "nodocuwel.com",
             "nodywise.com",
             "noecho.org",
             "noeels-acote.com",
@@ -5610,7 +5609,9 @@
             "noimnotavirgin.com",
             "noinonaner.com",
             "noinonaner.info",
-            "noinonaner.net",
+            "noinonaner.net"
+        ],
+        "to_test": [
             "nois.201blevinsrun.com",
             "noisedetection.cn",
             "noiselolpainoff.com",
