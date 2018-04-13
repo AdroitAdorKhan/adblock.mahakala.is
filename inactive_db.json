@@ -19609,9 +19609,7 @@
             "hostingneedfull.xyz",
             "hostingpages.us",
             "hostingparty.net",
-            "hostingphp01.com"
-        ],
-        "to_test": [
+            "hostingphp01.com",
             "hostingzx.com",
             "hostmodify.info",
             "hostnow.men",
@@ -19958,7 +19956,9 @@
             "housing-work.org",
             "housingandhra.com",
             "houston-highlandwear.co.uk",
-            "houstonfugitives.com",
+            "houstonfugitives.com"
+        ],
+        "to_test": [
             "houtarat.com",
             "houtwerfkeukenstudio.com",
             "hovaardige.worldgnpresentation.com",
