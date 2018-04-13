@@ -5913,9 +5913,7 @@
             "now.fda-compliance-trainings.com",
             "now.thecentsofcommunitycard.com",
             "now.thejesusteachings.com",
-            "now84040.com"
-        ],
-        "to_test": [
+            "now84040.com",
             "nowa24.pl",
             "nowaerakamienia.com",
             "nowairbestpill.com",
@@ -6064,7 +6062,6 @@
             "ns1.buylasixonline.org",
             "ns1.cret.us",
             "ns1.genericaugmentin.com",
-            "ns1.genericstrattera.com",
             "ns1.lalibco.com",
             "ns1.primeinteractive.net",
             "ns1.tsulqulzy.com",
@@ -6077,7 +6074,6 @@
             "ns2.eworld.net.pk",
             "ns2.exodus.net",
             "ns2.genericaugmentin.com",
-            "ns2.genericstrattera.com",
             "ns2.lalibco.com",
             "ns2.primeinteractive.net",
             "ns2.rosprint.ru",
@@ -6230,7 +6226,9 @@
             "nurusaha.co.id",
             "nusabhaktiwiratama.co.id",
             "nusaindahflorist.co.id",
-            "nusaindahrempeyek.id",
+            "nusaindahrempeyek.id"
+        ],
+        "to_test": [
             "nut29.nsbacknutdoms11war.com",
             "nutnet.ir",
             "nutnut.info",
