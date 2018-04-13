@@ -16122,9 +16122,7 @@
             "gift.worldwidefiny.net",
             "giftagogo.info",
             "giftapplys.cn",
-            "giftazon.net"
-        ],
-        "to_test": [
+            "giftazon.net",
             "giftbasketsbydesigndeland.com",
             "giftcardgerman.com",
             "giftcards4free.net",
@@ -16155,6 +16153,7 @@
             "gigawaveusa.com",
             "gigaz.info",
             "giggagdirect.info",
+            "gigup.pl",
             "gigutu.com",
             "gigya.com.invalid",
             "gihealht.com",
@@ -16343,7 +16342,9 @@
             "global-community.nkemandsly.com",
             "global-counter.com",
             "global-deposits.com",
-            "global-netcom.de",
+            "global-netcom.de"
+        ],
+        "to_test": [
             "global-online-pharmacy.com",
             "global-protections.com",
             "global-transfer-form.com",
