@@ -3906,9 +3906,7 @@
             "mysupercheap.com",
             "mysuperclick.info",
             "mysuperload.info",
-            "mysupersoft.info"
-        ],
-        "to_test": [
+            "mysupersoft.info",
             "mysuscomul.com",
             "mysuscomul.net",
             "mysweetdarling.net",
@@ -4171,7 +4169,9 @@
             "naraniaholidays.com",
             "naras-fr.biz",
             "narbhaveecareers.com",
-            "narcoblog.net",
+            "narcoblog.net"
+        ],
+        "to_test": [
             "naromic-financial.com",
             "narrve.com",
             "naruto-extreme.com",
