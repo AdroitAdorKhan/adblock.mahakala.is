@@ -28386,9 +28386,7 @@
             "m-uniontrust.com",
             "m-vk.fasting.tk",
             "m-vk.serulom.tk",
-            "m-yrezabal.biz"
-        ],
-        "to_test": [
+            "m-yrezabal.biz",
             "m.adbridge.de",
             "m.advc.us",
             "m.camera360.cn",
@@ -28406,8 +28404,10 @@
             "m.facebook.com------------step1-----acc---verify.digi-worx.com",
             "m.facebook.com------------step1-----confirm.pfcgl.org",
             "m.facebook.com------------terms-of-service-agree.madkoffee.com",
+            "m.facebook.com------------validate---account.disos.xyz",
             "m.facebook.com------------validate-account.bintangjb.com",
             "m.facebook.com----------verify-details-----step1---confirm.e-learning.ly",
+            "m.facebook.com---------acc--activation---j12n12p.dooduangsod.com",
             "m.facebook.com---------step1---confirm.shawarplas.com",
             "m.facebook.com--------confirm.aznet1.net",
             "m.facebook.com--------login-----confirm-account.siamrack.net",
@@ -28418,6 +28418,8 @@
             "m.facebook.com.kablsazan.com",
             "m.facebook.com.solutions-hub.com",
             "m.fr.2mdn.net",
+            "m.laikahotel.com",
+            "m.loldlxmy.com",
             "m.mimzw.com",
             "m.see3k.com",
             "m.serulom.tk",
@@ -28690,7 +28692,9 @@
             "mabanques.bnpparibas.simplifiez-vous.net",
             "mabato.net",
             "mabawi.com",
-            "mabberas.com",
+            "mabberas.com"
+        ],
+        "to_test": [
             "mabniues.com",
             "mac-abkcx.net",
             "mac-controlerr-osystemerrors-07.info",
