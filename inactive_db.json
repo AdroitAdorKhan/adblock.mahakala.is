@@ -14786,9 +14786,7 @@
             "g.chuiyao.com",
             "g.deathandtaxesmag.com",
             "g.doubleclick.net",
-            "g.fool.co.uk"
-        ],
-        "to_test": [
+            "g.fool.co.uk",
             "g.meiliyue.top",
             "g.starmoe.xyz",
             "g.switchadhub.com",
@@ -15002,7 +15000,9 @@
             "game4user.net",
             "gameaitne.com",
             "gameandaddons.com",
-            "gameappcheat.com",
+            "gameappcheat.com"
+        ],
+        "to_test": [
             "gamebackgammon.org",
             "gamebox.com.mk",
             "gamecheating.net",
