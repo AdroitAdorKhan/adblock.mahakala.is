@@ -8450,9 +8450,7 @@
             "p.paypal.com.pakistanipakistan.com",
             "p.profistats.net",
             "p.publico.es",
-            "p.pxl2015x1.com"
-        ],
-        "to_test": [
+            "p.pxl2015x1.com",
             "p.reuters.com",
             "p.toourbb.com",
             "p.twitter.com",
@@ -8573,7 +8571,6 @@
             "p28.one.pl",
             "p2dll.com",
             "p2esummit.com",
-            "p2hzz.alldownloads.hapc.gdn",
             "p2nindonesia.com",
             "p2pfiles.net",
             "p2pversicherung.com",
@@ -8735,6 +8732,7 @@
             "paix1.sc1.admob.com",
             "paixaoasiatica.com",
             "paixaogay.com",
+            "paiypal-suspicious-acount.info",
             "paiypal.net",
             "paiyplsservice.info",
             "pajammedit.com",
@@ -8774,7 +8772,9 @@
             "pamdmonium.com",
             "pamela-sandersin.info",
             "pamelacompany.co.uk",
-            "pametneigre.com",
+            "pametneigre.com"
+        ],
+        "to_test": [
             "pamfletul.us",
             "pampere.org",
             "pamphlet.qw361.com",
