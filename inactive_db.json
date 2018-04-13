@@ -15120,9 +15120,7 @@
             "gamescrusher.net",
             "gamescubeworld.com",
             "gamesdownloadsonline.com",
-            "gamesedicas.com.br"
-        ],
-        "to_test": [
+            "gamesedicas.com.br",
             "gamesevideogames.com.br",
             "gamesextension.net",
             "gamesextensions4u.com",
@@ -15134,6 +15132,7 @@
             "gamesgames.ca",
             "gameshacks.net",
             "gameshackscheat.com",
+            "gameshq.nl",
             "gamesincrease.com",
             "gamesisle.net",
             "gameslicer.com",
@@ -15196,6 +15195,7 @@
             "gammaex.com",
             "gammaextreme.com",
             "gammahcg.com",
+            "gammingerino.net",
             "gammromes.com",
             "gamomaniak.com",
             "gamotop.com",
@@ -15296,7 +15296,9 @@
             "gateuq.com",
             "gateway-certapay.com",
             "gateway-gamble.info",
-            "gateway-paypal.com",
+            "gateway-paypal.com"
+        ],
+        "to_test": [
             "gateway.chiquimulja.net.gt",
             "gateway.premiumsepet.com",
             "gatewayhsc.com",
