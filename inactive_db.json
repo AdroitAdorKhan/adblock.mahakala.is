@@ -15523,9 +15523,7 @@
             "geilegaysex.nl",
             "geilenegers.nl",
             "geileweiber.tk",
-            "gejaneu.com"
-        ],
-        "to_test": [
+            "gejaneu.com",
             "gejeonv.com",
             "gekboy.com",
             "gekker.biz",
@@ -15541,6 +15539,7 @@
             "gempotty.com",
             "gemrodonline.info",
             "gemshackclash.com",
+            "gemshairandbeauty.com",
             "gemstoneconfections.com",
             "gemstoresnc.com",
             "gemvel.com",
@@ -15590,7 +15589,6 @@
             "generic-offshore-pharmacy.info",
             "generic-online-pharmacy.info",
             "generic-online-store.com",
-            "generic-onlinenexium.net",
             "generic-or-brand.com",
             "generic-partnership.net",
             "generic-pharmacy-shop.com",
@@ -15605,7 +15603,6 @@
             "generic-viagra-tabs.info",
             "genericcialisbest.com",
             "genericcialisuk.info",
-            "genericnexium40mg.net",
             "genericonlinestore.com",
             "genericorder.com",
             "genericpharmacy-rx.com",
@@ -15797,7 +15794,9 @@
             "getcheapesttablets.com",
             "getcheapmeds.net",
             "getcheappharm.com",
-            "getchocolatemilk.info",
+            "getchocolatemilk.info"
+        ],
+        "to_test": [
             "getclocksync.com",
             "getcrackedgames.com",
             "getcrackfile.com",
