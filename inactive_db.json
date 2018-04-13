@@ -4627,9 +4627,7 @@
             "netpace.cn",
             "netpalgames.com",
             "netphuck.com",
-            "netpluscasino.com"
-        ],
-        "to_test": [
+            "netpluscasino.com",
             "netprofitquarter.com",
             "netprofitrevenue.com",
             "netquarterrevenue.com",
@@ -4727,6 +4725,7 @@
             "new-discount-announce-c.com",
             "new-discount-announce-d.com",
             "new-extra-time.org",
+            "new-fealture-to-updates.com",
             "new-god-ns.net",
             "new-gold-hyip.info",
             "new-horizonukonline.com",
@@ -4747,6 +4746,7 @@
             "new.api.ad.xiaomi.com",
             "new.grandrapidsweb.net",
             "new.insa-tour.ru",
+            "new.ltheanine.cn",
             "new.macartu.cn",
             "new.r-h-systems.com",
             "new.startnow.com",
@@ -5002,7 +5002,9 @@
             "newsearchs.com",
             "newseoshop.com",
             "newservoppl.it",
-            "newsexgate.com",
+            "newsexgate.com"
+        ],
+        "to_test": [
             "newsgs.net",
             "newshipp.org",
             "newshoes2008.com",
