@@ -1614,9 +1614,7 @@
             "microsoftspywareremoval.com",
             "microsoftsupport.com-support0206.info",
             "microsofttransfer.com",
-            "microsofttw.com"
-        ],
-        "to_test": [
+            "microsofttw.com",
             "microuploaded.com",
             "microworkflow.info",
             "midamericaaccounts.com",
@@ -1634,7 +1632,6 @@
             "middlegateflorist.com",
             "middlegeorgiavdubbers.org",
             "middleminute.net",
-            "middleoil.com",
             "mideastchecker.com",
             "midgardlgend.com",
             "midgejs.com",
@@ -1855,7 +1852,9 @@
             "miniaturen-bazar.de",
             "miniaturescene-york.com",
             "miniclip-club.com",
-            "miniclip.lx.ro",
+            "miniclip.lx.ro"
+        ],
+        "to_test": [
             "miniclip3000.com",
             "minicreations.ca",
             "minidcsc.kugou.com",
