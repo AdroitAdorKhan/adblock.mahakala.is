@@ -21489,11 +21489,8 @@
             "img2.paipaiimg.com",
             "img2.rzcyx.com",
             "img2.xztkc.com",
-            "img2.yyape.com"
-        ],
-        "to_test": [
+            "img2.yyape.com",
             "img3.rzcyx.com",
-            "img3.tzxrs.com",
             "img3.yyape.com",
             "img4.cdn.adjuggler.com",
             "img4click.com",
@@ -21717,7 +21714,9 @@
             "incheoncar.info",
             "incheonchina.info",
             "inchest.info",
-            "inchgowernoumdiversisporous.jboilfieldservices.com",
+            "inchgowernoumdiversisporous.jboilfieldservices.com"
+        ],
+        "to_test": [
             "inchtrust.com",
             "inchuse.com",
             "inchwave.com",
