@@ -15000,9 +15000,7 @@
             "game4user.net",
             "gameaitne.com",
             "gameandaddons.com",
-            "gameappcheat.com"
-        ],
-        "to_test": [
+            "gameappcheat.com",
             "gamebackgammon.org",
             "gamebox.com.mk",
             "gamecheating.net",
@@ -15122,7 +15120,9 @@
             "gamescrusher.net",
             "gamescubeworld.com",
             "gamesdownloadsonline.com",
-            "gamesedicas.com.br",
+            "gamesedicas.com.br"
+        ],
+        "to_test": [
             "gamesevideogames.com.br",
             "gamesextension.net",
             "gamesextensions4u.com",
