@@ -7359,9 +7359,7 @@
             "online.hmrc.gov.ukl.lemontagnard.ca",
             "online.lloydsbank.co.uk.enagroup.eu",
             "online.mirabilis.com",
-            "online.myca.logon.us.action.support.services.index.htm.docs.cylinderliners.co.in"
-        ],
-        "to_test": [
+            "online.myca.logon.us.action.support.services.index.htm.docs.cylinderliners.co.in",
             "online.myca.logon.us.action.support.services.index.htm.docs.marketcomunity.com",
             "online.net.au",
             "online.tdbank.com.profiremgt.com",
@@ -7488,6 +7486,7 @@
             "onlinegamesplace.com",
             "onlinegbsecurityapps.homeip.net",
             "onlinegooqlemailalert.com",
+            "onlinegy7uj.co.uk",
             "onlinehacks4you.com",
             "onlinehackzforyou.com",
             "onlinehotwebcams.com",
@@ -7523,7 +7522,6 @@
             "onlinepillmean.com",
             "onlinepillsfeed.com",
             "onlinepodarki.besaba.com",
-            "onlineporno.site",
             "onlineportalsite.info",
             "onlineprivatescan.com",
             "onlineprotection-paypal.com",
@@ -7706,6 +7704,7 @@
             "open-onlines.com",
             "open.24x7finance.com",
             "open.4info.net",
+            "open.cellphonesglobal.com",
             "open.topsoftwareguide.com",
             "open6098.com",
             "openad.infobel.com",
@@ -7725,7 +7724,9 @@
             "openlitewebip.info",
             "openlitewebonline.info",
             "openoverflow.com",
-            "openprotection.info",
+            "openprotection.info"
+        ],
+        "to_test": [
             "openpub.ifensi.com",
             "openrape.com",
             "opensao.mandalabs.com",
