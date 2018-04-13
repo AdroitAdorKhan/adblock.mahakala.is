@@ -913,9 +913,7 @@
             "mediakash.com",
             "mediakonkurs.pl",
             "medialibrairie.com",
-            "medialibsms.com"
-        ],
-        "to_test": [
+            "medialibsms.com",
             "medialinksite.com",
             "medialot.brandera.com",
             "mediamarket.in.ua",
@@ -1059,7 +1057,6 @@
             "mega-soft08.com",
             "mega-warez.info",
             "mega-zakupy.com.pl",
-            "mega.vast.mega-tags.com",
             "mega1search.com",
             "megaapparelsltd.com",
             "megaats.atspace.cc",
@@ -1167,7 +1164,9 @@
             "mem071.info",
             "member-account-update-ebay.com",
             "member-area-login.com",
-            "member-login8268.info",
+            "member-login8268.info"
+        ],
+        "to_test": [
             "member-signon6793.com",
             "member-usaa0.myjino.ru",
             "member-validation.info",
