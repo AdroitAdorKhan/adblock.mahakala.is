@@ -2462,9 +2462,7 @@
             "monththough.com",
             "monti2.com",
             "montotoro.free.fr",
-            "montpellierc.com"
-        ],
-        "to_test": [
+            "montpellierc.com",
             "montrealbusinesslawyer.com",
             "montrealclassifieds.net",
             "montrealcondosales.com",
@@ -2593,7 +2591,6 @@
             "morganmaten.com",
             "morgantrustfund.net",
             "morganzplace.com",
-            "moria.usagestamp.com",
             "moriahbrown.com",
             "morino-koe.com",
             "mormonchurchgenealogy.com",
@@ -2721,7 +2718,6 @@
             "motoshondaguatemala.com",
             "mototek.co.kr",
             "mototrack.info",
-            "motovblog.pl",
             "motoworldmoz.com",
             "motrak.org",
             "moucitons.com",
@@ -2742,7 +2738,9 @@
             "mountchart.com",
             "mountexercise.com",
             "mountintegrity.com",
-            "mountsaw.com",
+            "mountsaw.com"
+        ],
+        "to_test": [
             "mourganiya.com",
             "mouse.dating-machine.com",
             "mouseclicktraffic.info",
