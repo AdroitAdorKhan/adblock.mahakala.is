@@ -1164,14 +1164,11 @@
             "mem071.info",
             "member-account-update-ebay.com",
             "member-area-login.com",
-            "member-login8268.info"
-        ],
-        "to_test": [
+            "member-login8268.info",
             "member-signon6793.com",
             "member-usaa0.myjino.ru",
             "member-validation.info",
             "member.ephearing.com",
-            "member.smpasbsolo.sch.id",
             "member48.cn",
             "member900115ym.com",
             "memberattempt.info",
@@ -1387,7 +1384,9 @@
             "metrics.aws.sitepoint.com",
             "metrics.chmedia.com",
             "metrics.codahale.com",
-            "metrics.dailymotion.com",
+            "metrics.dailymotion.com"
+        ],
+        "to_test": [
             "metrics.fandome.com",
             "metrics.frontlineshop.com",
             "metrics.gamestop.com",
