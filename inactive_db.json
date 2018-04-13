@@ -1384,9 +1384,7 @@
             "metrics.aws.sitepoint.com",
             "metrics.chmedia.com",
             "metrics.codahale.com",
-            "metrics.dailymotion.com"
-        ],
-        "to_test": [
+            "metrics.dailymotion.com",
             "metrics.fandome.com",
             "metrics.frontlineshop.com",
             "metrics.gamestop.com",
@@ -1493,6 +1491,7 @@
             "mibank.com.md.kg",
             "mibank.com.rt.kg",
             "mibfwnwh.info",
+            "mibounkbir.com",
             "mibyrytdfgkh.com",
             "micald.com",
             "micardiss.ql.st",
@@ -1545,6 +1544,7 @@
             "microph.net",
             "microsam.info",
             "microsecuritywinsecuritysupport.errorfounddllregistryfiledsod.winsecuritysupport.com",
+            "microservnet.com",
             "microsoet.com",
             "microsofiz.cn",
             "microsofl.info",
@@ -1614,7 +1614,9 @@
             "microsoftspywareremoval.com",
             "microsoftsupport.com-support0206.info",
             "microsofttransfer.com",
-            "microsofttw.com",
+            "microsofttw.com"
+        ],
+        "to_test": [
             "microuploaded.com",
             "microworkflow.info",
             "midamericaaccounts.com",
