@@ -3241,9 +3241,7 @@
             "museodeartecostarricense.com",
             "museum-der-moderne.de",
             "mushroomlike.speeddemonskins.com",
-            "music-detector.com"
-        ],
-        "to_test": [
+            "music-detector.com",
             "music-forme-2008.com",
             "music-forme2008.com",
             "music-sharing.net",
@@ -3344,6 +3342,7 @@
             "mx01.openinternetexchange.net",
             "mx01.webwise.com",
             "mx1.aufj.fr",
+            "mx2.dynu.net",
             "mx7.fasterdupdate.com",
             "mxapple-icloud.com",
             "mxmodd.mxmfb.com",
@@ -3542,6 +3541,7 @@
             "mydaddy.b0x.com",
             "mydatabaseupdate.com",
             "mydealcasino.com",
+            "mydeardescendant.com",
             "mydebthome.info",
             "mydeentv.com",
             "mydefaultpage.net",
@@ -3558,7 +3558,9 @@
             "mydnsweb.net",
             "mydo520.it",
             "mydollyandme.com.au",
-            "mydomnowlive.info",
+            "mydomnowlive.info"
+        ],
+        "to_test": [
             "mydvdarena.com",
             "mydynoprod.info",
             "myebay-secure.net",
