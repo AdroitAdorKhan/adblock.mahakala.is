@@ -20749,9 +20749,7 @@
             "skracacz.com",
             "skracajmyto.waw.pl",
             "skracarka.waw.pl",
-            "sks47.com"
-        ],
-        "to_test": [
+            "sks47.com",
             "skt1.o-ren.us",
             "skt2.o-ren.us",
             "skt32.com",
@@ -20850,7 +20848,9 @@
             "slimasses.info",
             "slimrepl.com",
             "slimtoolbar.com",
-            "slinerbej.com",
+            "slinerbej.com"
+        ],
+        "to_test": [
             "slingbackwithkr.com",
             "slinkserver.com",
             "slipborn.com",
