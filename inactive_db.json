@@ -5321,9 +5321,7 @@
             "winmxc.com",
             "winn-mail.ru",
             "winnarsten.com",
-            "winner.online-co.xyz"
-        ],
-        "to_test": [
+            "winner.online-co.xyz",
             "winnerforkids.com",
             "winnerformen.com",
             "winnerforwomen.com",
@@ -5776,7 +5774,9 @@
             "workin-coworking.com.br",
             "workinghackandcheat.com",
             "workinghackgame.com",
-            "worklifethink.info",
+            "worklifethink.info"
+        ],
+        "to_test": [
             "workouton.com.br",
             "workpartnners.info",
             "workrxpharm.com",
