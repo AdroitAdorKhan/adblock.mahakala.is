@@ -19237,9 +19237,7 @@
             "services-info.support",
             "services-intlaccount-apple.com",
             "services-verify-information.com",
-            "services.adtech.de"
-        ],
-        "to_test": [
+            "services.adtech.de",
             "services.notification.cspayment.info",
             "services.picadmedia.com",
             "services.runescape.com-i.ga",
@@ -19261,6 +19259,7 @@
             "serviceuser-crainfo.from-in.com",
             "servicevente.fr",
             "servicewebclient.com",
+            "serviceyourpaypal.com",
             "servicezabibibe.com",
             "servicfrance24h.com",
             "servicfraud.com",
@@ -19275,6 +19274,8 @@
             "servies.paypol.5gbfree.com",
             "servinios.com",
             "servis-limit.com",
+            "servisecveryfiaccount.com",
+            "serviuceslimitedsaccount.com",
             "servives.safeti.specialis-reponces.com",
             "serviziapple.com",
             "servl.com.ar",
@@ -19319,6 +19320,7 @@
             "seth.riva-properties.com",
             "sethiawire.com",
             "setjetters.com",
+            "setores.me",
             "setorganisation.info",
             "setorganization.info",
             "setregsite.info",
@@ -19465,7 +19467,9 @@
             "sexdrivemovies.com",
             "sexe-tube.eu",
             "sexeternal.com",
-            "sexevieu.com",
+            "sexevieu.com"
+        ],
+        "to_test": [
             "sexforce.us",
             "sexfromindia.com",
             "sexgamecards.com",
