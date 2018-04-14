@@ -936,9 +936,7 @@
             "update-security7.com",
             "update-securityy-team.com",
             "update-server-bofa-online-users-secured.info.daaralsuhaad.com",
-            "update-service-intl.de"
-        ],
-        "to_test": [
+            "update-service-intl.de",
             "update-ssl65.com",
             "update-tdcanadatrust.org",
             "update-usaa.camaradecomerciopz.com",
@@ -1182,7 +1180,6 @@
             "uralcash.com",
             "uralteho.net",
             "urbanpeople.com.ve",
-            "urbanslegends.com",
             "urbanvista.com.sg",
             "urbigworld7.com",
             "urchin-tracker.bigpoint.net",
@@ -1293,6 +1290,7 @@
             "ursynow.edu.pl",
             "urt.voxel.net",
             "urulvtffwoq.xyz",
+            "ururu.us",
             "urvamegestor.com",
             "us-756.com",
             "us-ana.com",
@@ -1320,6 +1318,7 @@
             "us-drugstore.org",
             "us-drugstore.us",
             "us-e-bay.com",
+            "us-east-1.profile-api.ads.linkedin.com",
             "us-ebanking.org",
             "us-financial.org",
             "us-financial.us",
@@ -1397,6 +1396,7 @@
             "usaa-service.com",
             "usaa-support.malayalamshortmovies.com",
             "usaa-support.n8creative.com",
+            "usaa.center.autoexpertuae.com",
             "usaa.com-inet--logon-logon-logon-logon.communiqsoft.com",
             "usaa.com-inet--logonnnn.communiqsoft.com",
             "usaa.com-inet-ent-log00on-logon.communiqsoft.com",
@@ -1417,7 +1417,9 @@
             "usaa.com-inet-truememberent-iscaddetour-savings.gtimarketing.co.za",
             "usaa.com-inet-truememberent-iscaddetour-savings.saxophonesubbalaxmi.com",
             "usaa.com-inet-truememberent-iscaddetour-secured-safe.jayedahmed.com",
-            "usaa.com-inet-truememberent-iscaddetour-secured.frank4life.co.za",
+            "usaa.com-inet-truememberent-iscaddetour-secured.frank4life.co.za"
+        ],
+        "to_test": [
             "usaa.com-inet-truememberent-iscaddetour-start-detourid.centrovisionintegral.com",
             "usaa.com-inet-truememberent-iscaddetour-start-detourid.samsulbahari.com",
             "usaa.com-inet-truememberent-iscaddetour-start-detourid.smcreation.net",
