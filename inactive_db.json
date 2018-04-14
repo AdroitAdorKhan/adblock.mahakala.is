@@ -1417,9 +1417,7 @@
             "usaa.com-inet-truememberent-iscaddetour-savings.gtimarketing.co.za",
             "usaa.com-inet-truememberent-iscaddetour-savings.saxophonesubbalaxmi.com",
             "usaa.com-inet-truememberent-iscaddetour-secured-safe.jayedahmed.com",
-            "usaa.com-inet-truememberent-iscaddetour-secured.frank4life.co.za"
-        ],
-        "to_test": [
+            "usaa.com-inet-truememberent-iscaddetour-secured.frank4life.co.za",
             "usaa.com-inet-truememberent-iscaddetour-start-detourid.centrovisionintegral.com",
             "usaa.com-inet-truememberent-iscaddetour-start-detourid.samsulbahari.com",
             "usaa.com-inet-truememberent-iscaddetour-start-detourid.smcreation.net",
@@ -1747,7 +1745,9 @@
             "v-codec18.com",
             "v-shared.net",
             "v-windows.com",
-            "v.admob.com",
+            "v.admob.com"
+        ],
+        "to_test": [
             "v.jwpcdn.com",
             "v.vomedia.tv",
             "v0.stat.ku6.com",
