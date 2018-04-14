@@ -3271,9 +3271,7 @@
             "vrympoqs5ra34nfo.smartbus.at",
             "vrympoqs5ra34nfo.torhelper.pl",
             "vsb4rum.cc",
-            "vsdi.info"
-        ],
-        "to_test": [
+            "vsdi.info",
             "vse-moe.biz",
             "vse-pu4.com",
             "vse4you.com",
@@ -3458,7 +3456,6 @@
             "w.coin.scribol.com",
             "w.homes.yahoo.net",
             "w.mcdir.ru",
-            "w.mlv-cdn.com",
             "w.plugrush.com",
             "w.prize44.com",
             "w.uimserv.net",
@@ -3501,7 +3498,9 @@
             "w1llisxy.com",
             "w2.extreme-dm.com",
             "w20.am15.net",
-            "w21.am15.net",
+            "w21.am15.net"
+        ],
+        "to_test": [
             "w22.am15.net",
             "w23.am15.net",
             "w24.am15.net",
