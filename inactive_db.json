@@ -21258,9 +21258,7 @@
             "softluxfreeware.com",
             "softmakaloruu.com",
             "softmakaloruu.net",
-            "softmixcafe.info"
-        ],
-        "to_test": [
+            "softmixcafe.info",
             "softportal2008pcq.com",
             "softprodsnames.com",
             "softproductsnses.com",
@@ -21365,7 +21363,6 @@
             "solegate.biz",
             "solehardcore.com",
             "solesbikje.com",
-            "solesnok.pl",
             "solid-insights.net",
             "solidmobile.pl",
             "solkurort.ru",
@@ -21412,6 +21409,7 @@
             "soma-for-you.com",
             "soma.1.p2l.info",
             "somacarp.com",
+            "somayehpakar.com",
             "sombrerogris.info",
             "some.demuz.ru",
             "some4sale.com",
@@ -21532,7 +21530,9 @@
             "soulbound.at",
             "soulbound.eu",
             "soulfirelingerie.com",
-            "soulhtrust.com",
+            "soulhtrust.com"
+        ],
+        "to_test": [
             "soumukaizen.com",
             "sound-cell.de",
             "sound.quantumjvs.info",
