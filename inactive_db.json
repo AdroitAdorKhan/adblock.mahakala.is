@@ -14423,9 +14423,7 @@
             "ratingtop100.ru",
             "rationalkale.net",
             "ratis-web.de",
-            "ratqdz.info"
-        ],
-        "to_test": [
+            "ratqdz.info",
             "rattanfurniturecentre.com",
             "rattanmegastore.co.uk",
             "rattili.com",
@@ -14446,6 +14444,7 @@
             "ravs49.com",
             "raw.oggifinogi.com",
             "rawa-maz.pl",
+            "rawfoodistguide.com",
             "rawsonwebsite.com",
             "raxcompanyltd.co.ke",
             "raxsearch.com",
@@ -14545,6 +14544,7 @@
             "re-direct-ss01.net",
             "re-rere.esy.es",
             "re-verify.cn",
+            "re.adroll.com",
             "re.directrev.com",
             "re.karamurseltesisat.com",
             "re.kontera.com",
@@ -14732,7 +14732,9 @@
             "realonlinevideo2008.com",
             "realperfectpill.com",
             "realpicmov.com",
-            "realpleasure.org",
+            "realpleasure.org"
+        ],
+        "to_test": [
             "realproperty.lk",
             "realqualitymedications.com",
             "realqualitytablet.com",
