@@ -26731,9 +26731,7 @@
             "totaltrygghet.com",
             "totalwebgames.com",
             "totalwellnesscleansereviews.moneysites.com",
-            "totalwhere.com"
-        ],
-        "to_test": [
+            "totalwhere.com",
             "totca.biz",
             "toteljob.com",
             "totfit.biz",
@@ -26831,7 +26829,6 @@
             "traciezplace.com",
             "track-apmebf.cj.akadns.net",
             "track-east.mobilepassback.com",
-            "track-rankings.online",
             "track-your-fedex-package.org",
             "track.4smobi.com",
             "track.a.bsuiteads.com",
@@ -26950,7 +26947,9 @@
             "track.nationalrainharvestinggroup.com",
             "track.newsletter.neteco.com",
             "track.offermarket.net",
-            "track.offermatch.fr",
+            "track.offermatch.fr"
+        ],
+        "to_test": [
             "track.optinstar.com",
             "track.parse.ly",
             "track.passionc.net",
