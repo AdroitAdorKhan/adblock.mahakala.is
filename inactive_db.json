@@ -22609,9 +22609,7 @@
             "static.casee.cn",
             "static.cdn.gtsmobi.com",
             "static.crowdscience.com",
-            "static.dsnrmg.com"
-        ],
-        "to_test": [
+            "static.dsnrmg.com",
             "static.esportsea.com",
             "static.fiksu.com",
             "static.firehunt.com",
@@ -22657,6 +22655,7 @@
             "static.thefacebook.com",
             "static.top-hitz.com",
             "static.trademob.com",
+            "static.traffe.eu",
             "static.vserv.mobi",
             "static1.influads.com",
             "static2.ero2you.com",
@@ -22702,6 +22701,7 @@
             "stats.darkbluesea.com",
             "stats.daserste.de",
             "stats.dominoplaza.com",
+            "stats.ebay.com",
             "stats.eyeviewdigital.com",
             "stats.f-secure.com",
             "stats.farfetch.com",
@@ -22750,7 +22750,9 @@
             "stats.staging.suite101.com",
             "stats.stats.fr",
             "stats.street-jeni.us",
-            "stats.styletechnology.me",
+            "stats.styletechnology.me"
+        ],
+        "to_test": [
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
             "stats.svpply.com",
