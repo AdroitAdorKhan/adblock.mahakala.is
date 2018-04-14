@@ -22286,9 +22286,7 @@
             "ssl18.net",
             "ssl19.com",
             "ssl2-paypal.com",
-            "ssl2.su"
-        ],
-        "to_test": [
+            "ssl2.su",
             "ssl28.eu",
             "ssl3.su",
             "ssl30.ru",
@@ -22340,7 +22338,9 @@
             "ssolo.ir",
             "ssolsoftware.com",
             "ssouranceservicemangar.it",
+            "ssp.86str.com",
             "ssp.ad.xiaomi.com",
+            "ssp.daxueshengqiandai.com",
             "ssp.virool.com",
             "sspcash.com",
             "sspowl.cn",
@@ -22416,7 +22416,9 @@
             "standartza.com",
             "standfig.com",
             "standforgiveness.com",
-            "standhad.com",
+            "standhad.com"
+        ],
+        "to_test": [
             "standmoney.com",
             "standrewsgolfgifts.com",
             "standsoliveira.com.br",
