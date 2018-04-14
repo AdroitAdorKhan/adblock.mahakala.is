@@ -25612,9 +25612,7 @@
             "thehotcodecxx.com",
             "thehotcodeczz.com",
             "thehotoit.net",
-            "thehotrate.info"
-        ],
-        "to_test": [
+            "thehotrate.info",
             "thehouseofbailey.org",
             "thehouseofstreetshoe.com",
             "thehouseofstreetshoes.com",
@@ -25878,7 +25876,9 @@
             "thetelebib.net",
             "thetheft.info",
             "thethumbsite.com",
-            "thetitcam.net",
+            "thetitcam.net"
+        ],
+        "to_test": [
             "thetitmuss.info",
             "thetitsbig.com",
             "thetodaycertify.info",
