@@ -168,9 +168,7 @@
             "ubt.ign.com",
             "uc.csc.adserver.yahoo.com",
             "uc147.com",
-            "uc8010.com"
-        ],
-        "to_test": [
+            "uc8010.com",
             "ucallweb.com",
             "ucbll.com",
             "uccgogo.co.kr",
@@ -440,6 +438,7 @@
             "umts-gprs-mondo-telefonino-cellulare.biz",
             "umutdengiz.com.tr",
             "umutf.com",
+            "un.soarfi.cn",
             "unadulterated.arbjubfn.ru",
             "unaffectedlotas.com",
             "unatng.com",
@@ -449,7 +448,9 @@
             "unaxlogin.com",
             "unbeliasbvabe.com",
             "unbeliresult.com",
-            "unbestersmaven.com",
+            "unbestersmaven.com"
+        ],
+        "to_test": [
             "unblockpagesystem.co.nf",
             "unblokedaccaunts.esy.es",
             "unblokedsaccaunts.esy.es",
