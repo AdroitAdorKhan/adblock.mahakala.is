@@ -24038,9 +24038,7 @@
             "swfutility.com",
             "swhmzq.com",
             "swiat-pobran.pl",
-            "swiatbotow.pl"
-        ],
-        "to_test": [
+            "swiatbotow.pl",
             "swietne-bony.pl",
             "swietne-kolekcje.pl",
             "swietne-promocje.pl",
@@ -24204,6 +24202,9 @@
             "system-doctor.biz",
             "system-issue-no40002-system.info",
             "system-issue-no40005-system.info",
+            "system-issue-no40008-system.info",
+            "system-issue-no40016-system.info",
+            "system-issue-no40018-system.info",
             "system-issue-no40033-system.online",
             "system-kernel-disk-errorx001dsxx-microsoft-windows.55errors5353.net",
             "system-require-maintenance-call-support.info",
@@ -24271,6 +24272,7 @@
             "sywould.com",
             "syywhww.com",
             "szafir-jubiler.pl",
+            "szalonepomysly.pl",
             "szbszy-wynik.com",
             "szczepanski-instalacje.eu",
             "szeged.suvido.hu",
@@ -24285,7 +24287,9 @@
             "sztosinternet.pl",
             "sztyrqfqbex.org",
             "szwajcaromaniak.com",
-            "szxintianli.cn",
+            "szxintianli.cn"
+        ],
+        "to_test": [
             "szybki-internet24.pl",
             "szybkiefilmy.pl",
             "t-72j.info",
