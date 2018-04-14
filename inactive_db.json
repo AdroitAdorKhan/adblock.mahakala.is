@@ -3817,9 +3817,7 @@
             "warmlaugh.com",
             "warning-message.com",
             "warningbusinesspages.esy.es",
-            "warningiepage.com"
-        ],
-        "to_test": [
+            "warningiepage.com",
             "warningtocardcredit.com",
             "warofmercenarieshack.net",
             "warparks.com",
@@ -4037,7 +4035,6 @@
             "wearthis.pk",
             "weasuaair.net",
             "weather.conduit.com",
-            "weathercal.com",
             "weatherconsider.net",
             "weatherford-ok.org",
             "weathergeneral.net",
@@ -4114,7 +4111,9 @@
             "web1enhancejs.info",
             "web2.harris-pub.com",
             "web42.in",
-            "web4search.net",
+            "web4search.net"
+        ],
+        "to_test": [
             "web523293hcw.com",
             "web58.co.uk",
             "web59.net",
