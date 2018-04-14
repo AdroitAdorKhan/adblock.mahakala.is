@@ -22750,9 +22750,7 @@
             "stats.staging.suite101.com",
             "stats.stats.fr",
             "stats.street-jeni.us",
-            "stats.styletechnology.me"
-        ],
-        "to_test": [
+            "stats.styletechnology.me",
             "stats.suite101.com",
             "stats.surfaid.ihost.com",
             "stats.svpply.com",
@@ -22803,6 +22801,7 @@
             "steadsquare.com",
             "steam-deal.com",
             "steam-games-free.net",
+            "steam-recharger.pl",
             "steam.fasting.tk",
             "steam.serulom.tk",
             "steam.steamscommunity.pro",
@@ -22818,6 +22817,7 @@
             "steamcommunityy.com",
             "steamcommunlcty.com",
             "steamcommunnitly.com",
+            "steamcomnrunity.ru",
             "steamcomrmunrity.com",
             "steamcomrrunity.com",
             "steamcomunity.su",
@@ -22943,7 +22943,9 @@
             "stmare.info",
             "stmareys.com",
             "stmarkgreatbend.com",
-            "stmonicacomets.org",
+            "stmonicacomets.org"
+        ],
+        "to_test": [
             "stnsolution.in",
             "sto.aac-kharkov.com",
             "sto3.spotify.com",
