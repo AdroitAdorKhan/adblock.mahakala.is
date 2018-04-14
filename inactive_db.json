@@ -26947,9 +26947,7 @@
             "track.nationalrainharvestinggroup.com",
             "track.newsletter.neteco.com",
             "track.offermarket.net",
-            "track.offermatch.fr"
-        ],
-        "to_test": [
+            "track.offermatch.fr",
             "track.optinstar.com",
             "track.parse.ly",
             "track.passionc.net",
@@ -27097,7 +27095,9 @@
             "tracking.ustream.tv",
             "tracking.vitringez.com",
             "tracking.we7.com",
-            "tracking.web2corp.com",
+            "tracking.web2corp.com"
+        ],
+        "to_test": [
             "tracking.yourfilehost.com",
             "trackmail3345.com",
             "trackpair.com",
