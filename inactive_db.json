@@ -27095,9 +27095,7 @@
             "tracking.ustream.tv",
             "tracking.vitringez.com",
             "tracking.we7.com",
-            "tracking.web2corp.com"
-        ],
-        "to_test": [
+            "tracking.web2corp.com",
             "tracking.yourfilehost.com",
             "trackmail3345.com",
             "trackpair.com",
@@ -27214,7 +27212,6 @@
             "trafinvest.com",
             "trailtoangkor.com",
             "train.grc-trainings.com",
-            "trainedogs.net",
             "trainercrackkey.com",
             "trainers-cave.com",
             "trainfar.com",
@@ -27303,6 +27300,7 @@
             "travelmaxinside.cn",
             "travelncs.com",
             "travelnetperks.com",
+            "travelonlineindia.com",
             "travelsearchengine.biz",
             "travelsecretsrevealed.org",
             "travelsserts.wang",
@@ -27370,7 +27368,9 @@
             "trfast.aunticles.com",
             "trfcnt.com",
             "trffc.org",
-            "trflin.info",
+            "trflin.info"
+        ],
+        "to_test": [
             "trgarin.cn",
             "trgarin.gs.cn",
             "trgarin.zj.cn",
