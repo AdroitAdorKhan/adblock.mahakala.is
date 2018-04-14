@@ -1745,9 +1745,7 @@
             "v-codec18.com",
             "v-shared.net",
             "v-windows.com",
-            "v.admob.com"
-        ],
-        "to_test": [
+            "v.admob.com",
             "v.jwpcdn.com",
             "v.vomedia.tv",
             "v0.stat.ku6.com",
@@ -1905,6 +1903,7 @@
             "vancouvertaxlawyers.com",
             "vandadevor.com",
             "vandadevorhy.com",
+            "vandallohullio.com",
             "vanesssa.myjino.ru",
             "vanguarddelivery.co.uk",
             "vanijagannadh.com",
@@ -2011,6 +2010,7 @@
             "vaxvideo.net",
             "vayswx.com",
             "vb-ma.net",
+            "vb.serverknecht.de",
             "vb008.cn",
             "vb008t.cn",
             "vb1d.com",
@@ -2067,7 +2067,9 @@
             "vcyber.info",
             "vd8nw.com",
             "vdftn.com",
-            "vdgppxvstmjo.com",
+            "vdgppxvstmjo.com"
+        ],
+        "to_test": [
             "vdokkot.com",
             "vdownloads.ru",
             "vdoynapwxrpljatge.pw",
