@@ -5225,9 +5225,7 @@
             "addtification.com",
             "addtoadd.men",
             "addwebporn.com",
-            "ade.wooboo.com.cn"
-        ],
-        "to_test": [
+            "ade.wooboo.com.cn",
             "adeboss.com",
             "adebraservice.com",
             "adeela.industradegroup.com",
@@ -5282,7 +5280,6 @@
             "adhref.pl",
             "adi.cnool.net",
             "adi.mainichi.co.jp",
-            "adi2007.cnool.net",
             "adidas.com-free.win",
             "adidasdufflebag.com",
             "adidasgame.com",
@@ -5297,6 +5294,7 @@
             "adimages.4sure.com",
             "adimages.beeb.com",
             "adimages.earthweb.com",
+            "adimages.omroepzeeland.nl",
             "adimages.watchmygf.net",
             "adincl.go2net.com",
             "adincl.gopher.com",
@@ -5460,7 +5458,9 @@
             "admanager3.collegepublisher.com",
             "admanmail.com",
             "admaster.candela.com.au",
-            "admatch-syndication.mochila.com",
+            "admatch-syndication.mochila.com"
+        ],
+        "to_test": [
             "admax.quisma.com",
             "adme.selfip.org",
             "admedia.xoom.com",
