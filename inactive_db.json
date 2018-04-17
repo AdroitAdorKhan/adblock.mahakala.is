@@ -9250,9 +9250,7 @@
             "android-guard.com",
             "android-invest.net",
             "android-system-care.com",
-            "android-virus-free-01.online"
-        ],
-        "to_test": [
+            "android-virus-free-01.online",
             "android-virus-free-02.online",
             "android-virus-free-03.online",
             "android-virus-free-04.online",
@@ -9263,6 +9261,7 @@
             "androidhack24.com",
             "androidhacksfree.com",
             "androidhackstool.net",
+            "androids-store.com",
             "androidsystemalert.info",
             "andromeda-av.com",
             "andru40.ru",
@@ -9310,7 +9309,6 @@
             "angelclub.cz",
             "angeldark.nl",
             "angeldarkhoney.com",
-            "angeldarkmovies.com",
             "angeldollars.com",
             "angeldust24.com",
             "angele-coquine.com",
@@ -9455,7 +9453,9 @@
             "anjpnrsztriv.biz",
             "anjpnueorn.biz",
             "anjpnvtvcp.biz",
-            "anju777.com",
+            "anju777.com"
+        ],
+        "to_test": [
             "ankaraescortbayan.net",
             "ankaraliescort.org",
             "ankarasogukhavadepo.com",
