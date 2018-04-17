@@ -5079,9 +5079,7 @@
             "ad41.atlas.cz",
             "ad42.atlas.cz",
             "ad43.atlas.cz",
-            "ad44.atlas.cz"
-        ],
-        "to_test": [
+            "ad44.atlas.cz",
             "ad45.atlas.cz",
             "ad46.atlas.cz",
             "ad468.prbn.ru",
@@ -5215,7 +5213,6 @@
             "addneofincorp.com",
             "addon-teamspeak.com",
             "addon.downloadterms.com",
-            "addonfiles.com",
             "addons.sync.maxthon.",
             "addplanet.net",
             "addray.pro",
@@ -5228,7 +5225,9 @@
             "addtification.com",
             "addtoadd.men",
             "addwebporn.com",
-            "ade.wooboo.com.cn",
+            "ade.wooboo.com.cn"
+        ],
+        "to_test": [
             "adeboss.com",
             "adebraservice.com",
             "adeela.industradegroup.com",
