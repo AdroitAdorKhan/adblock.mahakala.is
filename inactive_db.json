@@ -6366,9 +6366,7 @@
             "ads.struq.com",
             "ads.stupid.com",
             "ads.sublimedirectory.org",
-            "ads.sumotorrent.com"
-        ],
-        "to_test": [
+            "ads.sumotorrent.com",
             "ads.surfsolutions.com",
             "ads.suryacitra.com",
             "ads.svatbata.org",
@@ -6523,12 +6521,13 @@
             "ads1.advertwizard.com",
             "ads1.blogadvertising.me",
             "ads1.destructoid.com",
-            "ads1.eudora.com",
             "ads1.globeandmail.com",
             "ads1.itadnetwork.co.uk",
             "ads1.iweb.cortica.com",
             "ads1.jev.co.za",
-            "ads1.mediaops.com.br",
+            "ads1.mediaops.com.br"
+        ],
+        "to_test": [
             "ads1.perfadbrite.com.akadns.net",
             "ads1.performancingads.com",
             "ads1.planisys.net",
