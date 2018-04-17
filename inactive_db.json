@@ -12015,9 +12015,7 @@
             "atadomus.com",
             "atads.no.publicus.com",
             "ataprogram.com",
-            "atasru.com"
-        ],
-        "to_test": [
+            "atasru.com",
             "atatikolo.com",
             "atax.gamermetrics.com",
             "atax.gamespy.com",
@@ -12170,7 +12168,6 @@
             "audiaacoustics.com",
             "audiary.id",
             "audiclubnyc.sg",
-            "audience.visiblemeasures.com",
             "audio-ec.spotify.com",
             "audio-sexe.com",
             "audio-sp-sto.spotify.com",
@@ -12211,7 +12208,9 @@
             "AUSpolice.com",
             "aussie-au.com",
             "aussiegayblog.com",
-            "aussieupload.com",
+            "aussieupload.com"
+        ],
+        "to_test": [
             "austin-recruitment.co.uk",
             "austinbannerprint.com",
             "austinfcuaccounts.com",
