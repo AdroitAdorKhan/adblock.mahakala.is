@@ -13618,9 +13618,7 @@
             "bbrex99.com",
             "bbrindustries.com",
             "bbrosproducts.com",
-            "bbrutcnbglij.com"
-        ],
-        "to_test": [
+            "bbrutcnbglij.com",
             "bbs.hanndec.com",
             "bbspeaks249.com",
             "bbstfirstcredit.com",
@@ -13709,7 +13707,6 @@
             "bdexpress71.com",
             "bdfbv.com",
             "bdfsrtye.cowboyboot.expert",
-            "bdhzz.alldownloads.hapc.gdn",
             "bdieons.com",
             "bdinow.com",
             "bdjs.faxingzhan.com",
@@ -13788,7 +13785,9 @@
             "bearremember.com",
             "bearsandothers.com",
             "bearsathome.com",
-            "bearsmonthly.com",
+            "bearsmonthly.com"
+        ],
+        "to_test": [
             "bearwrote.com",
             "beasiley.com",
             "beast-action.net",
