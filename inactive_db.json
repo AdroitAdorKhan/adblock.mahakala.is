@@ -7128,9 +7128,7 @@
             "adv.digisesso.com",
             "adv.elbuscador.com",
             "adv.federalpost.ru",
-            "adv.lampsplus.com"
-        ],
-        "to_test": [
+            "adv.lampsplus.com",
             "adv.magna.ru",
             "adv.mediakeep.co.kr",
             "adv.merlin.co.il",
@@ -7167,6 +7165,7 @@
             "advancedhiddencamerasource.com",
             "advancedonlinescanner.com",
             "advancedxpdefender.com",
+            "advancedxpfixer.com",
             "advanceforward.net",
             "advancehandling.dhdinc.info",
             "advanceleader.net",
@@ -7320,7 +7319,9 @@
             "adz.myjino.ru",
             "adzone.stltoday.com",
             "adzservice.theday.com",
-            "adzyclon.com",
+            "adzyclon.com"
+        ],
+        "to_test": [
             "ae.siteapps.com",
             "ae3d579d.com",
             "aeaio.com",
