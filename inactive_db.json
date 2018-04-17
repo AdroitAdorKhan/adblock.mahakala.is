@@ -4679,9 +4679,7 @@
             "actplay.info",
             "actremage.com",
             "actsexx.com",
-            "actsifriqia.com"
-        ],
-        "to_test": [
+            "actsifriqia.com",
             "actualizacion-clientes.com",
             "actualization.cn",
             "actueelbeleid.nl",
@@ -4771,6 +4769,7 @@
             "ad.bnmedia.ru",
             "ad.bodybuilding.com",
             "ad.bryghtad.com",
+            "ad.bubblestat.com",
             "ad.burstly.com",
             "ad.caramail.com",
             "ad.carrieriq.com",
@@ -4835,7 +4834,9 @@
             "ad.hinet.net",
             "ad.hizlireklam.com",
             "ad.horvitznewspapers.net",
-            "ad.howstuffworks.com",
+            "ad.howstuffworks.com"
+        ],
+        "to_test": [
             "ad.icasthq.com",
             "ad.idgtn.net",
             "ad.ieurop.net",
