@@ -5690,9 +5690,7 @@
             "ads.1stblaze.com",
             "ads.20minutos.es",
             "ads.3dgames.com.ar",
-            "ads.4gifs.com"
-        ],
-        "to_test": [
+            "ads.4gifs.com",
             "ads.666network.com",
             "ads.6arab.com",
             "ads.7days.ae",
@@ -5815,7 +5813,6 @@
             "ads.brandfit.net",
             "ads.breakthru.com",
             "ads.britishexpats.com",
-            "ads.brunoalves.eti.br",
             "ads.bryghtads.com",
             "ads.bullchat.eu",
             "ads.burstly.com",
@@ -5883,7 +5880,9 @@
             "ads.csi.emcweb.com",
             "ads.currantbun.com",
             "ads.cyberfight.ru",
-            "ads.cybertrader.com",
+            "ads.cybertrader.com"
+        ],
+        "to_test": [
             "ads.daclips.in",
             "ads.dai.nl",
             "ads.dailyclicks.net",
