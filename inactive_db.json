@@ -6921,9 +6921,7 @@
             "adsolution-2016.info",
             "adsor.openrunner.com",
             "adspidernow.info",
-            "adspiro.pl"
-        ],
-        "to_test": [
+            "adspiro.pl",
             "adsports.co.kr",
             "adspr.haber7.net",
             "adsr3pg.com.br",
@@ -7130,7 +7128,9 @@
             "adv.digisesso.com",
             "adv.elbuscador.com",
             "adv.federalpost.ru",
-            "adv.lampsplus.com",
+            "adv.lampsplus.com"
+        ],
+        "to_test": [
             "adv.magna.ru",
             "adv.mediakeep.co.kr",
             "adv.merlin.co.il",
