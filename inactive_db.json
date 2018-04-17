@@ -6039,9 +6039,7 @@
             "ads.i33.com",
             "ads.i33.net",
             "ads.ibibo.com",
-            "ads.iboost.com"
-        ],
-        "to_test": [
+            "ads.iboost.com",
             "ads.iforex.com",
             "ads.ihaberadserver.com",
             "ads.imdb.com",
@@ -6195,7 +6193,9 @@
             "ads.nettavisen.no",
             "ads.netvigator.com",
             "ads.network-server.net",
-            "ads.networldmedia.net",
+            "ads.networldmedia.net"
+        ],
+        "to_test": [
             "ads.newcity.com",
             "ads.newcity.net",
             "ads.newcitynet.com",
