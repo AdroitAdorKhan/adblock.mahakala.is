@@ -4082,9 +4082,7 @@
             "abellabook.com",
             "abelzplace.com",
             "aberrant.fj.cn",
-            "aberrant.jl.cn"
-        ],
-        "to_test": [
+            "aberrant.jl.cn",
             "abestclick.info",
             "abettor.fj.cn",
             "abettor.jl.cn",
@@ -4127,6 +4125,7 @@
             "abinloveletter.com",
             "abkim.net",
             "able2find.com",
+            "ablecarpetclean.net",
             "ableconflict.info",
             "ablough.com",
             "abmindwebac.com",
@@ -4204,6 +4203,7 @@
             "absoluflash.net",
             "absolute-porn-tgp.com",
             "absolutecameron.com",
+            "absolutedlst.com",
             "absolutegames.net",
             "absolutely-clean-up-pc-errors.com",
             "absolutelyanalog.com",
@@ -4356,7 +4356,6 @@
             "account-register.spammer-id.org",
             "account-review-department.org",
             "account-security-info.verification.lescitrouillards.ca",
-            "account-security.org",
             "account-securityservices.com",
             "account-service-center.info",
             "account-service-lockeds.com",
@@ -4374,7 +4373,9 @@
             "account-verification-service.micropc.es",
             "account-verified-update.com",
             "account-verifiedapple.com",
-            "account-veriviaccessecure.com",
+            "account-veriviaccessecure.com"
+        ],
+        "to_test": [
             "account-vr.it",
             "account.bankofireland.net.in",
             "account.commercialrainwatercollecting.com",
