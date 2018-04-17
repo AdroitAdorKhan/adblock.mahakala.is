@@ -1298,9 +1298,7 @@
             "2.marketbanker.com",
             "2.payments.appleid-apple.store.hoorg.decoys.com.ar",
             "20-yrs-1.info",
-            "2001-007.com"
-        ],
-        "to_test": [
+            "2001-007.com",
             "2002watch.com",
             "200452-deu-gast-sicher-account.sicherheitsabwehr-sicher.cf",
             "2004search.cc",
@@ -1478,7 +1476,6 @@
             "23whip99.com",
             "24-7-search.com",
             "24-7-singles.com",
-            "24-cargo.com",
             "24-fakt.pl",
             "24-verygoods.ru",
             "24-wiadomosci.com.pl",
@@ -1523,7 +1520,6 @@
             "250666.689681562.cn",
             "250692-deutschland-prob-kenntnis-account.sicherheitshilfe-hilfeservice.ga",
             "251282-de-verbraucher-angabe-validierung.hilfeservice-sicherheitshilfe.tk",
-            "254.252.131.213.static.inetbone.net",
             "255-google-video.info",
             "25643e662a2.com",
             "256bit.at",
@@ -1633,7 +1629,9 @@
             "2dxxx.com",
             "2e6c3f.com",
             "2exchange.biz",
-            "2fastsearch.net",
+            "2fastsearch.net"
+        ],
+        "to_test": [
             "2fmrdnml5waj.info",
             "2freeonlinegames.com",
             "2ftf9y6q188teq.bpl.cc",
