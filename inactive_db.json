@@ -3865,9 +3865,7 @@
             "a4df42b2.com",
             "a4face-podgladacz.eu",
             "a5.websponsors.com",
-            "a5.yeshj.com"
-        ],
-        "to_test": [
+            "a5.yeshj.com",
             "a5face-podgladacz.eu",
             "a5productionsinc.com",
             "a5r7j2s5iuq.info",
@@ -3903,8 +3901,8 @@
             "aa.xqwqbg.com",
             "aa3e.info",
             "aa7192fc4ab48025.cdn.jiashule.com",
+            "aaa.aj5.info",
             "aaa.piccash.net",
-            "aaa38852e886ac4af1a3cff9b47cab6272.com",
             "aaa520.izlinix.com",
             "aaaa.tly331.pw",
             "aaaaa.8jbt.com",
@@ -3991,7 +3989,6 @@
             "ab-tiendas.com",
             "ab-z-toys.com",
             "ab.5.p2l.info",
-            "ab.adrevivify.com",
             "ab.itbaribd.com",
             "ab.usageload32.com",
             "ab513.xyz",
@@ -4054,7 +4051,6 @@
             "abcestudiopilates.com.br",
             "abcfind.net",
             "abcfind4u.com",
-            "abcflores.cl",
             "abcglobalinfo.com",
             "abcgzortr3l0zj.capitalgroup.com.hk",
             "abchost.us",
@@ -4086,7 +4082,9 @@
             "abellabook.com",
             "abelzplace.com",
             "aberrant.fj.cn",
-            "aberrant.jl.cn",
+            "aberrant.jl.cn"
+        ],
+        "to_test": [
             "abestclick.info",
             "abettor.fj.cn",
             "abettor.jl.cn",
