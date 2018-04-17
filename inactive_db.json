@@ -3743,9 +3743,7 @@
             "a-vxp08.com",
             "a-vxp08.net",
             "a-vxp2008.com",
-            "a-vxp2008.net"
-        ],
-        "to_test": [
+            "a-vxp2008.net",
             "a.1980se.com",
             "a.acadianafriends.com",
             "a.admaxserver.com",
@@ -3867,7 +3865,9 @@
             "a4df42b2.com",
             "a4face-podgladacz.eu",
             "a5.websponsors.com",
-            "a5.yeshj.com",
+            "a5.yeshj.com"
+        ],
+        "to_test": [
             "a5face-podgladacz.eu",
             "a5productionsinc.com",
             "a5r7j2s5iuq.info",
