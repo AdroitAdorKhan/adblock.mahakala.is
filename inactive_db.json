@@ -9914,9 +9914,7 @@
             "anvi-scanner.com",
             "anvimaster.com",
             "anvoxhk.com",
-            "anwady.com"
-        ],
-        "to_test": [
+            "anwady.com",
             "anwithumbrella.com",
             "anxau.com",
             "anxiety.1.p2l.info",
@@ -10350,7 +10348,9 @@
             "api.adwhirl.com",
             "api.ak.facebook.com",
             "api.bidmath.com",
-            "api.bizographics.com",
+            "api.bizographics.com"
+        ],
+        "to_test": [
             "api.bryghtapi.com",
             "api.burstly.com",
             "api.carrieriq.com",
