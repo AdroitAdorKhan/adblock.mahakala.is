@@ -9073,9 +9073,7 @@
             "ampjsppmftmfdblpt.info",
             "ampmsearch.com",
             "amrade.com",
-            "amrutvahiniiti.com"
-        ],
-        "to_test": [
+            "amrutvahiniiti.com",
             "ams.addflow.ru",
             "ams76.us",
             "amscdn.btrll.com",
@@ -9166,6 +9164,7 @@
             "analytics.ku6.com",
             "analytics.linkwelove.com",
             "analytics.magelan.it",
+            "analytics.mecloud.vn",
             "analytics.mmosite.com",
             "analytics.nextmedia.com",
             "analytics.ntiermanaged.com",
@@ -9251,7 +9250,9 @@
             "android-guard.com",
             "android-invest.net",
             "android-system-care.com",
-            "android-virus-free-01.online",
+            "android-virus-free-01.online"
+        ],
+        "to_test": [
             "android-virus-free-02.online",
             "android-virus-free-03.online",
             "android-virus-free-04.online",
