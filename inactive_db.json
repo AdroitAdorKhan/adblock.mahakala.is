@@ -4373,9 +4373,7 @@
             "account-verification-service.micropc.es",
             "account-verified-update.com",
             "account-verifiedapple.com",
-            "account-veriviaccessecure.com"
-        ],
-        "to_test": [
+            "account-veriviaccessecure.com",
             "account-vr.it",
             "account.bankofireland.net.in",
             "account.commercialrainwatercollecting.com",
@@ -4411,6 +4409,7 @@
             "accountpages.giphys.gq",
             "accountrecovery-billsafe.com",
             "accountresulation.com",
+            "accountrmation-payment.info",
             "accounts-apple.me",
             "accounts-bank-of-america.net",
             "accounts-bankofamerica.net",
@@ -4426,6 +4425,7 @@
             "accounts-service-online.com",
             "accounts-update-requested.zxc.pm",
             "accounts-update.info",
+            "accounts-update.net",
             "accounts-updatesecurity.com",
             "accounts-verification.darotob.com",
             "accounts-verify-paypal.com",
@@ -4679,7 +4679,9 @@
             "actplay.info",
             "actremage.com",
             "actsexx.com",
-            "actsifriqia.com",
+            "actsifriqia.com"
+        ],
+        "to_test": [
             "actualizacion-clientes.com",
             "actualization.cn",
             "actueelbeleid.nl",
