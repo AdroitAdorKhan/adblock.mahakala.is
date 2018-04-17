@@ -8882,9 +8882,7 @@
             "amazon.cwl25i.ml",
             "amazon.de-kundencenter-konto1065188.com",
             "amazon.de-kundencenter-konto703226.de",
-            "amazon.de-service-center.xyz"
-        ],
-        "to_test": [
+            "amazon.de-service-center.xyz",
             "amazon.de-sichererlogin.com",
             "amazon.de-sicherheit-konto10217301.de",
             "amazon.de.24-konto-8nm-amazon-zum.ru",
@@ -8972,6 +8970,7 @@
             "americaclickhere.info",
             "americad123.com",
             "americafinestcasino.com",
+            "americahotgirls.com",
             "americainoir.com",
             "american-carpet.com.tr",
             "american-citysearch.com",
@@ -9029,6 +9028,7 @@
             "amexsafetykeysupport.com",
             "amexsupportsafekey.com",
             "amexverified.com",
+            "amezaga.estudiolat.com",
             "amgiftcards.com",
             "amhvcketn.com",
             "amialoys.com",
@@ -9058,6 +9058,7 @@
             "amorcardamizade.com",
             "amoredatefun.com",
             "amorencolores.mx",
+            "amoreternoconsulta.com",
             "amoszplace.com",
             "amountelectricity.net",
             "amountfurther.net",
@@ -9072,7 +9073,9 @@
             "ampjsppmftmfdblpt.info",
             "ampmsearch.com",
             "amrade.com",
-            "amrutvahiniiti.com",
+            "amrutvahiniiti.com"
+        ],
+        "to_test": [
             "ams.addflow.ru",
             "ams76.us",
             "amscdn.btrll.com",
