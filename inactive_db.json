@@ -11329,9 +11329,7 @@
             "arcevault.cn",
             "archaeo.cc",
             "archeage-rebellion.com",
-            "archie11111.com"
-        ],
-        "to_test": [
+            "archie11111.com",
             "archivesmonomenclatures.info",
             "archiveviewsoftware.com",
             "archivio-film.com",
@@ -11499,7 +11497,9 @@
             "art-photo-music-savingblvd.com",
             "art-sagk.pl",
             "art-wag.pl",
-            "art.phyturrecords.com",
+            "art.phyturrecords.com"
+        ],
+        "to_test": [
             "artaemys.com",
             "artafra.com",
             "artalex.biz",
