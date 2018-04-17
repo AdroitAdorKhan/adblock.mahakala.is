@@ -4834,9 +4834,7 @@
             "ad.hinet.net",
             "ad.hizlireklam.com",
             "ad.horvitznewspapers.net",
-            "ad.howstuffworks.com"
-        ],
-        "to_test": [
+            "ad.howstuffworks.com",
             "ad.icasthq.com",
             "ad.idgtn.net",
             "ad.ieurop.net",
@@ -4975,7 +4973,9 @@
             "ad.wagbridge.tanx.com",
             "ad.walkgame.com",
             "ad.watch.impress.co.jp",
-            "ad.webadvertising.ch",
+            "ad.webadvertising.ch"
+        ],
+        "to_test": [
             "ad.webnext.ru",
             "ad.webprovider.com",
             "ad.wiredvision.jp",
