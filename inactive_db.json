@@ -7489,9 +7489,7 @@
             "afterkindsss.com",
             "afterlower.net",
             "afterouter.net",
-            "aftersuchheadleft.com"
-        ],
-        "to_test": [
+            "aftersuchheadleft.com",
             "aftertol.net",
             "afundatetime.com",
             "afunfundate.com",
@@ -7607,7 +7605,6 @@
             "agrivir.com",
             "agroadamek.pl",
             "agrogestionwebsite.com.ar",
-            "agropecuaria.ws",
             "agropplac.com",
             "agropus.pl",
             "agt-crux.com",
@@ -7617,8 +7614,8 @@
             "aguardtoolbar.com",
             "aguiaservicesexpress.com.br",
             "aguiatrailers.com.br",
-            "aguileranude.1stok.com",
             "aguileranude.1stOK.com",
+            "aguileranude.1stok.com",
             "agungac.co.id",
             "agungberbagi.id",
             "agustinmerello.com",
@@ -7740,7 +7737,6 @@
             "aifnndnc.altervista.org",
             "aijingru.com",
             "aikensshoes.com",
-            "aikzz.alldownloads.hapc.gdn",
             "aileenzplace.com",
             "ailyz.org",
             "aim.infusionsoft.com",
@@ -7760,7 +7756,9 @@
             "aionlinegames.com",
             "aiphone168.com",
             "aiphong.com",
-            "aippnetworks.com",
+            "aippnetworks.com"
+        ],
+        "to_test": [
             "air-mattress-superstore.com",
             "air-max-wygrywamy.pl",
             "air-maxy.eu",
