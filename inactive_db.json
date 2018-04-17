@@ -13253,9 +13253,7 @@
             "bannermaster.geektech.com",
             "bannermercial.info",
             "bannernetwork.cearchives.com",
-            "banners.777-xxx.com"
-        ],
-        "to_test": [
+            "banners.777-xxx.com",
             "banners.amateurtour.com",
             "banners.amoestecuzinho.com",
             "banners.apnuk.com",
@@ -13308,7 +13306,6 @@
             "banners.paixaogay.com",
             "banners.partypartners.com",
             "banners.passeilimitado.com",
-            "banners.pcsecurityshield.com",
             "banners.phoneaccess.com",
             "banners.prazerlesbico.com",
             "banners.primaryclick.com",
@@ -13338,6 +13335,7 @@
             "banortebixenetportal.com",
             "banque-atlantic.com",
             "banquepopulaire-06.com",
+            "banquepopulaire-bpi.com",
             "banrural.zonasegura.ml",
             "banwitheritage.us",
             "banwithheritage.com",
@@ -13388,6 +13386,7 @@
             "barcelo-hotels-czech.com",
             "barcelo-hotels-dc.com",
             "barclay-security.com",
+            "barclaydwight.com",
             "barclays-group.ru",
             "barclays.co.uk.olb.icloudservices.gmtracks.com.au",
             "barclays.co.uk.personalbanking.p1242557947640.maxwellagedcareservices.com.au",
@@ -13430,7 +13429,9 @@
             "barkurenerji.net",
             "barlapak.id",
             "barmy-army.net",
-            "barmy-army.org",
+            "barmy-army.org"
+        ],
+        "to_test": [
             "barnesandnoble.bfast.nl",
             "barnesfloral.com",
             "barneyzblog.com",
