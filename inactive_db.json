@@ -6525,9 +6525,7 @@
             "ads1.itadnetwork.co.uk",
             "ads1.iweb.cortica.com",
             "ads1.jev.co.za",
-            "ads1.mediaops.com.br"
-        ],
-        "to_test": [
+            "ads1.mediaops.com.br",
             "ads1.perfadbrite.com.akadns.net",
             "ads1.performancingads.com",
             "ads1.planisys.net",
@@ -6736,10 +6734,11 @@
             "adserver.bluereactor.net",
             "adserver.bluewin.ch",
             "adserver.bumeran.com",
-            "adserver.buttonware.com",
             "adserver.buttonware.net",
             "adserver.cheatplanet.com",
-            "adserver.clubic.com",
+            "adserver.clubic.com"
+        ],
+        "to_test": [
             "adserver.colleges.com",
             "adserver.com-solutions.com",
             "adserver.conjelco.com",
