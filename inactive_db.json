@@ -5880,9 +5880,7 @@
             "ads.csi.emcweb.com",
             "ads.currantbun.com",
             "ads.cyberfight.ru",
-            "ads.cybertrader.com"
-        ],
-        "to_test": [
+            "ads.cybertrader.com",
             "ads.daclips.in",
             "ads.dai.nl",
             "ads.dailyclicks.net",
@@ -5942,7 +5940,6 @@
             "ads.esam.ro",
             "ads.escortforumit.com",
             "ads.esmas.com",
-            "ads.eudora.com",
             "ads.eunanoticias.com",
             "ads.euniverseads.com",
             "ads.evansville.net",
@@ -5953,6 +5950,7 @@
             "ads.famegame.com",
             "ads.fark.com",
             "ads.fayettevillenc.com",
+            "ads.fiat-bg.org",
             "ads.filez.nl",
             "ads.firingsquad.com",
             "ads.fish4.co.uk",
@@ -6041,7 +6039,9 @@
             "ads.i33.com",
             "ads.i33.net",
             "ads.ibibo.com",
-            "ads.iboost.com",
+            "ads.iboost.com"
+        ],
+        "to_test": [
             "ads.iforex.com",
             "ads.ihaberadserver.com",
             "ads.imdb.com",
