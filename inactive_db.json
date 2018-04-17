@@ -13429,9 +13429,7 @@
             "barkurenerji.net",
             "barlapak.id",
             "barmy-army.net",
-            "barmy-army.org"
-        ],
-        "to_test": [
+            "barmy-army.org",
             "barnesandnoble.bfast.nl",
             "barnesfloral.com",
             "barneyzblog.com",
@@ -13594,6 +13592,7 @@
             "bbcdn.go.idmnet.bbelements.com",
             "bbcdn.go.pol.bbelements.com",
             "bbcertificado.org",
+            "bbcfinancenews.com",
             "bbchd.info",
             "bbchotnews.com",
             "bbchsctg.edu.bd",
@@ -13619,7 +13618,9 @@
             "bbrex99.com",
             "bbrindustries.com",
             "bbrosproducts.com",
-            "bbrutcnbglij.com",
+            "bbrutcnbglij.com"
+        ],
+        "to_test": [
             "bbs.hanndec.com",
             "bbspeaks249.com",
             "bbstfirstcredit.com",
