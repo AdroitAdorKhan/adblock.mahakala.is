@@ -5458,9 +5458,7 @@
             "admanager3.collegepublisher.com",
             "admanmail.com",
             "admaster.candela.com.au",
-            "admatch-syndication.mochila.com"
-        ],
-        "to_test": [
+            "admatch-syndication.mochila.com",
             "admax.quisma.com",
             "adme.selfip.org",
             "admedia.xoom.com",
@@ -5617,6 +5615,7 @@
             "adomicilio.ch",
             "adomistik.com",
             "adonweb",
+            "adop.info",
             "adopt.euroclick.com",
             "adoptape.info",
             "adoptext.com",
@@ -5691,7 +5690,9 @@
             "ads.1stblaze.com",
             "ads.20minutos.es",
             "ads.3dgames.com.ar",
-            "ads.4gifs.com",
+            "ads.4gifs.com"
+        ],
+        "to_test": [
             "ads.666network.com",
             "ads.6arab.com",
             "ads.7days.ae",
