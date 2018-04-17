@@ -8627,9 +8627,7 @@
             "alone.plantobelean.com.au",
             "aloneround.net",
             "alonzozplace.com",
-            "alookthroughtheglass.com"
-        ],
-        "to_test": [
+            "alookthroughtheglass.com",
             "alopsitta.roninlife.ru",
             "alopsitta.rusjohn.ru",
             "alopsitta.vard-forum.ru",
@@ -8884,7 +8882,9 @@
             "amazon.cwl25i.ml",
             "amazon.de-kundencenter-konto1065188.com",
             "amazon.de-kundencenter-konto703226.de",
-            "amazon.de-service-center.xyz",
+            "amazon.de-service-center.xyz"
+        ],
+        "to_test": [
             "amazon.de-sichererlogin.com",
             "amazon.de-sicherheit-konto10217301.de",
             "amazon.de.24-konto-8nm-amazon-zum.ru",
