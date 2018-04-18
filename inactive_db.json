@@ -23954,9 +23954,7 @@
             "dazzlephotomemoir.com.ng",
             "db1.site-stats.net",
             "db23.co.uk",
-            "db35.co.uk"
-        ],
-        "to_test": [
+            "db35.co.uk",
             "db63.co.uk",
             "db8mh.info",
             "dbaguide.com.au",
@@ -24010,7 +24008,9 @@
             "dc.sabela.com.pl",
             "dc.umusic.com",
             "dc2.netcdn.org",
-            "dc44qjwal3p07.cloudfront.net",
+            "dc44qjwal3p07.cloudfront.net"
+        ],
+        "to_test": [
             "dc7yzbd.info",
             "dcabkl.com",
             "dcads.biz",
