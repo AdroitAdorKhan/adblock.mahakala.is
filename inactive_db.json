@@ -2546,9 +2546,7 @@
             "fischprints.com",
             "fish.3776fieldstonecir.info",
             "fish.hannafister.com",
-            "fishacquire.com"
-        ],
-        "to_test": [
+            "fishacquire.com",
             "fishdonegal.info",
             "fishenews.info",
             "fisheres.com",
@@ -2652,10 +2650,8 @@
             "fkjehed.com",
             "fklgjslkj.com",
             "fklyrgr.top",
-            "fkoisu.xonx.pl",
             "fkprometej.com",
             "fks18.com",
-            "fkunqainonwy.com",
             "fl.5.p2l.info",
             "fl.paddletheplanet.com",
             "fl3xyinc.top",
@@ -2671,6 +2667,7 @@
             "flagstaffarizonaworld.info",
             "flagstar-128.com",
             "flagstarbanking.us",
+            "flakonik.pl",
             "flakymace.com",
             "flanch.co.nz",
             "flangey.com",
@@ -2683,6 +2680,7 @@
             "flash-games-fr.com",
             "flash-games-world.com",
             "flash-games24.com",
+            "flash-update.info",
             "flash-x-games.com",
             "flash.888.com",
             "flash.indi.ru",
@@ -2745,7 +2743,9 @@
             "flickrtm.com",
             "flierpaint.net",
             "flierwhite.net",
-            "flight.qready.ca",
+            "flight.qready.ca"
+        ],
+        "to_test": [
             "fligre.com",
             "fligrepol.com",
             "flindert.com",
