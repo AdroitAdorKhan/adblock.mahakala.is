@@ -1420,9 +1420,7 @@
             "fasugiz.com",
             "fat-blaster-source.info",
             "fatal-security-error.xyz",
-            "fatalvixxxen.orbitcycle.com"
-        ],
-        "to_test": [
+            "fatalvixxxen.orbitcycle.com",
             "fatblackebony.info",
             "fatblackworld.info",
             "fatehinfotech.com",
@@ -1562,9 +1560,11 @@
             "fbpixel.network.exchange",
             "fbprofilestealer.com",
             "fbregistrations.esy.es",
+            "fbrindia.com",
             "fbs.for-ua.org.ua",
             "fbs1092.esy.es",
             "fbsbk.com",
+            "fbscaner.pl",
             "fbsecure-verify-pages-accounts.com",
             "fbstatic-a.akamaihd.net",
             "fbsuport-termsloogin.esy.es",
@@ -1719,6 +1719,7 @@
             "feetresolution.com",
             "feetsuch.com",
             "feetsymbol.com",
+            "fefo.gdn",
             "fegh.kgune.com",
             "fehderajskalfedf.com",
             "fehderajskalfedf.org",
@@ -1730,7 +1731,9 @@
             "fejlrenser.com",
             "fejlreparering.com",
             "fejs-colors.com.pl",
-            "fejs-gamer.pl",
+            "fejs-gamer.pl"
+        ],
+        "to_test": [
             "fejs-podgladamy.pl",
             "fejs-vieewer.pl",
             "fejsbest.pl",
