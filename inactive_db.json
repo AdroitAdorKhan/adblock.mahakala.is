@@ -24008,9 +24008,7 @@
             "dc.sabela.com.pl",
             "dc.umusic.com",
             "dc2.netcdn.org",
-            "dc44qjwal3p07.cloudfront.net"
-        ],
-        "to_test": [
+            "dc44qjwal3p07.cloudfront.net",
             "dc7yzbd.info",
             "dcabkl.com",
             "dcads.biz",
@@ -24072,6 +24070,7 @@
             "ddllpmedia9.info",
             "ddlproject.info",
             "ddlreg.com",
+            "ddos.702mu.com",
             "ddos.ayddos.com",
             "ddoservice.com",
             "ddosmanager.org",
@@ -24237,7 +24236,9 @@
             "deewhybooks.com.au",
             "deewoo.net",
             "deezerpremiumplusfree.com",
-            "def-014.xyz",
+            "def-014.xyz"
+        ],
+        "to_test": [
             "def.5.p2l.info",
             "default2.asia",
             "default37.com",
