@@ -18460,9 +18460,7 @@
             "cdn2.picadmedia.com",
             "cdn2.urbanmusichq.se",
             "cdn20-ref.landing.comcontent.net",
-            "cdn3.blackberryempire.com"
-        ],
-        "to_test": [
+            "cdn3.blackberryempire.com",
             "cdn3.picadmedia.com",
             "cdn3.urbanmusichq.se",
             "cdn4.urbanmusichq.se",
@@ -18571,6 +18569,7 @@
             "celphonat.com",
             "celtic-art.ltd.uk",
             "celticonlinejewelry.com",
+            "celtshop.net",
             "celular-para-empresa.com",
             "celularblog.com.br",
             "celulargame.net",
@@ -18578,7 +18577,6 @@
             "celvert.net",
             "cembra-schweiz.net",
             "cembra.ch.stie-inaba.com",
-            "cemkece.tv",
             "cenbankmail.info",
             "cenbankmanagement.com",
             "cenbankonline.com",
@@ -18640,7 +18638,9 @@
             "centralohiotopsoil.info",
             "centre-compte.com",
             "centrealbank.info",
-            "centrefrance-ca.com",
+            "centrefrance-ca.com"
+        ],
+        "to_test": [
             "centrica.usertracking.com",
             "centro-feedback.com",
             "centro-guzzi-bielefeld.de",
