@@ -1225,9 +1225,7 @@
             "famvir.1.p2l.info",
             "fan-club-de-virginie-moinard.net",
             "fan-gaming.org",
-            "fan.gloryfades.org"
-        ],
-        "to_test": [
+            "fan.gloryfades.org",
             "fanastar.info",
             "fanatticrecords.com",
             "fanavaranbabol.ir",
@@ -1422,7 +1420,9 @@
             "fasugiz.com",
             "fat-blaster-source.info",
             "fatal-security-error.xyz",
-            "fatalvixxxen.orbitcycle.com",
+            "fatalvixxxen.orbitcycle.com"
+        ],
+        "to_test": [
             "fatblackebony.info",
             "fatblackworld.info",
             "fatehinfotech.com",
