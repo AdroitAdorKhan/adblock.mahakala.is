@@ -26744,9 +26744,7 @@
             "dtoga.com",
             "dtosa.com",
             "dtownoriginals.com",
-            "dtrjuegosgratis.com"
-        ],
-        "to_test": [
+            "dtrjuegosgratis.com",
             "dtt617kogtcso.cloudfront.net",
             "dtwzedqhz.ce.ms",
             "dual-change.net",
@@ -26861,7 +26859,6 @@
             "dvd-codec.com",
             "dvd-movie-download.com",
             "dvd-movies-4-cheap.com",
-            "dvd-paradijs.nl",
             "dvdaccess.net",
             "dvdahappy.com",
             "dvdbank.org",
@@ -26873,7 +26870,6 @@
             "dvdend.net",
             "dvdfreeporno.com",
             "dvdhomeshop.com",
-            "dvdhuset.no",
             "dvdmagico.com",
             "dvds-access.com",
             "dvds-movies.net",
@@ -26944,7 +26940,9 @@
             "dynads.adextent.com",
             "dynamic.isyndicate.com",
             "dynamicdesktopmedia.com",
-            "dynamicsbuy.com",
+            "dynamicsbuy.com"
+        ],
+        "to_test": [
             "dynamicsoftbuy.com",
             "dynamicstartbuy.com",
             "dynamis.com.pl",
