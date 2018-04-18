@@ -23339,13 +23339,13 @@
             "d1d43ayl08oaq2.cloudfront.net",
             "d1d95giojjkirt.cloudfront.net",
             "d1ep3cn6qx0l3z.cloudfront.net",
-            "d1eyk8qbbvsiyg.cloudfront.net"
-        ],
-        "to_test": [
+            "d1eyk8qbbvsiyg.cloudfront.net",
+            "d1g3gvqfdsvkse.cloudfront.net",
             "d1g8ojsfd6t2k6.cloudfront.net",
             "d1gyluhoxet66h.cloudfront.net",
             "d1izbwxtc3f9ue.cloudfront.net",
             "d1k74lgicilrr3.cloudfront.net",
+            "d1kgn5f4cy21do.cloudfront.net",
             "d1mxvenloqrqmu.cloudfront.net",
             "d1nh2vjpqpfnin.cloudfront.net",
             "d1nmk7iw7hajjn.cloudfront.net",
@@ -23423,6 +23423,7 @@
             "d3m00n.net",
             "d3m0n.biz",
             "d3mgo879eugsjh.cloudfront.net",
+            "d3ojzyhbolvoi5.cloudfront.net",
             "d3oxij66pru1i3.cloudfront.net",
             "d3oxtn1x3b8d7i.cloudfront.net",
             "d3p9ql8flgemg7.cloudfront.net",
@@ -23474,7 +23475,6 @@
             "dacavd.com",
             "daccountvinformation.com",
             "dacrf.com",
-            "dadasvalley.com",
             "dadcompassion.com",
             "daddy-video-g24.org",
             "daddyrays.net",
@@ -23574,7 +23574,9 @@
             "daliiyfx.com",
             "dalilazweb.com",
             "dalkcffcfdkaabmk.website",
-            "dallagojacobseguros.com.br",
+            "dallagojacobseguros.com.br"
+        ],
+        "to_test": [
             "dalun.lionfree.net",
             "damangangasteelandpipe.in",
             "damavader.com",
