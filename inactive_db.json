@@ -19986,9 +19986,7 @@
             "cleansweep4free.com",
             "cleanswhenu.info",
             "cleanticket.net",
-            "cleanup-adware.com"
-        ],
-        "to_test": [
+            "cleanup-adware.com",
             "cleanupmymac.net",
             "cleanwashinglavanderia.com.br",
             "cleanx.co.kr",
@@ -20001,6 +19999,7 @@
             "clearcontentsite.com",
             "clearfieldonline.com",
             "cleargemsinc.org.uk",
+            "clearget.com",
             "clearmeat.com",
             "clearnetclear.net",
             "clearour.com",
@@ -20046,7 +20045,6 @@
             "click.fool.co.uk",
             "click.gazovelot.com",
             "click.geopaysys.com",
-            "click.get-answers-fast.com",
             "click.go2net.com",
             "click.hay3s.com",
             "click.investopedia.com",
@@ -20057,6 +20055,7 @@
             "click.onesoft.im",
             "click.pgs03.com",
             "click.pulse360.com",
+            "click.safe-sender.co.uk",
             "click.search123.uk.com",
             "click.sockinga.info",
             "click.spiritemail.info",
@@ -20077,7 +20076,6 @@
             "click4images.net",
             "click4img.com",
             "clickarrows.com",
-            "clickbank.pcsecurityshield.com",
             "clickbizonline.info",
             "clickbnr.com",
             "clickbusinessworld.info",
@@ -20205,7 +20203,9 @@
             "clients.tbo.com",
             "clientserveruseronlinegb.is-found.org",
             "clientstat.castup.net",
-            "cliftonscommercialconcepts.com",
+            "cliftonscommercialconcepts.com"
+        ],
+        "to_test": [
             "climate.lasotras.cl",
             "climb.somachi.cl",
             "climbfamous.com",
