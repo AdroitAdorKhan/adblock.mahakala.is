@@ -15539,9 +15539,7 @@
             "bluepillsonline.org",
             "blueredcat.com",
             "bluereport.co.in",
-            "bluerocketonline.com"
-        ],
-        "to_test": [
+            "bluerocketonline.com",
             "bluesaphire.in",
             "bluescreenerror.bluescreenerror.bluescreenerror.bluescreenerror.bluescreenerror.bluescreenerror.bluescreenerror.bluescreenerror.bluescreenerror.bluescreenerror.bluescreenerror.bluescreenerror.blacklistedipfound.com",
             "bluescreenerrors.net",
@@ -15621,7 +15619,6 @@
             "bnp-paribas01.com",
             "bnpar-int.com",
             "bnpespacepro.com",
-            "bnpzz.alldownloads.hapc.gdn",
             "bnradd.mobi",
             "bnradw.com",
             "bnrbase.com",
@@ -15780,7 +15777,9 @@
             "boldandfearless.net",
             "bolderin.com",
             "boldpenis.com",
-            "bolerakopsoa.pw",
+            "bolerakopsoa.pw"
+        ],
+        "to_test": [
             "boligia.com",
             "boligierio.com",
             "bolingersied.com",
