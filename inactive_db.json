@@ -170,9 +170,7 @@
             "eu-vipcasino.net",
             "eu.npario-inc.net",
             "eu.xtms.net",
-            "eu1.recompenses.win"
-        ],
-        "to_test": [
+            "eu1.recompenses.win",
             "eubble.com",
             "eubiz.org",
             "eubtrdo.com",
@@ -426,7 +424,9 @@
             "everything4find.com",
             "everythingforthehomenews.com",
             "everythingfou.net",
-            "everythinggone.com",
+            "everythinggone.com"
+        ],
+        "to_test": [
             "everythingonweb.net",
             "everythingtr.com",
             "everytin.tunerwrightng.com",
