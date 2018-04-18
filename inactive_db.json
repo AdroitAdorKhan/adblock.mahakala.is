@@ -2743,9 +2743,7 @@
             "flickrtm.com",
             "flierpaint.net",
             "flierwhite.net",
-            "flight.qready.ca"
-        ],
-        "to_test": [
+            "flight.qready.ca",
             "fligre.com",
             "fligrepol.com",
             "flindert.com",
@@ -2793,6 +2791,7 @@
             "floralcental.info",
             "floralforum.info",
             "floralpros.ca",
+            "floralpunchcraft.com",
             "floramali.com",
             "floreplan.com.br",
             "florerio.com.br",
@@ -2850,6 +2849,7 @@
             "fluxnewsletter.net",
             "fluxpay.net",
             "flv.hs3dmr.com",
+            "flv.ytshuirun.com",
             "flvplayer-setup.com",
             "flvprocedure.com",
             "flvxplayer.maynemyltf.netdna-cdn.com",
@@ -2879,7 +2879,9 @@
             "flyrodsellers.info",
             "flysfc.com.au",
             "flytailwheelss.org",
-            "flyvideonetwork.com",
+            "flyvideonetwork.com"
+        ],
+        "to_test": [
             "flzhiguan.com",
             "fm.hollybricken.com",
             "fm2013cdkey.com",
