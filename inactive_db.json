@@ -19016,9 +19016,7 @@
             "changlimited.com",
             "chaniafood.gr",
             "channel-pakistan.info",
-            "channel17news.com"
-        ],
-        "to_test": [
+            "channel17news.com",
             "chantal-carlioz.fr",
             "chanukah-hotrod.biz",
             "chanukah-women.biz",
@@ -19052,8 +19050,8 @@
             "charlesadams76.com",
             "charlesblock.mobi",
             "charlesie.com",
-            "charlizetheron.1stOK.com",
             "charlizetheron.1stok.com",
+            "charlizetheron.1stOK.com",
             "charlotte-online.be",
             "charmillisbaby.com.br",
             "charminghope.info",
@@ -19104,6 +19102,7 @@
             "chase.activityconfirmation.barrandeguy.com.ar",
             "chase.activityconfirmations.barrandeguy.com.ar",
             "chase.chase.com.smp1jepon.sch.id",
+            "chase.com-account-verification.myaccountverify.be",
             "chase.com-verify-account-information.entranceonline.org",
             "chase.com-verify-your-account-inforrmation.schodrive.info",
             "chase.com.cy.cgi-bin.webscr.cmd.login-submit.hhsimonis.com",
@@ -19343,8 +19342,9 @@
             "checkalias.biz",
             "checkapi.xyz",
             "checkbestantivirus.xyz",
-            "checkcoat.com",
-            "checkeddrug.com",
+            "checkeddrug.com"
+        ],
+        "to_test": [
             "checkforspyware.com",
             "checkgetantivirus.xyz",
             "checkimpal.com",
