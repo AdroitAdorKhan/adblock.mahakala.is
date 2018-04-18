@@ -23792,9 +23792,7 @@
             "database-ebay.org",
             "database-secure.com",
             "database-soft.biz",
-            "database-virus.com"
-        ],
-        "to_test": [
+            "database-virus.com",
             "databaseporno.com",
             "databroker-us.coremotives.com",
             "datacenter001.com",
@@ -23956,7 +23954,9 @@
             "dazzlephotomemoir.com.ng",
             "db1.site-stats.net",
             "db23.co.uk",
-            "db35.co.uk",
+            "db35.co.uk"
+        ],
+        "to_test": [
             "db63.co.uk",
             "db8mh.info",
             "dbaguide.com.au",
