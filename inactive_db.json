@@ -20368,9 +20368,7 @@
             "cluster6.sexhound.com",
             "cluster7.sexhound.com",
             "cluster8.sexhound.com",
-            "cluster9.sexhound.com"
-        ],
-        "to_test": [
+            "cluster9.sexhound.com",
             "clutgedyna.com",
             "clutgedyna.info",
             "clvcnt.com",
@@ -20818,8 +20816,9 @@
             "cmpp.com.au",
             "cmpsmarter-downloader.maynemyltf.netdna-cdn.com",
             "cmreqtmp03wt.info",
-            "cmrpolice.com",
             "CMRpolice.com",
+            "cmrpolice.com",
+            "cmrpunto.raya.cl",
             "cms.egsys.net",
             "cmservice-login.com",
             "cmsko.com",
@@ -20895,7 +20894,9 @@
             "co.dcclan.co.uk",
             "co8vd.cn",
             "co96267.tmweb.ru",
-            "co97656.tmweb.ru",
+            "co97656.tmweb.ru"
+        ],
+        "to_test": [
             "coachellys.com",
             "coachhouseonline.co.uk",
             "coachvaliente.com",
