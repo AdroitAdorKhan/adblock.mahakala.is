@@ -17094,9 +17094,7 @@
             "c.getsmartcontent.com",
             "c.gigcount.com",
             "c.gzsanxiaomingshi.cn",
-            "c.homestore.com"
-        ],
-        "to_test": [
+            "c.homestore.com",
             "c.kuryjs.info",
             "c.maccosmetics.com",
             "c.ninemsn.com.au",
@@ -17185,6 +17183,7 @@
             "c37.smaato.net",
             "c38.smaato.net",
             "c39.smaato.net",
+            "c3sngvwp.com",
             "c3t7x2g40ew6.info",
             "c4.ic-live.com",
             "c4.iclive.com",
@@ -17223,6 +17222,7 @@
             "c7.ic-live.com",
             "c75.su",
             "c752007.com",
+            "c88a.cn",
             "c89zuk.nero.printersclothcompany.com",
             "c8q9e.info",
             "c9ny98c29n3v01c7n1xmh.com",
@@ -17303,7 +17303,9 @@
             "caganhomes.net",
             "cagncad.com",
             "cagty.com",
-            "cahoo-tuk.com",
+            "cahoo-tuk.com"
+        ],
+        "to_test": [
             "caimong.net",
             "caitlinzplace.com",
             "caixa-fgts2017.agr.br",
