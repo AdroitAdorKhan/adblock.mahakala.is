@@ -26239,9 +26239,7 @@
             "download.cdn.shareazaweb.com",
             "download.dns-vip.net",
             "download.downloadquick.net",
-            "download.errorkiller.com"
-        ],
-        "to_test": [
+            "download.errorkiller.com",
             "download.funwebproducts.com",
             "download.game-store.es",
             "download.installnow.mobi",
@@ -26424,6 +26422,7 @@
             "drdj.net.cn",
             "drdjweb.net.cn",
             "drdrdrd.org",
+            "dream-slips.de",
             "dream-squad.com",
             "dream2008.info",
             "dream32works.com",
@@ -26442,7 +26441,9 @@
             "dreamscapesgardening.com",
             "dreamsexy.info",
             "dreamsizeslarge.com",
-            "dreamsslave.com",
+            "dreamsslave.com"
+        ],
+        "to_test": [
             "dreamstonejewelry.org",
             "dreamsubtract.com",
             "dreamteam.pk",
