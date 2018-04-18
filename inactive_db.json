@@ -2247,9 +2247,7 @@
             "filmsfr.info",
             "filmstvouty.info",
             "filmweb-online.pl",
-            "filmworld202.info"
-        ],
-        "to_test": [
+            "filmworld202.info",
             "filmy-365.pl",
             "filmy.online-za-darmo.pl",
             "filmyfort.in",
@@ -2262,6 +2260,7 @@
             "filtoye.com",
             "fimbogor.org",
             "fimmovie.com",
+            "fimserve.rottentomatoes.com",
             "fin-techco.com",
             "fin.adbureau.net",
             "fin.apprenty.com",
@@ -2274,6 +2273,7 @@
             "finalfantasy14mmo.com",
             "finalhappen.com",
             "finallake.com",
+            "finals.travian.com",
             "finalwheel.com",
             "finalwhether.com",
             "finance-and.com",
@@ -2470,7 +2470,6 @@
             "firehacks.eu",
             "firehacks.net",
             "firehorny.com",
-            "firellia.ws",
             "firenzeantica.org",
             "fireoniraw.com",
             "firepaydirect.info",
@@ -2547,7 +2546,9 @@
             "fischprints.com",
             "fish.3776fieldstonecir.info",
             "fish.hannafister.com",
-            "fishacquire.com",
+            "fishacquire.com"
+        ],
+        "to_test": [
             "fishdonegal.info",
             "fishenews.info",
             "fisheres.com",
