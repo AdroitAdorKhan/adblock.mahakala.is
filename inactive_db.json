@@ -3765,9 +3765,7 @@
             "harry.creategreatcaptions.com",
             "harrymanopla.com",
             "harsheelentersteadfencen.com",
-            "hartmanholding.co.za"
-        ],
-        "to_test": [
+            "hartmanholding.co.za",
             "harvardapparelonline.com",
             "harvargmusic.com",
             "harvest.adgardener.com",
@@ -3921,7 +3919,6 @@
             "headless.ebkfwd.com",
             "headpopulate.com",
             "heads-ec.spotify.com",
-            "headvoice.net",
             "headw.info",
             "health-and.com",
             "health-beauty-rewardpath.com",
@@ -3962,7 +3959,9 @@
             "heardpower.net",
             "heardsharp.com",
             "hearexcept.com",
-            "hearsoil.com",
+            "hearsoil.com"
+        ],
+        "to_test": [
             "heart.athenapelton.com",
             "heartacheandmisery.com",
             "hearterbandhuananya.com",
