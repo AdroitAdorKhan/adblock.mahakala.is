@@ -456,9 +456,7 @@
             "gameroyalz.com",
             "gameroyalz.info",
             "gameroyalz.org",
-            "gameroyalzonline.com"
-        ],
-        "to_test": [
+            "gameroyalzonline.com",
             "gamersfile.info",
             "gamersfile.net",
             "gamersxpro.info",
@@ -500,7 +498,6 @@
             "games.sc42.info",
             "games.scd.yahoo.com",
             "games.sk",
-            "games.staticyonkis.com",
             "games.stupid.com",
             "games.swirve.com",
             "games.terra.es",
@@ -601,7 +598,9 @@
             "gamotop.com",
             "gamrcade.info",
             "gamsply.com",
-            "gamzart.free.fr",
+            "gamzart.free.fr"
+        ],
+        "to_test": [
             "ganarsininversion.com",
             "gandesuikinyandeso.com",
             "gandesukinyantreswed.com",
