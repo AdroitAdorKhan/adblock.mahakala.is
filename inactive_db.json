@@ -321,9 +321,7 @@
             "galleryofpleasure.com",
             "galletdesign.info",
             "galleyfoisted.com",
-            "galliagroup.com"
-        ],
-        "to_test": [
+            "galliagroup.com",
             "gallictures.com",
             "gallonservucart.info",
             "galloplogistics.in",
@@ -423,6 +421,7 @@
             "gamegoods.de",
             "gamegratuit.fr",
             "gameguidecheats.com",
+            "gameguyz.de",
             "gamehackarena.com",
             "gamehackfree.com",
             "gamehackfree.info",
@@ -440,12 +439,12 @@
             "gameisto.com",
             "gamejacket.net",
             "gamekeysandhacks.com",
+            "gamekong.nl",
             "gamekult.2xmoinscher.com",
             "gameleadon.com",
             "gamelog.nl",
             "gamemalamall.com",
             "gamemarkers.de",
-            "gamemaster.fr",
             "gameofthronesseason4episode2.com",
             "gameones.net",
             "gameproclub.net",
@@ -457,7 +456,9 @@
             "gameroyalz.com",
             "gameroyalz.info",
             "gameroyalz.org",
-            "gameroyalzonline.com",
+            "gameroyalzonline.com"
+        ],
+        "to_test": [
             "gamersfile.info",
             "gamersfile.net",
             "gamersxpro.info",
