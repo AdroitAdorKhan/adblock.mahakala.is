@@ -7703,9 +7703,7 @@
             "integratepass.info",
             "integraterepeat.com",
             "integrateride.info",
-            "integrityago.com"
-        ],
-        "to_test": [
+            "integrityago.com",
             "integrityfall.com",
             "integritygentle.com",
             "integrityhold.com",
@@ -7974,7 +7972,9 @@
             "inyans.com",
             "inyour-slb-01-05-ash3.facebook.com",
             "inyourname.biz",
-            "inzdaes.com",
+            "inzdaes.com"
+        ],
+        "to_test": [
             "io.hyfastfood.com",
             "io21.ru",
             "io23.co.uk",
