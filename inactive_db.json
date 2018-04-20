@@ -6794,9 +6794,7 @@
             "images.bluetime.com",
             "images.bravenet.de",
             "images.bryghtads.com",
-            "images.burstly.com"
-        ],
-        "to_test": [
+            "images.burstly.com",
             "images.carrieriq.com",
             "images.casee.cn",
             "images.cenniche.com",
@@ -6876,6 +6874,7 @@
             "imcodec.com",
             "imcsmanagementinstitute.com",
             "imd-japan.com",
+            "imedia.cz",
             "imediacodec.com",
             "imemories.com.br",
             "imendrugs.com",
@@ -6921,7 +6920,9 @@
             "img2.paipaiimg.com",
             "img2.rzcyx.com",
             "img2.xztkc.com",
-            "img2.yyape.com",
+            "img2.yyape.com"
+        ],
+        "to_test": [
             "img3.rzcyx.com",
             "img3.yyape.com",
             "img4.cdn.adjuggler.com",
