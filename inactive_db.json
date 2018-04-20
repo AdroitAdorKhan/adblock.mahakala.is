@@ -2948,9 +2948,7 @@
             "groupregsiteonline.info",
             "groupsexarchive.info",
             "groupsregsite.info",
-            "grouptradeonline.com"
-        ],
-        "to_test": [
+            "grouptradeonline.com",
             "groupwestinc.info",
             "groupwsi.com",
             "grousald.com",
@@ -3025,6 +3023,7 @@
             "gsmdqrmqddqtuv.xyz",
             "gsmshooters.com",
             "gsmtlf.ru",
+            "gsolusi.info",
             "gsorder.berlin.strato.de",
             "gsp.count.brat-online.ro",
             "gspadkgka.com",
@@ -3043,7 +3042,6 @@
             "gt-mp3portal.com",
             "gt-softportal.com",
             "gt-stars.com",
-            "gt47jen.pw",
             "gta-5.co",
             "gta5-beta.net",
             "gta5-free-download.com",
@@ -3166,7 +3164,9 @@
             "guilde-obliterate.org",
             "guilde-pandora.com",
             "guildwars2beta.org",
-            "guiltydns.com",
+            "guiltydns.com"
+        ],
+        "to_test": [
             "guitarraperfeita.com.br",
             "gukier.us",
             "gulfex.net",
