@@ -1086,9 +1086,7 @@
             "geoepd.com",
             "geogral.com",
             "geographystore.com",
-            "geoiplookup.wikimedia.org"
-        ],
-        "to_test": [
+            "geoiplookup.wikimedia.org",
             "geolocation.performgroup.com",
             "geoluxuryline.com",
             "geometrica-design.co.uk",
@@ -1313,6 +1311,7 @@
             "getnorthtoppharm.com",
             "getnorthtrustpharm.com",
             "getnorthultimatepill.com",
+            "getoffice.biz",
             "getofficialmedicines.com",
             "getoklahomaonline.info",
             "getonlinemedication.com",
@@ -1327,6 +1326,7 @@
             "getpcfixed044.xyz",
             "getpcfixed066.xyz",
             "getpcfixed088.xyz",
+            "getpcfixed099.xyz",
             "getphotosets.com",
             "getpicshere.com",
             "getpix4you.com",
@@ -1436,7 +1436,9 @@
             "gfjhykd.ebootshop.com",
             "gfkorwamj.com",
             "gfnkh.akebonofusionsushi.com",
-            "gfoemb.net",
+            "gfoemb.net"
+        ],
+        "to_test": [
             "gfsql.geforce.com",
             "gfswl.geforce.com",
             "gftuaope.traeumtgerade.de",
