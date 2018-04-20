@@ -1436,9 +1436,7 @@
             "gfjhykd.ebootshop.com",
             "gfkorwamj.com",
             "gfnkh.akebonofusionsushi.com",
-            "gfoemb.net"
-        ],
-        "to_test": [
+            "gfoemb.net",
             "gfsql.geforce.com",
             "gfswl.geforce.com",
             "gftuaope.traeumtgerade.de",
@@ -1449,6 +1447,7 @@
             "gfyjebf.com",
             "gfyjebf.net",
             "gg-tournament.com",
+            "gg.anqu.com",
             "gg.zzyjxs.com",
             "ggaibb.com",
             "ggaimmm.com",
@@ -1501,7 +1500,6 @@
             "ghtfloscvsfreak.com",
             "ghtlossblue.com",
             "ghubstore.com",
-            "ghura.pl",
             "ghyt654erwrw.gets-it.net",
             "giaitri321.net",
             "giant-search.com",
@@ -1561,7 +1559,6 @@
             "gigawaveusa.com",
             "gigaz.info",
             "giggagdirect.info",
-            "gigup.pl",
             "gigutu.com",
             "gigya.com.invalid",
             "gihealht.com",
@@ -1600,7 +1597,9 @@
             "gioodway.com",
             "giorgiotulelli.altervista.org",
             "giotsa.com",
-            "gioventuvital.com",
+            "gioventuvital.com"
+        ],
+        "to_test": [
             "giower.ch",
             "giower.li",
             "giqgetn.com",
