@@ -3959,9 +3959,7 @@
             "heardpower.net",
             "heardsharp.com",
             "hearexcept.com",
-            "hearsoil.com"
-        ],
-        "to_test": [
+            "hearsoil.com",
             "heart.athenapelton.com",
             "heartacheandmisery.com",
             "hearterbandhuananya.com",
@@ -4062,6 +4060,7 @@
             "helmburn.com",
             "helmetshapedkasha.freightboard.net",
             "heloteath.cn",
+            "help-account-resolve.com",
             "help-centher665.esy.es",
             "help-client-confirmation.ml",
             "help-community.16mb.com",
@@ -4122,6 +4121,7 @@
             "helpobstruct.info",
             "helponlinelog.com",
             "helprealization.com",
+            "helpresolutions.info",
             "helpsecure-account.com",
             "helpthank.com",
             "helpyourpcnow.com",
@@ -4164,7 +4164,9 @@
             "heqddegi.com",
             "herbal-breast-enhancement-pharmacy.info",
             "herbal-enhancement.com",
-            "herbal-treatments.com.au",
+            "herbal-treatments.com.au"
+        ],
+        "to_test": [
             "herbal-vi.com",
             "herbal-viagra-1.com",
             "herbalgourmetcoffee.com",
