@@ -13939,9 +13939,7 @@
             "tinglog.baidu.com",
             "tinhochp.com",
             "tintrisite.com",
-            "tintuc24h-online.com"
-        ],
-        "to_test": [
+            "tintuc24h-online.com",
             "tiny-search-engine.com",
             "tiny13.com",
             "tinyhost.info",
@@ -14111,6 +14109,8 @@
             "tohelpchildren.com",
             "toie3.com.es",
             "toils.org",
+            "tojojonsson.net",
+            "tojojonsson.org",
             "token--05jan.com",
             "token.boomerang.com.au",
             "tokenxxxporn.com",
@@ -14210,7 +14210,9 @@
             "toolbar.startnow.com",
             "toolbarcash.com",
             "toolbargate.com",
-            "toolbarmedia.net",
+            "toolbarmedia.net"
+        ],
+        "to_test": [
             "toolbarpartner.com",
             "toolbarplace.com",
             "toolbars-cash.com",
