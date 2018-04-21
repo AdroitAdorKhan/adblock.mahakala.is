@@ -1270,9 +1270,7 @@
             "pusag.net",
             "pusanjikhalsikollegegebou.acsvcs.com",
             "push.gxpan.cn",
-            "push.zdworks.com"
-        ],
-        "to_test": [
+            "push.zdworks.com",
             "pushballgo.com",
             "pushbrown.com",
             "pushcolor.net",
@@ -1408,6 +1406,7 @@
             "qavoter.com",
             "qaypal.t35.com",
             "qayqal.com",
+            "qb.haikangsj.com",
             "qbcusoq.com",
             "qbpaterno.com",
             "qbpaternostart.com",
@@ -1435,7 +1434,6 @@
             "qejeonv.com",
             "qejuunjmd.com",
             "qelittle.com",
-            "qemag.it",
             "qenabled.com",
             "qenysel.com",
             "qenysel.net",
@@ -1483,7 +1481,9 @@
             "qj7y7.info",
             "qjaskedif.com",
             "qjran.com",
-            "qkecep.info",
+            "qkecep.info"
+        ],
+        "to_test": [
             "qkncmgfpwatjcrmgmf.org",
             "qlckhs.com",
             "qlkdf.info",
