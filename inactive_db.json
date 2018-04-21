@@ -23422,9 +23422,7 @@
             "pal-comsecured.info",
             "pal-confirm.com",
             "pal-datapp.com",
-            "pal-update.com"
-        ],
-        "to_test": [
+            "pal-update.com",
             "palaceistanbul.com",
             "palamitism.tradingareus.com",
             "palaooput.com",
@@ -23612,7 +23610,6 @@
             "parkerhacks.com",
             "parkeyo.net",
             "parkfarmsng.com",
-            "parkietserwis.pl",
             "parkpigboat.info",
             "parksub.info",
             "parkvaleuser.com",
@@ -23620,6 +23617,7 @@
             "parkyu11.org",
             "parladent-doc.org",
             "parladent.org",
+            "parosfm.gr",
             "parperfeito.us",
             "parpills.com",
             "parranoik.com",
@@ -23628,7 +23626,9 @@
             "parsatejarat.ir",
             "parse.chakracentral.com",
             "parse.ly.invalid",
-            "parsekgame.com",
+            "parsekgame.com"
+        ],
+        "to_test": [
             "parserks.net",
             "parserprocase.info",
             "parsno.com",
