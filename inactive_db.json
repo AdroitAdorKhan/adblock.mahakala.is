@@ -5462,9 +5462,7 @@
             "sdk.smaato.com",
             "sdk.sponsormob.com",
             "sdk.sponsorpay.com",
-            "sdk.startapp.com"
-        ],
-        "to_test": [
+            "sdk.startapp.com",
             "sdk.tapfortap.com",
             "sdk.tapit.com",
             "sdk.tapjoy.com",
@@ -5873,7 +5871,6 @@
             "searchusanet.com",
             "searchvignette.com",
             "searchvignette.net",
-            "searchvisit.com",
             "searchvph.com",
             "searchwall.net",
             "searchwaterford.com",
@@ -5939,7 +5936,6 @@
             "secondchanceofferebay.net",
             "secondhands.jp",
             "secondmy777gold.com",
-            "secondopinionivf.com.au",
             "secondrespect.com",
             "secondwarning-wachovia.com",
             "secondxml.com",
@@ -5949,7 +5945,9 @@
             "secprofilesview.com",
             "secpview.net",
             "secrapp-pyservicelmted.com",
-            "secrect-xxx.com",
+            "secrect-xxx.com"
+        ],
+        "to_test": [
             "secret-iraq-video.info",
             "secret-mall.com",
             "secret.xn--oogle-wmc.com",
