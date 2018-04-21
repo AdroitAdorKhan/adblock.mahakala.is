@@ -4177,14 +4177,11 @@
             "ruangmakna.net",
             "rub.edu.bd",
             "rubberea.com",
-            "rubbergum.com"
-        ],
-        "to_test": [
+            "rubbergum.com",
             "rubcontinent.com",
             "rubezone.com",
             "rubfinger.com",
             "rubfraction.com",
-            "rubik-agdrtv.pl",
             "rubin-astana.kz",
             "rubjoin.com",
             "rublegacy.com",
@@ -4305,6 +4302,7 @@
             "rx-drug-shop.net",
             "rx-drugshop.com",
             "rx-pharmacy-worldwide.com",
+            "rx-pharmacy.cn",
             "rx-premier.com",
             "rx-products.com",
             "rx-sharedhost.com",
@@ -4447,6 +4445,7 @@
             "s-store.org",
             "s-yoolk-banner-assets.yoolk.com",
             "s-yoolk-billboard-assets.yoolk.com",
+            "s.6113371.com",
             "s.ad122m.com",
             "s.ad126m.com",
             "s.ad130m.com",
@@ -4468,7 +4467,9 @@
             "s.fgimg.com",
             "s.fl-ads.com",
             "s.fsphp.t-online.de",
-            "s.fxtimg.com",
+            "s.fxtimg.com"
+        ],
+        "to_test": [
             "s.krebsonsecurity.com",
             "s.megaclick.com",
             "s.nyydj.com",
