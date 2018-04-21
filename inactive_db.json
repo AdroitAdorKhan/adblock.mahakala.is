@@ -7850,9 +7850,7 @@
             "si-install.net",
             "si.homestore.com",
             "si1020.com",
-            "si1onoptical.com"
-        ],
-        "to_test": [
+            "si1onoptical.com",
             "siacperu.com",
             "sianne.piranho.net",
             "siarmto-hxi.info",
@@ -8028,6 +8026,8 @@
             "signin-register.com",
             "signin-secur0pp-payment-intlpay-service9987023125.com",
             "signin-secure.by.ru",
+            "signin-servicesauthpolicyagreement.com",
+            "signin-servicesauthpolicyagreements.com",
             "signin-storeid.com",
             "signin-supportsauthzpolicyagreemenst.com",
             "signin-suspended-accounts.co.uk",
@@ -8125,6 +8125,7 @@
             "silvajagd.com",
             "silvalarez.com",
             "silvastart.com",
+            "silver.joaservice.com",
             "silver2.joaservice.com",
             "silveradovermont.com",
             "silverball.gemm.com",
@@ -8153,7 +8154,9 @@
             "simmage.gabrielceausescu.com",
             "simocrogger.com",
             "simon85.co.uk",
-            "simonds.raya.cl",
+            "simonds.raya.cl"
+        ],
+        "to_test": [
             "simonecav.pe.hu",
             "simotl.com",
             "simperingnul.com",
