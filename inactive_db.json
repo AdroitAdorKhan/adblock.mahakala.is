@@ -18283,9 +18283,7 @@
             "mygenericpill.com",
             "mygenerictablet.com",
             "myghy.at",
-            "mygift123.com"
-        ],
-        "to_test": [
+            "mygift123.com",
             "mygift321.com",
             "myglobaltrustpill.com",
             "myglobaltrusttablets.com",
@@ -18294,6 +18292,7 @@
             "mygoodness.in.ua",
             "mygoogle.ce.ms",
             "mygothicclothes.com",
+            "mygothicclothes.org",
             "mygrandcell.com",
             "mygrandtablet.com",
             "mygreatdeads.info",
@@ -18329,6 +18328,7 @@
             "myintermegmart.com",
             "myinternetbanking-suntrust.com",
             "myinternetofffers.biz",
+            "myintranet.cl",
             "myinvest.netfidebenefits.com",
             "myiphone-support.info",
             "myiphonedetected.com",
@@ -18395,6 +18395,7 @@
             "mynaagencies.com",
             "mynamecome.info",
             "mynameisseller.com",
+            "mynape.com",
             "mynasta.com",
             "mynaturaless.com",
             "mynaturalradiance.com.au",
@@ -18666,7 +18667,9 @@
             "mzmlzebei.info",
             "n-case.net",
             "n-sex.net",
-            "n-udd.com",
+            "n-udd.com"
+        ],
+        "to_test": [
             "n.admob.com",
             "n.gold-liter.org.ua",
             "n.uimserv.net",
