@@ -22022,9 +22022,7 @@
             "online.bankaustria.at.id909927.top",
             "online.bankaustria.at.sicher981099i.gdn",
             "online.chase.banking.eniyitemelliseler.com",
-            "online.chase.cynux.com.tw"
-        ],
-        "to_test": [
+            "online.chase.cynux.com.tw",
             "online.hmrc.gov.uk.alaventa.cl",
             "online.hmrc.gov.uk.claim-tax-refund.ssl.secure-services.opse.info",
             "online.hmrc.gov.ukl.lemontagnard.ca",
@@ -22034,6 +22032,7 @@
             "online.myca.logon.us.action.support.services.index.htm.docs.marketcomunity.com",
             "online.net.au",
             "online.tdbank.com.profiremgt.com",
+            "online.tsb.co.uk.personal.logon.login.jsp.submituseridaccountsummary.registration.onlinepersonalregistration.jsp.hpregnow.onlineservices.awauaim.com",
             "online.well.sfargo.eniyitemelliseler.com",
             "online.wellfarg0.com.mpcarvalho.com.br",
             "online.wellsfargo.com.adlinkconcept.com",
@@ -22305,7 +22304,6 @@
             "onmoney.biz",
             "onocollect.247realmedia.com",
             "onodiga-octartic.pocketmoneyfund.com",
-            "onomovie.xyz",
             "ononcom.cn",
             "onos.switmewe.com",
             "onpaqpal.com",
@@ -22353,6 +22351,8 @@
             "oovelearning.co.nz",
             "ooxfumprkhqr.com",
             "ooxxxxxxx.com",
+            "op.web.kuaiwan.com",
+            "op2.web.kuaiwan.com",
             "op26uxc.info",
             "op43.co.uk",
             "op48.co.uk",
@@ -22398,7 +22398,9 @@
             "openprotection.info",
             "openpub.ifensi.com",
             "openrape.com",
-            "opensao.mandalabs.com",
+            "opensao.mandalabs.com"
+        ],
+        "to_test": [
             "opensharing.org.ua",
             "opentrack.klockit.com",
             "openuplitespider.info",
