@@ -4817,9 +4817,7 @@
             "samblev.biz",
             "samblev.net",
             "sambuok.com",
-            "samcanationals.co.za"
-        ],
-        "to_test": [
+            "samcanationals.co.za",
             "sameappear.com",
             "samearrange.com",
             "samearrive.com",
@@ -4911,7 +4909,6 @@
             "santanders-service.com",
             "santandervangogind.zapto.org",
             "santapcards.com",
-            "santas-elves.co.uk",
             "santasgift.ml",
             "santawishes2008.com",
             "santehniki.biz",
@@ -5013,7 +5010,6 @@
             "save-plan.com",
             "save-your-pc.info",
             "save.georgiatkd.com",
-            "save.visionsquad.com",
             "savebigmortgages.com",
             "savechilds.net",
             "savedez.com",
@@ -5027,7 +5023,9 @@
             "saveloan011.com",
             "savemeeds.org",
             "saveoccur.com",
-            "saveonchristmasgifts.com",
+            "saveonchristmasgifts.com"
+        ],
+        "to_test": [
             "saveourlifes.niwamembers.com",
             "savepictures.us",
             "saverather.com",
