@@ -24933,9 +24933,7 @@
             "petlocal.biz",
             "petork.com",
             "petpalacedeluxe.com.br",
-            "petprimebra.com.br"
-        ],
-        "to_test": [
+            "petprimebra.com.br",
             "petrazplace.com",
             "petrifiedvenom.com",
             "petrol4gp.info",
@@ -24943,6 +24941,7 @@
             "petroleumclub.ng",
             "petrostar-petroleum.com",
             "petrovoll.gconoil.com",
+            "pets.finaltips.com",
             "petsdeluxo.com.br",
             "petsearchuk.com",
             "petsearchuk.net",
@@ -25223,7 +25222,9 @@
             "phpbuy.nx.cn",
             "phpcontent.co.in",
             "phpgamers.com",
-            "phphil.com",
+            "phphil.com"
+        ],
+        "to_test": [
             "phpnet77.com",
             "phptonet.com",
             "phrasetrust.com",
