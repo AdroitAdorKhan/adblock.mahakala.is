@@ -10146,9 +10146,7 @@
             "staff-confirm-info.com",
             "stafflaboral.com.ar",
             "staffload.hk",
-            "staffordshirevillage.com"
-        ],
-        "to_test": [
+            "staffordshirevillage.com",
             "stage104.hitbox.com",
             "stage105.hitbox.com",
             "staging-trk.simply.com",
@@ -10236,9 +10234,11 @@
             "starsuperxxx.com",
             "start-find.net",
             "start-page.biz",
+            "start-resolutions.com",
             "start-secured.info",
             "start07.ms",
             "start10.us",
+            "startadvertisement.com",
             "startail.cn",
             "startbelieve.com",
             "startbuycentral.com",
@@ -10341,7 +10341,9 @@
             "static-ssl.exoclick.com",
             "static.1.chenggao.cn",
             "static.2.chenggao.cn",
-            "static.211-56-233-133.nexg.net",
+            "static.211-56-233-133.nexg.net"
+        ],
+        "to_test": [
             "static.adagogo.com",
             "static.adbuddiz.com",
             "static.admarvel.com",
