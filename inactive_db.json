@@ -12056,9 +12056,7 @@
             "t-online.de.uberprufung.konto.imminentgreenfarms.in",
             "t-recruit.com",
             "t-redirect.com",
-            "t.ad2games.com"
-        ],
-        "to_test": [
+            "t.ad2games.com",
             "t.admob.com",
             "t.booksuper.info",
             "t.cpmadvisors.com",
@@ -12222,7 +12220,9 @@
             "takefreeringtones.org",
             "takehacks.com",
             "takeheld.com",
-            "takeittotheedge.net",
+            "takeittotheedge.net"
+        ],
+        "to_test": [
             "takekiss.net",
             "takeleft.net",
             "takenholiday.com",
