@@ -17525,9 +17525,7 @@
             "mozaikfoodinovation.co.id",
             "mozilla.comptesteal.org",
             "mozomo.org",
-            "mp.5.p2l.info"
-        ],
-        "to_test": [
+            "mp.5.p2l.info",
             "mp.tscapeplay.com",
             "mp.twitch.tv",
             "mp.wghsu.cn",
@@ -17726,6 +17724,7 @@
             "msofts.net",
             "msoobe.com",
             "msouna.com",
+            "msp-hack.com.pl",
             "mspointgenerator.net",
             "mspointsfree.me",
             "mspointsfree.net",
@@ -17778,7 +17777,9 @@
             "mtrics.cdc.gov",
             "mtrixm.com",
             "mtsnu-miftahululum.sch.id",
-            "mtsuperclub.net",
+            "mtsuperclub.net"
+        ],
+        "to_test": [
             "mtuner0.hk.cn",
             "mtunes-iapp.com",
             "mtv.247realmedia.com",
