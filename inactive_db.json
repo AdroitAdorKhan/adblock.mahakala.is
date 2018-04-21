@@ -7626,9 +7626,7 @@
             "shoesprestigestreet.com",
             "shoessuperstar.com",
             "shoestimenow.com",
-            "shoesubtract.com"
-        ],
-        "to_test": [
+            "shoesubtract.com",
             "shoetad1.com",
             "shoetimenow.com",
             "shoetoea.com",
@@ -7677,7 +7675,6 @@
             "shop.kitsland.com",
             "shop.landgigs.com",
             "shop.motv.co.jp",
-            "shop.pcsecurityshield.com",
             "shop.prokitchen.co.jp",
             "shop.quantumjvs.info",
             "shop.rescuenow.net",
@@ -7687,6 +7684,7 @@
             "shop.sz-ticketservice.de",
             "shop.tabletennis-online.info",
             "shop.xz618.com",
+            "shop21.be",
             "shop4pictures.co.uk",
             "shop5ping.info",
             "shop6.fc-training.co.uk",
@@ -7823,7 +7821,6 @@
             "shroint.com",
             "shropshirefutons.co.uk",
             "shrug-increase304.ru",
-            "shrutz.com",
             "shtormmovies.com",
             "shu.edu.wamco.club",
             "shuangfeidyw.com",
@@ -7853,7 +7850,9 @@
             "si-install.net",
             "si.homestore.com",
             "si1020.com",
-            "si1onoptical.com",
+            "si1onoptical.com"
+        ],
+        "to_test": [
             "siacperu.com",
             "sianne.piranho.net",
             "siarmto-hxi.info",
