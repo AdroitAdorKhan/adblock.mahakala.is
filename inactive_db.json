@@ -15936,10 +15936,9 @@
             "meridia.1.p2l.info",
             "meridia.3.p2l.info",
             "meridia.4.p2l.info",
-            "meritonesite.com"
-        ],
-        "to_test": [
+            "meritonesite.com",
             "merivalevillageflorist.co.nz",
+            "merkasmart.com",
             "merlindatasystems.info",
             "merlindesigngroup.info",
             "merlingroupgroup.info",
@@ -16014,6 +16013,7 @@
             "metalnoprod.info",
             "metals-trading.net",
             "metalsal.info",
+            "metalstrade.eu",
             "metamailonline.com",
             "metamorphes.com",
             "metarewardmail.com",
@@ -16144,7 +16144,9 @@
             "miamibeachhotels.tv",
             "miamicoinsmfg.com",
             "miamiparkingcom.com",
-            "miao.whommer.net",
+            "miao.whommer.net"
+        ],
+        "to_test": [
             "miatajonesdesigns.com",
             "mibank.com.md.kg",
             "mibank.com.rt.kg",
