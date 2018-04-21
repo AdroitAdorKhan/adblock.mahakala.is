@@ -20262,9 +20262,7 @@
             "noelus.com",
             "noesproblema.com",
             "nofreezingmac.space",
-            "nogasklar.com.br"
-        ],
-        "to_test": [
+            "nogasklar.com.br",
             "noghrehpol.ir",
             "nogirp.com",
             "nohongo.com",
@@ -20505,6 +20503,7 @@
             "not-signed-in.com",
             "not4magic.com",
             "notallblack.info",
+            "notalroreb.ru",
             "notarealsubdomain.twitter.com",
             "notataccountsite255.com",
             "note.regulatory-webinars.com",
@@ -20623,7 +20622,9 @@
             "noweasypharm.com",
             "nower5re9.com",
             "noweseriale.pl",
-            "nowetorrenty-org.pl",
+            "nowetorrenty-org.pl"
+        ],
+        "to_test": [
             "nowexpresstablet.com",
             "nowfamalypharm.com",
             "nowfamalyrx.com",
