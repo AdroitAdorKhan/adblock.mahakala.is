@@ -1757,9 +1757,7 @@
             "qwe.thefepewakomol.com",
             "qwe.thefepewakomols.com",
             "qwe.thefepewakomols.org",
-            "qwe432.info"
-        ],
-        "to_test": [
+            "qwe432.info",
             "qwepa.com",
             "qwert285.com",
             "qwerti.info",
@@ -1958,7 +1956,9 @@
             "rajamoet.com",
             "rajhomes.co.za",
             "rajkachroo.com",
-            "rajspaces.com",
+            "rajspaces.com"
+        ],
+        "to_test": [
             "rakosnicek.cz",
             "raktie.com",
             "raktunj.com",
