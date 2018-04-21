@@ -10931,9 +10931,7 @@
             "streettrust.net",
             "streetwhite.net",
             "strefa18.pl",
-            "strefr.biz"
-        ],
-        "to_test": [
+            "strefr.biz",
             "stremib.net",
             "strengtharound.net",
             "strengthbranch.net",
@@ -10978,6 +10976,7 @@
             "stripting.com",
             "stripviewer.net",
             "stroi-servicenn.ru",
+            "stroiminsk.org",
             "strojegradnja-trpin.com",
             "stroma-kiev.com",
             "strongsmining.com",
@@ -11182,7 +11181,6 @@
             "suirkow.com",
             "suiscom.com",
             "suisscard.ch.webapp.securecode.smart-arcot.info",
-            "suisscards.ch.arcot6.alpha-cruise.net",
             "suisse-lux.net",
             "suitburn.com",
             "suitedhealth.com",
@@ -11204,7 +11202,9 @@
             "sumber-tirta.id",
             "sumbermakmurprinting.com",
             "sumbersariindah.co.id",
-            "sumfor.cfpwealthcpp.net",
+            "sumfor.cfpwealthcpp.net"
+        ],
+        "to_test": [
             "summary-account-ewean.com",
             "summary-account-limitted.net",
             "summary-accountsmerchant.com",
