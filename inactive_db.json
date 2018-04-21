@@ -8154,9 +8154,7 @@
             "simmage.gabrielceausescu.com",
             "simocrogger.com",
             "simon85.co.uk",
-            "simonds.raya.cl"
-        ],
-        "to_test": [
+            "simonds.raya.cl",
             "simonecav.pe.hu",
             "simotl.com",
             "simperingnul.com",
@@ -8362,7 +8360,9 @@
             "siterxspecial.com",
             "sites-adultes.com",
             "sites-entrance.com",
-            "sites-entrance.net",
+            "sites-entrance.net"
+        ],
+        "to_test": [
             "sites-in-web.com",
             "sites.ultimatenichewebsites.com",
             "sitescamps.info",
