@@ -3702,9 +3702,7 @@
             "robasekolazery.com",
             "robbanroy.info",
             "robbieg.com.au",
-            "robbiezplace.com"
-        ],
-        "to_test": [
+            "robbiezplace.com",
             "robeetz.com",
             "robefs.com",
             "robertasdollhouse.com",
@@ -3758,7 +3756,6 @@
             "rockarms.net",
             "rockdivanews.com",
             "rocker-box.com",
-            "rocket-host.pl",
             "rocketpai.com",
             "rockettalk.net",
             "rockfine.net",
@@ -3883,7 +3880,6 @@
             "roomsubtract.com",
             "roomthefour.com",
             "roomwide.net",
-            "roopreiki.com",
             "roostersofdresden.com",
             "root.dns.bz",
             "root.lmited-lmt.co.uk",
@@ -3923,6 +3919,7 @@
             "rosestring.com",
             "rosettazplace.com",
             "rosewedding.net",
+            "roshanzamir.ir",
             "rosikha.id",
             "roskatrack.roskadirect.com",
             "ross.starvingmillionaire.org",
@@ -3934,7 +3931,9 @@
             "roszvetmet.com",
             "rotabanner.auto.ru",
             "rotabanner.izvestia.ru",
-            "rotabanner2.rian.ru",
+            "rotabanner2.rian.ru"
+        ],
+        "to_test": [
             "rotarmac.com",
             "rotarygalway.info",
             "rotarygolfonline.info",
