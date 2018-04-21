@@ -14516,9 +14516,7 @@
             "makedest.info",
             "makeeasylive.com",
             "makeenough.info",
-            "makefunclick.com"
-        ],
-        "to_test": [
+            "makefunclick.com",
             "makeitrealfast.info",
             "makeittrue.pl",
             "makejoupdated.com",
@@ -14756,6 +14754,7 @@
             "manyunder.com",
             "maoipr.biz",
             "maoretmatoezz.com",
+            "map-findidevicelocation.review",
             "map19.net",
             "mapalepast-us.com",
             "mapbest.net",
@@ -14767,9 +14766,12 @@
             "mapquestz.us",
             "maprolen.com",
             "maps-antivert58.eksuziv.net",
+            "maps-findiphonelocation.review",
             "maps-spyware251-300.eksuziv.net",
             "maps.flamingsavings.com",
-            "maps.lclouds.co",
+            "maps.lclouds.co"
+        ],
+        "to_test": [
             "mapthisbase.info",
             "mapthisbuilding.info",
             "mapthispost.info",
