@@ -4467,14 +4467,14 @@
             "s.fgimg.com",
             "s.fl-ads.com",
             "s.fsphp.t-online.de",
-            "s.fxtimg.com"
-        ],
-        "to_test": [
+            "s.fxtimg.com",
             "s.krebsonsecurity.com",
             "s.megaclick.com",
+            "s.mousetrace.com",
             "s.nyydj.com",
             "s.oroll.com",
             "s.pm.naver.com",
+            "s.sniphub.com",
             "s.statistici.ro",
             "s.stats.wordpress.com",
             "s.svtrd.com",
@@ -4553,7 +4553,9 @@
             "s800qn.cn",
             "s8marta.info",
             "s8th.info",
-            "s9.2mdn.net",
+            "s9.2mdn.net"
+        ],
+        "to_test": [
             "s94y.com",
             "s9517l2.com",
             "s9c.com.pl",
