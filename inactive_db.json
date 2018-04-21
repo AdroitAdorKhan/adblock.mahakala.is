@@ -10485,9 +10485,7 @@
             "stats.mehrnews.com",
             "stats.mf.cz",
             "stats.millanusa.com",
-            "stats.mivlmd.cablespeed.com"
-        ],
-        "to_test": [
+            "stats.mivlmd.cablespeed.com",
             "stats.multiup.org",
             "stats.nowpublic.com",
             "stats.ombx.io",
@@ -10495,7 +10493,6 @@
             "stats.openload.co",
             "stats.owncloud.services.stpdns.net",
             "stats.paypal.com",
-            "stats.profileponds.com",
             "stats.radiostreamlive.com",
             "stats.ref2000.com",
             "stats.reinvigorate.net",
@@ -10617,7 +10614,6 @@
             "steffani.ru",
             "steilart.com",
             "steiunmart.com",
-            "stellaportaharmonie.de",
             "stellarwars.es",
             "stematelvideo.id",
             "stemdesign.biz",
@@ -10669,7 +10665,9 @@
             "stickgames247.com",
             "stickhealth.com",
             "stickiirs.tw1.ru",
-            "stickmaze.com",
+            "stickmaze.com"
+        ],
+        "to_test": [
             "stickywebcams.com",
             "stielscohillfamiliebetrekking.4xetf.com",
             "stikersoivk.tw1.ru",
