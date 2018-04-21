@@ -14210,9 +14210,7 @@
             "toolbar.startnow.com",
             "toolbarcash.com",
             "toolbargate.com",
-            "toolbarmedia.net"
-        ],
-        "to_test": [
+            "toolbarmedia.net",
             "toolbarpartner.com",
             "toolbarplace.com",
             "toolbars-cash.com",
@@ -14266,6 +14264,7 @@
             "top-world-scanner.com",
             "top.bur-bur.ru",
             "top.cowanagencies.ca",
+            "top.gde.ru",
             "top.mutecom.net",
             "top.pupilmark.com",
             "top.satyamgroupofcompanies.com",
@@ -14354,7 +14353,6 @@
             "toplessdailynews.com",
             "toplessnewsradio.com",
             "toplinkssite.info",
-            "toplista.xonx.pl",
             "toplolita.org",
             "toplooneytopwe.info",
             "topmarketcenter.com",
@@ -14414,7 +14412,6 @@
             "topsharefile.com",
             "topshoe53.com",
             "topshoes53.com",
-            "topshopvidz.com",
             "topsitegambling.net",
             "topsitehq.com",
             "topsites.cearchives.com",
@@ -14505,7 +14502,9 @@
             "totalwellnesscleansereviews.moneysites.com",
             "totalwhere.com",
             "totca.biz",
-            "toteljob.com",
+            "toteljob.com"
+        ],
+        "to_test": [
             "totfit.biz",
             "tothese.com",
             "totopro1x2.com",
