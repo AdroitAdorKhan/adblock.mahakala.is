@@ -10341,9 +10341,7 @@
             "static-ssl.exoclick.com",
             "static.1.chenggao.cn",
             "static.2.chenggao.cn",
-            "static.211-56-233-133.nexg.net"
-        ],
-        "to_test": [
+            "static.211-56-233-133.nexg.net",
             "static.adagogo.com",
             "static.adbuddiz.com",
             "static.admarvel.com",
@@ -10369,6 +10367,7 @@
             "static.carrieriq.com",
             "static.casee.cn",
             "static.cdn.gtsmobi.com",
+            "static.cdn.puatraffic.com",
             "static.crowdscience.com",
             "static.dsnrmg.com",
             "static.esportsea.com",
@@ -10380,7 +10379,6 @@
             "static.greystripe.com",
             "static.hitfarm.com",
             "static.inmobi.com",
-            "static.kissteenclub.com",
             "static.ku6.com",
             "static.l3.cdn.adsucks.com",
             "static.linkz.net",
@@ -10487,7 +10485,9 @@
             "stats.mehrnews.com",
             "stats.mf.cz",
             "stats.millanusa.com",
-            "stats.mivlmd.cablespeed.com",
+            "stats.mivlmd.cablespeed.com"
+        ],
+        "to_test": [
             "stats.multiup.org",
             "stats.nowpublic.com",
             "stats.ombx.io",
