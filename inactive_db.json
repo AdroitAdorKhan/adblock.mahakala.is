@@ -14312,11 +14312,8 @@
             "madre4.hk",
             "madre5.hk",
             "madridenvespa.com",
-            "madrone619.com"
-        ],
-        "to_test": [
+            "madrone619.com",
             "mads.gamespot.com",
-            "madsheep.pl",
             "madtechinc.info",
             "maduraswebcams.com",
             "maeldik.net",
@@ -14405,7 +14402,6 @@
             "maigol.cn",
             "maihalertonlinealer.com",
             "maik.ff-bt.net",
-            "mail-eye.com",
             "mail-gw.jbic.go.jp",
             "mail-order-generic-pharmacy.info",
             "mail-skinner.com",
@@ -14520,7 +14516,9 @@
             "makedest.info",
             "makeeasylive.com",
             "makeenough.info",
-            "makefunclick.com",
+            "makefunclick.com"
+        ],
+        "to_test": [
             "makeitrealfast.info",
             "makeittrue.pl",
             "makejoupdated.com",
