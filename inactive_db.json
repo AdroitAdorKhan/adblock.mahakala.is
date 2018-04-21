@@ -25222,9 +25222,7 @@
             "phpbuy.nx.cn",
             "phpcontent.co.in",
             "phpgamers.com",
-            "phphil.com"
-        ],
-        "to_test": [
+            "phphil.com",
             "phpnet77.com",
             "phptonet.com",
             "phrasetrust.com",
@@ -25482,7 +25480,9 @@
             "pinaccles.com",
             "pinatew.com",
             "pinddanatgaya.com",
-            "pindos-dai-deneg.biz",
+            "pindos-dai-deneg.biz"
+        ],
+        "to_test": [
             "pinelakedistribution.com",
             "pineses.net",
             "pinesquarepharmacy.com",
