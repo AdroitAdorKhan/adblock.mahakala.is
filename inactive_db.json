@@ -25198,9 +25198,7 @@
             "www3.32hy.com",
             "www3.51hzmn.com",
             "www3.ad.tomshardware.com",
-            "www3.click-fr.com"
-        ],
-        "to_test": [
+            "www3.click-fr.com",
             "www3.ddns.ms",
             "www3.ihaberadserver.com",
             "www3.kampanyatakip.net",
@@ -25354,6 +25352,7 @@
             "wwwhometime.com",
             "wwwhomeworld.info",
             "wwwhunter.net",
+            "wwwinbank.pl",
             "wwwinfoclick.com",
             "wwwlatinsite.info",
             "wwwlbrowsers.com",
@@ -25412,7 +25411,6 @@
             "wygrajbattlefield.pl",
             "wygrajbutynike.pl",
             "wygrajfallout4.pl",
-            "wygrajfidgetspinner.pl",
             "wygrajfifa17.pl",
             "wygrajfinalfantasy.pl",
             "wygrajgiftcard.pl",
@@ -25478,6 +25476,7 @@
             "x-matures.net",
             "x-moms.biz",
             "x-muiste.com",
+            "x-pay.biz",
             "x-pearl.com",
             "x-pornmoviez.com",
             "x-ratedclips.com",
@@ -25505,6 +25504,7 @@
             "x.teenssites.net",
             "x.vipergirls.to",
             "x.walla.co.il",
+            "x07.org",
             "x0i-qsj.info",
             "x0md.r0tfo.top",
             "x0x0aaax0x0x0x1a8s9a7888.com",
@@ -25545,7 +25545,9 @@
             "xanaxba.org",
             "xanaxland.info",
             "xanaxreliable.com",
-            "xandygiveaway.com",
+            "xandygiveaway.com"
+        ],
+        "to_test": [
             "xapufsp.com",
             "xara.co.nz",
             "xara.hse24.de",
