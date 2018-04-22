@@ -24759,9 +24759,7 @@
             "www.traktum.com",
             "www.travel-leisure-bonuspath.com",
             "www.travel-leisure-premiumblvd.com",
-            "www.traveladvertising.com"
-        ],
-        "to_test": [
+            "www.traveladvertising.com",
             "www.traveller-offer.com",
             "www.traveller-offer.net",
             "www.travelncs.com",
@@ -24814,6 +24812,7 @@
             "www.us-topsites.com",
             "www.us.kctctour.com",
             "www.usapriceperhead.com",
+            "www.usatechdesk.com",
             "www.usatravel-specials.com",
             "www.usatravel-specials.net",
             "www.uvatech.co.uk",
@@ -24905,9 +24904,10 @@
             "www.voluptuous.naturalwonderz.com",
             "www.voucher-for-you.online",
             "www.vouyerbus.com",
-            "www.voyeurbb.com",
             "www.vroll.net",
-            "www.vug.in",
+            "www.vug.in"
+        ],
+        "to_test": [
             "www.vydoxx.xyz",
             "www.w1.ro",
             "www.walgreenspharmacyrx.net",
