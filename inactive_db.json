@@ -21012,9 +21012,7 @@
             "winstdm.com",
             "winsurffilter.com",
             "winsxs-32.com",
-            "winsystemalert1.xyz"
-        ],
-        "to_test": [
+            "winsystemalert1.xyz",
             "winsystemalert10.xyz",
             "winsystemalert2.xyz",
             "winsystemalert3.xyz",
@@ -21111,7 +21109,6 @@
             "wista-antivirus2009.com",
             "witarrive.com",
             "witcher3download.com",
-            "witcountry.com",
             "witfeet.com",
             "witfrom.com",
             "witground.com",
@@ -21268,6 +21265,7 @@
             "wnternet.com",
             "wnxcnx.hol.es",
             "wo-stargate.com",
+            "wo4.org",
             "wo709394.cn",
             "wo9188.cn",
             "woabpol.net",
@@ -21406,7 +21404,10 @@
             "workin-coworking.com.br",
             "workinghackandcheat.com",
             "workinghackgame.com",
-            "worklifethink.info",
+            "workle.website",
+            "worklifethink.info"
+        ],
+        "to_test": [
             "workouton.com.br",
             "workpartnners.info",
             "workrxpharm.com",
