@@ -14862,9 +14862,7 @@
             "tracking.sim-technik.de",
             "tracking.times247.com",
             "tracking.tradeking.com",
-            "tracking.ustream.tv"
-        ],
-        "to_test": [
+            "tracking.ustream.tv",
             "tracking.vitringez.com",
             "tracking.we7.com",
             "tracking.web2corp.com",
@@ -14884,6 +14882,7 @@
             "tradeconsultingcompany.com",
             "tradecoolservice.com",
             "tradeeearly.net",
+            "tradefx.advertserve.com",
             "tradeinforex.net",
             "trademan11m1.cf",
             "trademarkonlineweb.com",
@@ -15009,6 +15008,7 @@
             "trannyrealm.net",
             "trans-fortmill.com",
             "trans4u.net",
+            "transacoweb.com",
             "transactions-plus.com",
             "transactions-ticketmaster.com",
             "transactions-view-data.com",
@@ -15121,7 +15121,9 @@
             "treiouy.com",
             "trek-madone.com",
             "trek.st",
-            "treko.hu",
+            "treko.hu"
+        ],
+        "to_test": [
             "tremunu.com",
             "trend.pinxitartes.com",
             "trendingviralvids.info",
