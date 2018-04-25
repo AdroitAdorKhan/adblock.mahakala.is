@@ -1608,9 +1608,7 @@
             "29ybj25.com",
             "2a3n1cekigexxhsg.com",
             "2a86.v.fwmrm.net",
-            "2antivirus2008.com"
-        ],
-        "to_test": [
+            "2antivirus2008.com",
             "2av5zqthvi5u4kup.com",
             "2b0hgb2vwkkq4evu.com",
             "2b20k27wuid0znfi.com",
@@ -1702,7 +1700,6 @@
             "2w.edu0.cn",
             "2wmtgugcsk62qbmh.com",
             "2wnpf.tld.cc",
-            "2x2.biz",
             "2ymh2gnnbg6pgq2r.gremsot.pl",
             "2ymh2gnnbg6pgq2r.winregion.tw",
             "2youb.biz",
@@ -1822,7 +1819,9 @@
             "35vs889.info",
             "35x.biz",
             "360-share-music.com",
-            "360.jarakadvertising.com",
+            "360.jarakadvertising.com"
+        ],
+        "to_test": [
             "360browsertechsupport.com",
             "360degree.com.my",
             "360emulator.com",
