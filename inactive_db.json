@@ -6871,9 +6871,7 @@
             "adserver.tulsaworld.com",
             "adserver.ugo.com",
             "adserver.ugo.nl",
-            "adserver.ukplus.co.uk"
-        ],
-        "to_test": [
+            "adserver.ukplus.co.uk",
             "adserver.uproxx.com",
             "adserver.us.outblaze.com",
             "adserver.usermagnet.com",
@@ -6948,7 +6946,6 @@
             "adsolution-2016.info",
             "adsor.openrunner.com",
             "adspidernow.info",
-            "adspiro.pl",
             "adsports.co.kr",
             "adspr.haber7.net",
             "adsr3pg.com.br",
@@ -6973,6 +6970,7 @@
             "adssl02.adtech.de",
             "adsspace.net",
             "adstage.ticketmaster.com",
+            "adstat.fgsta.com",
             "adstatic.ameba.jp",
             "adstream1.integra.fr",
             "adstreams.org",
@@ -6993,6 +6991,7 @@
             "adtegrity.spinbox.org",
             "adtology3.com",
             "adtrack.ministerial5.com",
+            "adtracker.inmobi.com",
             "adtracker.meinungsstudie.de",
             "adtracking.net-on.net",
             "adtracking.wrox.com",
@@ -7031,7 +7030,6 @@
             "adult-nude-teens-sex.com",
             "adult-open.net",
             "adult-plaesure.org",
-            "adult-revolution.com",
             "adult-s-portal.com",
             "adult-sea.com",
             "adult-sexsearch.info",
@@ -7042,7 +7040,9 @@
             "adult-trade.net",
             "adult-tubecodec08.com",
             "adult-tubecodec2008.com",
-            "adult-u.com",
+            "adult-u.com"
+        ],
+        "to_test": [
             "adult-visit.com",
             "adult-w.org",
             "adult-want.com",
