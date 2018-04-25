@@ -4769,9 +4769,7 @@
             "ad.aeonad.net",
             "ad.aftenposten.no",
             "ad.aftonbladet.se",
-            "ad.agkn.com"
-        ],
-        "to_test": [
+            "ad.agkn.com",
             "ad.agorer.com",
             "ad.airad.com",
             "ad.airpush.com",
@@ -4784,6 +4782,7 @@
             "ad.apple.com",
             "ad.applifier.com",
             "ad.appnext.com",
+            "ad.arklm.com",
             "ad.ascii.jp",
             "ad.asv.de",
             "ad.atlas.cz",
@@ -4794,7 +4793,6 @@
             "ad.bnmedia.ru",
             "ad.bodybuilding.com",
             "ad.bryghtad.com",
-            "ad.bubblestat.com",
             "ad.burstly.com",
             "ad.caramail.com",
             "ad.carrieriq.com",
@@ -4922,9 +4920,10 @@
             "ad.outerinfoads.com",
             "ad.pandora.tv",
             "ad.parrot.mable-inc.com",
-            "ad.pdassi.de",
             "ad.pgwticketshop.nl",
-            "ad.philipstreehouse.info",
+            "ad.philipstreehouse.info"
+        ],
+        "to_test": [
             "ad.placeplay.com",
             "ad.playground.ru",
             "ad.playhaven.com",
