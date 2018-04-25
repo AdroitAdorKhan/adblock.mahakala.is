@@ -6125,9 +6125,7 @@
             "ads.ljworld.com",
             "ads.lmmob.com",
             "ads.lnkworld.com",
-            "ads.local.ie"
-        ],
-        "to_test": [
+            "ads.local.ie",
             "ads.localnow.com",
             "ads.locators.com",
             "ads.lubbockonline.com",
@@ -6213,6 +6211,7 @@
             "ads.netdok.net",
             "ads.netfire.com",
             "ads.nethaber.com",
+            "ads.netmechanic.com",
             "ads.netshaker.co.uk",
             "ads.nettavisen.no",
             "ads.netvigator.com",
@@ -6301,7 +6300,9 @@
             "ads.primeinteractive.net",
             "ads.promo.web.id",
             "ads.psxextreme.com",
-            "ads.publicast.be",
+            "ads.publicast.be"
+        ],
+        "to_test": [
             "ads.puls24.mk",
             "ads.pulse360.com",
             "ads.qadserve.com",
