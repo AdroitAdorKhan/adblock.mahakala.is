@@ -13351,9 +13351,7 @@
             "banners.heavenmedia.com",
             "banners.hetnet.nl",
             "banners.hosting-il.com",
-            "banners.i-comers.com"
-        ],
-        "to_test": [
+            "banners.i-comers.com",
             "banners.interclimax.com",
             "banners.japantoday.com",
             "banners.kfmb.com",
@@ -13476,6 +13474,7 @@
             "barcleyus.com",
             "bardays-ibank.be",
             "bardzociekawec.pl",
+            "bareback.rules.nu",
             "barevirgins.com",
             "bargainbees.co.uk",
             "bargainbetsy.com",
@@ -13501,7 +13500,6 @@
             "barnrich.ch",
             "barpound.com",
             "barradeabogadosmorelos.org",
-            "barrieplumbers.com",
             "barrionet.org",
             "barrytie.info",
             "barryzblog.com",
@@ -13545,7 +13543,9 @@
             "basis-38.tk",
             "baskek.com",
             "basket.fj.cn",
-            "basket.sitewithla.com",
+            "basket.sitewithla.com"
+        ],
+        "to_test": [
             "basketball-uniforms.info",
             "basketduniya.com",
             "basketsetcetera.com",
