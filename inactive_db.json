@@ -7209,9 +7209,7 @@
             "advert.gameranger.com",
             "advert.heise.de",
             "advert.hi-media.com",
-            "advert.istanbul.net"
-        ],
-        "to_test": [
+            "advert.istanbul.net",
             "advert.stealth.ru",
             "advert.trainingtools.com",
             "advert.uzmantv.com",
@@ -7422,7 +7420,9 @@
             "aff-jp.exshot.com",
             "aff.buonisconto.it",
             "aff.foxtab.com",
-            "aff.lottobooker.com",
+            "aff.lottobooker.com"
+        ],
+        "to_test": [
             "aff.svjump.com",
             "aff.tamvakti.com",
             "aff1.gittigidiyor.com",
