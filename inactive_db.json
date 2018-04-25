@@ -6676,9 +6676,7 @@
             "adsadmin.aspentimes.com",
             "adsadmin.newsquest.co.uk",
             "adsadmin.vaildaily.com",
-            "adsakamai.20minutos.es"
-        ],
-        "to_test": [
+            "adsakamai.20minutos.es",
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adsbanknepal.com",
@@ -6703,6 +6701,7 @@
             "adserv.qconline.com",
             "adserv.quality-channel.com",
             "adserv.quality-channel.de",
+            "adserv.roundrockmedia.com",
             "adserv.spiegel.de",
             "adserv.windowenhancer.com",
             "adserv.wiredmediainc.com",
@@ -6760,6 +6759,7 @@
             "adserver.bluereactor.net",
             "adserver.bluewin.ch",
             "adserver.bumeran.com",
+            "adserver.buttonware.com",
             "adserver.buttonware.net",
             "adserver.cheatplanet.com",
             "adserver.clubic.com",
@@ -6807,7 +6807,6 @@
             "adserver.infinit.net",
             "adserver.iol.it",
             "adserver.ixm.co.uk",
-            "adserver.janes.net",
             "adserver.jolt.co.uk",
             "adserver.journalinteractive.com",
             "adserver.kcilink.com",
@@ -6872,7 +6871,9 @@
             "adserver.tulsaworld.com",
             "adserver.ugo.com",
             "adserver.ugo.nl",
-            "adserver.ukplus.co.uk",
+            "adserver.ukplus.co.uk"
+        ],
+        "to_test": [
             "adserver.uproxx.com",
             "adserver.us.outblaze.com",
             "adserver.usermagnet.com",
