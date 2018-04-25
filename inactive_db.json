@@ -5043,9 +5043,7 @@
             "ad2.advglobet.com",
             "ad2.asit.de",
             "ad2.atlas.cz",
-            "ad2.bbmedia.cz"
-        ],
-        "to_test": [
+            "ad2.bbmedia.cz",
             "ad2.billboard.sk",
             "ad2.bonadza.com",
             "ad2.firestorage.jp",
@@ -5169,9 +5167,12 @@
             "adbbf-bn.com",
             "adbiz.us",
             "adblockdetect.xyz",
+            "adblockerkillswebsites.pw",
             "adbnr.ru",
             "adbpt.com",
-            "adbreak.ubeei.com",
+            "adbreak.ubeei.com"
+        ],
+        "to_test": [
             "adbtch.com",
             "adbytes.buzzbytes.net",
             "adc.stream.moe",
