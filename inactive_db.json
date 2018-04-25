@@ -3795,9 +3795,7 @@
             "a.targetingadvertiser.com",
             "a.tellapart.com",
             "a.tfag.de",
-            "a.total-media.net"
-        ],
-        "to_test": [
+            "a.total-media.net",
             "a.triggit.com",
             "a.turbodsp.com",
             "a.tvlim.com",
@@ -3998,7 +3996,9 @@
             "abaamro.com",
             "ababaloka.com",
             "ababeinarms.com",
-            "abacoinvestment.net",
+            "abacoinvestment.net"
+        ],
+        "to_test": [
             "abadesuiyunhfegunjidans.com",
             "abahussaingroup.com",
             "abandon.fj.cn",
