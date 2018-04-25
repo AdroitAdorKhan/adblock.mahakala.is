@@ -6300,9 +6300,7 @@
             "ads.primeinteractive.net",
             "ads.promo.web.id",
             "ads.psxextreme.com",
-            "ads.publicast.be"
-        ],
-        "to_test": [
+            "ads.publicast.be",
             "ads.puls24.mk",
             "ads.pulse360.com",
             "ads.qadserve.com",
@@ -6324,6 +6322,7 @@
             "ads.reason.com",
             "ads.rebubbled.com",
             "ads.redegg.co",
+            "ads.redorbit.com",
             "ads.reed-elsevier.com",
             "ads.regiedepub.com",
             "ads.reklamlar.net",
@@ -6428,12 +6427,12 @@
             "ads.topcities.com",
             "ads.topix.net",
             "ads.track-star.com",
+            "ads.tradefx.com",
             "ads.trademob.com",
             "ads.tradermedia.co.uk",
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
-            "ads.tripican.com",
             "ads.tritonmedia.com",
             "ads.trueweather.com",
             "ads.trutv.com",
@@ -6465,7 +6464,9 @@
             "ads.vg.basefarm.net",
             "ads.viddler.com",
             "ads.videoaxs.com",
-            "ads.videobash.com",
+            "ads.videobash.com"
+        ],
+        "to_test": [
             "ads.viewlondon.co.uk",
             "ads.viewx.co.uk",
             "ads.vintageporntubenet.com",
