@@ -3398,9 +3398,7 @@
             "7skiesltd.com",
             "7sktv9.japan.katsujinkendojo.co.uk",
             "7stat.in",
-            "7stc.cn"
-        ],
-        "to_test": [
+            "7stc.cn",
             "7traff.com",
             "7tslica.com",
             "7u37z96p8.info",
@@ -3603,6 +3601,7 @@
             "91tmp.eu",
             "91wwmm.com",
             "924329928.com",
+            "925.lt",
             "926817a885d86e1.com",
             "926bh3a.info",
             "927697--storno-sicher-konto_identity.sicherheitsvorbeugung-schutz.cf",
@@ -3649,7 +3648,9 @@
             "987776-germany-prob-sicherheit-benutzer.sicherheitsabwehr-schutz.tk",
             "98csc.net",
             "98hs.ru",
-            "98ysz.com",
+            "98ysz.com"
+        ],
+        "to_test": [
             "995-health.com-4us.net",
             "9950sessionerror.ru",
             "9951sessionerror.ru",
