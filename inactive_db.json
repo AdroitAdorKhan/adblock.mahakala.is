@@ -7420,9 +7420,7 @@
             "aff-jp.exshot.com",
             "aff.buonisconto.it",
             "aff.foxtab.com",
-            "aff.lottobooker.com"
-        ],
-        "to_test": [
+            "aff.lottobooker.com",
             "aff.svjump.com",
             "aff.tamvakti.com",
             "aff1.gittigidiyor.com",
@@ -7448,6 +7446,7 @@
             "affiliate.tfntracker.com",
             "affiliate.unimall.de",
             "affiliate2.hardstore.com",
+            "affiliateprogram.keywordspy.com",
             "affiliates-cdn.mozilla.org",
             "affiliates.about.com",
             "affiliates.amorix.biz",
@@ -7505,6 +7504,7 @@
             "afris.biz",
             "afrisecret.com",
             "afrochicksfuck.com",
+            "afrofish.it",
             "afroolei.com",
             "afrotvc.com",
             "afroukbusinessdirectory.com",
@@ -7575,7 +7575,9 @@
             "agentia.cl",
             "agentmy.info",
             "agentreklama.info",
-            "ageofconans.net",
+            "ageofconans.net"
+        ],
+        "to_test": [
             "ageproduce.com",
             "agereo.com",
             "agerol.com",
