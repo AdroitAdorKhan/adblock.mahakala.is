@@ -9932,9 +9932,7 @@
             "antivirxp.net",
             "antivirxp08.com",
             "antizend.com",
-            "antoluxlda.com"
-        ],
-        "to_test": [
+            "antoluxlda.com",
             "antrocity.com",
             "antvirushelp.com",
             "anu.vqd.fr",
@@ -10076,6 +10074,7 @@
             "ap-design.com.ar",
             "ap.lookout.com",
             "ap.p-digital-server.com",
+            "ap76rmx3.accountant",
             "apac.analytics.yahoo.com",
             "apac.rel.msn.com",
             "apache2-wp223656.wp223656.dreamhostps.com",
@@ -10089,6 +10088,7 @@
             "apdern.com",
             "apdert.com",
             "apeeunion1104.com",
+            "apelsinnik.website",
             "apex0.cn",
             "apex001.org",
             "apex1.cn",
@@ -10385,6 +10385,7 @@
             "api.adsmobi.com",
             "api.adwhirl.com",
             "api.ak.facebook.com",
+            "api.axiatraders.com",
             "api.bidmath.com",
             "api.bizographics.com",
             "api.bryghtapi.com",
@@ -10399,7 +10400,9 @@
             "api.flashnetworks.com",
             "api.flicktweets.com",
             "api.geosrv.info",
-            "api.hexagram.com",
+            "api.hexagram.com"
+        ],
+        "to_test": [
             "api.indemandapi.com",
             "api.instantdollarz.com",
             "api.interstateanalytics.com",
