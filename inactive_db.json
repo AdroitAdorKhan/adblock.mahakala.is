@@ -13134,9 +13134,7 @@
             "bankfeatures.com",
             "bankfinancialsignin.com",
             "bankfinancialsignup.com",
-            "bankghanaplc.org"
-        ],
-        "to_test": [
+            "bankghanaplc.org",
             "bankinfoportal.info",
             "banking-2024.alles-zu-ihrer-sicherheit.de",
             "banking-global.us",
@@ -13267,6 +13265,7 @@
             "banner.arttoday.com",
             "banner.automotiveworld.com",
             "banner.betroyalaffiliates.com",
+            "banner.betwwts.com",
             "banner.blogranking.net",
             "banner.bruteforcemarket.com",
             "banner.clickerotico.com",
@@ -13352,7 +13351,9 @@
             "banners.heavenmedia.com",
             "banners.hetnet.nl",
             "banners.hosting-il.com",
-            "banners.i-comers.com",
+            "banners.i-comers.com"
+        ],
+        "to_test": [
             "banners.interclimax.com",
             "banners.japantoday.com",
             "banners.kfmb.com",
