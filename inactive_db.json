@@ -2049,9 +2049,7 @@
             "423082--storno-angabe-account.sicherheitsabwehr-sicher.ml",
             "423450--verbraucher-angabe-validierung.sicherheitshilfe-hilfeservice.ga",
             "426-healthandbeauty.com-4us.net",
-            "427731--gast-sicher-validierung.vorkehrung-sicherheitsabwehr.cf"
-        ],
-        "to_test": [
+            "427731--gast-sicher-validierung.vorkehrung-sicherheitsabwehr.cf",
             "429995--nutzung-sicherheit-benutzer.sicherheitshilfe-hilfeservice.ga",
             "42ld1.com",
             "431810-germany-storno-sicher-konto_identity.vorkehrung-sicherheitsabwehr.cf",
@@ -2429,7 +2427,9 @@
             "513-fitness.hotdrdiettrast.com",
             "516ipel.info",
             "517746.com",
-            "519.craigslsit.org-rte.xyz",
+            "519.craigslsit.org-rte.xyz"
+        ],
+        "to_test": [
             "51com.ru",
             "51friend.anytome.com",
             "51gevy.gb.londondampproofer.co.uk",
