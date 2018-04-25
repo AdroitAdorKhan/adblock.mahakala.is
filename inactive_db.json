@@ -6464,15 +6464,14 @@
             "ads.vg.basefarm.net",
             "ads.viddler.com",
             "ads.videoaxs.com",
-            "ads.videobash.com"
-        ],
-        "to_test": [
+            "ads.videobash.com",
             "ads.viewlondon.co.uk",
             "ads.viewx.co.uk",
             "ads.vintageporntubenet.com",
             "ads.vip.strlng.exodus.discovery.com",
             "ads.virgin.net",
             "ads.virtumundo.com",
+            "ads.vm-corporate.com",
             "ads.vnuemedia.com",
             "ads.vr-zone.com",
             "ads.vreme.bg",
@@ -6503,7 +6502,6 @@
             "ads.winvite.com",
             "ads.wiredpussy.com",
             "ads.wnd.com",
-            "ads.woop.tv",
             "ads.worldclassstrategy.com",
             "ads.worldpages.com",
             "ads.wtfpeople.com",
@@ -6678,7 +6676,9 @@
             "adsadmin.aspentimes.com",
             "adsadmin.newsquest.co.uk",
             "adsadmin.vaildaily.com",
-            "adsakamai.20minutos.es",
+            "adsakamai.20minutos.es"
+        ],
+        "to_test": [
             "Adsatt.ABCNews.starwave.com",
             "Adsatt.go.starwave.com",
             "adsbanknepal.com",
