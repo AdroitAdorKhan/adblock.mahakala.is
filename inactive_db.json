@@ -7040,9 +7040,7 @@
             "adult-trade.net",
             "adult-tubecodec08.com",
             "adult-tubecodec2008.com",
-            "adult-u.com"
-        ],
-        "to_test": [
+            "adult-u.com",
             "adult-visit.com",
             "adult-w.org",
             "adult-want.com",
@@ -7151,6 +7149,7 @@
             "adv-inc-net.com",
             "adv.440net.com",
             "adv.adtotal.pl",
+            "adv.axiatraders.com",
             "adv.bookclubservices.ca",
             "adv.digisesso.com",
             "adv.elbuscador.com",
@@ -7210,7 +7209,9 @@
             "advert.gameranger.com",
             "advert.heise.de",
             "advert.hi-media.com",
-            "advert.istanbul.net",
+            "advert.istanbul.net"
+        ],
+        "to_test": [
             "advert.stealth.ru",
             "advert.trainingtools.com",
             "advert.uzmantv.com",
