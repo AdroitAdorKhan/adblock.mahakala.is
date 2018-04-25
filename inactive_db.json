@@ -5963,9 +5963,7 @@
             "ads.escortforumit.com",
             "ads.esmas.com",
             "ads.eunanoticias.com",
-            "ads.euniverseads.com"
-        ],
-        "to_test": [
+            "ads.euniverseads.com",
             "ads.evansville.net",
             "ads.exhedra.com",
             "ads.expressindia.com",
@@ -5974,7 +5972,6 @@
             "ads.famegame.com",
             "ads.fark.com",
             "ads.fayettevillenc.com",
-            "ads.fiat-bg.org",
             "ads.filez.nl",
             "ads.firingsquad.com",
             "ads.fish4.co.uk",
@@ -6042,6 +6039,7 @@
             "ads.haber7.net",
             "ads.halogennetwork.com",
             "ads.hamptonroads.com",
+            "ads.hardwaresecrets.com",
             "ads.hardwarezone.com",
             "ads.hentaifox.com",
             "ads.herald-mail.com",
@@ -6127,7 +6125,9 @@
             "ads.ljworld.com",
             "ads.lmmob.com",
             "ads.lnkworld.com",
-            "ads.local.ie",
+            "ads.local.ie"
+        ],
+        "to_test": [
             "ads.localnow.com",
             "ads.locators.com",
             "ads.lubbockonline.com",
