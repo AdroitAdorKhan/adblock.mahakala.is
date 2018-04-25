@@ -9174,15 +9174,12 @@
             "analslammers.com",
             "analuciahealthcoach.com",
             "analytic.pho.fm",
-            "analytic.piri.net"
-        ],
-        "to_test": [
+            "analytic.piri.net",
             "analyticapi.pho.fm",
             "analyticapi.piri.net",
             "analytics-ads.xyz",
             "analytics-rhwg.rhcloud.com",
             "analytics-static.unister-gmbh.de",
-            "analytics-union.xunlei.com",
             "analytics-v2.anvato.com",
             "analytics.adeevo.com",
             "analytics.admob.com",
@@ -9266,8 +9263,8 @@
             "andlu.org",
             "andmabi.com",
             "andounatsu.com",
-            "ANDpolice.com",
             "andpolice.com",
+            "ANDpolice.com",
             "andreandre.de",
             "andreas-gehring.com",
             "andreaviajera.com",
@@ -9337,7 +9334,9 @@
             "angelacrouch.com",
             "angelangle.co.uk",
             "angelas-sin-city.com",
-            "angelas-team.de",
+            "angelas-team.de"
+        ],
+        "to_test": [
             "angelazplace.com",
             "angelbabedebs.com",
             "angelband.org",
