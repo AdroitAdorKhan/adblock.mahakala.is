@@ -5170,9 +5170,7 @@
             "adblockerkillswebsites.pw",
             "adbnr.ru",
             "adbpt.com",
-            "adbreak.ubeei.com"
-        ],
-        "to_test": [
+            "adbreak.ubeei.com",
             "adbtch.com",
             "adbytes.buzzbytes.net",
             "adc.stream.moe",
@@ -5205,6 +5203,7 @@
             "add-clients-ssl-fre.com",
             "add-to-favorites.net",
             "add.allinoneassistant.net",
+            "add.bacchecks.com",
             "add.bugun.com.tr",
             "add.cellman.club",
             "add.firstcarsdt.com",
@@ -5302,7 +5301,6 @@
             "adhokuspokus.com",
             "adhosting.ohmyad.co",
             "adhref.pl",
-            "adi.cnool.net",
             "adi.mainichi.co.jp",
             "adidas.com-free.win",
             "adidasdufflebag.com",
@@ -5319,7 +5317,9 @@
             "adimages.beeb.com",
             "adimages.earthweb.com",
             "adimages.omroepzeeland.nl",
-            "adimages.watchmygf.net",
+            "adimages.watchmygf.net"
+        ],
+        "to_test": [
             "adincl.go2net.com",
             "adincl.gopher.com",
             "adindex.ocweekly.com",
