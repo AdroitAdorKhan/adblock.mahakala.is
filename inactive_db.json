@@ -3648,9 +3648,7 @@
             "987776-germany-prob-sicherheit-benutzer.sicherheitsabwehr-schutz.tk",
             "98csc.net",
             "98hs.ru",
-            "98ysz.com"
-        ],
-        "to_test": [
+            "98ysz.com",
             "995-health.com-4us.net",
             "9950sessionerror.ru",
             "9951sessionerror.ru",
@@ -3673,7 +3671,6 @@
             "99hot.biz",
             "99kkxx.com",
             "99livecam.net",
-            "99lwt.cn",
             "99webcams.com",
             "99zzkk.com",
             "9am-9pm.info",
@@ -3693,6 +3690,7 @@
             "9hostid.cc",
             "9hrds.wolfcrap.at",
             "9ic6k6vf2d.info",
+            "9icmzvn6.website",
             "9ifmz.polishingmedia.cn",
             "9ifo1mzkp67o.com",
             "9il-6sop6.info",
@@ -3750,6 +3748,7 @@
             "a.admaxserver.com",
             "a.admob.com",
             "a.adstome.com",
+            "a.ai.inmobi.com",
             "a.aklianfa.com",
             "a.akncdn.com",
             "a.americanidol.com",
@@ -3774,6 +3773,7 @@
             "a.forestern.info",
             "a.gismeteo.ru",
             "a.jango.com",
+            "a.jumptap.com",
             "a.kandiaoyu.com",
             "a.karmatrail.club",
             "a.kerg.net",
@@ -3795,7 +3795,9 @@
             "a.targetingadvertiser.com",
             "a.tellapart.com",
             "a.tfag.de",
-            "a.total-media.net",
+            "a.total-media.net"
+        ],
+        "to_test": [
             "a.triggit.com",
             "a.turbodsp.com",
             "a.tvlim.com",
