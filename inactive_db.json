@@ -4921,9 +4921,7 @@
             "ad.pandora.tv",
             "ad.parrot.mable-inc.com",
             "ad.pgwticketshop.nl",
-            "ad.philipstreehouse.info"
-        ],
-        "to_test": [
+            "ad.philipstreehouse.info",
             "ad.placeplay.com",
             "ad.playground.ru",
             "ad.playhaven.com",
@@ -4978,7 +4976,6 @@
             "ad.tgdaily.com",
             "ad.theequalground.info",
             "ad.thehill.com",
-            "ad.thinkmedia.cn",
             "ad.tijdbeursmedia.nl",
             "ad.tiscali.com",
             "ad.tomshardware.com",
@@ -5046,7 +5043,9 @@
             "ad2.advglobet.com",
             "ad2.asit.de",
             "ad2.atlas.cz",
-            "ad2.bbmedia.cz",
+            "ad2.bbmedia.cz"
+        ],
+        "to_test": [
             "ad2.billboard.sk",
             "ad2.bonadza.com",
             "ad2.firestorage.jp",
