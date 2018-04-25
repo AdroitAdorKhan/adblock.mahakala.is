@@ -2986,9 +2986,7 @@
             "5zmyepgv.info",
             "6-act.channel.facebook.com",
             "6.bbnfaces.net",
-            "600pics.com"
-        ],
-        "to_test": [
+            "600pics.com",
             "601137-de-prob-sicherheit-account.sicherheitshilfe-hilfeservice.ml",
             "603492-germany-verbraucher-sicherheit-benutzer.sicherheitsabwehr-sicher.gq",
             "603767-de-nutzung-sicherheit-benutzer.sicherheitshilfe-hilfeservice.ml",
@@ -3047,6 +3045,7 @@
             "646887-deutschland-gast-kenntnis-validierung.sicherheitsvorbeugung-vorbeugung.gq",
             "64asp.ru",
             "64crypt.cc",
+            "64mb.org",
             "654shoes.com",
             "6565commerce.com",
             "656925-de-nutzung-mitteilung-nachweis.sicherheitshilfe-hilfeservice.tk",
@@ -3072,6 +3071,7 @@
             "669jeux.fr",
             "669juegos.es",
             "66a8b7d.com",
+            "66cpwgln.space",
             "66eexx.com",
             "66ml.in",
             "66w5dv.boro.katsujinken.co.uk",
@@ -3398,7 +3398,9 @@
             "7skiesltd.com",
             "7sktv9.japan.katsujinkendojo.co.uk",
             "7stat.in",
-            "7stc.cn",
+            "7stc.cn"
+        ],
+        "to_test": [
             "7traff.com",
             "7tslica.com",
             "7u37z96p8.info",
