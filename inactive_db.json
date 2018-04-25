@@ -5317,9 +5317,7 @@
             "adimages.beeb.com",
             "adimages.earthweb.com",
             "adimages.omroepzeeland.nl",
-            "adimages.watchmygf.net"
-        ],
-        "to_test": [
+            "adimages.watchmygf.net",
             "adincl.go2net.com",
             "adincl.gopher.com",
             "adindex.ocweekly.com",
@@ -5484,7 +5482,6 @@
             "admaster.candela.com.au",
             "admatch-syndication.mochila.com",
             "admax.quisma.com",
-            "adme.selfip.org",
             "admedia.xoom.com",
             "admedia.xoom.org",
             "admediacpm.com",
@@ -5599,7 +5596,9 @@
             "adn.trademob.com",
             "adn.vserv.mobi",
             "adn.zone-telechargement.com",
-            "adnet.chicago.tribune.com",
+            "adnet.chicago.tribune.com"
+        ],
+        "to_test": [
             "adnet.media.imperpa.com",
             "adnet.medialand.ru",
             "adnetinteractive.net",
