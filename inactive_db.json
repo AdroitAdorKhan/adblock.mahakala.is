@@ -11384,9 +11384,7 @@
             "arcevault.cn",
             "archaeo.cc",
             "archeage-rebellion.com",
-            "archivesmonomenclatures.info"
-        ],
-        "to_test": [
+            "archivesmonomenclatures.info",
             "archiveviewsoftware.com",
             "archivio-film.com",
             "archiviohard.com",
@@ -11431,6 +11429,7 @@
             "areyouwissel.info",
             "arfear.com",
             "argdon1.cn",
+            "argentinaglobalwines.com",
             "argentrapido2009.com",
             "arghhh.net",
             "argoauto.net",
@@ -11490,6 +11489,7 @@
             "armonia-de-ifach-46.org",
             "armory.mmo-champion.com.nyud.net",
             "armrespect.com",
+            "armybutikken.no",
             "armychange.info",
             "armyconquer.net",
             "arnobayholidayrentalhome.com.au",
@@ -11552,7 +11552,9 @@
             "art-photo-music-rewardempire.com",
             "art-photo-music-savingblvd.com",
             "art-sagk.pl",
-            "art-wag.pl",
+            "art-wag.pl"
+        ],
+        "to_test": [
             "art.phyturrecords.com",
             "artaemys.com",
             "artafra.com",
