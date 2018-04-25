@@ -4567,9 +4567,7 @@
             "aclearsecurity.com",
             "aclpumps.com",
             "acm-em.hazren.com",
-            "acmecomp.com"
-        ],
-        "to_test": [
+            "acmecomp.com",
             "acmy93.info",
             "acnefree.co.kr",
             "acnk45-fugh45ylisdj3.molmojerta5.in",
@@ -4771,7 +4769,9 @@
             "ad.aeonad.net",
             "ad.aftenposten.no",
             "ad.aftonbladet.se",
-            "ad.agkn.com",
+            "ad.agkn.com"
+        ],
+        "to_test": [
             "ad.agorer.com",
             "ad.airad.com",
             "ad.airpush.com",
