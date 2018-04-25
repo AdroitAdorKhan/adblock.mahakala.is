@@ -8495,9 +8495,7 @@
             "allhotpix.com",
             "allhotteen.net",
             "allhoursflorist.com.au",
-            "allhqpics.com"
-        ],
-        "to_test": [
+            "allhqpics.com",
             "alliance.adbureau.net",
             "allianceamonline.com",
             "alliancebankplc.co.uk",
@@ -8635,6 +8633,7 @@
             "almargfashiondesigns.com",
             "almarvideos.com",
             "almasbrasilia.org.br",
+            "almasources.com",
             "almasria-ce.com",
             "almaz-vostok.com",
             "almazplace.com",
@@ -8717,7 +8716,9 @@
             "altair.marketsite.ru",
             "altairia.info",
             "altanorthcarolina.info",
-            "altanorthdakota.info",
+            "altanorthdakota.info"
+        ],
+        "to_test": [
             "altasouthcarolina.info",
             "altasouthdakota.info",
             "altawebgl-500.com",
