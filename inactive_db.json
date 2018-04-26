@@ -18580,9 +18580,7 @@
             "cdn6-ref.landing.comcontent.net",
             "cdn7-ref.landing.comcontent.net",
             "cdn8-ref.landing.comcontent.net",
-            "cdn9-ref.landing.comcontent.net"
-        ],
-        "to_test": [
+            "cdn9-ref.landing.comcontent.net",
             "cdnjs.touclick.com",
             "cdnm.zapunited.com",
             "cdns.privatamateure.com",
@@ -18684,7 +18682,6 @@
             "celphonat.com",
             "celtic-art.ltd.uk",
             "celticonlinejewelry.com",
-            "celtshop.net",
             "celular-para-empresa.com",
             "celularblog.com.br",
             "celulargame.net",
@@ -18694,7 +18691,6 @@
             "cembra.ch.stie-inaba.com",
             "cenbankmail.info",
             "cenbankmanagement.com",
-            "cenbankonline.com",
             "cenkat.com",
             "cenligne.com",
             "censoredrape.com",
@@ -18707,6 +18703,7 @@
             "centcourage.com",
             "centdns1.com",
             "center-appresolution.com",
+            "center-gmt.com",
             "center-intl-suport.com",
             "center-paypal.com",
             "center-play.com",
@@ -18714,7 +18711,6 @@
             "center-resolution-resolved.com",
             "center-resolve.com.secure-update.xyz",
             "center-security.us",
-            "center.zarca.net",
             "centeradult.com",
             "centeraspiration.com",
             "centerbak.com",
@@ -18760,7 +18756,9 @@
             "centro-moto-guzzi.de",
             "centrobabycunati.it",
             "centrocomercialdecanarias.com",
-            "centroituzaingo.edu.ar",
+            "centroituzaingo.edu.ar"
+        ],
+        "to_test": [
             "centromes.info",
             "centropachamama.com",
             "centrum-poradnikow.pl",
