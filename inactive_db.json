@@ -8808,9 +8808,7 @@
             "hostingneedfull.xyz",
             "hostingpages.us",
             "hostingparty.net",
-            "hostingphp01.com"
-        ],
-        "to_test": [
+            "hostingphp01.com",
             "hostingzx.com",
             "hostmodify.info",
             "hostnow.men",
@@ -8881,6 +8879,7 @@
             "hotbevakning.com",
             "hotblackguide.info",
             "hotblackking.info",
+            "hotboard.biz",
             "hotcash.pro",
             "hotcelebsnow.info",
             "hotchapatialbums.info",
@@ -9170,7 +9169,9 @@
             "how2pleaseher.com",
             "how2proceed.com",
             "how2viewit.com",
-            "howcanihackfacebook.com",
+            "howcanihackfacebook.com"
+        ],
+        "to_test": [
             "howeyk.com",
             "howgoogleworks.us",
             "howhackgamefree.com",
