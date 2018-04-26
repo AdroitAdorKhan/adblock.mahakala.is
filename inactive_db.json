@@ -13157,9 +13157,7 @@
             "job-online.petrovka.info",
             "jobbid4me.com",
             "jobdeliver.tk",
-            "jobfastfind.org"
-        ],
-        "to_test": [
+            "jobfastfind.org",
             "jobguides.in",
             "jobhayaring.com",
             "jobkeys.ngadcenter.net",
@@ -13342,7 +13340,6 @@
             "jozihyxwnaxo.com",
             "jp-appel.com",
             "jp.2015nian.com",
-            "jp.changbi.com",
             "jpaypal.co.uk",
             "jpchase-process.com",
             "jpchase-update.com",
@@ -13386,7 +13383,9 @@
             "js.5689.nl",
             "js.admeld.com",
             "js.admngr.com",
-            "js.adxkj.com",
+            "js.adxkj.com"
+        ],
+        "to_test": [
             "js.aomeishang.com",
             "js.betburdaaffiliates.com",
             "js.bigdoor.com",
