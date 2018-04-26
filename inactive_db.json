@@ -21878,9 +21878,7 @@
             "construtoraviplar.com.br",
             "consuelozplace.com",
             "consulgent.paaw.info",
-            "consulta-saldoinativo.com.br"
-        ],
-        "to_test": [
+            "consulta-saldoinativo.com.br",
             "consultacontainativafgts.esy.es",
             "consultafgts.esy.es",
             "consultainativas.com.br",
@@ -21948,7 +21946,6 @@
             "content.91s.com",
             "content.ad-flow.com",
             "content.axill.com",
-            "content.liveuniverse.com",
             "content.medialand.ru",
             "content.promoisland.net",
             "content.pulse360.com",
@@ -22122,7 +22119,9 @@
             "copiercurrency.biz",
             "copierlines.biz",
             "copmtraine.com",
-            "copper.furstlook.com",
+            "copper.furstlook.com"
+        ],
+        "to_test": [
             "coppiastrana.com",
             "coppiettaveneta.com",
             "copport.info",
