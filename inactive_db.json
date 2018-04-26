@@ -4142,9 +4142,7 @@
             "game.cuisineaz.com",
             "game.demiononline.nl",
             "game.epyx.hu",
-            "game.n169.com"
-        ],
-        "to_test": [
+            "game.n169.com",
             "game0516.cdn8-traffic68-server10.top",
             "game2max.net",
             "game4all.biz",
@@ -4156,6 +4154,7 @@
             "gameappcheat.com",
             "gamebackgammon.org",
             "gamebox.com.mk",
+            "gamechanger.nyc",
             "gamecheating.net",
             "gamecheatscode.org",
             "gamecheatscrack.us",
@@ -4181,6 +4180,7 @@
             "gamehackarena.com",
             "gamehackfree.com",
             "gamehackfree.info",
+            "gamehacks1337.com",
             "gamehacks1337.eu",
             "gamehacks2014.com",
             "gamehacks4u.com",
@@ -4247,6 +4247,7 @@
             "games.lugh.ch",
             "games.markacadey.net",
             "games.mirrors.tds.net",
+            "games.ncbuy.com",
             "games.niksalehi.com",
             "games.pixelshocks.com",
             "games.platrium.com",
@@ -4266,7 +4267,9 @@
             "gamesaccessfree.com",
             "gamesbreaker.net",
             "gamescheats4u.com",
-            "gamescomworld.info",
+            "gamescomworld.info"
+        ],
+        "to_test": [
             "gamescracksandhacks.com",
             "gamescrank.com",
             "gamescrush.com",
