@@ -4681,9 +4681,7 @@
             "geilegaysex.nl",
             "geilejongetieners.nl",
             "geilenegers.nl",
-            "geileweiber.tk"
-        ],
-        "to_test": [
+            "geileweiber.tk",
             "gejaneu.com",
             "gejeonv.com",
             "gekboy.com",
@@ -4692,6 +4690,7 @@
             "gekutl.com",
             "gel2me.biz",
             "geltoqe.com",
+            "gem24.net",
             "gemaga.sbcr.jp",
             "gemauko.com",
             "gembpro.com",
@@ -4844,7 +4843,6 @@
             "geobs.ch",
             "geoepd.com",
             "geogral.com",
-            "geographystore.com",
             "geoiplookup.wikimedia.org",
             "geolocation.performgroup.com",
             "geoluxuryline.com",
@@ -4893,7 +4891,6 @@
             "gesyters.biz",
             "get-a-life.org",
             "get-biznfonow.com",
-            "get-certified.net",
             "get-cheap-pills.com",
             "get-funds.com",
             "get-in-now.com",
@@ -4987,7 +4984,9 @@
             "getfitordietrying.top",
             "getflappybird.net",
             "getforhack.com",
-            "getforporn.com",
+            "getforporn.com"
+        ],
+        "to_test": [
             "getfreecodeslist.com",
             "getfreedell.info",
             "getfreegas2go.com",
