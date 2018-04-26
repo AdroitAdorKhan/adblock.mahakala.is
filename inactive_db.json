@@ -430,9 +430,7 @@
             "fafunda.com",
             "fah.noneedtostress.com",
             "fahanresources.com",
-            "fahmyfahmy.com"
-        ],
-        "to_test": [
+            "fahmyfahmy.com",
             "fair-item-view.com",
             "fair.huz84.com",
             "fair.jones.se",
@@ -520,7 +518,6 @@
             "famolink.com",
             "famous-pics.com",
             "famousbought.com",
-            "famouschicks.net",
             "famousfinal.com",
             "famousnoon.com",
             "famouspattern.com",
@@ -622,7 +619,9 @@
             "faschooler.id",
             "fashion-2007.info",
             "fashion-elements.de",
-            "fashionfactory.co.nz",
+            "fashionfactory.co.nz"
+        ],
+        "to_test": [
             "fashionkumbh.com",
             "fashionstreetshoe.com",
             "fashionstreetshoehome.com",
