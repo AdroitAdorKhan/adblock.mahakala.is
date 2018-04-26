@@ -25829,9 +25829,7 @@
             "dm8srf206hien.cloudfront.net",
             "dma-p.a.y.p.a.l-c.o.m-au-country-au-locale-adm-secured-dfr74.gurojs.com",
             "dmacdoc.com",
-            "dmaxmc.com"
-        ],
-        "to_test": [
+            "dmaxmc.com",
             "dmg4e.com",
             "dmi44zy-gki.info",
             "dmiafgves.com",
@@ -25929,6 +25927,7 @@
             "dnsmeds.com",
             "dnsmislead.com",
             "dnsmserrors.com",
+            "dnsnamesystem.club",
             "dnsserv.biz",
             "dnsserv3.com",
             "dnsserv4.com",
@@ -26099,7 +26098,9 @@
             "doladowanie-za-darmo.pl",
             "doladowanie.02k.pl",
             "doladowanie.as9.pl",
-            "doladowanko.com",
+            "doladowanko.com"
+        ],
+        "to_test": [
             "doladuj-50zl-promocja.pl",
             "doladuj-5gb-lte.pl",
             "doladuj-fona-50pln.pl",
