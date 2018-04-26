@@ -12809,9 +12809,7 @@
             "jeu-ligne.net",
             "jeu-mafia.fr",
             "jeu-prive-vip.com",
-            "jeu-uvme.com"
-        ],
-        "to_test": [
+            "jeu-uvme.com",
             "jeu1.s-sfr.fr",
             "jeu2.s-sfr.fr",
             "jeu3.s-sfr.fr",
@@ -12842,7 +12840,6 @@
             "jeux-en-flash-sexy.trucosiguias.com",
             "jeux-en-flash.org",
             "jeux-en-ligne.portail.free.fr",
-            "jeux-enfants.net",
             "jeux-et-voiture.com",
             "jeux-festival.eu",
             "jeux-fille.be",
@@ -12979,7 +12976,9 @@
             "jfglass.net",
             "jfhafrica.org",
             "jfhethiopia.org",
-            "jfhrgh.cn",
+            "jfhrgh.cn"
+        ],
+        "to_test": [
             "jfmd1.com",
             "jfmiondv.xyz",
             "jfortp.com",
