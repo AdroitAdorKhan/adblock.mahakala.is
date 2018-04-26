@@ -24535,9 +24535,7 @@
             "deliver.ads.uigc.net",
             "deliver.ifeng.com",
             "deliverit.com.ng",
-            "delivery.ads.assistance.bg"
-        ],
-        "to_test": [
+            "delivery.ads.assistance.bg",
             "delivery.bannerd.ru",
             "delivery.bluefinmediaads.com",
             "delivery.ipvertising.com",
@@ -24591,8 +24589,8 @@
             "dembacity.yzi.me",
             "demhashopper.com",
             "demidroll.info",
-            "demimoorenude.1stok.com",
             "demimoorenude.1stOK.com",
+            "demimoorenude.1stok.com",
             "demminationsdesdeeesssseaerea.com",
             "demnitiontrompeters.netneutralitysopa.com",
             "demo-codec.net",
@@ -24637,8 +24635,8 @@
             "deniosantos.com.br",
             "denis-ponomarev.info",
             "deniseggfff.com",
-            "deniserichards.1stOK.com",
             "deniserichards.1stok.com",
+            "deniserichards.1stOK.com",
             "denixsearch.com",
             "denizendream.org",
             "dennisbonder.com",
@@ -24752,7 +24750,9 @@
             "desjardins.celcon.com",
             "desjardinss.org",
             "desjardinss.pl",
-            "desjerden.com",
+            "desjerden.com"
+        ],
+        "to_test": [
             "desk.opt.fimserve.com",
             "deskbarads.com",
             "desktop-report.info",
