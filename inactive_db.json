@@ -15773,9 +15773,7 @@
             "bobhoperip.info",
             "bobhopesquare.info",
             "bobhopestore.info",
-            "bobhuntonline.info"
-        ],
-        "to_test": [
+            "bobhuntonline.info",
             "bobjoneshigh.info",
             "bobmafia.com",
             "bobmarleystore.info",
@@ -15854,7 +15852,6 @@
             "bokarkdjjbc.com",
             "bokarknjkjl.com",
             "bokone.fi",
-            "bokra.info",
             "boktesoft.com",
             "bokupdate.com",
             "bolan.com.np",
@@ -15969,7 +15966,9 @@
             "bookclub-offer.com",
             "bookdozer.net",
             "bookdozer.org",
-            "bookerzblog.com",
+            "bookerzblog.com"
+        ],
+        "to_test": [
             "bookhome.info",
             "booking-airbnb.com-reminder-reservation-request.info",
             "bookland.dk",
