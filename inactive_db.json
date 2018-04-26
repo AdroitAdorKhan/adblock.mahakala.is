@@ -6276,9 +6276,7 @@
             "grafephot.org.za",
             "graficasjt.com.br",
             "graficastrigo.com",
-            "graficazoom.com.br"
-        ],
-        "to_test": [
+            "graficazoom.com.br",
             "grahamshifi.co.nz",
             "grahamsmithsurfboards.co.uk",
             "grahateknik.demobatavianet.com",
@@ -6605,7 +6603,9 @@
             "gremantdeweb.com",
             "gremt12.com",
             "grenouillevallee.com",
-            "grensscheiding.hamfab.com",
+            "grensscheiding.hamfab.com"
+        ],
+        "to_test": [
             "grepware-facility.ru",
             "gresde.net",
             "gretabc.com",
