@@ -5519,9 +5519,7 @@
             "global.shop.by",
             "globalapprovedrx.com",
             "globalassignmenttimes.com",
-            "globalcareer.co.in"
-        ],
-        "to_test": [
+            "globalcareer.co.in",
             "globalcheapestpills.com",
             "globalcheapmedications.com",
             "globaldatabaseupdate.net",
@@ -5538,7 +5536,6 @@
             "globalfamalytablets.com",
             "globalfastcapsules.net",
             "globalfasttablets.com",
-            "globalfiles.net",
             "globalfiles.org",
             "globalfinancesgroup.com",
             "globalfind.info",
@@ -5732,6 +5729,7 @@
             "gobestgolf.info",
             "gobloid.hk",
             "goblueshift.info",
+            "gobongo.info",
             "gocampworld.info",
             "gocarisoprodol.polybuild.ru",
             "gocduz.com",
@@ -5778,7 +5776,9 @@
             "gofdreams.com",
             "gofell.com",
             "goffi.me",
-            "goflelw.org",
+            "goflelw.org"
+        ],
+        "to_test": [
             "gofowarddoc.com",
             "gofreegalleries.com",
             "gofreegifts.com",
