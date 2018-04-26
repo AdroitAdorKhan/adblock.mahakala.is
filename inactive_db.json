@@ -3933,9 +3933,7 @@
             "g-war.de",
             "g-wizzads.net",
             "g.admob.com",
-            "g.chinapxg.com"
-        ],
-        "to_test": [
+            "g.chinapxg.com",
             "g.chuiyao.com",
             "g.deathandtaxesmag.com",
             "g.doubleclick.net",
@@ -3943,7 +3941,6 @@
             "g.meiliyue.top",
             "g.starmoe.xyz",
             "g.switchadhub.com",
-            "g.topguang.com",
             "g001.info",
             "g00g1e.biz",
             "g00g1e.org",
@@ -3968,7 +3965,6 @@
             "g4va.kdcad.com",
             "g59h.info",
             "g6rk.nationet.com.hk",
-            "g7m.pl",
             "g9m35e.owen.kingsmist.co.uk",
             "ga-1k.info",
             "ga.5.p2l.info",
@@ -3985,6 +3981,7 @@
             "gabrielle-fashions.co.uk",
             "gabriellezplace.com",
             "gabtad.com",
+            "gabybeltran.com.mx",
             "gace.buttermilkbabes.com",
             "gacire.com",
             "gad.dj4b9gy.top",
@@ -4145,7 +4142,9 @@
             "game.cuisineaz.com",
             "game.demiononline.nl",
             "game.epyx.hu",
-            "game.n169.com",
+            "game.n169.com"
+        ],
+        "to_test": [
             "game0516.cdn8-traffic68-server10.top",
             "game2max.net",
             "game4all.biz",
