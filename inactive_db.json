@@ -14903,9 +14903,7 @@
             "bi-collector.oneapm.com",
             "bi-happy.nl",
             "bi.kingsoft.net",
-            "bi.mil.pl"
-        ],
-        "to_test": [
+            "bi.mil.pl",
             "bialk.com.pl",
             "biamanes.com",
             "biancazblog.com",
@@ -14923,6 +14921,7 @@
             "bicicletapt.com",
             "biclot.com",
             "bicnoyt.com",
+            "bid.axiatraders.com",
             "bidagogo.info",
             "bidaronline.info",
             "bideaton.com",
@@ -14941,6 +14940,7 @@
             "bienesraicescasablanca.com",
             "bieqwi.com",
             "bierz-bon.pl",
+            "bif-ru.info",
             "bifocal-sunglasses.ca",
             "big-adult-portal.org",
             "big-deposit.gq",
@@ -15007,6 +15007,7 @@
             "biggerrocket.info",
             "biggest-adult-storage.org",
             "biggest-adult.org",
+            "biggest.rules.nu",
             "biggestgiftrewards.com",
             "biggetonething.cn",
             "biggydns.com",
@@ -15023,6 +15024,7 @@
             "bigiti.net",
             "bigjohnbob.info",
             "bigkoe.com",
+            "biglabels.de",
             "biglazyguy.net",
             "bigloooger.info",
             "biglvl.com",
@@ -15113,7 +15115,9 @@
             "billcorporate.info",
             "billgefdam.info",
             "billiezblog.com",
-            "billiginurlaub.com",
+            "billiginurlaub.com"
+        ],
+        "to_test": [
             "billina483.buzznet.com",
             "billing-barclays.info",
             "billing-bey.com",
