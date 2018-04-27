@@ -27207,9 +27207,7 @@
             "pagead1.googlesyndication.com",
             "pagead3.googlesyndication.com",
             "pagefbsysntemunblcks.co.nf",
-            "pagefeel.com"
-        ],
-        "to_test": [
+            "pagefeel.com",
             "pageingenuity.com",
             "pageissecured2017.com",
             "pagerank-estate-spb.ru",
@@ -27232,6 +27230,7 @@
             "pagina-inicial-acesso.b-b-componente.com.br",
             "pagina-inicial-home.complementob-b.com.br",
             "pagina-inicial-on.complementob-b.com.br",
+            "paginainicial.portaldoclientebbatendimento.com",
             "paginasamarillasnicaragua.com",
             "paguole.com",
             "paiapark.com",
@@ -27438,7 +27437,9 @@
             "parches.paraelpc.com",
             "parcialis.com",
             "parclubs.info",
-            "pardonmypolish.pl",
+            "pardonmypolish.pl"
+        ],
+        "to_test": [
             "parenetpay.com",
             "parent.oewabox.at",
             "parental-secrets.com",
