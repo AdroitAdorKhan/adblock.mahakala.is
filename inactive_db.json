@@ -14596,9 +14596,7 @@
             "kle89.com",
             "kleemonicas.com",
             "klehui.net",
-            "kleinanzeigen.ebay.de.e-nutzername.info"
-        ],
-        "to_test": [
+            "kleinanzeigen.ebay.de.e-nutzername.info",
             "kliat.com",
             "klickadult.com",
             "klickdoctor.com",
@@ -14650,7 +14648,6 @@
             "klubkids.com.br",
             "klubmp3.pl",
             "klucze-csgo.pl",
-            "kluczecs-go.pl",
             "kluetiv.com",
             "kluetiv.net",
             "kluis-amsterdam.nl",
@@ -14843,7 +14840,9 @@
             "koolkrazystuff.com",
             "koolrapensmil.eberspacher-lorry-heater.co.uk",
             "koolynoody.net",
-            "koombla.com",
+            "koombla.com"
+        ],
+        "to_test": [
             "koowershop.at",
             "koperasinelayanpintar.id",
             "kopiperia.com",
