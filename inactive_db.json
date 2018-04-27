@@ -13684,12 +13684,11 @@
             "jx.kingsoft.com",
             "jx8.pl",
             "jxad.jx163.com",
-            "jxgxzgpdwqdx.cn"
-        ],
-        "to_test": [
+            "jxgxzgpdwqdx.cn",
             "jxhy5.cn",
             "jxqdry.ru",
             "jxqy2wg.com",
+            "jxrvboqfe.us",
             "jxvezyhzb.info",
             "jxvpn.com.cn",
             "jxypar.com",
@@ -13750,6 +13749,7 @@
             "ka19mb.quik.a1taxisworcester.co.uk",
             "ka1g3y.iudasitebuildng.com",
             "ka47.us",
+            "kaakchirurg.org",
             "kaartbeheerdocument.nl",
             "kaartvoorschrift-vervaldatum.nl",
             "kaballon.com",
@@ -13884,7 +13884,9 @@
             "kariniemi.tdfleming.net",
             "karinzplace.com",
             "karl-heinz-dahlmann.de",
-            "karliny9.bget.ru",
+            "karliny9.bget.ru"
+        ],
+        "to_test": [
             "karlitos.info",
             "karmadon.com.ua",
             "karmashop.in",
