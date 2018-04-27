@@ -2226,9 +2226,7 @@
             "readynewsoft.newsafeupdatesfree.org",
             "readyonline.es",
             "readyourlifeaway.com",
-            "readypossible.com"
-        ],
-        "to_test": [
+            "readypossible.com",
             "readysuffix.com",
             "real-hyip.com",
             "real-online-video-08.com",
@@ -2524,6 +2522,7 @@
             "recovery-yourpaypallimit.com",
             "recoveryaccount-limited.com",
             "recoverybusinessmanagerpage.esy.es",
+            "recoverydevice-support.com",
             "recoverypasword.com",
             "recoveryrryouraccounts.com",
             "recport.info",
@@ -2578,6 +2577,7 @@
             "redherring.ngadcenter.net",
             "redhotbux.com",
             "redhotwonders.com",
+            "redir.aitrkng.com",
             "redir.beta.adsonar.com",
             "redir94.com",
             "redirect-accountservice.support",
@@ -2591,7 +2591,9 @@
             "redirect1.return128appl.com",
             "redirectid.ru",
             "redirectingtocontent.com",
-            "redirection-ppl.bombshellhairextensions.com",
+            "redirection-ppl.bombshellhairextensions.com"
+        ],
+        "to_test": [
             "redirontisk.com",
             "redmooncomputer.info",
             "redmoonfan.info",
