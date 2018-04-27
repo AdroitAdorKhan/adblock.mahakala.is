@@ -28260,9 +28260,7 @@
             "paypalltd.com",
             "paypallusers.org",
             "paypalmd.com",
-            "paypalmiseenjours.com"
-        ],
-        "to_test": [
+            "paypalmiseenjours.com",
             "paypalmoneyaddergenerator.com",
             "paypalmyaccountlimited.com",
             "paypalnm.com",
@@ -28310,6 +28308,7 @@
             "paypalupdateas.com",
             "paypalupdateinfo.com",
             "paypalupdateinfo.net",
+            "paypalupdates.b3.nu",
             "paypalverify-uk.com",
             "paypalviolated.com",
             "paypalvm.com",
@@ -28544,7 +28543,9 @@
             "peecumbathing.com",
             "peeg.fronterarq.cl",
             "peekskillherald.info",
-            "peekskillonline.info",
+            "peekskillonline.info"
+        ],
+        "to_test": [
             "peeout.com",
             "peependirect.info",
             "peerfil.com",
