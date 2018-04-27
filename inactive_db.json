@@ -19443,9 +19443,7 @@
             "medicationguide.net",
             "medicationscompany.com",
             "medicinaalternativaa.com",
-            "medicinalherbs.space"
-        ],
-        "to_test": [
+            "medicinalherbs.space",
             "medicinalternativa-ser.com",
             "medicinemartworld.com",
             "medicinenewsearthdirect.info",
@@ -19551,6 +19549,7 @@
             "megabestservices.com",
             "megabestsoftnah08.com",
             "megabol.biz",
+            "megabon.pl",
             "megabonus24.pl",
             "megabony.pl",
             "megacamlive.info",
@@ -19729,7 +19728,9 @@
             "mensdapperclub.com",
             "mensedpills.com",
             "mensgenerics.com",
-            "mensgenerics.net",
+            "mensgenerics.net"
+        ],
+        "to_test": [
             "menskontor.de",
             "menspillstore.com",
             "menssexpills.info",
