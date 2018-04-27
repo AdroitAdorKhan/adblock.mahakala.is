@@ -6488,9 +6488,7 @@
             "seirmic.com",
             "seiudr.com",
             "seizedns.com",
-            "sej22ay5j-gd.info"
-        ],
-        "to_test": [
+            "sej22ay5j-gd.info",
             "sekai-okashii.virtuaboard.com",
             "sekcjakarpiowa.pl",
             "sekel.ch",
@@ -6583,6 +6581,7 @@
             "semenfaces.com",
             "semerros.com",
             "semiaza.info",
+            "semiconductry.top",
             "semiformluxury.com",
             "seminar-ua.com",
             "seminar-ua.net",
@@ -6600,6 +6599,7 @@
             "sendaidojo.com",
             "sendaufile.com",
             "sendcards.co.za",
+            "senddataserver.com",
             "sendfileuk.com",
             "sendhold.com",
             "sendingmarketing.com",
@@ -6778,7 +6778,9 @@
             "server-ssl.yieldmanaged.com",
             "server-za.imrworldwide.com",
             "server.amitairtravels.com",
-            "server.gameads.com",
+            "server.gameads.com"
+        ],
+        "to_test": [
             "server.popads.net",
             "server.quantumjvs.com",
             "server.radiosystem.it",
