@@ -9413,9 +9413,7 @@
             "spazbot.net",
             "spb-traffic.com",
             "spbhost.com",
-            "spbpolveni.us"
-        ],
-        "to_test": [
+            "spbpolveni.us",
             "spcode.baidu.com",
             "speakevery.com",
             "speakglass.com",
@@ -9625,7 +9623,9 @@
             "sportbooks-free4you.com",
             "sportdanas.net",
             "sportdata.com.au",
-            "sporting-gundogs.com",
+            "sporting-gundogs.com"
+        ],
+        "to_test": [
             "sportinggoodworld.info",
             "sportinglivez.info",
             "sports-betting-directory.net",
