@@ -9623,9 +9623,7 @@
             "sportbooks-free4you.com",
             "sportdanas.net",
             "sportdata.com.au",
-            "sporting-gundogs.com"
-        ],
-        "to_test": [
+            "sporting-gundogs.com",
             "sportinggoodworld.info",
             "sportinglivez.info",
             "sports-betting-directory.net",
@@ -9775,7 +9773,6 @@
             "spyiblock.com",
             "spykilla.com",
             "spykknd.com",
-            "spymaxx.com",
             "spymedic.co.kr",
             "spynettest.microsoft.com",
             "spynuker-review.com",
@@ -9933,7 +9930,9 @@
             "sruycci.info",
             "srv-archive.ru",
             "srv-salin.com",
-            "srv.overlay-ad.com",
+            "srv.overlay-ad.com"
+        ],
+        "to_test": [
             "srv.thespacereporter.com",
             "srv1.wa.marketingsolutions.yahoo.com",
             "srv2.wa.marketingsolutions.yahoo.com",
