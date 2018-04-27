@@ -21387,12 +21387,9 @@
             "mp3journals.info",
             "mp3megaclub.com",
             "mp3muzicus.com",
-            "mp3onix.com"
-        ],
-        "to_test": [
+            "mp3onix.com",
             "mp3pod.net",
             "mp3rankings.com",
-            "mp3ringtone.info",
             "mp3sgold.com",
             "mp3siesta.net",
             "mp3sland.com",
@@ -21562,7 +21559,6 @@
             "msofts.net",
             "msoobe.com",
             "msouna.com",
-            "msp-hack.com.pl",
             "mspointgenerator.net",
             "mspointsfree.me",
             "mspointsfree.net",
@@ -21669,7 +21665,9 @@
             "muh-ridwan.co.id",
             "muhope.com",
             "muiscae.net",
-            "muiscfbi.com",
+            "muiscfbi.com"
+        ],
+        "to_test": [
             "muiz.sarvanand.net",
             "mujeres809.com",
             "mukopkufude.com",
