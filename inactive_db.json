@@ -8590,9 +8590,7 @@
             "slimagedirect.com",
             "slimasses.info",
             "slimrepl.com",
-            "slimtoolbar.com"
-        ],
-        "to_test": [
+            "slimtoolbar.com",
             "slinerbej.com",
             "slingbackwithkr.com",
             "slinkserver.com",
@@ -8688,7 +8686,9 @@
             "smartfabricagencies.com",
             "smartfed.biz",
             "smartfinder.us",
-            "smartfoodsglutenfree.kz",
+            "smartfoodsglutenfree.kz"
+        ],
+        "to_test": [
             "smartidsolutions.net",
             "smartmoneyinv.com",
             "smartmoves-pilates.com",
