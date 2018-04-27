@@ -4430,13 +4430,12 @@
             "s.fsphp.t-online.de",
             "s.fxtimg.com",
             "s.krebsonsecurity.com",
-            "s.megaclick.com"
-        ],
-        "to_test": [
+            "s.megaclick.com",
             "s.mousetrace.com",
             "s.nyydj.com",
             "s.oroll.com",
             "s.pm.naver.com",
+            "s.qqhpg.com",
             "s.sniphub.com",
             "s.statistici.ro",
             "s.stats.wordpress.com",
@@ -4446,7 +4445,6 @@
             "s.weheartstats.com",
             "s.xbox.com",
             "s.xz15801.com",
-            "s.yellowbird1.xyz",
             "s0h1nf7r3m.info",
             "s0mby6134vtqq1jr7fxz1eu9hlz.net",
             "s0s1.net",
@@ -4523,6 +4521,7 @@
             "s9xs0.info",
             "sa-vir2009-buy.com",
             "sa.bbc.com",
+            "sa.jumptap.com",
             "sa.www4.irs.gov.irfofefp.start.dojsessionid.hiwcwgdr94ijgzvw.4rcbrnd.texreturn.poeindustrialgiantnigeria.com",
             "sa23434.com",
             "sa7tk.com",
@@ -4545,7 +4544,9 @@
             "sac.sicredimoduloativacao.com.br",
             "sac.sicredimoduloseguranca.com.br",
             "saccas234.com",
-            "sacem4christ.org",
+            "sacem4christ.org"
+        ],
+        "to_test": [
             "sackhost.com",
             "sackworthassociatesm.top",
             "sackys.com.mx",
