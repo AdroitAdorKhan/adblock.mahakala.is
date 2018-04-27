@@ -25707,9 +25707,7 @@
             "onesettings-bn2.metron.live.com.nsatc.net",
             "onesettings-cy2.metron.live.com.nsatc.net",
             "onesettings-db5.metron.live.com.nsatc.net",
-            "onesettings-hk2.metron.live.com.nsatc.net"
-        ],
-        "to_test": [
+            "onesettings-hk2.metron.live.com.nsatc.net",
             "onetouchclimax.com",
             "onetruesal.com",
             "oneunmozambique.org",
@@ -25786,6 +25784,7 @@
             "online-job.petrovka.info",
             "online-key.com",
             "online-loan.petrovka.info",
+            "online-locationapple.com",
             "online-mac-alerts.xyz",
             "online-mac-errors.xyz",
             "online-malwarescanner.com",
@@ -26161,8 +26160,9 @@
             "ontario-drugs.biz",
             "onteatgreenones.com",
             "ontheego.info",
-            "ontogax.com",
-            "ontsfe73zy.redswan1.xyz",
+            "ontogax.com"
+        ],
+        "to_test": [
             "onuflud.net",
             "onutsarehealthy.com",
             "onvis.ivwbox.de",
