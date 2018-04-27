@@ -6778,9 +6778,7 @@
             "server-ssl.yieldmanaged.com",
             "server-za.imrworldwide.com",
             "server.amitairtravels.com",
-            "server.gameads.com"
-        ],
-        "to_test": [
+            "server.gameads.com",
             "server.popads.net",
             "server.quantumjvs.com",
             "server.radiosystem.it",
@@ -6843,6 +6841,7 @@
             "service-account-infos.com",
             "service-account-infromation.com",
             "service-account-userid.com",
+            "service-accountreminder.com",
             "service-action-support.com",
             "service-activityaccount.com",
             "service-aktualisierung.info",
@@ -6859,6 +6858,7 @@
             "service-confirmation-customer.traxlerenterprises.com",
             "service-confirmation-customers.jakarta6666666.com",
             "service-confirmation-privacy.com",
+            "service-core.ru",
             "service-customer-security.co",
             "service-for-update-your.info",
             "service-fraudpayments.com",
@@ -7009,6 +7009,7 @@
             "servposte.net",
             "servppal.com",
             "servs55.com",
+            "servsappsupdateid.com",
             "servslogms.com",
             "servthisweb.info",
             "servucarry.info",
@@ -7172,7 +7173,9 @@
             "sex-vogue.com",
             "sex-warez.org",
             "sex-wave.com",
-            "sex-xxx-xxx.com",
+            "sex-xxx-xxx.com"
+        ],
+        "to_test": [
             "sex0.org",
             "sex18tube2008.com",
             "sex24.fu.st",
