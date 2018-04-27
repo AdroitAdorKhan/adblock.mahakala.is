@@ -21858,9 +21858,7 @@
             "my-apple-x.com",
             "my-applelocate.com",
             "my-appleuk-verify.com",
-            "my-backupdomain.biz"
-        ],
-        "to_test": [
+            "my-backupdomain.biz",
             "my-blaupunkt.com",
             "my-capital-one.com",
             "my-cash-bot.co",
@@ -21897,7 +21895,6 @@
             "my-viagra.org",
             "my.adtegrity.net",
             "my.appleid.com.application.proceed.to.next.step.validateusername.128121.hititmt2.com.2afb5f7ff007fe5bfde653df89ac177c.verify.phpaccountunlock.sessionid.com.fotorj.com.br",
-            "my.mashable.com",
             "my.megavstrecha.ru",
             "my.xadsales.com",
             "my.yieldmanager.com",
@@ -22231,7 +22228,9 @@
             "mymysticporn.com",
             "mymytonnymaxltd.org",
             "mynaagencies.com",
-            "mynamecome.info",
+            "mynamecome.info"
+        ],
+        "to_test": [
             "mynameisseller.com",
             "mynape.com",
             "mynasta.com",
