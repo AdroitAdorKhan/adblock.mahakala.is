@@ -12068,9 +12068,7 @@
             "t.admob.com",
             "t.booksuper.info",
             "t.cpmadvisors.com",
-            "t.cttsrv.com"
-        ],
-        "to_test": [
+            "t.cttsrv.com",
             "t.medialytics.com",
             "t.mtagmonetizationa.com",
             "t.mtagmonetizationb.com",
@@ -12246,6 +12244,7 @@
             "takinov.com",
             "takpoh.org",
             "tal48ter.info",
+            "talant-factory.ru",
             "talante.com.br",
             "talented100-writer.xyz",
             "talented102-writer.xyz",
@@ -12274,7 +12273,9 @@
             "talk2logins.com",
             "talk929.com",
             "talkdecimal.com",
-            "talker4speak.com",
+            "talker4speak.com"
+        ],
+        "to_test": [
             "talkns.com",
             "talkpix.hk",
             "talkpull.com",
