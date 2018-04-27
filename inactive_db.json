@@ -7662,9 +7662,7 @@
             "shop.studiodemariage.com",
             "shop.sz-ticketservice.de",
             "shop.tabletennis-online.info",
-            "shop.xz618.com"
-        ],
-        "to_test": [
+            "shop.xz618.com",
             "shop21.be",
             "shop4pictures.co.uk",
             "shop5ping.info",
@@ -7833,6 +7831,7 @@
             "si1020.com",
             "si1onoptical.com",
             "siacperu.com",
+            "sialmassa.com.br",
             "sianne.piranho.net",
             "siarmto-hxi.info",
             "siartech.com",
@@ -7876,7 +7875,9 @@
             "sicherheitskontrolle.ml",
             "sicherheitsstandards-services.com",
             "sicherheitssupport.xyz",
-            "sicherheitssystem-hilfeservice.cf",
+            "sicherheitssystem-hilfeservice.cf"
+        ],
+        "to_test": [
             "sicherheitssystem-sicherheitshilfe.ml",
             "sicherheitssystem-sicherheitshilfe.tk",
             "sicherheitssystem-vorkehrung.ga",
