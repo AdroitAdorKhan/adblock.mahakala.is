@@ -10169,9 +10169,7 @@
             "standrewsgolfgifts.com",
             "standsoliveira.com.br",
             "standtriangle.com",
-            "standwit.com"
-        ],
-        "to_test": [
+            "standwit.com",
             "stankennet.com",
             "stankfeet.com",
             "stanleysflorist.net",
@@ -10246,6 +10244,7 @@
             "startdoil.info",
             "startedwebsite.com",
             "startek.us",
+            "starter-12.com",
             "startfind.info",
             "starthsa.cn",
             "startiop.cn",
@@ -10370,7 +10369,9 @@
             "static.flurry.com",
             "static.goaheadtours.netdna-cdn.com",
             "static.greystripe.com",
-            "static.hitfarm.com",
+            "static.hitfarm.com"
+        ],
+        "to_test": [
             "static.inmobi.com",
             "static.ku6.com",
             "static.l3.cdn.adsucks.com",
