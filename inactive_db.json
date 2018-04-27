@@ -16651,9 +16651,7 @@
             "loanatnotice.com",
             "loanbri.com",
             "loancitycar.com",
-            "loandocument.montearts.com"
-        ],
-        "to_test": [
+            "loandocument.montearts.com",
             "loanforums.biz",
             "loanmusic.info",
             "loanpital.info",
@@ -16676,6 +16674,7 @@
             "localhost-2.com",
             "localhost-loopback.com",
             "localiser-une-portable.com",
+            "localizacaodispositivo-apple.com",
             "localmusicworld.com",
             "localpoker.com.au",
             "localshopusa.com",
@@ -17009,7 +17008,6 @@
             "logmevnmysplace.com",
             "logmeznmysplace.com",
             "logmsn.com",
-            "logn-alibabs.bugs3.com",
             "logo.ifarm.science",
             "logo.naulogistics.com",
             "logobig.info",
@@ -17036,7 +17034,9 @@
             "logsupprobots.co.uk",
             "logur.info",
             "loguser.tw",
-            "logv.xiti.com",
+            "logv.xiti.com"
+        ],
+        "to_test": [
             "lohan-lindsay.com",
             "lohanna.com",
             "loivetrien.com",
