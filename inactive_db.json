@@ -10509,9 +10509,7 @@
             "stats.telegraph.co.uk",
             "stats.truetech.com",
             "stats.tudou.com",
-            "stats.tvmaze.com"
-        ],
-        "to_test": [
+            "stats.tvmaze.com",
             "stats.video.search.yahoo.com",
             "stats.welt.de",
             "stats.wetpaint.com",
@@ -10713,7 +10711,9 @@
             "stocks-bankofamerica.com",
             "stocksonthe.info",
             "stodaun.com",
-            "stodaun.net",
+            "stodaun.net"
+        ],
+        "to_test": [
             "stoinly.net",
             "stoki.be",
             "stokmoney.biz",
