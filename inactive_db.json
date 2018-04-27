@@ -10711,9 +10711,7 @@
             "stocks-bankofamerica.com",
             "stocksonthe.info",
             "stodaun.com",
-            "stodaun.net"
-        ],
-        "to_test": [
+            "stodaun.net",
             "stoinly.net",
             "stoki.be",
             "stokmoney.biz",
@@ -10965,6 +10963,7 @@
             "strip-viewer.com",
             "strip-viewer.net",
             "stripe.solutions",
+            "stripes.solutions",
             "stripesec.com",
             "stripper-massachusetts.com",
             "strippingangels.blocmedia.net",
@@ -10973,6 +10972,7 @@
             "stripviewer.net",
             "stroi-servicenn.ru",
             "stroiminsk.org",
+            "strojdom33.ru",
             "strojegradnja-trpin.com",
             "stroma-kiev.com",
             "strongsmining.com",
@@ -10994,7 +10994,9 @@
             "sts23.com",
             "stscourier-online.com",
             "sttgeorge.com",
-            "stthomasdiocese.org.au",
+            "stthomasdiocese.org.au"
+        ],
+        "to_test": [
             "stthomasschoolbhg.com",
             "stts.rbc.ru",
             "stuartshaines.com",
