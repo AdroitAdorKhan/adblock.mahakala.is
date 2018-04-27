@@ -19140,9 +19140,7 @@
             "mealsandsteals.sandiego6.com",
             "meamtwo.info",
             "mean.allinoneassistant.net",
-            "mean.cellman.info"
-        ],
-        "to_test": [
+            "mean.cellman.info",
             "mean.realgodproof.com",
             "meandafork.com",
             "meanharmony.com",
@@ -19167,6 +19165,7 @@
             "meatthey.net",
             "meattop.com",
             "meawnc.com",
+            "mebel.by.ru.fqwerz.cn",
             "mebel.forlife.ru",
             "mebelmuroma.ru",
             "meble-bogart.info",
@@ -19444,7 +19443,9 @@
             "medicationguide.net",
             "medicationscompany.com",
             "medicinaalternativaa.com",
-            "medicinalherbs.space",
+            "medicinalherbs.space"
+        ],
+        "to_test": [
             "medicinalternativa-ser.com",
             "medicinemartworld.com",
             "medicinenewsearthdirect.info",
