@@ -10994,9 +10994,7 @@
             "sts23.com",
             "stscourier-online.com",
             "sttgeorge.com",
-            "stthomasdiocese.org.au"
-        ],
-        "to_test": [
+            "stthomasdiocese.org.au",
             "stthomasschoolbhg.com",
             "stts.rbc.ru",
             "stuartshaines.com",
@@ -11195,6 +11193,7 @@
             "sulistioco.com",
             "sum4count.net",
             "sumanassociates.net",
+            "sumarryservice-account.com",
             "sumary-limited.com",
             "sumatours.co.id",
             "sumber-tirta.id",
@@ -11207,10 +11206,12 @@
             "summary-cgiupdateaccount.info",
             "summary-my-account.com",
             "summary-system.services",
+            "summary-transactions.com",
             "summary-updates-resolved.com",
             "summary-updatesinfo.com",
             "summaryaccount-resolved.com",
             "summaryaccountaccess.support",
+            "summarycenterrmailsss.com",
             "summarycgi-securepypl.com",
             "summarypic.com",
             "summer-exchange.com",
@@ -11237,7 +11238,9 @@
             "suneastfcusite.com",
             "suneastformcu.com",
             "sungofrylo.eyeappointments.com",
-            "sunguid.com",
+            "sunguid.com"
+        ],
+        "to_test": [
             "sunmoondirect.info",
             "sunny.oewabox.at",
             "sunnydayspainting.com.au",
