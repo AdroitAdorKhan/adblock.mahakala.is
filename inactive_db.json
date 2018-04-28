@@ -18169,9 +18169,7 @@
             "vid.pardot.com",
             "vidaccess.net",
             "vidacuantica.com.ar",
-            "vidat.hk"
-        ],
-        "to_test": [
+            "vidat.hk",
             "vidazweb.com",
             "vidcodec.com",
             "vidcodecs.com",
@@ -18246,7 +18244,6 @@
             "videosoftwareax.com",
             "videospass.net",
             "videostartsnow.com",
-            "videostream.pl",
             "videosywebcams.com",
             "videoterbaru2-2015.3eeweb.com",
             "videotraining4u.com",
@@ -18387,6 +18384,7 @@
             "vip-vistavki.com",
             "vip.jisucn.com",
             "vip.jixing8.com",
+            "vip.yoyozz.net",
             "vip091-tvmt.rhcloud.com",
             "vip1.tw.adserver.yahoo.com",
             "vip2.51.la",
@@ -18404,7 +18402,9 @@
             "vipcasinovip.net",
             "vipcitycasino.net",
             "vipdating.org",
-            "vipedns.com",
+            "vipedns.com"
+        ],
+        "to_test": [
             "viperhacksheaven.com",
             "vipexoticcasino.com",
             "vipexoticgamble.com",
