@@ -23775,9 +23775,7 @@
             "www.malwarrior.com",
             "www.manage-account-center.com",
             "www.manager-help.com",
-            "www.mangoangel.com"
-        ],
-        "to_test": [
+            "www.mangoangel.com",
             "www.market1.the-adult-company.com",
             "www.market2.the-adult-company.com",
             "www.marketing-rewardpath.com",
@@ -23897,7 +23895,6 @@
             "www.myclickbankads.com",
             "www.myconsumerrewards.co.uk",
             "www.myex.com",
-            "www.myforum365.com",
             "www.myfreedinner.com",
             "www.myfreegifts.co.uk",
             "www.myfreemp3player.com",
@@ -23909,7 +23906,9 @@
             "www.mypcalert.online",
             "www.mypillsstore.ru",
             "www.mysmallcock.com",
-            "www.mytoplist.gen.tr",
+            "www.mytoplist.gen.tr"
+        ],
+        "to_test": [
             "www.n-sex.net",
             "www.n44adshostnet.com",
             "www.n61adserv.com",
