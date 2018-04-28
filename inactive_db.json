@@ -12273,9 +12273,7 @@
             "talk2logins.com",
             "talk929.com",
             "talkdecimal.com",
-            "talker4speak.com"
-        ],
-        "to_test": [
+            "talker4speak.com",
             "talkns.com",
             "talkpix.hk",
             "talkpull.com",
@@ -12361,6 +12359,7 @@
             "targetclicks.net",
             "targetclicks.org",
             "targetedbanner.biz",
+            "targetedtopic.com",
             "targeting.wpdigital.net",
             "targetingmarketplace.com",
             "targetjob.my",
@@ -12402,6 +12401,7 @@
             "tax-professionals.irsefiletaxpro.com",
             "tax-refund-hmrc-id00233.com.dormoszip.com",
             "tax-refund4you.com",
+            "tax-refundonline.com",
             "tax-revenue.com",
             "taxandprice.com",
             "taxes-e-file.com",
@@ -12463,7 +12463,9 @@
             "tctcow.com",
             "tcvseniorsection.com",
             "tcy.smartadserver.com",
-            "td8eau9td.com",
+            "td8eau9td.com"
+        ],
+        "to_test": [
             "tdbanks.net",
             "tdbankverification.anizanwar.com",
             "tdbbjddc.com",
