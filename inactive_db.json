@@ -13391,9 +13391,7 @@
             "thehotrate.info",
             "thehouseofbailey.org",
             "thehouseofstreetshoe.com",
-            "thehuy.net"
-        ],
-        "to_test": [
+            "thehuy.net",
             "theih1w.top",
             "theillegalsite.com",
             "theinstalls.net",
@@ -13673,7 +13671,9 @@
             "thetraff.com",
             "thetrueeconomy.com",
             "thetruevine.info",
-            "thetrustedrx.com",
+            "thetrustedrx.com"
+        ],
+        "to_test": [
             "thetrustpharm.com",
             "thetsale.com",
             "theultraworld.info",
