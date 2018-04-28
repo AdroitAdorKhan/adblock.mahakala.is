@@ -14738,9 +14738,7 @@
             "track.promosvc.com",
             "track.promovalue.us",
             "track.propelplus.com",
-            "track.pulse360.com"
-        ],
-        "to_test": [
+            "track.pulse360.com",
             "track.reactionads.com",
             "track.real2come.com",
             "track.revolvermarketing.ru",
@@ -14753,6 +14751,7 @@
             "track.statesend.co.in",
             "track.stromfeldshippingcenters.com",
             "track.svcoffer.com",
+            "track.talarsystems.com",
             "track.the-members-section.com",
             "track.theprovision.net",
             "track.theviralconcept.com",
@@ -14815,6 +14814,7 @@
             "tracker.revip.info",
             "tracker.svcoffer.com",
             "tracker.us-east.zettata.com",
+            "tracker.vreveal.com",
             "tracker.washtimes.com",
             "tracker2.apollo-mail.net",
             "trackers.1st-affiliation.fr",
@@ -14862,6 +14862,7 @@
             "tracking.mvsuite.de",
             "tracking.nuasti.com",
             "tracking.oggifinogi.com",
+            "tracking.one-tracker.de",
             "tracking.opencandy.com",
             "tracking.paymentfindermail.net",
             "tracking.peopletomysite.com",
@@ -14884,7 +14885,9 @@
             "tracking.web2corp.com",
             "tracking.yourfilehost.com",
             "trackmail3345.com",
-            "trackpair.com",
+            "trackpair.com"
+        ],
+        "to_test": [
             "tracksys.developlabs.net",
             "tracktraff.cc",
             "trackvisits.cc",
