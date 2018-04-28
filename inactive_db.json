@@ -24987,9 +24987,7 @@
             "www.whatuwhatuwhatuwant.com",
             "www.whereugetxxx.com",
             "www.whometrics.net",
-            "www.wiclicks.net"
-        ],
-        "to_test": [
+            "www.wiclicks.net",
             "www.wikipediastore.ru",
             "www.wilddreams.info",
             "www.wincleaneras.com",
@@ -25004,7 +25002,6 @@
             "www.wm.banners.sextracker.com",
             "www.wmsonic.com",
             "www.wojnaczolgow.pl",
-            "www.wojownicyzulicy.pl",
             "www.won.images.streamray.com",
             "www.wonderlandads.com",
             "www.wordplaywhiz.com",
@@ -25083,7 +25080,9 @@
             "www.your-gift-zone.com",
             "www.yourautoupdatedinfo.xyz",
             "www.yourfreegascard.com",
-            "www.yourgascards.com",
+            "www.yourgascards.com"
+        ],
+        "to_test": [
             "www.yourhandytips.com",
             "www.yourhealthynewupdates.eu",
             "www.yourhotgiftzone.com",
