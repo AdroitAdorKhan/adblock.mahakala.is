@@ -8947,9 +8947,7 @@
             "amazon-com-elfe.ga",
             "amazon-deineeinkaufswelt.com",
             "amazon-hotline.com",
-            "amazon-locked-account-verifidmember.botania-sky.com"
-        ],
-        "to_test": [
+            "amazon-locked-account-verifidmember.botania-sky.com",
             "amazon-orders-support.com",
             "amazon-prirne.com",
             "amazon-securityalert.com",
@@ -8999,6 +8997,7 @@
             "amazonrewads.ga",
             "amazonsignin.lechertshuber.b00ryv9r20.de",
             "amazonsupport.live",
+            "amazprimedigitalrefferer35.info",
             "amazurtur.com",
             "amazx.org",
             "ambahouseinteriors.in",
@@ -9121,6 +9120,7 @@
             "amisexyornot.co.uk",
             "amistypedurl.com",
             "amitaquatech.com",
+            "amlain.net",
             "ammax-logistics.com",
             "ammedonline.sg",
             "ammmmazonm.temp.swtest.ru",
@@ -9157,7 +9157,9 @@
             "amscdn.btrll.com",
             "amsecs3.net",
             "amsfr.org",
-            "amsrsf.com",
+            "amsrsf.com"
+        ],
+        "to_test": [
             "amsterdamgeckos.com",
             "amstudio.net.in",
             "amtonds.net",
