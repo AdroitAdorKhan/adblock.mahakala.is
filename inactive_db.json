@@ -4798,9 +4798,7 @@
             "ad.cinema-24.online",
             "ad.clicknet.com.tr",
             "ad.clicksmob.com",
-            "ad.co-co-co.co"
-        ],
-        "to_test": [
+            "ad.co-co-co.co",
             "ad.coupontime00.coupontime.co",
             "ad.cpc.unister-gmbh.de",
             "ad.cpvfeed.com",
@@ -4900,6 +4898,7 @@
             "ad.mobiletheory.com",
             "ad.moboqo.com",
             "ad.mobvista.com",
+            "ad.mojiva.com",
             "ad.mopub.com",
             "ad.moscowtimes.ru",
             "ad.mygamesol.com",
@@ -4934,7 +4933,9 @@
             "ad.recursosgratis.com",
             "ad.reduxmediia.com",
             "ad.relatieplanet.nl",
-            "ad.response.jp",
+            "ad.response.jp"
+        ],
+        "to_test": [
             "ad.revmob.com",
             "ad.revmobmobileadetwork.com",
             "ad.revmobmobileadnetwork.com",
