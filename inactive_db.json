@@ -6187,9 +6187,7 @@
             "ads.modbee.com",
             "ads.models.com",
             "ads.mojiva.com",
-            "ads.monster.com"
-        ],
-        "to_test": [
+            "ads.monster.com",
             "ads.morningstar.com",
             "ads.motiveinteractive.com",
             "ads.move.adsonar.com",
@@ -6245,7 +6243,6 @@
             "ads.npr.valueclick.net",
             "ads.ntadvice.com",
             "ads.ntbugtraq.com",
-            "ads.nudecards.com",
             "ads.nwso.net",
             "ads.nyjournalnews.com",
             "ads.nypost.com",
@@ -6357,7 +6354,9 @@
             "ads.savannahnow.com",
             "ads.savvyads.com",
             "ads.saymedia.com",
-            "ads.schwabtrader.com",
+            "ads.schwabtrader.com"
+        ],
+        "to_test": [
             "ads.searchseekfind.com",
             "ads.securebanners.biz",
             "ads.seventynine.mobi",
