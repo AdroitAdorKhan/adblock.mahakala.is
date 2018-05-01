@@ -3789,9 +3789,7 @@
             "a.submityourflicks.com",
             "a.sucksex.com",
             "a.targetingadvertiser.com",
-            "a.tellapart.com"
-        ],
-        "to_test": [
+            "a.tellapart.com",
             "a.tfag.de",
             "a.total-media.net",
             "a.triggit.com",
@@ -3993,7 +3991,9 @@
             "ab513.xyz",
             "abaamro.com",
             "ababaloka.com",
-            "ababeinarms.com",
+            "ababeinarms.com"
+        ],
+        "to_test": [
             "abacoinvestment.net",
             "abadesuiyunhfegunjidans.com",
             "abahussaingroup.com",
