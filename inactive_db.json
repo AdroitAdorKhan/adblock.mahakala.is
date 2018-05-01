@@ -5331,9 +5331,7 @@
             "adipex.ourtablets.com",
             "adipex.t-amo.net",
             "adiq.coupons.com",
-            "adirectbar.com"
-        ],
-        "to_test": [
+            "adirectbar.com",
             "aditforever.me",
             "adj1.thruport.com",
             "adj10.thruport.com",
@@ -5454,6 +5452,7 @@
             "adlog.mobilecore.com",
             "adlog.mobiletheory.com",
             "adlog.mobvista.com",
+            "adlog.mojiva.com",
             "adlog.mopub.com",
             "adlog.motiveinteractive.com",
             "adlog.placeplay.com",
@@ -5504,6 +5503,7 @@
             "admin.akademibekerjadirumah.com",
             "admin.allin1assistant.net",
             "admin.amateurgalls.com",
+            "admin.archivemagno.com",
             "admin.att.mobiliariostore.com",
             "admin.digitalacre.com",
             "admin.fingalcsrnetwork.ie",
@@ -5581,6 +5581,7 @@
             "adn.mobgold.com",
             "adn.mobilecore.com",
             "adn.mobiletheory.com",
+            "adn.mojiva.com",
             "adn.mopub.com",
             "adn.motiveinteractive.com",
             "adn.nsmartad.com",
@@ -5626,7 +5627,9 @@
             "adobur.net",
             "adoburcrv.com",
             "adode.account.ivasistema.com",
-            "adogielawsolutionsgh.com",
+            "adogielawsolutionsgh.com"
+        ],
+        "to_test": [
             "adolbedocs.com",
             "adolfopresidente.com",
             "adolfozplace.com",
