@@ -4933,9 +4933,7 @@
             "ad.recursosgratis.com",
             "ad.reduxmediia.com",
             "ad.relatieplanet.nl",
-            "ad.response.jp"
-        ],
-        "to_test": [
+            "ad.response.jp",
             "ad.revmob.com",
             "ad.revmobmobileadetwork.com",
             "ad.revmobmobileadnetwork.com",
@@ -5056,7 +5054,9 @@
             "ad2.pl.mediainter.net",
             "ad2.sbisec.co.jp",
             "ad2.seznam.cz",
-            "ad2.smni.com",
+            "ad2.smni.com"
+        ],
+        "to_test": [
             "ad2.tr.mediainter.net",
             "ad2.ycasmd.info",
             "ad20.atlas.cz",
