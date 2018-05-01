@@ -10773,9 +10773,7 @@
             "apple-ios1.com",
             "apple-iose.com",
             "apple-iosfid.com",
-            "apple-iosipad.com"
-        ],
-        "to_test": [
+            "apple-iosipad.com",
             "apple-iosto.top",
             "apple-iosv-iphone.com",
             "apple-iosvor.com",
@@ -10875,7 +10873,6 @@
             "apple-service-ltd.com",
             "apple-service-systeam.com",
             "apple-service-visit.com",
-            "apple-service.support",
             "apple-setup-com-asdaslkflsfa.com",
             "apple-sji.com",
             "apple-sjo.com",
@@ -10921,6 +10918,7 @@
             "apple-wap-ios.win",
             "apple-warn-error.info",
             "apple-web-myios.win",
+            "apple-webservices.com",
             "apple-websiteid.com",
             "apple-whet.com",
             "apple-wnie.com",
@@ -11177,6 +11175,7 @@
             "appleld-ios9.com",
             "appleld-kf.com",
             "appleld-onlineservices.com",
+            "appleld.apple.com.t5j2kdkc88dd2m423-verif.info",
             "appleldapple.com",
             "appleldisupport.com",
             "applelid-ios.com",
@@ -11242,6 +11241,7 @@
             "applwk.com",
             "apply-for-a-payday-loan.com",
             "apply-payday.com",
+            "applyexploercard.com",
             "applyforsmiles.com",
             "appmigrate.ru",
             "appmyass.com",
@@ -11278,7 +11278,9 @@
             "apps-recovery-fan-page-2016.2fh.co",
             "apps-webs-42.fulba.com",
             "apps.advertlets.com",
-            "apps.buzzcity.net",
+            "apps.buzzcity.net"
+        ],
+        "to_test": [
             "apps.icloud-idapp1e.com.billing-primary.info",
             "apps.litescronostype.net",
             "apps.lummaernosting.net",
