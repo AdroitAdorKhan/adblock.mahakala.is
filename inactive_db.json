@@ -6753,9 +6753,7 @@
             "adserve.seeqpod.com",
             "adserve.splicetoday.com",
             "adserveonline.biz",
-            "adserver-live.yoc.mobi"
-        ],
-        "to_test": [
+            "adserver-live.yoc.mobi",
             "adserver-static1.iweb.cortica.com",
             "adserver.1.fm",
             "adserver.163.com",
@@ -6809,6 +6807,7 @@
             "adserver.eva2000.com",
             "adserver.expatica.nxs.nl",
             "adserver.ezzhosting.com",
+            "adserver.finditquick.com",
             "adserver.fmpub.net",
             "adserver.fr.adtech.de",
             "adserver.freenet.de",
@@ -6870,6 +6869,7 @@
             "adserver.przone.de",
             "adserver.ratestar.net",
             "adserver.redcpa.es",
+            "adserver.reservoir-blog.com",
             "adserver.revver.com",
             "adserver.sabc.co.za",
             "adserver.sabcnews.co.za",
@@ -6882,6 +6882,7 @@
             "adserver.shizzlehost.com",
             "adserver.singnet.com",
             "adserver.smashtv.com",
+            "adserver.softwareonline.com",
             "adserver.startnow.com",
             "adserver.synergetic.de",
             "adserver.telalink.net",
@@ -6952,7 +6953,9 @@
             "adshare3.freedocast.com",
             "adshem.com",
             "adshufffle.com",
-            "adsimg.t1msn.com.mx",
+            "adsimg.t1msn.com.mx"
+        ],
+        "to_test": [
             "adsinconline.info",
             "adsincontext.com",
             "adsintl.starwave.com",
