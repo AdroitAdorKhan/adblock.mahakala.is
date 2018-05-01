@@ -6953,9 +6953,7 @@
             "adshare3.freedocast.com",
             "adshem.com",
             "adshufffle.com",
-            "adsimg.t1msn.com.mx"
-        ],
-        "to_test": [
+            "adsimg.t1msn.com.mx",
             "adsinconline.info",
             "adsincontext.com",
             "adsintl.starwave.com",
@@ -6976,6 +6974,7 @@
             "adsolution-2016.info",
             "adsor.openrunner.com",
             "adspidernow.info",
+            "adspiro.pl",
             "adsports.co.kr",
             "adspr.haber7.net",
             "adsr3pg.com.br",
@@ -7002,6 +7001,8 @@
             "adstage.ticketmaster.com",
             "adstat.fgsta.com",
             "adstatic.ameba.jp",
+            "adstockrenewables.com",
+            "adstockxplore.com",
             "adstream1.integra.fr",
             "adstreams.org",
             "adstudio.switchboard.com",
@@ -7086,7 +7087,6 @@
             "adult5search.info",
             "adult9films.cn",
             "adultactionvids.com",
-            "adultan.com",
             "adultcashtraffic.com",
             "adultcd.org",
             "adultchatgay.com",
@@ -7150,7 +7150,9 @@
             "adultrull4.net",
             "adultrull5.net",
             "adultrull6.net",
-            "adultseek.info",
+            "adultseek.info"
+        ],
+        "to_test": [
             "adultsexcar.com",
             "adultsexdot.info",
             "adultsexpro.com",
