@@ -5054,9 +5054,7 @@
             "ad2.pl.mediainter.net",
             "ad2.sbisec.co.jp",
             "ad2.seznam.cz",
-            "ad2.smni.com"
-        ],
-        "to_test": [
+            "ad2.smni.com",
             "ad2.tr.mediainter.net",
             "ad2.ycasmd.info",
             "ad20.atlas.cz",
@@ -5118,6 +5116,7 @@
             "ad4mat.mx",
             "ad4mat.nl",
             "ad4mat.no",
+            "ad4mat.pl",
             "ad4mat.ro",
             "ad4mat.ru",
             "ad4mat.tr",
@@ -5163,6 +5162,7 @@
             "adaware.cc",
             "adazplace.com",
             "adbbf-bn.com",
+            "adbcache.brandreachsys.com",
             "adbiz.us",
             "adblockdetect.xyz",
             "adblockerkillswebsites.pw",
@@ -5171,7 +5171,9 @@
             "adbreak.ubeei.com",
             "adbtch.com",
             "adbytes.buzzbytes.net",
-            "adc.stream.moe",
+            "adc.stream.moe"
+        ],
+        "to_test": [
             "adcenter.in2.com",
             "adcenter.mdf.se",
             "adcentral.gtmi.net",
