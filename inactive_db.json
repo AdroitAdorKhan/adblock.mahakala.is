@@ -7150,9 +7150,7 @@
             "adultrull4.net",
             "adultrull5.net",
             "adultrull6.net",
-            "adultseek.info"
-        ],
-        "to_test": [
+            "adultseek.info",
             "adultsexcar.com",
             "adultsexdot.info",
             "adultsexpro.com",
@@ -7208,6 +7206,7 @@
             "advance-security-alert-request-support.info",
             "advance-system-optimisation-critical-controlreport.info",
             "advance-systemalert-error12baca-trojandec.info",
+            "advance.zarca.net",
             "advanceacademyestheticmededu.us",
             "advanceboy.info",
             "advanced-axioms.com",
@@ -7311,7 +7310,9 @@
             "advocacywe.com",
             "advocatemsk.ru",
             "advokat-grodno.com",
-            "advsetup.biz",
+            "advsetup.biz"
+        ],
+        "to_test": [
             "advtools.rcsobjects.it",
             "advtraff.biz",
             "advtravelsearch.com",
