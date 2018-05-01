@@ -7310,9 +7310,7 @@
             "advocacywe.com",
             "advocatemsk.ru",
             "advokat-grodno.com",
-            "advsetup.biz"
-        ],
-        "to_test": [
+            "advsetup.biz",
             "advtools.rcsobjects.it",
             "advtraff.biz",
             "advtravelsearch.com",
@@ -7494,7 +7492,9 @@
             "affiliatesys.interwetten.it",
             "affiliati.cellulare.net",
             "affiliation.comweb.fr",
-            "affiliation.fotovista.com",
+            "affiliation.fotovista.com"
+        ],
+        "to_test": [
             "affilies.ibazar.fr",
             "affilijack.luminea.de",
             "affimax.de",
