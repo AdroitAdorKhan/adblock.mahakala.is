@@ -6354,9 +6354,7 @@
             "ads.savannahnow.com",
             "ads.savvyads.com",
             "ads.saymedia.com",
-            "ads.schwabtrader.com"
-        ],
-        "to_test": [
+            "ads.schwabtrader.com",
             "ads.searchseekfind.com",
             "ads.securebanners.biz",
             "ads.seventynine.mobi",
@@ -6408,6 +6406,7 @@
             "ads.t-kom.com",
             "ads.tapfortap.com",
             "ads.tapjoy.com",
+            "ads.taptapnetworks.com",
             "ads.targetix.net",
             "ads.tarjetasnico.com",
             "ads.tbs.com",
@@ -6471,6 +6470,7 @@
             "ads.verkata.com",
             "ads.vesperexchange.com",
             "ads.vg.basefarm.net",
+            "ads.victoriaadvocate.com",
             "ads.viddler.com",
             "ads.videoaxs.com",
             "ads.videobash.com",
@@ -6522,7 +6522,9 @@
             "ads.xboxic.com",
             "ads.xflogger.com",
             "ads.xposed.com",
-            "ads.xserv.net",
+            "ads.xserv.net"
+        ],
+        "to_test": [
             "ads.xtramsn.co.nz",
             "ads.xxxfair.com",
             "ads.yashi.com",
