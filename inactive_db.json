@@ -9982,9 +9982,7 @@
             "anugrahabadi.co.id",
             "anunah.com",
             "anunciatucasa.info",
-            "anunturi.anatech.ro"
-        ],
-        "to_test": [
+            "anunturi.anatech.ro",
             "anuoluwa.info",
             "anurizum.com",
             "anusblast.com",
@@ -10444,7 +10442,9 @@
             "api.flashnetworks.com",
             "api.flicktweets.com",
             "api.geosrv.info",
-            "api.hexagram.com",
+            "api.hexagram.com"
+        ],
+        "to_test": [
             "api.indemandapi.com",
             "api.instantdollarz.com",
             "api.interstateanalytics.com",
