@@ -5828,9 +5828,7 @@
             "ads.blitz.bg",
             "ads.bloggingclicks.com",
             "ads.blp.calueclick.net",
-            "ads.blp.valueclick.net"
-        ],
-        "to_test": [
+            "ads.blp.valueclick.net",
             "ads.bluemountain.nl",
             "ads.bmais.net",
             "ads.bolt.com",
@@ -5853,6 +5851,7 @@
             "ads.camfuze.com",
             "ads.cardea.se",
             "ads.cardplayer.com",
+            "ads.carltononline.com",
             "ads.carrieriq.com",
             "ads.cartoonnetwork.com",
             "ads.casee.cn",
@@ -5861,6 +5860,7 @@
             "ads.cauly.co.kr",
             "ads.cdfreaks.com",
             "ads.cdnow.com",
+            "ads.centerstage.net",
             "ads.cgi.enthusiastonline.com",
             "ads.chalomumbai.com",
             "ads.chartbeat.com",
@@ -5987,7 +5987,9 @@
             "ads.fmwinc.com",
             "ads.football24.bg",
             "ads.football365.com",
-            "ads.forodecostarica.com",
+            "ads.forodecostarica.com"
+        ],
+        "to_test": [
             "ads.fortunecity.fr",
             "ads.foxhome.com",
             "ads.foxkidseurope.net",
