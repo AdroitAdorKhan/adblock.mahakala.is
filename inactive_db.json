@@ -11278,9 +11278,7 @@
             "apps-recovery-fan-page-2016.2fh.co",
             "apps-webs-42.fulba.com",
             "apps.advertlets.com",
-            "apps.buzzcity.net"
-        ],
-        "to_test": [
+            "apps.buzzcity.net",
             "apps.icloud-idapp1e.com.billing-primary.info",
             "apps.litescronostype.net",
             "apps.lummaernosting.net",
@@ -11325,6 +11323,8 @@
             "aprowerb.de",
             "apsaupport.com",
             "apteka91.com",
+            "aptget-update.com",
+            "aptget-update.net",
             "aptgongjang.info",
             "aptinbuilders.com",
             "aptinccorp.info",
@@ -11367,6 +11367,7 @@
             "arabhell.net",
             "arabialoveseats.info",
             "arabianart-alumunium.com",
+            "arabianbridge.com.sa",
             "arabic-x.com",
             "arabicfoodexpress.com",
             "arabmedical.com.eg",
@@ -11463,7 +11464,9 @@
             "areasex.biz",
             "areaslimpias.com.mx",
             "areattzar.com",
-            "areghathdd.tk",
+            "areghathdd.tk"
+        ],
+        "to_test": [
             "arekon.info",
             "arena-79.tk",
             "arena-xxx.com",
