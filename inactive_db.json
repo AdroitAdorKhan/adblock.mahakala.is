@@ -13291,9 +13291,7 @@
             "bankruptcy-police.com",
             "banks-money.com",
             "bankscotland.org.uk",
-            "banksettings.net"
-        ],
-        "to_test": [
+            "banksettings.net",
             "banktimes.net",
             "bankupdate.net",
             "bankupdate.su",
@@ -13384,7 +13382,6 @@
             "banners.apnuk.com",
             "banners.babylon-boy.com",
             "banners.babylon-x.org",
-            "banners.bebadasousadas.com",
             "banners.beted.com",
             "banners.bige.com",
             "banners.blogexplosion.com",
@@ -13420,7 +13417,9 @@
             "banners.krsk.ru",
             "banners.lifeserv.com",
             "banners.looksmart.com",
-            "banners.mobilesidewalk.com",
+            "banners.mobilesidewalk.com"
+        ],
+        "to_test": [
             "banners.moviesunlimited.com",
             "banners.mymedia.bg",
             "banners.netcraft.com",
