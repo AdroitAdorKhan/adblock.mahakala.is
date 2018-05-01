@@ -13417,9 +13417,7 @@
             "banners.krsk.ru",
             "banners.lifeserv.com",
             "banners.looksmart.com",
-            "banners.mobilesidewalk.com"
-        ],
-        "to_test": [
+            "banners.mobilesidewalk.com",
             "banners.moviesunlimited.com",
             "banners.mymedia.bg",
             "banners.netcraft.com",
@@ -13546,7 +13544,6 @@
             "bari3ow.hk",
             "bariit3.ch",
             "bariit3.li",
-            "barisul.com",
             "barjhxoye.info",
             "bark.synricha.org",
             "barkodeonline.info",
@@ -13607,7 +13604,9 @@
             "basket.sitewithla.com",
             "basketball-uniforms.info",
             "basketduniya.com",
-            "basketsetcetera.com",
+            "basketsetcetera.com"
+        ],
+        "to_test": [
             "basketsexotica.com",
             "baskinsteal.info",
             "basorp.com",
