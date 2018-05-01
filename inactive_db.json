@@ -5987,9 +5987,7 @@
             "ads.fmwinc.com",
             "ads.football24.bg",
             "ads.football365.com",
-            "ads.forodecostarica.com"
-        ],
-        "to_test": [
+            "ads.forodecostarica.com",
             "ads.fortunecity.fr",
             "ads.foxhome.com",
             "ads.foxkidseurope.net",
@@ -6096,7 +6094,6 @@
             "ads.iqweb.de",
             "ads.ireport.com",
             "ads.isum.de",
-            "ads.itabelanews.net",
             "ads.ivillage.com",
             "ads.iweb.cortica.com",
             "ads.jacksonville.com",
@@ -6181,12 +6178,18 @@
             "ads.mobidea.com",
             "ads.mobilecore.com",
             "ads.mobiledia.com",
+            "ads.mobilefuse.net",
             "ads.mobiletheory.com",
             "ads.mobvista.com",
             "ads.mobygames.com",
+            "ads.mocean.mobi",
+            "ads.moceanads.com",
             "ads.modbee.com",
             "ads.models.com",
-            "ads.monster.com",
+            "ads.mojiva.com",
+            "ads.monster.com"
+        ],
+        "to_test": [
             "ads.morningstar.com",
             "ads.motiveinteractive.com",
             "ads.move.adsonar.com",
