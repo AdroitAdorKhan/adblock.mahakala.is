@@ -5627,9 +5627,7 @@
             "adobur.net",
             "adoburcrv.com",
             "adode.account.ivasistema.com",
-            "adogielawsolutionsgh.com"
-        ],
-        "to_test": [
+            "adogielawsolutionsgh.com",
             "adolbedocs.com",
             "adolfopresidente.com",
             "adolfozplace.com",
@@ -5654,9 +5652,7 @@
             "adoutfer.net",
             "adowoun.com",
             "adp-projects.org.uk",
-            "adp.cnool.net",
             "adp.joins.com",
-            "adp1.cnool.net",
             "adpick.switchboard.com",
             "adplay.tudou.com",
             "adplus.goo.mx",
@@ -5677,6 +5673,7 @@
             "adremote.timeinc.aol.com",
             "adremote.timeinc.net",
             "adremovergold.com",
+            "adrenalin-stk.ru",
             "adrenallin.ir",
             "adrenalline.in",
             "adress.flamingsavings.com",
@@ -5764,6 +5761,7 @@
             "ads.adtekmedia.com",
             "ads.adultadvertising.net",
             "ads.adultswim.com",
+            "ads.advance.uk.com",
             "ads.advolume.com",
             "ads.adwhirl.com",
             "ads.adwitserver.com",
@@ -5830,7 +5828,9 @@
             "ads.blitz.bg",
             "ads.bloggingclicks.com",
             "ads.blp.calueclick.net",
-            "ads.blp.valueclick.net",
+            "ads.blp.valueclick.net"
+        ],
+        "to_test": [
             "ads.bluemountain.nl",
             "ads.bmais.net",
             "ads.bolt.com",
