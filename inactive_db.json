@@ -12340,9 +12340,7 @@
             "autcontrol.ir",
             "autenticacao-digital-bb.com.br",
             "auth-account-service.com",
-            "auth-accountlogin.com"
-        ],
-        "to_test": [
+            "auth-accountlogin.com",
             "auth-bedachungen.de",
             "auth-ebay.net",
             "auth-helpcenter.com",
@@ -12442,7 +12440,6 @@
             "av-xp08.net",
             "av-xp2008.com",
             "av-xp2008.net",
-            "av17oja512.redbear1.xyz",
             "av2008dl.com",
             "av2010.net",
             "av45t10oixo.info",
@@ -12504,6 +12501,7 @@
             "avoid-depression.com",
             "avoiddrop.info",
             "avoidresult.info",
+            "avonindustries.in",
             "avonseniorcare.com",
             "avotecs.com",
             "avpcheckupdate.com",
@@ -12556,7 +12554,9 @@
             "avtoshkola.696759.ru",
             "avtthompson.biz",
             "avupdates.cn",
-            "avustettaviaindividualiseront.findyourcarsd.com",
+            "avustettaviaindividualiseront.findyourcarsd.com"
+        ],
+        "to_test": [
             "avvocatipenalistirimini.net",
             "avx08.com",
             "avx08.net",
