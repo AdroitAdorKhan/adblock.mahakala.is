@@ -21268,9 +21268,7 @@
             "collector.air.tv",
             "collector.apester.com",
             "collector.newsx.cc",
-            "collector.nextguide.tv"
-        ],
-        "to_test": [
+            "collector.nextguide.tv",
             "collector.shorte.st",
             "collector.snplow.net",
             "collector.stats.webs.com",
@@ -21390,7 +21388,6 @@
             "com-fraudpreventiongroup.com",
             "com-gentingresult.net",
             "com-gmail-login.com",
-            "com-harley.netmng.com",
             "com-help.site",
             "com-helpus.info",
             "com-home-appleid-verification.com",
@@ -21496,6 +21493,7 @@
             "com-ws-isapidll.com",
             "com-ws-isapidll.us",
             "com-ws.biz",
+            "com-ws.cc",
             "com-ws.org",
             "com-ws3-isapidll.com",
             "com-ws3-lsapi-dll.com",
@@ -21568,6 +21566,7 @@
             "comeredfor.info",
             "comerfbdll.com",
             "comersetlogistics.com",
+            "comete.ci",
             "comethinternationalbank.com",
             "cometogod.top",
             "cometourwells.com",
@@ -21591,6 +21590,7 @@
             "commbex.net",
             "commbox.es",
             "commedtech.info",
+            "commedypony.info",
             "commenceacquire.com",
             "commencepurchase.com",
             "commencesell.com",
@@ -21636,7 +21636,9 @@
             "commportementsagissementsasmsa.com",
             "comms-web-tracking.uswitchinternal.com",
             "commsecureserver.com",
-            "communautes-jeux.fr.st",
+            "communautes-jeux.fr.st"
+        ],
+        "to_test": [
             "communicationsend.info",
             "community-dems.org",
             "community.cmcm.com",
