@@ -2995,9 +2995,7 @@
             "fondation-djenikobina.org",
             "fondopatrimonial.com",
             "fondos.paraelpc.com",
-            "fone4d.com"
-        ],
-        "to_test": [
+            "fone4d.com",
             "fontanilleq.com",
             "fonteay.com",
             "foo6bordelsonthenet.info",
@@ -3313,8 +3311,11 @@
             "forum.like108.com",
             "forum.milkstreet.in",
             "forum.minimol-techomusik.in",
+            "forum.mittnamn.nu",
             "forum.ophilia.com",
-            "forum.rotator.hadj7.adjuggler.net",
+            "forum.rotator.hadj7.adjuggler.net"
+        ],
+        "to_test": [
             "forum.scanlover.com",
             "forum.sevkavstrreet.in",
             "forum.soldaten.ca",
