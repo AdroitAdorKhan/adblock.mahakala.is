@@ -16595,9 +16595,7 @@
             "bt1music.netgemplatform.co.uk",
             "bt2media.com",
             "btcbroker.biz",
-            "btchot.biz"
-        ],
-        "to_test": [
+            "btchot.biz",
             "btcseeder.com",
             "btcspace.tech",
             "btcstrategy.biz",
@@ -16656,8 +16654,6 @@
             "buddylites.com",
             "budgettravelalaska.info",
             "budicc.com",
-            "budom.eu",
-            "budom.wroclaw.pl",
             "budppsh.com",
             "budvjetx.com",
             "buecher-edelmann.de",
@@ -16677,7 +16673,6 @@
             "buggerd.com",
             "bugine.com",
             "bugof.gq",
-            "bugprogeogd.pl",
             "bugrackit.com",
             "bugrays.com",
             "bugsdestroyer.com",
@@ -16799,7 +16794,9 @@
             "business-gap.net",
             "business-in-bangladesh.com",
             "business-rewardpath.com",
-            "business-verify.com",
+            "business-verify.com"
+        ],
+        "to_test": [
             "business2quick.info",
             "business32.xyz",
             "businessaires.com",
