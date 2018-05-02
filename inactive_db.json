@@ -5989,9 +5989,7 @@
             "giddin.mipa.cl",
             "gidran.net",
             "gie8aic.top",
-            "gif.hitexchange.net"
-        ],
-        "to_test": [
+            "gif.hitexchange.net",
             "gifecnt.com",
             "gifof.at",
             "gift-4542.limitedusers.net",
@@ -6035,7 +6033,6 @@
             "gigawaveusa.com",
             "gigaz.info",
             "giggagdirect.info",
-            "gigup.pl",
             "gigutu.com",
             "gigya.com.invalid",
             "gihealht.com",
@@ -6069,11 +6066,11 @@
             "ginnerter.com",
             "ginoska.com",
             "ginsvnj.com",
-            "giocagiochi.it",
             "giochi-flash.org",
             "giocoreale.com",
             "gioodway.com",
             "giorgiotulelli.altervista.org",
+            "giorgostsaousis.com",
             "giotsa.com",
             "gioventuvital.com",
             "giower.ch",
@@ -6212,7 +6209,9 @@
             "glenatmer.com",
             "glenatmontagne.com",
             "glennazplace.com",
-            "glennonstart.com",
+            "glennonstart.com"
+        ],
+        "to_test": [
             "glenowekids.urbanpro.cl",
             "glide-slope.com",
             "glintvee.biz",
