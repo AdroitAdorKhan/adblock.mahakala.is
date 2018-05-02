@@ -17605,9 +17605,7 @@
             "camethank.com",
             "cameup.net",
             "camevisit.com",
-            "camillezplace.com"
-        ],
-        "to_test": [
+            "camillezplace.com",
             "caminhodocristo.com.br",
             "caminixws.com",
             "camirnetruryeefyeiie.net",
@@ -17704,7 +17702,6 @@
             "canadianqualityproduct.com",
             "canadians-drugstore.com",
             "canadians-health.com",
-            "canadianworldpharmacy.com",
             "canaktavla.com",
             "canastasmexicanas.com",
             "canbct.com",
@@ -17780,6 +17777,7 @@
             "capdiendavico.vn",
             "capecodbears.com",
             "capev-ven.com",
+            "caphyon-analytics.com",
             "capita-accverif.us",
             "capita1oneonline.com",
             "capital-job.org",
@@ -17846,7 +17844,9 @@
             "caraudiostore.net",
             "carazplace.com",
             "carbon-group.pl",
-            "carbonartstudio.ru",
+            "carbonartstudio.ru"
+        ],
+        "to_test": [
             "carbudp.com",
             "carcleancarneat.com",
             "card-craps.info",
