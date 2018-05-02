@@ -20327,9 +20327,7 @@
             "clickstatsview.new2007casinobonus.com",
             "clickstream.loomia.com",
             "clickstrip.6wav.es",
-            "clicksuite.net"
-        ],
-        "to_test": [
+            "clicksuite.net",
             "clicktale.pantherssl.com",
             "clicktalecdn.sslcs.cdngc.net",
             "clicktheguide.info",
@@ -20565,7 +20563,9 @@
             "cluster6.sexhound.com",
             "cluster7.sexhound.com",
             "cluster8.sexhound.com",
-            "cluster9.sexhound.com",
+            "cluster9.sexhound.com"
+        ],
+        "to_test": [
             "clutgedyna.com",
             "clutgedyna.info",
             "clvcnt.com",
