@@ -2809,9 +2809,7 @@
             "floreplan.com.br",
             "florerio.com.br",
             "florestasat.com.br",
-            "flori-net.com"
-        ],
-        "to_test": [
+            "flori-net.com",
             "floriculturaflorecia.com.br",
             "floridacollworld.info",
             "floridadegrees.com",
@@ -2997,7 +2995,9 @@
             "fondation-djenikobina.org",
             "fondopatrimonial.com",
             "fondos.paraelpc.com",
-            "fone4d.com",
+            "fone4d.com"
+        ],
+        "to_test": [
             "fontanilleq.com",
             "fonteay.com",
             "foo6bordelsonthenet.info",
