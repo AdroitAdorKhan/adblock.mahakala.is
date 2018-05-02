@@ -20563,9 +20563,7 @@
             "cluster6.sexhound.com",
             "cluster7.sexhound.com",
             "cluster8.sexhound.com",
-            "cluster9.sexhound.com"
-        ],
-        "to_test": [
+            "cluster9.sexhound.com",
             "clutgedyna.com",
             "clutgedyna.info",
             "clvcnt.com",
@@ -21013,8 +21011,8 @@
             "cmpp.com.au",
             "cmpsmarter-downloader.maynemyltf.netdna-cdn.com",
             "cmreqtmp03wt.info",
-            "CMRpolice.com",
             "cmrpolice.com",
+            "CMRpolice.com",
             "cmrpunto.raya.cl",
             "cms.egsys.net",
             "cmservice-login.com",
@@ -21067,6 +21065,7 @@
             "cnnsisports.com",
             "cnnwarnews.com",
             "cnnworld.org",
+            "cnovoacesslogon.com",
             "cnp30uhja-askoeiu-khb747bjg324yu.cbiewoplerats.in",
             "cnraido.com",
             "cnruhef.com",
@@ -21084,7 +21083,9 @@
             "cnx7ax.iudasitebuildng.net",
             "cnxiguayb.cn",
             "cnybusinessguide.com",
-            "cnzuma.cn",
+            "cnzuma.cn"
+        ],
+        "to_test": [
             "co-search.com",
             "co.5.p2l.info",
             "co.dcclan.co.uk",
