@@ -15599,9 +15599,7 @@
             "blogdeminijuegos.com",
             "blogectr.com",
             "blogiandoenelmundo.info",
-            "blogjop.com"
-        ],
-        "to_test": [
+            "blogjop.com",
             "bloglfux.com",
             "blogonat.com",
             "blogonur.com",
@@ -15678,7 +15676,6 @@
             "bluemountebank.com",
             "bluenightstudios.com",
             "bluenoe.com",
-            "bluepasaz.pl",
             "bluepillsonline.biz",
             "bluepillsonline.info",
             "bluepillsonline.org",
@@ -15723,6 +15720,7 @@
             "bmnewingdk.com",
             "bmo-accountlogin.com",
             "bmo-accountsecurity.com",
+            "bmo1-onlineverification.com",
             "bmorealestate.com.ng",
             "bmosecurity.net",
             "bmsgmbh.cn",
@@ -15753,6 +15751,7 @@
             "bnigcketn.com",
             "bniyime.com",
             "bnjhx.eu",
+            "bnk-ubs.com",
             "bnk.st",
             "bnk3.co.uk",
             "bnk45.us",
@@ -15800,7 +15799,9 @@
             "boahellozzz.com",
             "boakrungsrionline.com",
             "board-books.com",
-            "boardbox.ru",
+            "boardbox.ru"
+        ],
+        "to_test": [
             "boardgameman.com",
             "boardofsearching.com",
             "boardstiff.net",
