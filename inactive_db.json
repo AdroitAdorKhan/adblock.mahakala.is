@@ -23508,9 +23508,7 @@
             "d-ssl.ustream.tv",
             "d-stanley.net",
             "d-vy.info",
-            "d.101m3.com"
-        ],
-        "to_test": [
+            "d.101m3.com",
             "d.86fm.com",
             "d.a1comm.co.kr",
             "d.admob.com",
@@ -23526,6 +23524,7 @@
             "d.datajunction.org",
             "d.gossipcenter.com",
             "d.hottraffic.com",
+            "d.jazzedcdn.com",
             "d.m3.net",
             "d.neodatagroup.com",
             "d.phormlabs.com",
@@ -23540,6 +23539,7 @@
             "d08r.cn",
             "d0d0n0.info",
             "d0f50129.com",
+            "d0r.info",
             "d0rnk.com",
             "d1.openx.org",
             "d1.windows8downloads.com",
@@ -23756,6 +23756,7 @@
             "dadony.com",
             "dadossolicitado-antendimento.sad879.mobi",
             "dads.new.digg.com",
+            "dadscan.org",
             "dadwish.com",
             "daebaek.co.kr",
             "daehaegroup.com",
@@ -23776,7 +23777,9 @@
             "dahtic.nasikuninglamongan.co.id",
             "daiffemapeal.cn",
             "daiichi-engei.co.jp",
-            "daikiyugenfiopink.com",
+            "daikiyugenfiopink.com"
+        ],
+        "to_test": [
             "daily-gals.com",
             "daily-sexxx.com",
             "daily-virgins.com",
