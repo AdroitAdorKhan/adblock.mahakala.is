@@ -28849,9 +28849,7 @@
             "enorthtexas.com",
             "enorthtradecapsulesguide.com",
             "enorthtradepharm.com",
-            "enorthtrustedpharm.com"
-        ],
-        "to_test": [
+            "enorthtrustedpharm.com",
             "enoughking.com",
             "enoughmaterial.com",
             "enoughpony.club",
@@ -29095,7 +29093,9 @@
             "erodshop.info",
             "eroland.info",
             "erolibrary.net",
-            "eronmops.net",
+            "eronmops.net"
+        ],
+        "to_test": [
             "eroov.iptvdeals.com",
             "eropeansafetyinfo.com",
             "eropt.cn",
