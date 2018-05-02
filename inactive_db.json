@@ -25686,9 +25686,7 @@
             "djugoogs.com",
             "djxflqluigoblmqd.biz",
             "djxmmh.xinhua800.cn",
-            "dk-forhandler.dk"
-        ],
-        "to_test": [
+            "dk-forhandler.dk",
             "dkabg-vhiot.info",
             "dkd69bwkvrht1.cloudfront.net",
             "dkdwv3lcby5zi.cloudfront.net",
@@ -25710,6 +25708,7 @@
             "dl-plugin.com",
             "dl.admon.cn",
             "dl.bzgthg.com",
+            "dl.ezthemes.com",
             "dl.futureus.com",
             "dl.goreald.net",
             "dl.microsword.net",
@@ -25718,6 +25717,7 @@
             "dl.webprodcdn.com",
             "dl.yizhan123.com",
             "dl01.socdn.com",
+            "dl1.ezthemes.com",
             "dl232.org",
             "dl251.com",
             "dl392qndlveq0.cloudfront.net",
@@ -25939,6 +25939,7 @@
             "dmzjs.net",
             "dmzreg.com",
             "dn.binsetup.com",
+            "dn3.ixinwei.com",
             "dna1.mookie1.com",
             "dna3.mookie1.com",
             "dnaofsuccess.net",
@@ -25972,7 +25973,9 @@
             "dns-cx.com",
             "dns-eye.com",
             "dns-free4alll.com",
-            "dns-in1.com",
+            "dns-in1.com"
+        ],
+        "to_test": [
             "dns-mex1.com",
             "dns-my.com",
             "dns-provider.de",
