@@ -5396,9 +5396,7 @@
             "geilegaysex.nl",
             "geilejongetieners.nl",
             "geilenegers.nl",
-            "geileweiber.tk"
-        ],
-        "to_test": [
+            "geileweiber.tk",
             "gejaneu.com",
             "gejeonv.com",
             "gekboy.com",
@@ -5440,6 +5438,7 @@
             "generateminecraft.com",
             "generateskey.com",
             "generateur-de-code-psn.com",
+            "generateur-de-dofus.com",
             "generateur-de-psn.com",
             "generateur-starpass.com",
             "generateurdecartebancaire.com",
@@ -5553,6 +5552,7 @@
             "geo.perezhilton.com",
             "geo.play.it",
             "geo.precisionclick.com",
+            "geo.vantage-media.net",
             "geoads.osdn.com",
             "geobind.net",
             "geobrim.com",
@@ -5602,6 +5602,7 @@
             "gertikngandefunjins.com",
             "geschenkideen-doris.ch",
             "geschenkkarten-geschenkgutscheinen-online.deaftone.com",
+            "gespensterwelt.de",
             "gessol.com.pe",
             "gestionnaire-stephanie.coxslot.com",
             "gestrauchelte-mesiopul.retweetdoctor.com",
@@ -5684,7 +5685,9 @@
             "getdetails02.sim-technik.de",
             "getdeways-motly.com",
             "getdirectpharm.com",
-            "getdirectpill.com",
+            "getdirectpill.com"
+        ],
+        "to_test": [
             "getedsa.com",
             "geteens.com",
             "getego.suroot.com",
