@@ -21083,9 +21083,7 @@
             "cnx7ax.iudasitebuildng.net",
             "cnxiguayb.cn",
             "cnybusinessguide.com",
-            "cnzuma.cn"
-        ],
-        "to_test": [
+            "cnzuma.cn",
             "co-search.com",
             "co.5.p2l.info",
             "co.dcclan.co.uk",
@@ -21270,7 +21268,9 @@
             "collector.air.tv",
             "collector.apester.com",
             "collector.newsx.cc",
-            "collector.nextguide.tv",
+            "collector.nextguide.tv"
+        ],
+        "to_test": [
             "collector.shorte.st",
             "collector.snplow.net",
             "collector.stats.webs.com",
