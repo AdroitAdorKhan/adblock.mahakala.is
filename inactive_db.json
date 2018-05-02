@@ -18786,9 +18786,7 @@
             "centeradult.com",
             "centeraspiration.com",
             "centerbak.com",
-            "centerkras-tv.biz"
-        ],
-        "to_test": [
+            "centerkras-tv.biz",
             "centerkras-tv.info",
             "centerkras-tv.name",
             "centerkras-tv.tv",
@@ -19042,6 +19040,7 @@
             "cgi-rn.com",
             "cgi-rp.com",
             "cgi-ru.com",
+            "cgi-safetyredirecting.com",
             "cgi-secure-paypal.com",
             "cgi-secure-root.com",
             "cgi-secure.net",
@@ -19187,7 +19186,9 @@
             "changdaeng.com",
             "changduk26.com",
             "change-recovery-access.com",
-            "change.gowhitetigers.com",
+            "change.gowhitetigers.com"
+        ],
+        "to_test": [
             "changeclearmall.com",
             "changecompare.com",
             "changecopy.com",
