@@ -4866,9 +4866,7 @@
             "game4all.biz",
             "game4stars.com",
             "game4stars.net",
-            "game4user.net"
-        ],
-        "to_test": [
+            "game4user.net",
             "gameaitne.com",
             "gameandaddons.com",
             "gameappcheat.com",
@@ -4927,7 +4925,6 @@
             "gamepuma.net",
             "gamer-tube.fr",
             "gameraidz.org",
-            "gamercheatscode.com",
             "gameroyalz.biz",
             "gameroyalz.com",
             "gameroyalz.info",
@@ -4958,6 +4955,7 @@
             "games.downloads.nl",
             "games.easythumbhost.com",
             "games.erdener.org",
+            "games.frogcast.com",
             "games.graphit.lu",
             "games.hqpsy.com",
             "games.itopsites.com",
@@ -4994,7 +4992,9 @@
             "gamescrusher.net",
             "gamescubeworld.com",
             "gamesdownloadsonline.com",
-            "gamesedicas.com.br",
+            "gamesedicas.com.br"
+        ],
+        "to_test": [
             "gamesevideogames.com.br",
             "gamesextension.net",
             "gamesextensions4u.com",
