@@ -22452,9 +22452,7 @@
             "coximnews.com",
             "coycerca.com",
             "coywellin.com",
-            "cp-kuenstlerbedarf.de"
-        ],
-        "to_test": [
+            "cp-kuenstlerbedarf.de",
             "cp.abbp1.website",
             "cp.pleasedontslaymy.download",
             "cp.promoisland.net",
@@ -22602,7 +22600,6 @@
             "crapsother.info",
             "crapssic-bo.info",
             "crapstreatment.info",
-            "crash-147c2al.pw",
             "crash-packet.net",
             "crash.inlandempirebellydancer.net",
             "crashes.autodanger.ru",
@@ -22690,7 +22687,9 @@
             "creative.whi.co.nz",
             "creativecentral.advertising.com",
             "creativecommercialsolutions.com.au",
-            "creativegiftsgalore.net",
+            "creativegiftsgalore.net"
+        ],
+        "to_test": [
             "creatives.summitconnect.co.uk",
             "creatonprojects.com",
             "creatonsoft.com",
