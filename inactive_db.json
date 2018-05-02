@@ -25973,9 +25973,7 @@
             "dns-cx.com",
             "dns-eye.com",
             "dns-free4alll.com",
-            "dns-in1.com"
-        ],
-        "to_test": [
+            "dns-in1.com",
             "dns-mex1.com",
             "dns-my.com",
             "dns-provider.de",
@@ -26193,6 +26191,8 @@
             "doladowanie-za-darmo.pl",
             "doladowanie.02k.pl",
             "doladowanie.as9.pl",
+            "doladowanie.zx8.pl",
+            "doladowanie365.pl",
             "doladowanko.com",
             "doladuj-50zl-promocja.pl",
             "doladuj-5gb-lte.pl",
@@ -26243,7 +26243,9 @@
             "domaindoner3.net",
             "domaindoner4.net",
             "domaindoner5.net",
-            "domaindoner6.net",
+            "domaindoner6.net"
+        ],
+        "to_test": [
             "domainquick.info",
             "domainreg01.com",
             "domains2003.net",
