@@ -4992,9 +4992,7 @@
             "gamescrusher.net",
             "gamescubeworld.com",
             "gamesdownloadsonline.com",
-            "gamesedicas.com.br"
-        ],
-        "to_test": [
+            "gamesedicas.com.br",
             "gamesevideogames.com.br",
             "gamesextension.net",
             "gamesextensions4u.com",
@@ -5037,7 +5035,6 @@
             "gametopia.nl",
             "gametray.net",
             "gametweek.net",
-            "gameurai.com",
             "gameusaonlinepoker.com",
             "gamevod.tw",
             "gamextensions.org",
@@ -5178,7 +5175,9 @@
             "gather.hankyung.com",
             "gatherborrow.net",
             "gathercontain.com",
-            "gatherfirst.com",
+            "gatherfirst.com"
+        ],
+        "to_test": [
             "gathermouth.com",
             "gathernature.net",
             "gattkerlace.xyz",
