@@ -17193,9 +17193,7 @@
             "bxznn.net",
             "by-bank.com",
             "by-bank.net",
-            "by-ix.info"
-        ],
-        "to_test": [
+            "by-ix.info",
             "by300.info",
             "by5f.com",
             "byareview-document.pdf-iso.webapps-security.review-2jk39w92.ab5nights.com",
@@ -17243,6 +17241,7 @@
             "c.4006777009.com",
             "c.91wan.com",
             "c.adforgeinc.com",
+            "c.ads.com",
             "c.adverpages.com",
             "c.allegrostatic.pl",
             "c.am10.ru",
@@ -17251,6 +17250,7 @@
             "c.bjtrh.net",
             "c.blogads.com",
             "c.byvue.com",
+            "c.cldlr.com",
             "c.commtimize.com",
             "c.compete.com",
             "c.coneco.net",
@@ -17265,6 +17265,7 @@
             "c.homestore.com",
             "c.kuryjs.info",
             "c.maccosmetics.com",
+            "c.mttwtrack.com",
             "c.ninemsn.com.au",
             "c.openclick.com",
             "c.pioneeringad.com",
@@ -17410,7 +17411,9 @@
             "caatadgouk.com",
             "caballos.ch",
             "cabareteens.com",
-            "cabe.yonsei.ac.kr",
+            "cabe.yonsei.ac.kr"
+        ],
+        "to_test": [
             "cabehealthservices.net",
             "cabernositys.com",
             "cabhe.com",
