@@ -22340,9 +22340,7 @@
             "councheap.com",
             "count-all.com",
             "count.2ch.net",
-            "count.casino-trade.com"
-        ],
-        "to_test": [
+            "count.casino-trade.com",
             "count.e-ratings.com.ua",
             "count.livetv.sx",
             "count.newhua.com",
@@ -22399,6 +22397,7 @@
             "counterguard-rendras.malynamobile.com",
             "counters.gigya.com",
             "counters.xaraonline.com",
+            "counterstrike.server.us",
             "countlm.com",
             "countryarrive.com",
             "countrybiz.org",
@@ -22453,7 +22452,9 @@
             "coximnews.com",
             "coycerca.com",
             "coywellin.com",
-            "cp-kuenstlerbedarf.de",
+            "cp-kuenstlerbedarf.de"
+        ],
+        "to_test": [
             "cp.abbp1.website",
             "cp.pleasedontslaymy.download",
             "cp.promoisland.net",
