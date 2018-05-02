@@ -5685,9 +5685,7 @@
             "getdetails02.sim-technik.de",
             "getdeways-motly.com",
             "getdirectpharm.com",
-            "getdirectpill.com"
-        ],
-        "to_test": [
+            "getdirectpill.com",
             "getedsa.com",
             "geteens.com",
             "getego.suroot.com",
@@ -5902,7 +5900,6 @@
             "gffs998.com",
             "gffsfpey.com",
             "gfgf23gf.it",
-            "gfh.ahfzly.com",
             "gfh4f.com",
             "gfh5f.com",
             "gfh6f.com",
@@ -5992,7 +5989,9 @@
             "giddin.mipa.cl",
             "gidran.net",
             "gie8aic.top",
-            "gif.hitexchange.net",
+            "gif.hitexchange.net"
+        ],
+        "to_test": [
             "gifecnt.com",
             "gifof.at",
             "gift-4542.limitedusers.net",
