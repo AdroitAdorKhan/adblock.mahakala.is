@@ -6209,9 +6209,7 @@
             "glenatmer.com",
             "glenatmontagne.com",
             "glennazplace.com",
-            "glennonstart.com"
-        ],
-        "to_test": [
+            "glennonstart.com",
             "glenowekids.urbanpro.cl",
             "glide-slope.com",
             "glintvee.biz",
@@ -6447,7 +6445,9 @@
             "gobestgolf.info",
             "gobloid.hk",
             "goblueshift.info",
-            "gobongo.info",
+            "gobongo.info"
+        ],
+        "to_test": [
             "gocampworld.info",
             "gocarisoprodol.polybuild.ru",
             "gocduz.com",
