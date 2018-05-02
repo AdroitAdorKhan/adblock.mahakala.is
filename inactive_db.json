@@ -1300,9 +1300,7 @@
             "farmaciaespanolonline.com",
             "farmaciasm3.cl",
             "farmbat.com",
-            "farmbelieve.com"
-        ],
-        "to_test": [
+            "farmbelieve.com",
             "farmegen.com",
             "farmhk.net",
             "farmindependence.com",
@@ -1357,6 +1355,7 @@
             "fast-stats.info",
             "fast-trade.su",
             "fast-viruscanner.com",
+            "fast-wordpress-start.com",
             "fast.azbaseballclassic.com",
             "fast.localeet.com",
             "fast.mocitysing.co",
@@ -1555,7 +1554,9 @@
             "fbi.gov.id402037057-8235504608.d9680.com",
             "fbirdkunsolt.biz",
             "fblikegenerateur.com",
-            "fblyks.2fh.co",
+            "fblyks.2fh.co"
+        ],
+        "to_test": [
             "fbmzz.alldownloads.hapc.gdn",
             "fbpageerror.co.nf",
             "fbpageunblcksystem.co.nf",
