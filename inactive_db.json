@@ -3559,9 +3559,7 @@
             "isapibll.com",
             "isapicom.com",
             "isapidll-online.com",
-            "isapidllws.com"
-        ],
-        "to_test": [
+            "isapidllws.com",
             "isapiwsdll.com",
             "isc-agency.com",
             "iscoolmovies.com",
@@ -3655,6 +3653,7 @@
             "istore.co.th",
             "istoretablet.com",
             "istoretablets.com",
+            "istruiscus.it",
             "istupee.com",
             "istupee.net",
             "isuckall.com",
@@ -3683,6 +3682,7 @@
             "italiancharmsandaccessories.com",
             "italiancharmsforever.com",
             "italiancharmshop.com",
+            "italiancookers.com",
             "italiancornerfood.com",
             "italiane2008poste.com",
             "italianoralsex.com",
@@ -3811,7 +3811,9 @@
             "itunesid-secure-updates.confirm-account-informations-cssinfo-id87312879216321781227685.financialeducationcentre.co.ke",
             "itunesite-app.com",
             "itunesvouchergiveaway.com",
-            "itunlcked-tunes-bin-id.com",
+            "itunlcked-tunes-bin-id.com"
+        ],
+        "to_test": [
             "itv-technology.com",
             "itwititer.com",
             "itwnews.ir",
