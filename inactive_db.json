@@ -10706,9 +10706,7 @@
             "mebel.forlife.ru",
             "mebelmuroma.ru",
             "meble-bogart.info",
-            "meble-walcz.pl"
-        ],
-        "to_test": [
+            "meble-walcz.pl",
             "mecanew.org",
             "mecanicarodrigokar.com.br",
             "mecatron.com.ve",
@@ -10787,6 +10785,7 @@
             "media.mobilecore.com",
             "media.mobiletheory.com",
             "media.mobvista.com",
+            "media.mojiva.com",
             "media.mot3atbestbordels.info",
             "media.motiveinteractive.com",
             "media.nuxmedia.com",
@@ -11037,7 +11036,9 @@
             "medverdictgood.com",
             "medverdigrisgood.com",
             "medvezhonok.org",
-            "medvia.biz",
+            "medvia.biz"
+        ],
+        "to_test": [
             "medya.e-kolay.net",
             "meebeel.com",
             "meefafimevn.com",
