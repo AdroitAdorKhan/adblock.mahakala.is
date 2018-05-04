@@ -2742,9 +2742,7 @@
             "informerall.info",
             "informespersonales.com.ar",
             "informtoolbar.com",
-            "informuj28.tk"
-        ],
-        "to_test": [
+            "informuj28.tk",
             "infos.apple.stores.icloud.ebfve.vaporymarket.com",
             "infosboitevocaleorangecompte.pe.hu",
             "infosdirects.com",
@@ -2768,7 +2766,6 @@
             "ing-diba.de-ssl-kundensicherheit2.ru",
             "ing-diba.de-ssl-kundensicherheit3.ru",
             "ingavirus.com",
-            "ingbabk.pl",
             "ingcash.com",
             "ingenericdrugs.com",
             "ingenicopads.kz",
@@ -2948,6 +2945,7 @@
             "insta-add.pro",
             "insta-follow.pl",
             "instaffpro.com",
+            "instagram-followers.pl",
             "instagram.serulom.tk",
             "instagrampaneli.net",
             "instalike.eu",
@@ -2982,7 +2980,9 @@
             "instme.biz",
             "instoment.com",
             "instrumentcow.com",
-            "insumosmedicosmys.cl",
+            "insumosmedicosmys.cl"
+        ],
+        "to_test": [
             "insumosranchosanpablo.com",
             "insuperdrugstore.com",
             "insupermedications.com",
