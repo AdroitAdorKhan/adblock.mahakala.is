@@ -6320,9 +6320,7 @@
             "konjenica-piresica.net",
             "konkrs-iphone7.pl",
             "konkurs-adidas.pl",
-            "konkurs-fifa17.pl"
-        ],
-        "to_test": [
+            "konkurs-fifa17.pl",
             "konkurs-iphone6.pl",
             "konkurs-iphone7.pl",
             "konkurs-jesien2016.esy.es",
@@ -6389,6 +6387,7 @@
             "kosii.cn",
             "kosikornbank.com",
             "kosiwere.net",
+            "kosmetykikonkurs.pl",
             "kosmopets.com",
             "kosovastar.ch",
             "kostromaraid.info",
@@ -6516,7 +6515,9 @@
             "ksiegarnia.b-52.com.pl",
             "ksiegarnia4u.pl",
             "ksineo.com",
-            "ksjba3.nsa.northpeninsulaopenspacetrust.com",
+            "ksjba3.nsa.northpeninsulaopenspacetrust.com"
+        ],
+        "to_test": [
             "ksnsse.com",
             "ksp.chel.ru",
             "kspoe.com",
