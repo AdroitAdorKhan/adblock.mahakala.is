@@ -11036,9 +11036,7 @@
             "medverdictgood.com",
             "medverdigrisgood.com",
             "medvezhonok.org",
-            "medvia.biz"
-        ],
-        "to_test": [
+            "medvia.biz",
             "medya.e-kolay.net",
             "meebeel.com",
             "meefafimevn.com",
@@ -11179,7 +11177,6 @@
             "melopnt.com",
             "melpomeranz.com",
             "melsanazaria.com",
-            "melsbeads.com",
             "melsongroup.net",
             "melthtow.com",
             "melthtow.info",
@@ -11194,6 +11191,7 @@
             "member-usaa0.myjino.ru",
             "member-validation.info",
             "member.ephearing.com",
+            "member.smpasbsolo.sch.id",
             "member48.cn",
             "member900115ym.com",
             "memberattempt.info",
@@ -11292,7 +11290,9 @@
             "meragehomedecor.com",
             "merbatapocalypse.com",
             "mercanta.com.tr",
-            "mercedes-ml320.org",
+            "mercedes-ml320.org"
+        ],
+        "to_test": [
             "mercerie-hardy.com",
             "merchant-accounts-verifications.com",
             "merchanttcenter.com",
