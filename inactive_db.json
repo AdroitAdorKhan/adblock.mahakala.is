@@ -9252,10 +9252,7 @@
             "m.tixing51.net",
             "m.trk44.mobi",
             "m.uk.2mdn.net",
-            "m.webtrends.com"
-        ],
-        "to_test": [
-            "m.yingchengtou.com",
+            "m.webtrends.com",
             "m.yjxzgz.com",
             "m.zzxbn.com",
             "m0-s.san.ru",
@@ -9573,6 +9570,7 @@
             "machinefurther.net",
             "machinegas.com",
             "machinejoin.com",
+            "machinelaughter.net",
             "machineorder.com",
             "machinerealization.com",
             "machinesboys.com",
@@ -9682,7 +9680,9 @@
             "mafia1930.fr",
             "mafiafamily.org",
             "mafiaoftorrent.com",
-            "mafiaperdition.com",
+            "mafiaperdition.com"
+        ],
+        "to_test": [
             "magamilt.com",
             "magazineluizamegastore.hol.es",
             "magazineofhacks.com",
