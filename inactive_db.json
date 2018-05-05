@@ -11052,9 +11052,7 @@
             "update-now-unlocked.com",
             "update-now22.com",
             "update-online-security.com",
-            "update-paypaallimited.com"
-        ],
-        "to_test": [
+            "update-paypaallimited.com",
             "update-paypal-account.net",
             "update-personal-id.com",
             "update-personaldata.com",
@@ -11186,6 +11184,7 @@
             "updates-all.com",
             "updates-cgi-online.com",
             "updates-os.com",
+            "updates-payments.com",
             "updates-usbank.com",
             "updates-xp.com",
             "updates.com.valleysbest.com",
@@ -11214,6 +11213,7 @@
             "updateverification-service.com",
             "updateversion-log.com",
             "updatewellsfargo.amvesys.com.au",
+            "updatework.updaterightnow.com",
             "updateyouraccount.pagarbetonwillcon.com",
             "updateyouractivitedaccount.com",
             "updateyourprotection.com",
@@ -11304,6 +11304,7 @@
             "upsmega.com",
             "upsoj.iptvdeals.com",
             "upstart.88vid.com",
+            "upstream.where.com",
             "upstreamng.com",
             "uptight.su",
             "uptimeds.com",
@@ -11400,7 +11401,6 @@
             "urlbasetechd7.cn",
             "urlbasetechd8.cn",
             "urlbasetechd9.cn",
-            "urlbox.eu",
             "urlcheck.hulu.com",
             "urlheresitemap.info",
             "urlhigh.com",
@@ -11551,7 +11551,9 @@
             "usaa.com-inet-ent-logon-sigon.usintheuk.co.uk",
             "usaa.com-inet-pages-security-take-steps-protect-logon.evenheatcatering.com.au",
             "usaa.com-inet-true-auth-secured-checking-home.ozinta.com.au",
-            "usaa.com-inet-truememberent-isca.differentialpressureswitch.com.au",
+            "usaa.com-inet-truememberent-isca.differentialpressureswitch.com.au"
+        ],
+        "to_test": [
             "usaa.com-inet-truememberent-iscaddetour-home.lavamoda.com",
             "usaa.com-inet-truememberent-iscaddetour-military.saxophonesubbalaxmi.com",
             "usaa.com-inet-truememberent-iscaddetour-savings.aegisskills.com",
