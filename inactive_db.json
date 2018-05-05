@@ -7453,14 +7453,11 @@
             "tescovouchersfree.com",
             "tesekl.info",
             "test",
-            "test-ads.asap-asp.net"
-        ],
-        "to_test": [
+            "test-ads.asap-asp.net",
             "test.33330030.com",
             "test.ad.asap-asp.net",
             "test.boatmob.com",
             "test.farstaforvaltning.se",
-            "test.gaxtoa.com",
             "test.invalid",
             "test.iovation.com",
             "test.liverail.com",
@@ -7508,6 +7505,7 @@
             "tetovahacker.ch",
             "tetovatim.ch",
             "tetramassociates.com",
+            "tetrisonline.jp",
             "teuersternuorpiniemess.theallcraftblog.com",
             "teur.tk",
             "tevifoundation.org",
@@ -7602,6 +7600,7 @@
             "thankindustry.com",
             "thankrose.com",
             "thanksimilar.com",
+            "that.pioneertanksus.com",
             "thatadvocacy.com",
             "thatchtrue.info",
             "thatchvalid.info",
@@ -7710,7 +7709,9 @@
             "thebigstars2008.com",
             "thebigteams.info",
             "thebigtheater.info",
-            "thebigtheatre.info",
+            "thebigtheatre.info"
+        ],
+        "to_test": [
             "thebizmeet.com",
             "TheBizMeet.com",
             "theblackops2hack.com",
