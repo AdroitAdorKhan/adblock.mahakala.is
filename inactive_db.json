@@ -2615,9 +2615,7 @@
             "simcity5hack.com",
             "simetron.org",
             "simincall.info",
-            "simmage.gabrielceausescu.com"
-        ],
-        "to_test": [
+            "simmage.gabrielceausescu.com",
             "simocrogger.com",
             "simon85.co.uk",
             "simonds.raya.cl",
@@ -2832,7 +2830,9 @@
             "sites.ultimatenichewebsites.com",
             "sitescamps.info",
             "sitesearchcentral.com",
-            "sitesentrance.com",
+            "sitesentrance.com"
+        ],
+        "to_test": [
             "siteshoeville.com",
             "sitesparastands.pt",
             "sitestat3.sport1.de",
