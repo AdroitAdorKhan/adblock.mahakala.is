@@ -6604,9 +6604,7 @@
             "ta.at.ic5mp.net",
             "ta.at.user-mode-linux.net",
             "ta20w32e7u.ru",
-            "tabanta.com"
-        ],
-        "to_test": [
+            "tabanta.com",
             "tabfirmware.com",
             "tabguest.info",
             "tabithazplace.com",
@@ -6826,7 +6824,9 @@
             "tankuje-paliwo.pl",
             "tanner.alicerosenmanmemorial.com",
             "tannpastnevicher.themakershop.co.uk",
-            "tanoto-foundation.or.id",
+            "tanoto-foundation.or.id"
+        ],
+        "to_test": [
             "tanurulafikra.com",
             "tanusito.com",
             "tanya-james.com",
