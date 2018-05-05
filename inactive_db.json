@@ -13488,9 +13488,7 @@
             "myairmaxhit.pl",
             "myairofficialdrugstore.com",
             "myairqualitypharmacy.com",
-            "myairqualitypills.com"
-        ],
-        "to_test": [
+            "myairqualitypills.com",
             "myairstoredrugs.com",
             "myairstoremeds.com",
             "myairsuperpharmacy.com",
@@ -13640,6 +13638,7 @@
             "myfiled.com",
             "myfilefresh.com",
             "myfilehigh.com",
+            "myfilehome.com",
             "myfilenu.com",
             "myfilesdownload.org",
             "myfileshere.org",
@@ -13781,7 +13780,6 @@
             "mynaagencies.com",
             "mynamecome.info",
             "mynameisseller.com",
-            "mynape.com",
             "mynasta.com",
             "mynaturaless.com",
             "mynaturalradiance.com.au",
@@ -13863,7 +13861,9 @@
             "myppl.us",
             "myprime-euro.com",
             "myprivatepicturespage.screencastbrasil.com.br",
-            "myprocsoft.com",
+            "myprocsoft.com"
+        ],
+        "to_test": [
             "myptccash.com",
             "mypul24s34p7t.namikkemalmahallesi.com",
             "mypurse-onality.com",
