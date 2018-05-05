@@ -2830,9 +2830,7 @@
             "sites.ultimatenichewebsites.com",
             "sitescamps.info",
             "sitesearchcentral.com",
-            "sitesentrance.com"
-        ],
-        "to_test": [
+            "sitesentrance.com",
             "siteshoeville.com",
             "sitesparastands.pt",
             "sitestat3.sport1.de",
@@ -2896,6 +2894,7 @@
             "skarlatina.info",
             "skarz.biz",
             "skaska.biz",
+            "skateboard.ws",
             "skateboardgamez.com",
             "skates4all.nl",
             "skateshop.andegrand.pl",
@@ -2928,7 +2927,6 @@
             "skingaben.com",
             "skingang.com",
             "skinnyblondebeerusa.com",
-            "skinsan.com",
             "skinsbeast.com",
             "skinscastle.com",
             "skinsgang.com",
@@ -2967,6 +2965,7 @@
             "skracajmyto.waw.pl",
             "skracarka.waw.pl",
             "skrill-terms.com",
+            "skrocto.waw.pl",
             "sks47.com",
             "skt1.o-ren.us",
             "skt2.o-ren.us",
@@ -3006,7 +3005,9 @@
             "skypephonephoto126.com",
             "skyrecs.com",
             "skytechme.com",
-            "skytrip.org",
+            "skytrip.org"
+        ],
+        "to_test": [
             "skywebsv.com",
             "skzinfos.com.br",
             "sl-paypal.com",
