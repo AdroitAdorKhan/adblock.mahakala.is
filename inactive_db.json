@@ -27852,9 +27852,7 @@
             "scr3en.com",
             "scrabble.malcolmboyd.net",
             "scramlotts.org",
-            "scrapbookersclubhouse.com"
-        ],
-        "to_test": [
+            "scrapbookersclubhouse.com",
             "scratch.karenbaher.cl",
             "scrathes.com",
             "scream.cavingidentificationconsulting.com",
@@ -27875,6 +27873,7 @@
             "script46.com",
             "scripts.adultcheck.com",
             "scripts.linkz.net",
+            "scripts.mofos.com",
             "scripts.powermarketing.com",
             "scripts.verticalacuity.com",
             "scrle.com",
@@ -27984,6 +27983,7 @@
             "sdk.mobilecore.com",
             "sdk.mobiletheory.com",
             "sdk.mobvista.com",
+            "sdk.mojiva.com",
             "sdk.mopub.com",
             "sdk.motiveinteractive.com",
             "sdk.nuxsdk.com",
@@ -28089,7 +28089,9 @@
             "search-cgi-item.com",
             "search-chinawoman.com",
             "search-city.info",
-            "search-city.net",
+            "search-city.net"
+        ],
+        "to_test": [
             "search-city.org",
             "search-climbers.com",
             "search-climbers.net",
