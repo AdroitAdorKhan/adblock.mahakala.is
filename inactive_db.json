@@ -2334,9 +2334,7 @@
             "sicher-sicherheitsvorbeugungs.ml",
             "sicher-sicherheitsvorbeugungs.tk",
             "sicher-vorkehrung-schutz.ga",
-            "sicher-vorkehrung-schutz.ml"
-        ],
-        "to_test": [
+            "sicher-vorkehrung-schutz.ml",
             "sicherheit-pp-hilfe.net",
             "sicherheit.dk",
             "sicherheitonline.sicherheitbeipp.top",
@@ -2391,7 +2389,6 @@
             "sid8.su",
             "sid95.com",
             "sidcfc.com",
-            "siddhiclasses.in",
             "siddj.info",
             "sidebarsearch.com",
             "sideboobies.com",
@@ -2499,6 +2496,7 @@
             "signin-supportsauthzpolicyagreemenst.com",
             "signin-suspended-accounts.co.uk",
             "signin-update-service.h56o1i761j.babucom.com",
+            "signin-verification-acsxrva.com",
             "signin-virtulebay.com",
             "signin.amazon.co.uk-prime.form-unsuscribe.id-177.mgh.net.au",
             "signin.amazon.co.uk-prime.form-unsuscribe.id-3234.staticfiction.com",
@@ -2617,7 +2615,9 @@
             "simcity5hack.com",
             "simetron.org",
             "simincall.info",
-            "simmage.gabrielceausescu.com",
+            "simmage.gabrielceausescu.com"
+        ],
+        "to_test": [
             "simocrogger.com",
             "simon85.co.uk",
             "simonds.raya.cl",
