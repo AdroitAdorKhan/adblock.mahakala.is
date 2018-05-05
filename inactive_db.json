@@ -4350,9 +4350,7 @@
             "spywarequarantine.com",
             "spywareremovalfrom.org",
             "spywarescout.com",
-            "spywareshop.info"
-        ],
-        "to_test": [
+            "spywareshop.info",
             "spywaresoftstop-cash.com",
             "spywaresoftstop-support.com",
             "spywaresoftstop.com",
@@ -4406,6 +4404,7 @@
             "srmkx2j1.info",
             "srmvx.com.br",
             "srn.net.in",
+            "srnartevent-lb.com",
             "sro.giuseppemarotta.com",
             "sropower.com",
             "sropower.net",
@@ -4594,10 +4593,13 @@
             "st-bo.kz",
             "st-paypal.com",
             "st.keywordsconnect.com",
+            "st.listrak.com",
             "st.marketgid.com",
             "st.n.ads1-adnow.com",
             "st.n.ads3-adnow.com",
-            "st.valueclick.com",
+            "st.valueclick.com"
+        ],
+        "to_test": [
             "st.vq.ku6.cn",
             "st1.recreativ.ru",
             "st1.surf-town.net",
