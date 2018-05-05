@@ -27027,9 +27027,7 @@
             "s11clickmoviedownloadercom.maynemyltf.netdna-cdn.com",
             "s128903955.onlinehome.us",
             "s1492.ru",
-            "s1824z2.com"
-        ],
-        "to_test": [
+            "s1824z2.com",
             "s199.vh46547.eurodir.ru",
             "s1d2f3.wha.la",
             "s1freehdsportzappcom.maynemyltf.netdna-cdn.com",
@@ -27043,6 +27041,7 @@
             "s1w.co",
             "s2.buysellads.com",
             "s2.gamecreds.com",
+            "s2.kuaibaopay.com",
             "s2.vendetta.fr",
             "s2.youtube.com",
             "s201.indexstats.com",
@@ -27075,7 +27074,6 @@
             "s6.2mdn.net",
             "s6galaxyuniaonline.pl",
             "s7.2mdn.net",
-            "s7lob.com",
             "s7lob.net",
             "s8.2mdn.net",
             "s800qn.cn",
@@ -27213,7 +27211,9 @@
             "safetyalertings.com",
             "safetyallertverification.com",
             "safetydownload.com",
-            "safetyeachday.com",
+            "safetyeachday.com"
+        ],
+        "to_test": [
             "safetyhomepage.net",
             "safetyincludes.com",
             "safetylisting.com",
