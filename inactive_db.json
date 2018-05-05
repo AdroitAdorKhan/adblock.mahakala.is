@@ -9250,9 +9250,7 @@
             "track.roiservice.com",
             "track.rtdock.com",
             "track.sauce.ly",
-            "track.sigfig.com"
-        ],
-        "to_test": [
+            "track.sigfig.com",
             "track.specialdailydeals4u.com",
             "track.statesend.co.in",
             "track.stromfeldshippingcenters.com",
@@ -9277,6 +9275,7 @@
             "track.webbranddeals.com",
             "track.webmatics.info",
             "track.whatwhowhywhere.com",
+            "track.whereflower.com",
             "track.whitespace57.com",
             "track.www.zazzle.com",
             "track.yourmedicalpurchase.ru",
@@ -9352,6 +9351,7 @@
             "tracking.freddybeach.com",
             "tracking.i-click.com.hk",
             "tracking.ientry.net",
+            "tracking.ilinkmd.com",
             "tracking.infos-du-net.com",
             "tracking.intermundomedia.com",
             "tracking.iol.co.za",
@@ -9389,7 +9389,9 @@
             "tracking.vitringez.com",
             "tracking.we7.com",
             "tracking.web2corp.com",
-            "tracking.yourfilehost.com",
+            "tracking.yourfilehost.com"
+        ],
+        "to_test": [
             "trackmail3345.com",
             "trackpair.com",
             "tracksys.developlabs.net",
