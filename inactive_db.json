@@ -5647,9 +5647,7 @@
             "suffixvalley.com",
             "suffixwindow.com",
             "sugar.bocabeautiful.org",
-            "sugaraddict.net"
-        ],
-        "to_test": [
+            "sugaraddict.net",
             "sugarcookies.com.au",
             "sugargot.com",
             "sugarif.com",
@@ -5701,6 +5699,7 @@
             "summary-accountsmerchant.com",
             "summary-cgiupdateaccount.info",
             "summary-my-account.com",
+            "summary-service-update.com",
             "summary-system.services",
             "summary-transactions.com",
             "summary-updates-resolved.com",
@@ -5719,6 +5718,7 @@
             "summervids.com",
             "summerzplace.com",
             "summititlefl.com",
+            "sumnitdomains.top",
             "sumopimp.com",
             "sun-dolls.info",
             "sun-trast.com",
@@ -5862,7 +5862,9 @@
             "superfortuna.biz",
             "superfreehacks.com",
             "superfundate.com",
-            "supergames.over.cz",
+            "supergames.over.cz"
+        ],
+        "to_test": [
             "supergamingzone.com",
             "supergiftscom.info",
             "supergolfonline.info",
