@@ -27211,9 +27211,7 @@
             "safetyalertings.com",
             "safetyallertverification.com",
             "safetydownload.com",
-            "safetyeachday.com"
-        ],
-        "to_test": [
+            "safetyeachday.com",
             "safetyhomepage.net",
             "safetyincludes.com",
             "safetylisting.com",
@@ -27332,7 +27330,6 @@
             "saltmany.com",
             "saltthank.com",
             "saluremakers.co.za",
-            "salva-sally.nl",
             "salvadores.it",
             "salvapantallas.paraelpc.com",
             "salwasel.com",
@@ -27403,7 +27400,9 @@
             "sangaronline.info",
             "sangeetathombre.com",
             "sanggarpelangi.com",
-            "sangottardo.com.br",
+            "sangottardo.com.br"
+        ],
+        "to_test": [
             "sanjeevaniayurvedics.com",
             "sanjesh.estrazavi.ir",
             "sanjivanihospitalandresearchcenter.org",
