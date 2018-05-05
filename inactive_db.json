@@ -24174,9 +24174,7 @@
             "quienteadmite.info",
             "quiesn.net",
             "quiet-actions.com",
-            "quiet-interactions.net"
-        ],
-        "to_test": [
+            "quiet-interactions.net",
             "quietclaim.com",
             "quiethacking.com",
             "quietperfect.net",
@@ -24294,7 +24292,6 @@
             "r.admob.com",
             "r.ads.zynga.com",
             "r.b.c-verify-security-question-canada.crossnetministries.org",
-            "r.coolmobile.biz",
             "r.rxproxml.com",
             "r.sex-toplista.zy.pl",
             "r.trffrcmrd.com",
@@ -24356,6 +24353,7 @@
             "racialbangs.com",
             "racing-junk.info",
             "racinghackreal.com",
+            "racingpostads.com",
             "rack-dfw.bench.cedexis.com",
             "rack-hkg.bench.cedexis.com",
             "rack-iad.bench.cedexis.com",
@@ -24407,7 +24405,9 @@
             "raduse.info",
             "radvdieo.com",
             "raeumende.justbroke.com",
-            "rafaelsport.co.id",
+            "rafaelsport.co.id"
+        ],
+        "to_test": [
             "rafcsc.co.uk",
             "rafiashopping.com",
             "raftblu.com",
