@@ -4793,9 +4793,7 @@
             "stat.pptv.com",
             "stat.ringier.cz",
             "stat.sittiad.com",
-            "stat.superstat.info"
-        ],
-        "to_test": [
+            "stat.superstat.info",
             "stat.torrentbar.com",
             "stat.tudou.com",
             "stat.uu.cc",
@@ -4874,6 +4872,7 @@
             "static.mobgold.com",
             "static.mobiletheory.com",
             "static.mobvista.com",
+            "static.mojiva.com",
             "static.motiveinteractive.com",
             "static.nirror.com",
             "static.onlinevenditatio.space",
@@ -4917,6 +4916,7 @@
             "station-appraisals.com",
             "station.sony.com",
             "stationclear.com",
+            "stationerypoint.com.au",
             "stationfast.com",
             "stationsing.com",
             "statique.secureguards.eu",
@@ -4954,7 +4954,9 @@
             "stats.go-west.nl",
             "stats.idsoft.com",
             "stats.ilius.net",
-            "stats.ilsemedia.nl",
+            "stats.ilsemedia.nl"
+        ],
+        "to_test": [
             "stats.indexstats.com",
             "stats.indextools.com",
             "stats.internet-yadro.com",
