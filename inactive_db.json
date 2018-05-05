@@ -5365,9 +5365,7 @@
             "stream-mpg.com",
             "stream.heavenmedia.net",
             "stream11.instream.com",
-            "stream18plus.pl"
-        ],
-        "to_test": [
+            "stream18plus.pl",
             "stream80.com",
             "streamadultvideo.com",
             "streamate.doublepimp.com",
@@ -5649,7 +5647,9 @@
             "suffixvalley.com",
             "suffixwindow.com",
             "sugar.bocabeautiful.org",
-            "sugaraddict.net",
+            "sugaraddict.net"
+        ],
+        "to_test": [
             "sugarcookies.com.au",
             "sugargot.com",
             "sugarif.com",
