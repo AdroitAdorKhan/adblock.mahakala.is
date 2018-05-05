@@ -4954,9 +4954,7 @@
             "stats.go-west.nl",
             "stats.idsoft.com",
             "stats.ilius.net",
-            "stats.ilsemedia.nl"
-        ],
-        "to_test": [
+            "stats.ilsemedia.nl",
             "stats.indexstats.com",
             "stats.indextools.com",
             "stats.internet-yadro.com",
@@ -4980,6 +4978,7 @@
             "stats.owncloud.services.stpdns.net",
             "stats.paypal.com",
             "stats.profileponds.com",
+            "stats.qmerce.com",
             "stats.radiostreamlive.com",
             "stats.ref2000.com",
             "stats.reinvigorate.net",
@@ -5076,6 +5075,7 @@
             "steamgamesdownload.com",
             "steamgift.org",
             "steamgifts.eu",
+            "steamgry.eu",
             "steamhacker.goldmovie-trailer.com",
             "steaminvwork.ru",
             "steamkeygen.goldmovie-trailer.com",
@@ -5120,7 +5120,9 @@
             "steri.tv",
             "sterlinggolf.fr",
             "sterlmerchbankltd-uk.net",
-            "stetmail.com",
+            "stetmail.com"
+        ],
+        "to_test": [
             "stevemden.com",
             "stevensad.com",
             "stevieweinberg.com",
