@@ -4597,9 +4597,7 @@
             "st.marketgid.com",
             "st.n.ads1-adnow.com",
             "st.n.ads3-adnow.com",
-            "st.valueclick.com"
-        ],
-        "to_test": [
+            "st.valueclick.com",
             "st.vq.ku6.cn",
             "st1.recreativ.ru",
             "st1.surf-town.net",
@@ -4646,6 +4644,7 @@
             "stand.knowthetruthng.com",
             "standard-gis.com",
             "standardchartered-ci.info",
+            "standardchartered-forex.com",
             "standardchartred.info",
             "standarddotcom.info",
             "standardsandpraiserepurpose.com",
@@ -4794,7 +4793,9 @@
             "stat.pptv.com",
             "stat.ringier.cz",
             "stat.sittiad.com",
-            "stat.superstat.info",
+            "stat.superstat.info"
+        ],
+        "to_test": [
             "stat.torrentbar.com",
             "stat.tudou.com",
             "stat.uu.cc",
