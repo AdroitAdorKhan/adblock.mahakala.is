@@ -12226,9 +12226,7 @@
             "mobile.free.infoconsult.info",
             "mobile.free.moncompte.espace.clients.particuliers.francaisimpayee.fr",
             "mobile.free.reclamtion-ifm.com",
-            "mobile.ivwbox.de"
-        ],
-        "to_test": [
+            "mobile.ivwbox.de",
             "mobile.paypal.com.cgi-bin.artincolor.net",
             "mobile.plugrush.com",
             "mobile.traffic-tracker.net",
@@ -12351,7 +12349,6 @@
             "mojtechnology.com",
             "mokol-fr.net",
             "molaiksjjkd.com",
-            "molave.gov.ph",
             "moldavian.info",
             "moleculeapple.com",
             "moleculeresponsibility.com",
@@ -12381,6 +12378,7 @@
             "moms-and-sons.com",
             "momsecrets.info",
             "momslikesons.com",
+            "momspornmovies.com",
             "momsvideosecrets.com",
             "momyioolthree.com",
             "mon-commerce-virtuel.fr",
@@ -12392,7 +12390,6 @@
             "monagences.espace3v-particuliers.com",
             "monalisa21.com",
             "monbilele.com",
-            "monclerboots.xyz",
             "monclercoats.xyz",
             "monclerjacketsoutlet.win",
             "moncleronline.xyz",
@@ -12419,7 +12416,9 @@
             "moner.com.es",
             "moner.xz.cn",
             "monespaces.com",
-            "moneta.trove.com",
+            "moneta.trove.com"
+        ],
+        "to_test": [
             "money-adjuster.info",
             "money-advertise.info",
             "money-advertising.info",
