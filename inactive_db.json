@@ -13649,9 +13649,7 @@
             "w111.am15.net",
             "w112.am15.net",
             "w113.am15.net",
-            "w114.am15.net"
-        ],
-        "to_test": [
+            "w114.am15.net",
             "w115.am15.net",
             "w116.am15.net",
             "w117.am15.net",
@@ -13938,7 +13936,9 @@
             "waodt.com",
             "waooyo.co.za",
             "wap-ios10-icloud.com",
-            "wap-ios9-icloud.com",
+            "wap-ios9-icloud.com"
+        ],
+        "to_test": [
             "wap.casee.cn",
             "wap.cioujs.com",
             "wap4gsm.com",
