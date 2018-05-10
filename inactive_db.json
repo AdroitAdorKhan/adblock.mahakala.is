@@ -4339,9 +4339,8 @@
             "accounnt-apple.com",
             "accounst-transactions.com",
             "account-acces-singin.com",
-            "account-autentic.com"
-        ],
-        "to_test": [
+            "account-autentic.com",
+            "account-authentification.com",
             "account-bank-of-america.com",
             "account-cc-info.info",
             "account-central.com",
@@ -4360,6 +4359,7 @@
             "account-infolimitted.com",
             "account-information-webapsssecures.com",
             "account-intlviewbilling.com",
+            "account-issue-amazon.com",
             "account-limitedcentre.com",
             "account-login-com.tication.re-secure-login-details.pathauth-auth.netgeoserversg.com",
             "account-login2.com",
@@ -4387,6 +4387,7 @@
             "account-service-lockeds.com",
             "account-srvice.com",
             "account-support-pp.net",
+            "account-support.nucleoelectrico.com",
             "account-transaction.com",
             "account-unauthorized.unusualaccount.co.vu",
             "account-update.merseine.nu",
@@ -4584,6 +4585,7 @@
             "acontentview.com",
             "acorn-computers.biz",
             "acorng.com.au",
+            "acosas.com",
             "acount-summary.net",
             "acount.renew-an-account-validation-verification.acadianafriends.com",
             "acountreview.info",
@@ -4690,7 +4692,9 @@
             "activexvideosoftware.com",
             "activexvideosource.com",
             "activexvideospace.com",
-            "activexvideotool.com",
+            "activexvideotool.com"
+        ],
+        "to_test": [
             "activities.chase0nline.argo-abs.com.au",
             "activities.chase0nline31.argo-abs.com.au",
             "activition-tr.com",
