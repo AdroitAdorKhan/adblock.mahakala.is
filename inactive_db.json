@@ -5006,9 +5006,7 @@
             "ad.wagbridge.tanx.com",
             "ad.walkgame.com",
             "ad.watch.impress.co.jp",
-            "ad.webadvertising.ch"
-        ],
-        "to_test": [
+            "ad.webadvertising.ch",
             "ad.webnext.ru",
             "ad.webprovider.com",
             "ad.wiredvision.jp",
@@ -5113,7 +5111,9 @@
             "ad40.atlas.cz",
             "ad41.atlas.cz",
             "ad42.atlas.cz",
-            "ad43.atlas.cz",
+            "ad43.atlas.cz"
+        ],
+        "to_test": [
             "ad44.atlas.cz",
             "ad45.atlas.cz",
             "ad46.atlas.cz",
