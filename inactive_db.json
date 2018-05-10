@@ -5253,9 +5253,7 @@
             "addplanet.net",
             "addray.pro",
             "address-update.en.us.www.purchaseapt.com",
-            "addresscome.info"
-        ],
-        "to_test": [
+            "addresscome.info",
             "adds-info-depart.tech",
             "adds-info.com",
             "adds-info.site",
@@ -5316,9 +5314,7 @@
             "adhokuspokus.com",
             "adhosting.ohmyad.co",
             "adhref.pl",
-            "adi.cnool.net",
             "adi.mainichi.co.jp",
-            "adi2007.cnool.net",
             "adidas.com-free.win",
             "adidasdufflebag.com",
             "adidasgame.com",
@@ -5327,6 +5323,7 @@
             "adigitalt.info",
             "adijuegos.com",
             "adilac.in",
+            "adimage.asia1.com.sg",
             "adimage.asiaone.com",
             "adimage.asiaone.com.sg",
             "adimage.blm.org",
@@ -5488,9 +5485,12 @@
             "adm-pages.esy.es",
             "adm-web-ebai.com",
             "adm.72zx.com",
+            "adm.ilmugendam.com",
             "adm.shacknews.com",
             "admagnet1.com",
-            "adman.in.gr",
+            "adman.in.gr"
+        ],
+        "to_test": [
             "admanagement.tagblattmedien.ch",
             "admanager.kilio.com",
             "admanager1.collegepublisher.com",
