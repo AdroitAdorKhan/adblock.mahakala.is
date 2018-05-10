@@ -10147,9 +10147,7 @@
             "apac.analytics.yahoo.com",
             "apac.rel.msn.com",
             "apache2-wp223656.wp223656.dreamhostps.com",
-            "apandl.com"
-        ],
-        "to_test": [
+            "apandl.com",
             "aparentingstudy.com",
             "apartamentyskandynawskie.pl",
             "apartments-baden-baden.de",
@@ -10521,6 +10519,7 @@
             "api.xiaoliangchx.com",
             "api.yieldmanager.com",
             "api07.eu",
+            "api2.murdoog.com",
             "api2.playhaven.com",
             "api43.cc",
             "api68.co.uk",
@@ -10534,7 +10533,9 @@
             "apie-apple.com",
             "apifx9.com",
             "apikomindo.net",
-            "apinpal.com",
+            "apinpal.com"
+        ],
+        "to_test": [
             "apiparbion.com",
             "apis.sharethrough.com",
             "apjikatoi.info",
