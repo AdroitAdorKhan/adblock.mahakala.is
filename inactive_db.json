@@ -6257,9 +6257,7 @@
             "ads.npr.valueclick.net",
             "ads.ntadvice.com",
             "ads.ntbugtraq.com",
-            "ads.nwso.net"
-        ],
-        "to_test": [
+            "ads.nwso.net",
             "ads.nyjournalnews.com",
             "ads.nypost.com",
             "ads.okazii.ro",
@@ -6303,6 +6301,7 @@
             "ads.plos.org",
             "ads.pno.net",
             "ads.poema.art.pl",
+            "ads.popfolkstars.com",
             "ads.popularno.mk",
             "ads.porncash.tv",
             "ads.pornful.com",
@@ -6389,7 +6388,6 @@
             "ads.sixapart.com",
             "ads.skooiz.com",
             "ads.sl.interpals.net",
-            "ads.slapdot.com",
             "ads.smartclicks.net",
             "ads.smartdevicemedia.com",
             "ads.smartguide.ch",
@@ -6430,7 +6428,9 @@
             "ads.techguy.org",
             "ads.techvibes.com",
             "ads.techweb.com",
-            "ads.tecnoblog.net",
+            "ads.tecnoblog.net"
+        ],
+        "to_test": [
             "ads.telegraaf.nl",
             "ads.the15thinternet.com",
             "ads.theawl.com",
