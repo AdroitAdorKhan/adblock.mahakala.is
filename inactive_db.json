@@ -7835,9 +7835,7 @@
             "aimsace.com",
             "ainbef.net",
             "ainomw.com",
-            "aintbrad.nx.cn"
-        ],
-        "to_test": [
+            "aintbrad.nx.cn",
             "ainwin.net",
             "aionlinegames.com",
             "aiphone168.com",
@@ -7884,7 +7882,6 @@
             "airbnb.listing-long-term-rental-landlord-online.info",
             "airbnb.rental-rooms.com",
             "airbnb.reserva.legal",
-            "airbnb.trust.verification.account.parkstreetfest.com",
             "airbnbautomated.5gbfree.com",
             "airbnbnaked.com",
             "aircargointernational-express.com",
@@ -8071,7 +8068,6 @@
             "aktinagallery.gr",
             "aktobut.com",
             "aktualisierungs-service.info",
-            "aktyka.pl",
             "aktywator-windows-7.pl",
             "aktywnepodrozowanie.pl",
             "akwak.net",
@@ -8160,7 +8156,9 @@
             "alatbank.info",
             "alatmusikislami.co.id",
             "albaba2sign.com",
-            "albadoor.net",
+            "albadoor.net"
+        ],
+        "to_test": [
             "albaparietti.info",
             "albarakha.lk",
             "albasaccessories.com",
