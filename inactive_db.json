@@ -6428,13 +6428,12 @@
             "ads.techguy.org",
             "ads.techvibes.com",
             "ads.techweb.com",
-            "ads.tecnoblog.net"
-        ],
-        "to_test": [
+            "ads.tecnoblog.net",
             "ads.telegraaf.nl",
             "ads.the15thinternet.com",
             "ads.theawl.com",
             "ads.thebugs.ws",
+            "ads.thebulgarianpost.com",
             "ads.thefrisky.com",
             "ads.theglobeandmail.com",
             "ads.thesmokinggun.com",
@@ -6620,7 +6619,9 @@
             "ads2.drivelinemedia.com",
             "ads2.emeraldcoast.com",
             "ads2.firingsquad.com",
-            "ads2.gamavirtual.com",
+            "ads2.gamavirtual.com"
+        ],
+        "to_test": [
             "ads2.ihaberadserver.com",
             "ads2.iweb.cortica.com",
             "ads2.ljworld.com",
