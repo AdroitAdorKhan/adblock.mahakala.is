@@ -4692,13 +4692,12 @@
             "activexvideosoftware.com",
             "activexvideosource.com",
             "activexvideospace.com",
-            "activexvideotool.com"
-        ],
-        "to_test": [
+            "activexvideotool.com",
             "activities.chase0nline.argo-abs.com.au",
             "activities.chase0nline31.argo-abs.com.au",
             "activition-tr.com",
             "activition-update.net",
+            "activity-accountsupport.com",
             "activity-resolutioncenterapp.com",
             "activity-service.com",
             "activity.frequency.com",
@@ -4868,7 +4867,9 @@
             "ad.hepsiburada.com",
             "ad.hinet.net",
             "ad.hizlireklam.com",
-            "ad.horvitznewspapers.net",
+            "ad.horvitznewspapers.net"
+        ],
+        "to_test": [
             "ad.howstuffworks.com",
             "ad.icasthq.com",
             "ad.idgtn.net",
