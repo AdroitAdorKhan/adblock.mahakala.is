@@ -6084,9 +6084,7 @@
             "ads.iboost.com",
             "ads.iforex.com",
             "ads.ihaberadserver.com",
-            "ads.imdb.com"
-        ],
-        "to_test": [
+            "ads.imdb.com",
             "ads.imposibil.ro",
             "ads.in.gr",
             "ads.incmd10.com",
@@ -6172,7 +6170,6 @@
             "ads.mconetwork.com",
             "ads.mdotm.com",
             "ads.mediaflite.de",
-            "ads.mediaturf.net",
             "ads.meninpain.com",
             "ads.meredithads.com",
             "ads.meropar.jp",
@@ -6260,7 +6257,9 @@
             "ads.npr.valueclick.net",
             "ads.ntadvice.com",
             "ads.ntbugtraq.com",
-            "ads.nwso.net",
+            "ads.nwso.net"
+        ],
+        "to_test": [
             "ads.nyjournalnews.com",
             "ads.nypost.com",
             "ads.okazii.ro",
