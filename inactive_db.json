@@ -9609,9 +9609,7 @@
             "anonamizer.com",
             "anonimutente.com",
             "anonymizeme.pro",
-            "anonymous-hacks.com"
-        ],
-        "to_test": [
+            "anonymous-hacks.com",
             "anonymouscheaters.com",
             "anonymwinpc.com",
             "anoplev.com",
@@ -10000,12 +9998,14 @@
             "antivirware.com",
             "antivirxp.net",
             "antivirxp08.com",
+            "antiwurm2008.com",
             "antizend.com",
             "antoluxlda.com",
             "antrocity.com",
             "antvirushelp.com",
             "anu.vqd.fr",
             "anu1bllev.com",
+            "anugerah-rental.com",
             "anugrahabadi.co.id",
             "anunah.com",
             "anunciatucasa.info",
@@ -10147,7 +10147,9 @@
             "apac.analytics.yahoo.com",
             "apac.rel.msn.com",
             "apache2-wp223656.wp223656.dreamhostps.com",
-            "apandl.com",
+            "apandl.com"
+        ],
+        "to_test": [
             "aparentingstudy.com",
             "apartamentyskandynawskie.pl",
             "apartments-baden-baden.de",
