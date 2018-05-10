@@ -6619,9 +6619,7 @@
             "ads2.drivelinemedia.com",
             "ads2.emeraldcoast.com",
             "ads2.firingsquad.com",
-            "ads2.gamavirtual.com"
-        ],
-        "to_test": [
+            "ads2.gamavirtual.com",
             "ads2.ihaberadserver.com",
             "ads2.iweb.cortica.com",
             "ads2.ljworld.com",
@@ -6828,6 +6826,7 @@
             "adserver.fmpub.net",
             "adserver.fr.adtech.de",
             "adserver.freenet.de",
+            "adserver.gallerytrafficservice.com",
             "adserver.gamesquad.net",
             "adserver.garden.com",
             "adserver.gb5.motorpresse.de",
@@ -6836,7 +6835,9 @@
             "adserver.geizkragen.de",
             "adserver.gr",
             "adserver.gtg.sc",
-            "adserver.gunaxin.com",
+            "adserver.gunaxin.com"
+        ],
+        "to_test": [
             "adserver.harvestadsdepot.com",
             "adserver.hi-m.de",
             "adserver.highspeedtesting.com",
