@@ -5111,9 +5111,7 @@
             "ad40.atlas.cz",
             "ad41.atlas.cz",
             "ad42.atlas.cz",
-            "ad43.atlas.cz"
-        ],
-        "to_test": [
+            "ad43.atlas.cz",
             "ad44.atlas.cz",
             "ad45.atlas.cz",
             "ad46.atlas.cz",
@@ -5134,7 +5132,6 @@
             "ad4mat.mx",
             "ad4mat.nl",
             "ad4mat.no",
-            "ad4mat.pl",
             "ad4mat.ro",
             "ad4mat.ru",
             "ad4mat.tr",
@@ -5256,7 +5253,9 @@
             "addplanet.net",
             "addray.pro",
             "address-update.en.us.www.purchaseapt.com",
-            "addresscome.info",
+            "addresscome.info"
+        ],
+        "to_test": [
             "adds-info-depart.tech",
             "adds-info.com",
             "adds-info.site",
