@@ -9257,9 +9257,7 @@
             "analytics.admob.com",
             "analytics.anvato.net",
             "analytics.artirix.com",
-            "analytics.bloomberg.com"
-        ],
-        "to_test": [
+            "analytics.bloomberg.com",
             "analytics.closealert.com",
             "analytics.colacoweb.net",
             "analytics.digitouch.it",
@@ -9278,7 +9276,6 @@
             "analytics.nextmedia.com",
             "analytics.ntiermanaged.com",
             "analytics.performable.com",
-            "analytics.photorank.me",
             "analytics.piksel.com",
             "analytics.prod.aws.ecnext.net",
             "analytics.r17.com",
@@ -9302,7 +9299,6 @@
             "anapado.ru",
             "anarkdigital.com",
             "anastasiazplace.com",
-            "anatoliakahve.com",
             "anawentasawa.com",
             "anayltics.kuikr.com",
             "anazplace.com",
@@ -9386,7 +9382,6 @@
             "anemwers.stronazen.pl",
             "anerrordns.com",
             "anetgate.com",
-            "anette.ca",
             "anewreg.info",
             "anewsearchengine.biz",
             "anewservivaniseysmapall.it",
@@ -9424,7 +9419,9 @@
             "angele-coquine.com",
             "angelesbuenos.com.ar",
             "angelface.hu",
-            "angelfotostudio.com",
+            "angelfotostudio.com"
+        ],
+        "to_test": [
             "angelhousematernityhome.net",
             "angeliazplace.com",
             "angelica.fr.st",
