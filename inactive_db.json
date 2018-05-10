@@ -5927,9 +5927,7 @@
             "ads.dailyclicks.net",
             "ads.daleclick.com.ar",
             "ads.danni.com",
-            "ads.danworld.net"
-        ],
-        "to_test": [
+            "ads.danworld.net",
             "ads.darkhardware.com",
             "ads.dbforums.com",
             "ads.ddj.com",
@@ -6062,6 +6060,7 @@
             "ads.hamptonroads.com",
             "ads.hardwaresecrets.com",
             "ads.hardwarezone.com",
+            "ads.healthline.com",
             "ads.hentaifox.com",
             "ads.herald-mail.com",
             "ads.herald-sun.com",
@@ -6085,7 +6084,9 @@
             "ads.iboost.com",
             "ads.iforex.com",
             "ads.ihaberadserver.com",
-            "ads.imdb.com",
+            "ads.imdb.com"
+        ],
+        "to_test": [
             "ads.imposibil.ro",
             "ads.in.gr",
             "ads.incmd10.com",
