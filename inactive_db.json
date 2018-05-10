@@ -4065,9 +4065,7 @@
             "abcnews.footprint.net",
             "abconstructions.us",
             "abcpharmx.org",
-            "abcsearch4u.com"
-        ],
-        "to_test": [
+            "abcsearch4u.com",
             "abdelach.com",
             "abdicate.fj.cn",
             "abdicate.jl.cn",
@@ -4137,6 +4135,7 @@
             "ablough.com",
             "abmindwebac.com",
             "abmmrvthjr.com",
+            "abmuctymq.top",
             "abnbb.com",
             "abnbusinessgroup.com",
             "abnhoyel.com",
@@ -4147,6 +4146,7 @@
             "abonne-mobilefree-fr.info",
             "abonnement-xboxlive.fr",
             "abonnementxbox-live.fr",
+            "abonnementxboxlive.net",
             "abonosvivos.net",
             "aboput-lloydstsb-security.co.uk",
             "aboriginalsecret.com",
@@ -4212,6 +4212,7 @@
             "absolute-porn-tgp.com",
             "absolutecameron.com",
             "absolutedlst.com",
+            "absolutefinestproduce.com.br",
             "absolutegames.net",
             "absolutely-clean-up-pc-errors.com",
             "absolutelyanalog.com",
@@ -4246,6 +4247,7 @@
             "academiasjanseara.com.br",
             "academiebooks.org",
             "academyofbartending.org",
+            "acads.net",
             "acaifrutodamazonia.com.br",
             "acananmdaf.com",
             "acbet.lalorshop.com",
@@ -4337,7 +4339,9 @@
             "accounnt-apple.com",
             "accounst-transactions.com",
             "account-acces-singin.com",
-            "account-autentic.com",
+            "account-autentic.com"
+        ],
+        "to_test": [
             "account-bank-of-america.com",
             "account-cc-info.info",
             "account-central.com",
