@@ -6835,9 +6835,7 @@
             "adserver.geizkragen.de",
             "adserver.gr",
             "adserver.gtg.sc",
-            "adserver.gunaxin.com"
-        ],
-        "to_test": [
+            "adserver.gunaxin.com",
             "adserver.harvestadsdepot.com",
             "adserver.hi-m.de",
             "adserver.highspeedtesting.com",
@@ -6845,6 +6843,7 @@
             "adserver.hispavista.com",
             "adserver.hk.outblaze.com",
             "adserver.hol.gr",
+            "adserver.hostinteractive.com",
             "adserver.ifmagazine.com",
             "adserver.ign.com",
             "adserver.ilounge.com",
@@ -6865,6 +6864,7 @@
             "adserver.magelan.it",
             "adserver.manutd.com",
             "adserver.medialoopsa.com",
+            "adserver.mmoguru.com",
             "adserver.monster.com",
             "adserver.monstersandcritics.com",
             "adserver.motonews.pl",
@@ -6900,7 +6900,6 @@
             "adserver.shizzlehost.com",
             "adserver.singnet.com",
             "adserver.smashtv.com",
-            "adserver.softwareonline.com",
             "adserver.startnow.com",
             "adserver.synergetic.de",
             "adserver.telalink.net",
@@ -6992,7 +6991,6 @@
             "adsolution-2016.info",
             "adsor.openrunner.com",
             "adspidernow.info",
-            "adspiro.pl",
             "adsports.co.kr",
             "adspr.haber7.net",
             "adsr3pg.com.br",
@@ -7018,7 +7016,9 @@
             "adsspace.net",
             "adstage.ticketmaster.com",
             "adstat.fgsta.com",
-            "adstatic.ameba.jp",
+            "adstatic.ameba.jp"
+        ],
+        "to_test": [
             "adstockrenewables.com",
             "adstockxplore.com",
             "adstream1.integra.fr",
