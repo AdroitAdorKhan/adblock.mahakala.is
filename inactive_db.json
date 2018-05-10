@@ -5732,9 +5732,7 @@
             "ads.3dgames.com.ar",
             "ads.4gifs.com",
             "ads.666network.com",
-            "ads.6arab.com"
-        ],
-        "to_test": [
+            "ads.6arab.com",
             "ads.7days.ae",
             "ads.91s.com",
             "ads.9mp.ro",
@@ -5757,6 +5755,7 @@
             "ads.adhostcenter.com",
             "ads.adhostingsolutions.com",
             "ads.adiquity.com",
+            "ads.adjet.de",
             "ads.adman.gr",
             "ads.admaximize.com",
             "ads.admixer.co.kr",
@@ -5859,7 +5858,6 @@
             "ads.bullchat.eu",
             "ads.burstly.com",
             "ads.burstnet.com",
-            "ads.buscape.com.mx",
             "ads.buysellads.com",
             "ads.buzzcity.net",
             "ads.buzzfeed.com",
@@ -5869,7 +5867,6 @@
             "ads.camfuze.com",
             "ads.cardea.se",
             "ads.cardplayer.com",
-            "ads.carltononline.com",
             "ads.carrieriq.com",
             "ads.cartoonnetwork.com",
             "ads.casee.cn",
@@ -5878,7 +5875,6 @@
             "ads.cauly.co.kr",
             "ads.cdfreaks.com",
             "ads.cdnow.com",
-            "ads.centerstage.net",
             "ads.cgi.enthusiastonline.com",
             "ads.chalomumbai.com",
             "ads.chartbeat.com",
@@ -5931,7 +5927,9 @@
             "ads.dailyclicks.net",
             "ads.daleclick.com.ar",
             "ads.danni.com",
-            "ads.danworld.net",
+            "ads.danworld.net"
+        ],
+        "to_test": [
             "ads.darkhardware.com",
             "ads.dbforums.com",
             "ads.ddj.com",
