@@ -7214,9 +7214,7 @@
             "adv.netshelter.net",
             "adv.novo.lv",
             "adv.surinter.net",
-            "adv.svd.se"
-        ],
-        "to_test": [
+            "adv.svd.se",
             "adv.tf1.fr",
             "adv.visitweb.com",
             "adv0005.247realmedia.com",
@@ -7230,7 +7228,6 @@
             "advance-security-alert-request-support.info",
             "advance-system-optimisation-critical-controlreport.info",
             "advance-systemalert-error12baca-trojandec.info",
-            "advance.zarca.net",
             "advanceacademyestheticmededu.us",
             "advanceboy.info",
             "advanced-axioms.com",
@@ -7295,6 +7292,7 @@
             "advertising-odds.info",
             "advertising-power.info",
             "advertising-security.info",
+            "advertising.guildlaunch.net",
             "advertising.mortgagebankers.org",
             "advertising.ninemsn.com.au",
             "advertising.zenit.org",
@@ -7406,7 +7404,9 @@
             "aeaio.com",
             "aeboet.com",
             "aecma-international.org",
-            "aeconsulting.co.kr",
+            "aeconsulting.co.kr"
+        ],
+        "to_test": [
             "aed4uozi.com",
             "aedilhaimushkiil.xyz",
             "aeep.com.au",
