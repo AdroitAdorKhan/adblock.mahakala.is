@@ -5692,9 +5692,7 @@
             "flowclothingcompany.com",
             "flowecs.com",
             "flower-delivery-israel.com",
-            "flower-online.petrovka.info"
-        ],
-        "to_test": [
+            "flower-online.petrovka.info",
             "flowercreation.com.sg",
             "flowerlife.info",
             "flowers-finland.com",
@@ -5711,6 +5709,7 @@
             "flowersinfairyland.com",
             "flowerstogreece.com",
             "flowervary.com",
+            "flowerxpo.top",
             "flowet.us",
             "flowfakes.com",
             "flowheld.com",
@@ -5731,7 +5730,6 @@
             "fluxnewsletter.net",
             "fluxpay.net",
             "flv.hs3dmr.com",
-            "flv.ytshuirun.com",
             "flvplayer-setup.com",
             "flvprocedure.com",
             "flvxplayer.maynemyltf.netdna-cdn.com",
@@ -5819,6 +5817,7 @@
             "focus.fairweatherleatherworks.com",
             "focus.topsoftwareguide.com",
             "focusedvisual.com",
+            "fodder.tc.qq.com",
             "foegtra.com",
             "foegtra.net",
             "fogcu.com",
@@ -5866,6 +5865,7 @@
             "fondopatrimonial.com",
             "fondos.paraelpc.com",
             "fone4d.com",
+            "fonecta.leiki.com",
             "fontanilleq.com",
             "fonteay.com",
             "foo6bordelsonthenet.info",
@@ -5881,7 +5881,9 @@
             "foodtolerance.com",
             "fooperight.top",
             "foorker.com",
-            "footarepu.top",
+            "footarepu.top"
+        ],
+        "to_test": [
             "football-brasil.com",
             "footballfanmerchandise.com",
             "footbox-game.org",
