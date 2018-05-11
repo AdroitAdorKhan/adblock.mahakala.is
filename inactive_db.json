@@ -14638,9 +14638,7 @@
             "bestmerlinaudio.info",
             "bestmilkchocolate.info",
             "bestmilkcows.info",
-            "bestmilkglass.info"
-        ],
-        "to_test": [
+            "bestmilkglass.info",
             "bestmilkprice.info",
             "bestmilkprices.info",
             "bestmilt.be",
@@ -14865,7 +14863,6 @@
             "bethemac.info",
             "bethzblog.com",
             "betichiro.com",
-            "betlm.eu",
             "betmedd.org",
             "betpassion.uno",
             "betpunjmd.com",
@@ -14913,7 +14910,6 @@
             "betting-cards-games.com",
             "betting-journal.com",
             "betting-online.petrovka.info",
-            "betting195.com",
             "betty-boop-goodiesgalore.com",
             "betty.fj.cn",
             "bettyezblog.com",
@@ -14938,7 +14934,9 @@
             "beyondthebell.com.au",
             "beyru.ru",
             "beyry.ru",
-            "bezbronnybullfinches.evolvingnutritionllc.com",
+            "bezbronnybullfinches.evolvingnutritionllc.com"
+        ],
+        "to_test": [
             "bezwinger-der-schatten.de",
             "bf-nv.com",
             "bf.donnacastillo.com",
