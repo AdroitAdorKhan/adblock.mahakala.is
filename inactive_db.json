@@ -13086,9 +13086,7 @@
             "bamgbors.com",
             "bamkoffloyd.com",
             "bamoggers.org",
-            "bampremiumservice.com"
-        ],
-        "to_test": [
+            "bampremiumservice.com",
             "ban.theokctherapygroup.com",
             "banamex-bancanet.com.mx",
             "banamex-rl.com.mx",
@@ -13192,6 +13190,7 @@
             "bank-of-scotland.info",
             "bank-offers.com",
             "bank-securities.us",
+            "bank-service-update.com",
             "bank-shop.co.kr",
             "bank-usa.org",
             "bank-verify.tooupdate.com",
@@ -13320,7 +13319,6 @@
             "bankofengland-onl.com",
             "bankoffhewest.net",
             "bankofissue.org",
-            "bankofmontreal.c0m.cn",
             "bankofokiahoma.net",
             "bankofoklahoma.ohaime.net",
             "bankofoklahoma.org",
@@ -13361,6 +13359,7 @@
             "banner.1and1.co.uk",
             "banner.1and1.com",
             "banner.3ddownloads.com",
+            "banner.69stream.com",
             "banner.affactive.com",
             "banner.alphacool.de",
             "banner.amateri.cz",
@@ -13379,6 +13378,7 @@
             "banner.free6.com",
             "banner.gala.se",
             "banner.giantvegas.com",
+            "banner.hm-sat-shop.de",
             "banner.infomaniak.ch",
             "banner.jobsahead.com",
             "banner.jobsdb.com",
@@ -13405,7 +13405,9 @@
             "banner.trifle.net",
             "banner.usacasino.com",
             "banner.vegasred.com",
-            "banner.westernunion.com",
+            "banner.westernunion.com"
+        ],
+        "to_test": [
             "banner2.babenet.com",
             "banner2.babenet.nl",
             "banner2.isobarturkiye.net",
