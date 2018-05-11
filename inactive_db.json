@@ -3317,9 +3317,7 @@
             "ew3pl3.info",
             "ew8.co.uk",
             "ewa-chodakowska-dieta.pl",
-            "ewamu.net"
-        ],
-        "to_test": [
+            "ewamu.net",
             "ewbloodfun.com",
             "ewcca.org",
             "ewcost.com",
@@ -3505,7 +3503,6 @@
             "experienceson.com",
             "experiencetoolbar.com",
             "experiencetoward.net",
-            "experienciaaire.com.ar",
             "experimentquestion.com",
             "experimentstudy.com",
             "expertantivirus.com",
@@ -3607,7 +3604,9 @@
             "extreme-virgins.com",
             "extreme4x4.net.au",
             "extremeairstore.com",
-            "extremeaudionm.com",
+            "extremeaudionm.com"
+        ],
+        "to_test": [
             "extremeintelligencesoftware.com",
             "extremelola.net",
             "extremelyblessed.myjino.ru",
