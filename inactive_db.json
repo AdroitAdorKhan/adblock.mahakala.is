@@ -24501,9 +24501,7 @@
             "dealright.click",
             "dealsnshoes.com",
             "dealssearch.net",
-            "dealsters.biz"
-        ],
-        "to_test": [
+            "dealsters.biz",
             "dealsters.us",
             "dealsuffix.com",
             "dealsuzuki.com",
@@ -24722,12 +24720,14 @@
             "delivery.bannerd.ru",
             "delivery.bluefinmediaads.com",
             "delivery.ipvertising.com",
+            "delivery.optimatic.com",
             "delivery.racingpost.com",
             "delivery.reklamz.com",
             "delivery.serve.bluelinkmarketing.com",
             "delivery.simplytechnology.net",
             "delivery.uasdel.com",
             "delivery.w00tads.com",
+            "delivery.wasu.cn",
             "deliverymedication.com",
             "dell.gelendwagensjeeps.info",
             "dell.jobpeopleforums.info",
@@ -24758,7 +24758,9 @@
             "delspam.org",
             "delta-a1.tucows.com",
             "delta-time.net",
-            "deltaforcing.com",
+            "deltaforcing.com"
+        ],
+        "to_test": [
             "deltainccompany.info",
             "deltauk.info",
             "deltrok.biz",
