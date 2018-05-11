@@ -7737,9 +7737,7 @@
             "game-software.net",
             "game-talker.com",
             "game-top.info",
-            "game-top.org"
-        ],
-        "to_test": [
+            "game-top.org",
             "game.adictiz.com",
             "game.cuisineaz.com",
             "game.demiononline.nl",
@@ -7767,6 +7765,7 @@
             "gamecodegenerator.com",
             "gamecopycracks.com",
             "gamecrack2013.com",
+            "gamecracks.getinformationabout.com",
             "gameflect.com",
             "gamefluke.com",
             "gamefly1.gameflycdn.com",
@@ -7856,7 +7855,9 @@
             "games.rtl.be",
             "games.sc42.info",
             "games.scd.yahoo.com",
-            "games.sk",
+            "games.sk"
+        ],
+        "to_test": [
             "games.stupid.com",
             "games.swirve.com",
             "games.terra.es",
