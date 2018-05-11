@@ -10533,13 +10533,12 @@
             "apie-apple.com",
             "apifx9.com",
             "apikomindo.net",
-            "apinpal.com"
-        ],
-        "to_test": [
+            "apinpal.com",
             "apiparbion.com",
             "apis.sharethrough.com",
             "apjikatoi.info",
             "apjpfacebook.com",
+            "apk.static.youmi.net",
             "apkandroidhack.com",
             "apkhackz.com",
             "apkplaystore.in",
@@ -10598,7 +10597,6 @@
             "app.onlinecustomer-home-service.app.update.ten-four.com",
             "app.passionfruitads.com",
             "app.pho8.com",
-            "app.riolabz.com",
             "app.seojee.com",
             "app.serviceaccount.support.skumarsangit.com",
             "app.store.appie.webapp-my-icloud.com",
@@ -10844,6 +10842,7 @@
             "apple-kr.com",
             "apple-last.com",
             "apple-lcloud.name",
+            "apple-lclouds.com",
             "apple-ldverify.com",
             "apple-leyc.com",
             "apple-licid.com",
@@ -10987,7 +10986,9 @@
             "apple.com-notice.info",
             "apple.com-onlinesupport.host",
             "apple.com-onlinesupport.site",
-            "apple.com-safetyalert.com",
+            "apple.com-safetyalert.com"
+        ],
+        "to_test": [
             "apple.com-supportcenter.pro",
             "apple.com-supportcenter.website",
             "apple.com-update.l0gin.information-nd738nd8dnc7d9ejd6d5ne6dnd6ir46474h8.controle.gr",
