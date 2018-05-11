@@ -18709,9 +18709,7 @@
             "cdn3.blackberryempire.com",
             "cdn3.picadmedia.com",
             "cdn3.urbanmusichq.se",
-            "cdn4-ref.landing.comcontent.net"
-        ],
-        "to_test": [
+            "cdn4-ref.landing.comcontent.net",
             "cdn4.urbanmusichq.se",
             "cdn5-ref.landing.comcontent.net",
             "cdn6-ref.landing.comcontent.net",
@@ -18849,7 +18847,6 @@
             "center-resolution-resolved.com",
             "center-resolve.com.secure-update.xyz",
             "center-security.us",
-            "center.zarca.net",
             "centeradult.com",
             "centeraspiration.com",
             "centerbak.com",
@@ -18885,7 +18882,9 @@
             "centralmyfile.com",
             "centralohiodj.info",
             "centralohiotoday.info",
-            "centralohiotopsoil.info",
+            "centralohiotopsoil.info"
+        ],
+        "to_test": [
             "centre-compte.com",
             "centrealbank.info",
             "centrefrance-ca.com",
