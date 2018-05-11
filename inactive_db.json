@@ -13572,9 +13572,7 @@
             "barclaysbanksonline.com",
             "barclaysgroupmorocco.info",
             "barclaysonline-uk.com",
-            "barclaysonline.su"
-        ],
-        "to_test": [
+            "barclaysonline.su",
             "barclaysspecialsecurity.com",
             "barclaysusers.ru",
             "barclayswm.com",
@@ -13657,6 +13655,7 @@
             "basketsexotica.com",
             "baskinsteal.info",
             "basorp.com",
+            "baspro.com.au",
             "basrim.com",
             "bastards100.com",
             "bastavsem.info",
@@ -13738,7 +13737,9 @@
             "bb.conta-atualizada.com.br",
             "bb.mobile.apksms.com",
             "bb.portaldoclientebbatendimento.com",
-            "bb.servicoscelular.com.br",
+            "bb.servicoscelular.com.br"
+        ],
+        "to_test": [
             "bb01abc4net.com",
             "bb2-us.info",
             "bb8816b6a6.com",
