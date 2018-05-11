@@ -5481,9 +5481,7 @@
             "fixedmyslowpc.co.in",
             "fixedsearch.com",
             "fixedyourissue.co.in",
-            "fixerr0066.xyz"
-        ],
-        "to_test": [
+            "fixerr0066.xyz",
             "fixerrorresolved.co.in",
             "fixingrg.com",
             "fixio-pc-cleaner.com",
@@ -5576,7 +5574,6 @@
             "flashgames.to",
             "flashgamesdatabase.com",
             "flashgamesinc.com",
-            "flashghetto.pl",
             "flashkof.free.fr",
             "flashnaruto.com",
             "flashoo.fr",
@@ -5664,7 +5661,6 @@
             "flonase.3.p2l.info",
             "flonase.4.p2l.info",
             "floor-cloths.com",
-            "floor-inspector.com",
             "floor-teens.com",
             "floorappreciation.com",
             "floorkind.com",
@@ -5696,7 +5692,9 @@
             "flowclothingcompany.com",
             "flowecs.com",
             "flower-delivery-israel.com",
-            "flower-online.petrovka.info",
+            "flower-online.petrovka.info"
+        ],
+        "to_test": [
             "flowercreation.com.sg",
             "flowerlife.info",
             "flowers-finland.com",
