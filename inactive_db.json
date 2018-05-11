@@ -20408,9 +20408,7 @@
             "clicktracker.postmasterglobal.com",
             "clicktracks.aristotle.net",
             "clicktrafficbroker.info",
-            "clicktrafficfinder.info"
-        ],
-        "to_test": [
+            "clicktrafficfinder.info",
             "clickultimateguide.info",
             "clickusadirect.info",
             "clickut.com.br",
@@ -20422,6 +20420,7 @@
             "clidevteam.id",
             "clien.info",
             "client-bereich.de",
+            "client-billing-amazon.com",
             "client-confirmation.com",
             "client-earthlink.com",
             "client-freemobile-cfr.com",
@@ -20431,7 +20430,6 @@
             "client-service-app.com",
             "client-servicezones.com",
             "client-verify.adtricity.com",
-            "client.roiadtracker.com",
             "client.singupforporno.com",
             "client104155.com",
             "client142552.com",
@@ -20603,7 +20601,9 @@
             "clubfreemac.info",
             "clubgrandcasino.org",
             "clubhuemul.cl",
-            "clubjuegosonline.com",
+            "clubjuegosonline.com"
+        ],
+        "to_test": [
             "clubof-dating.com",
             "clubof-dating.net",
             "clubofdating.net",
