@@ -1028,9 +1028,7 @@
             "e30707e5021e12a.com",
             "e3ozz.alldownloads.hapc.gdn",
             "e3x.be",
-            "e3yt5.at-band-camp.net"
-        ],
-        "to_test": [
+            "e3yt5.at-band-camp.net",
             "e447aa2.com",
             "e45-cvb.cashixirbozdur.com",
             "e48uvu.boro.katsujinken.co.uk",
@@ -1208,6 +1206,7 @@
             "easyanti-cheat.com",
             "easyantispy.com",
             "easyautohajj.com",
+            "easyball.de",
             "easyboxhosting.com",
             "easybuydx.info",
             "easycheat.org",
@@ -1319,6 +1318,7 @@
             "ebay-centers.com",
             "ebay-client.com",
             "ebay-co.org",
+            "ebay-confirm.com",
             "ebay-confirmation-summary.org",
             "ebay-confirmation.com",
             "ebay-customer-validate.info",
@@ -1379,7 +1379,9 @@
             "ebay-zm.com",
             "ebay-zt.com",
             "ebay.acconto.sigin.it.jetblackdesign.com",
-            "ebay.bucketlist-shop.com",
+            "ebay.bucketlist-shop.com"
+        ],
+        "to_test": [
             "ebay.doubleclick.net",
             "ebay.it.ws.it.mezarkabristanisleri.com",
             "ebay.motors.selectarh.com.br",
