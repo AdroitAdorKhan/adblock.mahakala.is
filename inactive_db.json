@@ -13405,9 +13405,7 @@
             "banner.trifle.net",
             "banner.usacasino.com",
             "banner.vegasred.com",
-            "banner.westernunion.com"
-        ],
-        "to_test": [
+            "banner.westernunion.com",
             "banner2.babenet.com",
             "banner2.babenet.nl",
             "banner2.isobarturkiye.net",
@@ -13424,6 +13422,7 @@
             "banners.777-xxx.com",
             "banners.amateurtour.com",
             "banners.amoestecuzinho.com",
+            "banners.anunciweb.pt",
             "banners.apnuk.com",
             "banners.babylon-boy.com",
             "banners.babylon-x.org",
@@ -13460,6 +13459,7 @@
             "banners.japantoday.com",
             "banners.kfmb.com",
             "banners.krsk.ru",
+            "banners.lativio.com",
             "banners.lifeserv.com",
             "banners.looksmart.com",
             "banners.mobilesidewalk.com",
@@ -13507,6 +13507,7 @@
             "banwitheritage.us",
             "banwithheritage.com",
             "bao247.top",
+            "baodsajky.top",
             "baolinyouxipingtai.com",
             "baoshlda.com",
             "bapoyxaqpx.net",
@@ -13517,6 +13518,7 @@
             "bar.mytotalsearch.com",
             "bar.mywebsearch.com",
             "bar.osandaneminda.com",
+            "bar.piano-media.com",
             "bar2.shinobi.jp",
             "bar3.shinobi.jp",
             "bar4.shinobi.jp",
@@ -13570,7 +13572,9 @@
             "barclaysbanksonline.com",
             "barclaysgroupmorocco.info",
             "barclaysonline-uk.com",
-            "barclaysonline.su",
+            "barclaysonline.su"
+        ],
+        "to_test": [
             "barclaysspecialsecurity.com",
             "barclaysusers.ru",
             "barclayswm.com",
