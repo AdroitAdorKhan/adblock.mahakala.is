@@ -22465,9 +22465,7 @@
             "counter.zerohedge.com",
             "counter1.xoom.com",
             "counter2.condenast.it",
-            "counter2.xoom.com"
-        ],
-        "to_test": [
+            "counter2.xoom.com",
             "counter4.xoom.com",
             "counter4all.de",
             "counterad.de",
@@ -22482,7 +22480,6 @@
             "countrybiz.org",
             "countrycollectionsvirginia.com",
             "countrycraftsbyvivian.com",
-            "countryinthecity.net",
             "countryintuition.com",
             "countrysecond.com",
             "countrysmiles.net",
@@ -22515,6 +22512,7 @@
             "coutbart.com",
             "cova.ambassadeurtjacovandenhout.eu",
             "covaee.com.mx",
+            "covai.stallioni.in",
             "coventrymedcare.com",
             "cover-games.fr",
             "cover.m2y.siemens.ch",
@@ -22649,7 +22647,9 @@
             "craigslist-support-message.esy.es",
             "craigslist.account.verification.topmcf.com",
             "craigsls.com",
-            "cramboe.com",
+            "cramboe.com"
+        ],
+        "to_test": [
             "crankyalice.com.au",
             "cranstoncorp.com",
             "crap2.com",
