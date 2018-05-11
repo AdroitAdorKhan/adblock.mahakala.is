@@ -18882,9 +18882,7 @@
             "centralmyfile.com",
             "centralohiodj.info",
             "centralohiotoday.info",
-            "centralohiotopsoil.info"
-        ],
-        "to_test": [
+            "centralohiotopsoil.info",
             "centre-compte.com",
             "centrealbank.info",
             "centrefrance-ca.com",
@@ -19269,7 +19267,9 @@
             "changlimited.com",
             "chaniafood.gr",
             "channel-pakistan.info",
-            "channel17news.com",
+            "channel17news.com"
+        ],
+        "to_test": [
             "chantal-carlioz.fr",
             "chanukah-hotrod.biz",
             "chanukah-women.biz",
