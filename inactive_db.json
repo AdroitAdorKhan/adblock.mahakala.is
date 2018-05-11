@@ -13737,14 +13737,13 @@
             "bb.conta-atualizada.com.br",
             "bb.mobile.apksms.com",
             "bb.portaldoclientebbatendimento.com",
-            "bb.servicoscelular.com.br"
-        ],
-        "to_test": [
+            "bb.servicoscelular.com.br",
             "bb01abc4net.com",
             "bb2-us.info",
             "bb8816b6a6.com",
             "bbadddysoft.com",
             "bbadddysoft.net",
+            "bballgoals.com",
             "bbazaar.us",
             "bbbakemegood24.com",
             "bbbigsex.com",
@@ -13795,6 +13794,7 @@
             "bbtguag.biz",
             "bbtguag.com",
             "bbtonlinebanking.us",
+            "bbuacomtlnemtalpe.net",
             "bbuacontinental.pe.hu",
             "bbva-continental-pe.securepe.net",
             "bbva-continetal.ml",
@@ -13931,6 +13931,7 @@
             "beacon.richrelevance.com",
             "beacon.saymedia.com",
             "beacon.search.yahoo.com",
+            "beacon.thred.woven.com",
             "beacon.videoegg.com",
             "beacon.www.theguardian.com",
             "beacons.helium.com",
@@ -13941,7 +13942,9 @@
             "beads.rebolledo.cl",
             "beadsandmasks.com",
             "beadsbybarb.com",
-            "beadsofavalon.com",
+            "beadsofavalon.com"
+        ],
+        "to_test": [
             "beajne.com",
             "bealterego.info",
             "beamark.noiselolpainoff.com",
