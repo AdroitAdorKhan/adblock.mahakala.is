@@ -5966,9 +5966,7 @@
             "qpxxhyzwae.ce.ms",
             "qq-7758.cn",
             "qq-sky.net",
-            "qq-uc.cn"
-        ],
-        "to_test": [
+            "qq-uc.cn",
             "qq.kyl.rocks",
             "qq117cc.cn",
             "qq5108.cn",
@@ -6007,6 +6005,7 @@
             "qtwu1.com",
             "quaast1.com",
             "quadesl.net",
+            "quadhifi.nl",
             "quadpro.in",
             "quadrogram.com",
             "quaetry.com",
@@ -6082,6 +6081,7 @@
             "Question2Answer.com",
             "questionamong.com",
             "questionprint.com",
+            "questions-reponses.net",
             "questionspourunchampion.france3.fr",
             "questiontail.com",
             "questorintra.net",
@@ -6191,7 +6191,9 @@
             "qwe.fepewakomol.me",
             "qwe.fepewakomol.net",
             "qwe.fepewakomol.org",
-            "qwe.fepewakomol.website",
+            "qwe.fepewakomol.website"
+        ],
+        "to_test": [
             "qwe.fepewakomol.xyz",
             "qwe.fepewakomols.com",
             "qwe.fepewakomols.net",
