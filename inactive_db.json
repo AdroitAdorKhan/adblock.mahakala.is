@@ -9830,9 +9830,7 @@
             "scr-en.us",
             "scr-paypal.co.uk",
             "scr-usser-processing.info",
-            "scr3en.com"
-        ],
-        "to_test": [
+            "scr3en.com",
             "scrabble.malcolmboyd.net",
             "scramlotts.org",
             "scrapbookersclubhouse.com",
@@ -9888,7 +9886,6 @@
             "scuritycheck-acct-25687.esy.es",
             "sd-2556.dedibox.fr",
             "sd.5.p2l.info",
-            "sd.play.com",
             "sd1027.sivit.org",
             "sd11d176.com",
             "sd1kalirejokudus.sch.id",
@@ -10024,7 +10021,9 @@
             "seamastersoft.com",
             "seamaterial.com",
             "seams2be.com",
-            "seanksutton.com",
+            "seanksutton.com"
+        ],
+        "to_test": [
             "search--control.com",
             "search--here.info",
             "search-1.net",
