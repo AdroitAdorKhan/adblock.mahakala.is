@@ -4151,9 +4151,7 @@
             "postcards-4.com",
             "postcards-6.com",
             "postcardsbargain.com",
-            "postcardssite.com"
-        ],
-        "to_test": [
+            "postcardssite.com",
             "postcardvirtual.com",
             "postcodi.com",
             "poste-italiano.com",
@@ -4225,7 +4223,6 @@
             "pousadadestinocerto.com.br",
             "pousadagastronomica.com.br",
             "pousadapontalparaty.tur.br",
-            "poushaketabriz.ir",
             "pouyainstitute.ir",
             "pouypalsu.com",
             "poverty.tutoner.tk",
@@ -4336,7 +4333,6 @@
             "pp.pplproblems.com",
             "pp1329.com",
             "pp4sale.net",
-            "ppaa.tly331.pw",
             "ppal-dsl-cgi.com",
             "ppal-form-ssl.com",
             "ppal87.com",
@@ -4472,7 +4468,9 @@
             "premierpharmacyworld.com",
             "premierpillonline.com",
             "premiertonez.net",
-            "premiobizz.com.br",
+            "premiobizz.com.br"
+        ],
+        "to_test": [
             "premium-linkz.com",
             "premium-live-scan.com",
             "premium-online-scan.com",
