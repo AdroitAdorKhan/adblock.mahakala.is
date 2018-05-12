@@ -14114,9 +14114,7 @@
             "image-prntscr.com",
             "image-save.net",
             "image-screenshot.com",
-            "image-web.in"
-        ],
-        "to_test": [
+            "image-web.in",
             "image.adagogo.com",
             "image.adiquity.com",
             "image.admarvel.com",
@@ -14213,6 +14211,7 @@
             "images.bearscientific-cn.com",
             "images.bidmath.com",
             "images.blogads.com",
+            "images.blogomer.com",
             "images.bluetime.com",
             "images.bravenet.de",
             "images.bryghtads.com",
@@ -14243,7 +14242,6 @@
             "images.mobiletheory.com",
             "images.mojiva.com",
             "images.motiveinteractive.com",
-            "images.newsx.cc",
             "images.nytimes.com",
             "images.pioneertanksus.com",
             "images.placeplay.com",
@@ -14337,7 +14335,9 @@
             "img.hitexchange.net",
             "img.hostmonster.com",
             "img.jshbyn.com",
-            "img.meipic.net",
+            "img.meipic.net"
+        ],
+        "to_test": [
             "img.qrsw.net",
             "img.securesoft.info",
             "img.soft.mail.ru",
