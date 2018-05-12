@@ -4468,9 +4468,7 @@
             "premierpharmacyworld.com",
             "premierpillonline.com",
             "premiertonez.net",
-            "premiobizz.com.br"
-        ],
-        "to_test": [
+            "premiobizz.com.br",
             "premium-linkz.com",
             "premium-live-scan.com",
             "premium-online-scan.com",
@@ -4669,7 +4667,6 @@
             "privaci-protec-org.hol.es",
             "privacidadgarantizada.com",
             "privacy-notice.myjino.ru",
-            "privacy-scanner.com",
             "privacy-support.biz",
             "privacy-watcher.com",
             "privacyconductor.com",
@@ -4744,7 +4741,9 @@
             "pro-vigrax.com",
             "pro-vigrax.org",
             "pro.adulttubeporno.com",
-            "pro.i-doctor.co.kr",
+            "pro.i-doctor.co.kr"
+        ],
+        "to_test": [
             "pro.paysdeforbach.com",
             "pro.rabby45.xyz",
             "pro400euro.de",
