@@ -23419,9 +23419,7 @@
             "mencontinue.com",
             "mencutfienda.cn",
             "menda.com.au",
-            "mendinself.com"
-        ],
-        "to_test": [
+            "mendinself.com",
             "menhealthsite.com",
             "menicafe.com.au",
             "menmashe.gemm.com",
@@ -23622,7 +23620,9 @@
             "meuironline.com.br",
             "meumimo.net.br",
             "meuorkut.info",
-            "meuphpgratis.com.br",
+            "meuphpgratis.com.br"
+        ],
+        "to_test": [
             "mevelatones.com",
             "mewetuor.com",
             "mewschevolds.com",
