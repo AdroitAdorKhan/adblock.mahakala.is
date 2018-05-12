@@ -23142,9 +23142,7 @@
             "medicalnewcharacter.com",
             "medicalnewweek.com",
             "medicalproductsagency.com",
-            "medicalremedyzone.com"
-        ],
-        "to_test": [
+            "medicalremedyzone.com",
             "medicalworldinc.eu",
             "medicalworldlink.eu",
             "medicaredrugmart.com",
@@ -23230,7 +23228,6 @@
             "meetinger.in",
             "meetingsfunfun.com",
             "meetnewbabes.com",
-            "mefa.ws",
             "meg48.com",
             "mega-adult.com",
             "mega-bony-2017.pl",
@@ -23422,7 +23419,9 @@
             "mencontinue.com",
             "mencutfienda.cn",
             "menda.com.au",
-            "mendinself.com",
+            "mendinself.com"
+        ],
+        "to_test": [
             "menhealthsite.com",
             "menicafe.com.au",
             "menmashe.gemm.com",
