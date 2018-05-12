@@ -495,9 +495,7 @@
             "p0rt2.com",
             "p0stbank.net",
             "p1.adhitzads.com",
-            "p1.pool2.staticadsl.iconz.net.nz"
-        ],
-        "to_test": [
+            "p1.pool2.staticadsl.iconz.net.nz",
             "p102.ezboard.com",
             "p104211.tagsrv.com",
             "p1937.ic-live.com",
@@ -779,6 +777,7 @@
             "paircrease.com",
             "pairedpixels.com",
             "pairlegacy.com",
+            "pairprogress.com",
             "pairsure.com",
             "paiuuag.net",
             "paix1.sc1.admob.com",
@@ -804,6 +803,7 @@
             "pal-datapp.com",
             "pal-update.com",
             "palaceistanbul.com",
+            "palaiswachsberg.de",
             "palamitism.tradingareus.com",
             "palaooput.com",
             "palaparthy.com",
@@ -813,6 +813,7 @@
             "paleousegbh.com",
             "palert-changed.com",
             "palestine-dns.org",
+            "palittnagu.com",
             "paliwo.as9.pl",
             "palkunden.info",
             "palmaregsm.info",
@@ -826,7 +827,9 @@
             "pamela-sandersin.info",
             "pamelacompany.co.uk",
             "pametneigre.com",
-            "pamfletul.us",
+            "pamfletul.us"
+        ],
+        "to_test": [
             "pampere.org",
             "pamphlet.qw361.com",
             "pamswebcams.com",
