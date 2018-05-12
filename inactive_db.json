@@ -9142,9 +9142,7 @@
             "safe-whois.com",
             "safe.bestapps.com-protection.info",
             "safe.nfusehaircare.com",
-            "safe4net.net"
-        ],
-        "to_test": [
+            "safe4net.net",
             "safeagent.cloud",
             "safeappz.org",
             "safeboxx.kiddibargains.com",
@@ -9363,7 +9361,9 @@
             "sandiegodogadoptionrescue.com",
             "sandiegolatinas.us",
             "sandiltd.ge",
-            "sandixbufe.com",
+            "sandixbufe.com"
+        ],
+        "to_test": [
             "sandra.sanchitatiwari.com",
             "sandracounter.com",
             "sandrieprivates.com",
