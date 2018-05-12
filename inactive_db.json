@@ -1039,9 +1039,7 @@
             "partner.catchy.com",
             "partner.coprosper.com",
             "partner.finditquick.com",
-            "partner.gonamic.de"
-        ],
-        "to_test": [
+            "partner.gonamic.de",
             "partner.topcities.com",
             "partner.zooplus.de",
             "partner01.oingo.com",
@@ -1245,6 +1243,7 @@
             "paygdtpal.com",
             "paygldspal02-id.com",
             "payholdlow.com",
+            "payiipall.com",
             "payipal-service.xyz",
             "payipal.info",
             "payladpal.com",
@@ -1293,7 +1292,6 @@
             "paypai-iogin.net",
             "paypai-service.propertyperfection.net",
             "paypai-verified.ozgencemlak.com.tr",
-            "paypai.org",
             "paypail-com-summary-limited.com",
             "paypail.update.unualsign.com",
             "paypaiobject-secure.com",
@@ -1357,7 +1355,9 @@
             "paypal-com.l-pay.info",
             "paypal-comarcent-virification-id-loca.soa2016.adythree.web.id",
             "paypal-comlog-acc-resolution9911.com",
-            "paypal-commgate-updatedetails.com",
+            "paypal-commgate-updatedetails.com"
+        ],
+        "to_test": [
             "paypal-confirmation-id-pp4145570.com",
             "paypal-confirmation.service.rumahyatimnurulaitam.org",
             "paypal-costumer.com",
