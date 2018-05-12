@@ -8990,9 +8990,7 @@
             "s.ysxufeng.com",
             "s0h1nf7r3m.info",
             "s0mby6134vtqq1jr7fxz1eu9hlz.net",
-            "s0s1.net"
-        ],
-        "to_test": [
+            "s0s1.net",
             "s1.buysellads.com",
             "s1.delfilt.adocean.pl",
             "s1.eyeonmusica.it",
@@ -9021,7 +9019,6 @@
             "s1w.co",
             "s2.buysellads.com",
             "s2.gamecreds.com",
-            "s2.kuaibaopay.com",
             "s2.vendetta.fr",
             "s2.youtube.com",
             "s201.indexstats.com",
@@ -9145,7 +9142,9 @@
             "safe-whois.com",
             "safe.bestapps.com-protection.info",
             "safe.nfusehaircare.com",
-            "safe4net.net",
+            "safe4net.net"
+        ],
+        "to_test": [
             "safeagent.cloud",
             "safeappz.org",
             "safeboxx.kiddibargains.com",
