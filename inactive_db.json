@@ -827,9 +827,7 @@
             "pamela-sandersin.info",
             "pamelacompany.co.uk",
             "pametneigre.com",
-            "pamfletul.us"
-        ],
-        "to_test": [
+            "pamfletul.us",
             "pampere.org",
             "pamphlet.qw361.com",
             "pamswebcams.com",
@@ -993,6 +991,7 @@
             "parkerhacks.com",
             "parkeyo.net",
             "parkfarmsng.com",
+            "parkietserwis.pl",
             "parkpigboat.info",
             "parksub.info",
             "parkvaleuser.com",
@@ -1004,6 +1003,7 @@
             "parpills.com",
             "parranoik.com",
             "parresort.info",
+            "parrihespe.ru",
             "parrotsontheporch.com",
             "parsatejarat.ir",
             "parse.chakracentral.com",
@@ -1039,7 +1039,9 @@
             "partner.catchy.com",
             "partner.coprosper.com",
             "partner.finditquick.com",
-            "partner.gonamic.de",
+            "partner.gonamic.de"
+        ],
+        "to_test": [
             "partner.topcities.com",
             "partner.zooplus.de",
             "partner01.oingo.com",
