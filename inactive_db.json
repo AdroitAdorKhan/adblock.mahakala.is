@@ -14335,11 +14335,10 @@
             "img.hitexchange.net",
             "img.hostmonster.com",
             "img.jshbyn.com",
-            "img.meipic.net"
-        ],
-        "to_test": [
+            "img.meipic.net",
             "img.qrsw.net",
             "img.securesoft.info",
+            "img.sn00.net",
             "img.soft.mail.ru",
             "img.soulmate.com",
             "img.szsqhby.com",
@@ -14392,7 +14391,6 @@
             "imlhealthz.com",
             "immaculate.tk",
             "immarockstar.com",
-            "immcare.org",
             "immediate.mob-alerts15.com",
             "immediately-form.com",
             "immediateresponseforcomputer.com",
@@ -14411,7 +14409,6 @@
             "imobile-free-fr.info",
             "imobilecomputer.com",
             "imogenezplace.com",
-            "imoscow.net",
             "imp-ex-global.com",
             "imp-igg.com",
             "imp.adsmogo.com",
@@ -14444,7 +14441,6 @@
             "import-electronics.com",
             "import.expolit.info",
             "import.quantum-marketing-quickies.net",
-            "importadorasupplyeys.com.ve",
             "important-ebay.com",
             "important-mailll.serveftp.com",
             "important-servicewebapps.com",
@@ -14473,7 +14469,9 @@
             "impressiveintellect.com",
             "impressnow.info",
             "imprimeloconmbe.com.ve",
-            "imprintablesexpress.com",
+            "imprintablesexpress.com"
+        ],
+        "to_test": [
             "improeventos.com.ve",
             "impsnare.iesnare.com",
             "impulse-estore.co.uk",
