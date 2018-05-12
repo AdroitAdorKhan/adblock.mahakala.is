@@ -13044,9 +13044,7 @@
             "sklep.dil.pl",
             "sklep.fbb.pl",
             "sklep.semigat.pl",
-            "sklep.unimetal.pl"
-        ],
-        "to_test": [
+            "sklep.unimetal.pl",
             "skm64.com",
             "skol0k5-khb747bjg324yuodsp.yrt-iospmsxo.in",
             "skoln.cn",
@@ -13058,6 +13056,7 @@
             "skpdchennai.org",
             "skphotography.com.au",
             "skpoot.net",
+            "skqqfgodr.top",
             "skr37.com",
             "skracacz.com",
             "skracajmyto.waw.pl",
@@ -13068,6 +13067,7 @@
             "skt1.o-ren.us",
             "skt2.o-ren.us",
             "skt32.com",
+            "skutecznetabletkinaporostwlosow.pl",
             "skwarovski.biz",
             "sky-connect.adinfuse.com",
             "sky-find.net",
@@ -13165,7 +13165,9 @@
             "slimagedirect.com",
             "slimasses.info",
             "slimrepl.com",
-            "slimtoolbar.com",
+            "slimtoolbar.com"
+        ],
+        "to_test": [
             "slinerbej.com",
             "slingbackwithkr.com",
             "slinkserver.com",
