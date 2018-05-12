@@ -26806,9 +26806,7 @@
             "netapi7.name",
             "netapparition.com",
             "netballwindow.com",
-            "netbankpower.net"
-        ],
-        "to_test": [
+            "netbankpower.net",
             "netcapt.com",
             "netcasinocenter.net",
             "netcfg9.ru",
@@ -26826,6 +26824,7 @@
             "netfashion.biz",
             "netflame.cc",
             "netflix-generator.esy.es",
+            "netflix-iduser1.com",
             "netflix-membership.com",
             "netflix-refund-appleid.com",
             "netflix.activate.authkey.286322.userprofileupdates.com",
@@ -27135,7 +27134,9 @@
             "newintpharms.com",
             "newjerseysurfco.com",
             "newjuris.com.br",
-            "newlegaldrugs.com",
+            "newlegaldrugs.com"
+        ],
+        "to_test": [
             "newlights.greatnewonlinebonus.xyz",
             "newline-company.biz",
             "newlinemeds.com",
