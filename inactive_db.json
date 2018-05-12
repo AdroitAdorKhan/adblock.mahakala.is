@@ -6191,9 +6191,7 @@
             "qwe.fepewakomol.me",
             "qwe.fepewakomol.net",
             "qwe.fepewakomol.org",
-            "qwe.fepewakomol.website"
-        ],
-        "to_test": [
+            "qwe.fepewakomol.website",
             "qwe.fepewakomol.xyz",
             "qwe.fepewakomols.com",
             "qwe.fepewakomols.net",
@@ -6235,6 +6233,7 @@
             "qyingqapp.com",
             "qz.informs.com",
             "qzhegc.com",
+            "qzqzw.cn",
             "qzzbase.com",
             "r-miniclip.biz",
             "r-soft.org",
@@ -6406,11 +6405,12 @@
             "rajhomes.co.za",
             "rajkachroo.com",
             "rajspaces.com",
-            "rakosnicek.cz",
             "raktie.com",
             "raktunj.com",
             "rakuteikan.com",
-            "ralizij.com",
+            "ralizij.com"
+        ],
+        "to_test": [
             "ralva-vuurwerk.nl",
             "ram-ji.com",
             "ram.regsdoomsxeons.net",
