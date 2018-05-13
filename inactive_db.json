@@ -17600,9 +17600,7 @@
             "testing",
             "testing-p-test.com",
             "testingads.pro",
-            "testinghua.com"
-        ],
-        "to_test": [
+            "testinghua.com",
             "testme.3322.org",
             "testmyantivirus.xyz",
             "testonsecurity.net",
@@ -17829,8 +17827,8 @@
             "thebigteams.info",
             "thebigtheater.info",
             "thebigtheatre.info",
-            "TheBizMeet.com",
             "thebizmeet.com",
+            "TheBizMeet.com",
             "theblackops2hack.com",
             "theblackshothack.com",
             "theblessedbee.co.uk",
@@ -17842,7 +17840,9 @@
             "thebraworks.com",
             "thebritishmafia.com",
             "thebrothersbad.info",
-            "thebrothersgym.info",
+            "thebrothersgym.info"
+        ],
+        "to_test": [
             "thecabinetcompany.co.uk",
             "thecampsbay.info",
             "thecanadadeliverymedicines.com",
