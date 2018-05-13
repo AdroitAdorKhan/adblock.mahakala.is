@@ -17129,9 +17129,7 @@
             "te.stamfordadvocate.com",
             "te.sun-sentinel.com",
             "te.sunspot.net",
-            "te.suntimes.com"
-        ],
-        "to_test": [
+            "te.suntimes.com",
             "te.tbo.com",
             "te.wsls.com",
             "te3e.org",
@@ -17397,6 +17395,7 @@
             "tegispi.net",
             "tegustaviral.com",
             "tehlogiyafora.com",
+            "tehoassociates.com.sg",
             "tehrankhabar.ir",
             "tehranmusic242.com",
             "tehyju87yhj.in",
@@ -17406,7 +17405,9 @@
             "tekadrian.xyz",
             "tekcharles.xyz",
             "tekchuks.xyz",
-            "tekjoe.space",
+            "tekjoe.space"
+        ],
+        "to_test": [
             "teklanotis.com",
             "tekneaydinlatma.com",
             "tekno-foni.com",
