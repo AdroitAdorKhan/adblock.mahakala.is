@@ -19343,9 +19343,7 @@
             "track.msadcenter.vyp.com",
             "track.msadcenter.wmd.com",
             "track.msadcenter.won.com",
-            "track.msadcenter.xpp.com"
-        ],
-        "to_test": [
+            "track.msadcenter.xpp.com",
             "track.msadcenter.xzh.com",
             "track.msadcenter.xzwy.com",
             "track.msadcenter.yaz.com",
@@ -19380,7 +19378,6 @@
             "track.statesend.co.in",
             "track.stromfeldshippingcenters.com",
             "track.svcoffer.com",
-            "track.talarsystems.com",
             "track.the-members-section.com",
             "track.theprovision.net",
             "track.theviralconcept.com",
@@ -19402,7 +19399,6 @@
             "track.whatwhowhywhere.com",
             "track.whereflower.com",
             "track.whitespace57.com",
-            "track.www.zazzle.com",
             "track.yourmedicalpurchase.ru",
             "track.zalando.de",
             "track.zapromotions.com",
@@ -19458,6 +19454,7 @@
             "tracking.ariong.us",
             "tracking.axiatel.com",
             "tracking.baddoggiemediagroup.com",
+            "tracking.base.de",
             "tracking.beginads.com",
             "tracking.carprices.com",
             "tracking.checkmygirlfriend.net",
@@ -19496,7 +19493,9 @@
             "tracking.one-tracker.de",
             "tracking.opencandy.com",
             "tracking.paymentfindermail.net",
-            "tracking.peopletomysite.com",
+            "tracking.peopletomysite.com"
+        ],
+        "to_test": [
             "tracking.perfectwaterpurifier.net",
             "tracking.performgroup.com",
             "tracking.promiflash.de",
