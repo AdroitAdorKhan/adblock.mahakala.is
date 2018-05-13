@@ -536,9 +536,7 @@
             "www.yourautoupdatedinfo.xyz",
             "www.yourdvdplayer.com",
             "www.yourgascards.com",
-            "www.yourhandytips.com"
-        ],
-        "to_test": [
+            "www.yourhandytips.com",
             "www.yourhealthynewupdates.eu",
             "www.yourhotgiftzone.com",
             "www.yourlaptopsavings.com",
@@ -854,7 +852,9 @@
             "wwwopensite.info",
             "wwworangesavingsbank.org",
             "wwwpharmacy.org",
-            "wwwpharmx.org",
+            "wwwpharmx.org"
+        ],
+        "to_test": [
             "wwwroulette.net",
             "wwws-nationwide.co.uk",
             "wwwsearch.biz",
