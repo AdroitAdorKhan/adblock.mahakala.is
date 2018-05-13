@@ -23793,9 +23793,7 @@
             "w.homes.yahoo.net",
             "w.mcdir.ru",
             "w.plugrush.com",
-            "w.prize44.com"
-        ],
-        "to_test": [
+            "w.prize44.com",
             "w.uimserv.net",
             "w00tads.com",
             "w07dns.com",
@@ -23983,7 +23981,6 @@
             "waesorb.com",
             "waesorb.net",
             "waewqwqw9283749201.com",
-            "waffenboard.de",
             "wafmedia3.com",
             "wagabona.org",
             "wagepropem.com",
@@ -24033,7 +24030,9 @@
             "walking-angel.com",
             "walkintubb.bid",
             "walklegacy.com",
-            "walkmotivation.com",
+            "walkmotivation.com"
+        ],
+        "to_test": [
             "walkplural.com",
             "walkrealization.com",
             "walkscience.com",
