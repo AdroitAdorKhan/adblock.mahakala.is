@@ -16930,9 +16930,7 @@
             "tangled-up-in-blue.com",
             "tanglelace.com",
             "tangorgazm.com",
-            "taniaweb.com"
-        ],
-        "to_test": [
+            "taniaweb.com",
             "tankbouwrotselaar.com",
             "tanken.kuronekoyamato.co.jp",
             "tankolj.hu",
@@ -16966,9 +16964,12 @@
             "taramers.com",
             "taramparambum.com",
             "target.fark.com",
+            "targetaweb.su",
             "targetbuildersindia.com",
+            "targetbweb.su",
             "targetclicks.net",
             "targetclicks.org",
+            "targetcweb.su",
             "targetedbanner.biz",
             "targetedtopic.com",
             "targeting.wpdigital.net",
@@ -17128,7 +17129,9 @@
             "te.stamfordadvocate.com",
             "te.sun-sentinel.com",
             "te.sunspot.net",
-            "te.suntimes.com",
+            "te.suntimes.com"
+        ],
+        "to_test": [
             "te.tbo.com",
             "te.wsls.com",
             "te3e.org",
