@@ -21535,9 +21535,7 @@
             "urlbasetechd6.cn",
             "urlbasetechd7.cn",
             "urlbasetechd8.cn",
-            "urlbasetechd9.cn"
-        ],
-        "to_test": [
+            "urlbasetechd9.cn",
             "urlcheck.hulu.com",
             "urlheresitemap.info",
             "urlhigh.com",
@@ -21740,7 +21738,6 @@
             "usaa.ent.login.plcaustralia.com",
             "usaa.harrisonandbodell.com",
             "usaa.lifestylezones.com",
-            "usaa.logon.cec.com.pk",
             "usaa.rbintll.com",
             "usaa.security.entlogon.davidquintalb.com.mx",
             "usaa.usaa.com-ine-entm.msolutions.bz",
@@ -21968,7 +21965,9 @@
             "utiljoy.com",
             "utk.baidu.com",
             "utkinet.net",
-            "utl-jobs.com",
+            "utl-jobs.com"
+        ],
+        "to_test": [
             "utpsoxvninhi6.com",
             "utrizen.info",
             "utrocnt.com",
