@@ -15033,9 +15033,7 @@
             "stats.businessol.com",
             "stats.cdn.playfair.co.za",
             "stats.cloxy.com",
-            "stats.cnevids.com"
-        ],
-        "to_test": [
+            "stats.cnevids.com",
             "stats.cts-bv.nl",
             "stats.cyscon.net",
             "stats.darkbluesea.com",
@@ -15198,7 +15196,9 @@
             "stefaniezplace.com",
             "steffani.ru",
             "steilart.com",
-            "steiunmart.com",
+            "steiunmart.com"
+        ],
+        "to_test": [
             "stellarwars.es",
             "stematelvideo.id",
             "stemdesign.biz",
