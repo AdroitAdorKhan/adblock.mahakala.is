@@ -14882,9 +14882,7 @@
             "stat.easydate.biz",
             "stat.ed.cupidplc.com",
             "stat.freemediastats.com",
-            "stat.gmonitor.aliimg.com"
-        ],
-        "to_test": [
+            "stat.gmonitor.aliimg.com",
             "stat.itp-nyc.com",
             "stat.ku6.com",
             "stat.lenta.ru",
@@ -15015,7 +15013,6 @@
             "station-appraisals.com",
             "station.sony.com",
             "stationclear.com",
-            "stationerypoint.com.au",
             "stationfast.com",
             "stationsing.com",
             "statique.secureguards.eu",
@@ -15036,7 +15033,9 @@
             "stats.businessol.com",
             "stats.cdn.playfair.co.za",
             "stats.cloxy.com",
-            "stats.cnevids.com",
+            "stats.cnevids.com"
+        ],
+        "to_test": [
             "stats.cts-bv.nl",
             "stats.cyscon.net",
             "stats.darkbluesea.com",
