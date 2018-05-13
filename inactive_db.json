@@ -16717,9 +16717,7 @@
             "ta.at.ic5mp.net",
             "ta.at.user-mode-linux.net",
             "ta20w32e7u.ru",
-            "tabanta.com"
-        ],
-        "to_test": [
+            "tabanta.com",
             "tabfirmware.com",
             "tabguest.info",
             "tabithazplace.com",
@@ -16841,6 +16839,7 @@
             "takeittotheedge.net",
             "takekiss.net",
             "takeleft.net",
+            "takenames.cn",
             "takenholiday.com",
             "takenleft.net",
             "takenlive.net",
@@ -16931,7 +16930,9 @@
             "tangled-up-in-blue.com",
             "tanglelace.com",
             "tangorgazm.com",
-            "taniaweb.com",
+            "taniaweb.com"
+        ],
+        "to_test": [
             "tankbouwrotselaar.com",
             "tanken.kuronekoyamato.co.jp",
             "tankolj.hu",
