@@ -299,9 +299,7 @@
             "www.usatechdesk.com",
             "www.usatravel-specials.com",
             "www.usatravel-specials.net",
-            "www.uvatech.co.uk"
-        ],
-        "to_test": [
+            "www.uvatech.co.uk",
             "www.vacationcellular.net",
             "www.vaccinationcouncil.org",
             "www.valarie-marceau.us",
@@ -369,6 +367,7 @@
             "www.virginsadist.com",
             "www.virginsbbs.com",
             "www.virginsblog.com",
+            "www.virginsclub.com",
             "www.virginsclub.net",
             "www.virginscrazy.com",
             "www.virginsexstory.com",
@@ -455,7 +454,9 @@
             "www.winmx-download.de",
             "www.winnerschoiceservices.com",
             "www.winsecuritysupport.com",
-            "www.wm.banners.sextracker.com",
+            "www.wm.banners.sextracker.com"
+        ],
+        "to_test": [
             "www.wmsonic.com",
             "www.wojnaczolgow.pl",
             "www.won.images.streamray.com",
