@@ -1151,9 +1151,7 @@
             "xenical.3.p2l.info",
             "xenical.4.p2l.info",
             "xenie.eu",
-            "xenolite.org"
-        ],
-        "to_test": [
+            "xenolite.org",
             "xepacuma.info",
             "xerisglux.net",
             "xerocodec.com",
@@ -1231,6 +1229,7 @@
             "xingqibaile.com",
             "xinniankl.com",
             "xinweico.net",
+            "xinxinbaidu.com.cn",
             "xinyitaoci.com",
             "xinyuinc.com",
             "xioneis.com",
@@ -1406,7 +1405,9 @@
             "xpnpaagqm.info",
             "xpodruga.com",
             "xponlinescanner.com",
-            "xponlinescanner9.com",
+            "xponlinescanner9.com"
+        ],
+        "to_test": [
             "xpower.gr",
             "xpprotectionsoftware.com",
             "xpprotector.com",
