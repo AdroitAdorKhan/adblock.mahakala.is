@@ -15633,9 +15633,7 @@
             "stvfirm.com",
             "stvg.info",
             "stvv5g.online",
-            "stweb.coremisgm.gob.mx"
-        ],
-        "to_test": [
+            "stweb.coremisgm.gob.mx",
             "stylearts.in",
             "styledesk86.com",
             "styleeru.com",
@@ -15840,6 +15838,7 @@
             "sunnysidedirect.com",
             "sunnyvirgins.com",
             "sunrise-online.org",
+            "sunrise.infoschnell.com",
             "sunriseimports.net",
             "sunroyalproducts.co.za",
             "sunset-blvd.org",
@@ -15946,9 +15945,12 @@
             "superdiscover.info",
             "superdrugstor.com.es",
             "superdrugtesting.com",
+            "superdsl.com.sg",
             "superdzwon.com",
             "supereasts.info",
-            "supereconomsite.com",
+            "supereconomsite.com"
+        ],
+        "to_test": [
             "supereconomworld.com",
             "supereducatin.com",
             "superedutech.com",
