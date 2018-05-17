@@ -3315,9 +3315,7 @@
             "777-search.info",
             "777-teens.com",
             "777-vid-xxx.info",
-            "7777432412.info"
-        ],
-        "to_test": [
+            "7777432412.info",
             "777catalog.com",
             "777europrime.com",
             "777goldvipclub.com",
@@ -3595,7 +3593,9 @@
             "910243-de-storno-sicher-nachweis.sicherheitsabfrage-schutz.gq",
             "911-search.com",
             "911-search.info",
-            "911.sos-empleados.net",
+            "911.sos-empleados.net"
+        ],
+        "to_test": [
             "911petmd.com",
             "911traff.biz",
             "911traff.com",
