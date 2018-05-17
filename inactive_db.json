@@ -890,9 +890,7 @@
             "10rx.net",
             "10wip.com",
             "11.hydcd.com",
-            "1115k87j.com"
-        ],
-        "to_test": [
+            "1115k87j.com",
             "111991.net",
             "111mnooq.com",
             "111obrgo.com",
@@ -965,7 +963,6 @@
             "123topsearch.com",
             "123xxl.com",
             "124175-de-gast-sicherheit-konto_identity.datacheck.gq",
-            "125337.aceboard.fr",
             "125831--gast-sicherheit-account.sicherheitsvorbeugung-vorbeugung.ml",
             "125jumeinv.com",
             "126419-deu-storno-sicherheit-konto_identity.sicherheitssystem-sicherheitshilfe.ga",
@@ -1001,6 +998,7 @@
             "13bbs.info",
             "13fr.info",
             "13iuey.info",
+            "13x38390-virus.info",
             "13zbo52.com",
             "14.ca.enwebsearch.com",
             "1432941.theboldfestival.com",
@@ -1050,7 +1048,6 @@
             "1703.ic-live.com",
             "171111.zwytcs.org",
             "171203.com",
-            "171393.aceboard.fr",
             "17173dl.cn",
             "172109-germany-nutzung-sicherheit-nachweis.schutz-sicherheitshilfe.cf",
             "172127112.com",
@@ -1081,7 +1078,9 @@
             "1800nicebuy.com",
             "1800searchonline.com",
             "1800stop-sign.com",
-            "1800taxfree.com",
+            "1800taxfree.com"
+        ],
+        "to_test": [
             "1817520.cn",
             "181884008000.com",
             "182643--verbraucher-sicher-nachweis.hilfeservice-sicherheitshilfe.gq",
