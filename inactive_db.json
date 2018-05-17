@@ -4910,9 +4910,7 @@
             "ad.jaumo.com",
             "ad.jmg.com",
             "ad.jokeroo.com",
-            "ad.jumptap.com"
-        ],
-        "to_test": [
+            "ad.jumptap.com",
             "ad.lazynerd.info",
             "ad.leadcrunch.com",
             "ad.lgappstv.com",
@@ -5031,7 +5029,9 @@
             "ad.wiredvision.jp",
             "ad.words-google.com",
             "ad.yabuka.com",
-            "ad.yashi.com",
+            "ad.yashi.com"
+        ],
+        "to_test": [
             "ad.yieldads.com",
             "ad.yieldmanager.net",
             "ad.zaman.com",
