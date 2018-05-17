@@ -4749,9 +4749,7 @@
             "acyclovir.1.p2l.info",
             "ad-411.com",
             "ad-blockeds.com",
-            "ad-images.suntimes.com"
-        ],
-        "to_test": [
+            "ad-images.suntimes.com",
             "ad-incisive.grapeshot.co.uk",
             "ad-peta.makeit-online.de",
             "ad-servicestats.net",
@@ -4912,7 +4910,9 @@
             "ad.jaumo.com",
             "ad.jmg.com",
             "ad.jokeroo.com",
-            "ad.jumptap.com",
+            "ad.jumptap.com"
+        ],
+        "to_test": [
             "ad.lazynerd.info",
             "ad.leadcrunch.com",
             "ad.lgappstv.com",
