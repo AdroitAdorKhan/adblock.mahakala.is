@@ -5029,13 +5029,12 @@
             "ad.wiredvision.jp",
             "ad.words-google.com",
             "ad.yabuka.com",
-            "ad.yashi.com"
-        ],
-        "to_test": [
+            "ad.yashi.com",
             "ad.yieldads.com",
             "ad.yieldmanager.net",
             "ad.zaman.com",
             "ad.zaman.com.tr",
+            "ad.zdworks.com",
             "ad.zoglafi.info",
             "ad.zom123.net",
             "ad.zonabg.info",
@@ -5135,7 +5134,9 @@
             "ad45.atlas.cz",
             "ad46.atlas.cz",
             "ad468.prbn.ru",
-            "ad47.atlas.cz",
+            "ad47.atlas.cz"
+        ],
+        "to_test": [
             "ad48.atlas.cz",
             "ad49.atlas.cz",
             "ad4mat.ar",
