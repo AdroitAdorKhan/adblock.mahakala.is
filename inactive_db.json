@@ -5506,9 +5506,7 @@
             "adm.shacknews.com",
             "admagnet1.com",
             "adman.in.gr",
-            "admanagement.tagblattmedien.ch"
-        ],
-        "to_test": [
+            "admanagement.tagblattmedien.ch",
             "admanager.kilio.com",
             "admanager1.collegepublisher.com",
             "admanager2.broadbandpublisher.com",
@@ -5749,7 +5747,9 @@
             "ads.1stblaze.com",
             "ads.20minutos.es",
             "ads.3dgames.com.ar",
-            "ads.4gifs.com",
+            "ads.4gifs.com"
+        ],
+        "to_test": [
             "ads.666network.com",
             "ads.6arab.com",
             "ads.7days.ae",
