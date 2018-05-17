@@ -3769,9 +3769,7 @@
             "a.as-us.falkag.net",
             "a.b.c.d.e.f.gwtoys.cn",
             "a.b.c.d.e.gwtoys.cn",
-            "a.b.c.d.gwtoys.cn"
-        ],
-        "to_test": [
+            "a.b.c.d.gwtoys.cn",
             "a.bizhiku.net",
             "a.boom.ro",
             "a.capitalgroup.com.hk",
@@ -3849,6 +3847,7 @@
             "a1host.com.au",
             "a1s1a.net",
             "a2.364736.com",
+            "a2.jandan.net",
             "a2.mediagra.com",
             "a2.websponsors.com",
             "a2.yimg.com",
@@ -3904,7 +3903,9 @@
             "a9da6.biz",
             "a9da6.com",
             "a9da6.org",
-            "a9rhiwa.cn",
+            "a9rhiwa.cn"
+        ],
+        "to_test": [
             "a9z412iz1uz8z0z0z.com",
             "aa-download.waw.pl",
             "aa-nb.mgid.com",
