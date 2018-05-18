@@ -813,7 +813,6 @@
             "1.adbrite.com",
             "1.arpun.com",
             "1.che-ka.com",
-            "1.coolestmobi.com",
             "1.forgetstore.com",
             "1.hot-dances.com",
             "1.httpads.com",
@@ -5747,7 +5746,8 @@
             "ads.1stblaze.com",
             "ads.20minutos.es",
             "ads.3dgames.com.ar",
-            "ads.4gifs.com"
+            "ads.4gifs.com",
+            ".doubleclick.com"
         ],
         "to_test": [
             "ads.666network.com",
@@ -89080,8 +89080,7 @@
             "zzzping.com",
             "zzzz2233.cn",
             "zzzzz4.52896368.com",
-            "ɢoogle.com",
-            ".doubleclick.com"
+            "ɢoogle.com"
         ]
     }
 }
