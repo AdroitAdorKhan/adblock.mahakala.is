@@ -3605,9 +3605,7 @@
             "and.badgerpumping.com",
             "and.fladnertech.com",
             "anda55.flywheelsites.com",
-            "andahoho20291.com"
-        ],
-        "to_test": [
+            "andahoho20291.com",
             "andarez.com",
             "andart.info",
             "andecats.com",
@@ -3617,15 +3615,14 @@
             "andgreemtree.info",
             "andhrabhavan.in",
             "andi-pink.babelogbook.com",
-            "andino.pe",
             "andkonarcade.net",
             "andlesfiveone.com",
             "andlotsmore.com",
             "andlu.org",
             "andmabi.com",
             "andounatsu.com",
-            "andpolice.com",
             "ANDpolice.com",
+            "andpolice.com",
             "andreandre.de",
             "andreas-gehring.com",
             "andreaviajera.com",
@@ -3812,7 +3809,9 @@
             "animalgames.com.au",
             "animalget.com",
             "animalhusbandry.pps.unud.ac.id",
-            "animaljamcodes.info",
+            "animaljamcodes.info"
+        ],
+        "to_test": [
             "animalreserve.net",
             "animalreserve.us",
             "animalsex-planet.com",
