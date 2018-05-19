@@ -704,9 +704,7 @@
             "ads.thebugs.ws",
             "ads.thebulgarianpost.com",
             "ads.thefrisky.com",
-            "ads.theglobeandmail.com"
-        ],
-        "to_test": [
+            "ads.theglobeandmail.com",
             "ads.thesmokinggun.com",
             "ads.thestranger.com",
             "ads.thewebfreaks.com",
@@ -727,6 +725,7 @@
             "ads.treehugger.com",
             "ads.tricityherald.com",
             "ads.trinitymirror.co.uk",
+            "ads.tripican.com",
             "ads.tritonmedia.com",
             "ads.trueweather.com",
             "ads.trutv.com",
@@ -885,6 +884,7 @@
             "ads2.advertwizard.com",
             "ads2.callwave.com",
             "ads2.canoe.ca",
+            "ads2.collegclub.com",
             "ads2.collegeclub.com",
             "ads2.dieseltruckresource.com",
             "ads2.drivelinemedia.com",
@@ -919,7 +919,9 @@
             "ads3.ad-flow.com",
             "ads3.advance.net",
             "ads3.advertwizard.com",
-            "ads3.canoe.ca",
+            "ads3.canoe.ca"
+        ],
+        "to_test": [
             "ads3.ihaberadserver.com",
             "ads3.mocean.mobi",
             "ads3.mojiva.com",
