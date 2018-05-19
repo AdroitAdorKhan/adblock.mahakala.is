@@ -2282,9 +2282,7 @@
             "ajflags.com",
             "ajfstrategies.com",
             "ajkjobportal.com",
-            "ajl.myjino.ru"
-        ],
-        "to_test": [
+            "ajl.myjino.ru",
             "ajnad.aljazeera.net",
             "ajokeady.com",
             "ajr-insuranceintl.com",
@@ -2563,6 +2561,7 @@
             "alessiamerzsite.org",
             "aletovo.com",
             "aletovo.net",
+            "alewozki.pl",
             "alex-clips.com",
             "alex-hacks.com",
             "alex-vids.com",
@@ -2603,7 +2602,9 @@
             "alfapartners.biz",
             "alfapills.com",
             "alfasearch.net",
-            "alfata7.com",
+            "alfata7.com"
+        ],
+        "to_test": [
             "alfeaart.com",
             "alfinsite.info",
             "alfirstbank.info",
