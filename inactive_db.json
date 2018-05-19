@@ -1749,9 +1749,7 @@
             "aff-jp.exshot.com",
             "aff.buonisconto.it",
             "aff.foxtab.com",
-            "aff.lottobooker.com"
-        ],
-        "to_test": [
+            "aff.lottobooker.com",
             "aff.svjump.com",
             "aff.tamvakti.com",
             "aff1.gittigidiyor.com",
@@ -1848,6 +1846,7 @@
             "aftercome.net",
             "afterhear.net",
             "afterkindsss.com",
+            "afterking.net",
             "afterlower.net",
             "afterouter.net",
             "aftersuchheadleft.com",
@@ -1915,6 +1914,7 @@
             "agflvkgwef.com",
             "agger18.web.com",
             "aggiornamento57586546464.altervista.org",
+            "aggl.info",
             "aggmen.com",
             "aggrito2.ch",
             "aggrito2.li",
@@ -1935,7 +1935,9 @@
             "agnassfrio.com.br",
             "agneszplace.com",
             "agnieszkapudlo-dekoracje.pl",
-            "agnugaal.com",
+            "agnugaal.com"
+        ],
+        "to_test": [
             "agocentury.com",
             "agocould.com",
             "agoeffect.com",
