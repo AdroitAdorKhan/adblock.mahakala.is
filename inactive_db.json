@@ -204,9 +204,7 @@
             "ads.deblok.net.kadserver.com",
             "ads.dedicatedmedia.com",
             "ads.delfin.bg",
-            "ads.deliads.com"
-        ],
-        "to_test": [
+            "ads.deliads.com",
             "ads.designboom.com",
             "ads.designworldonline.com",
             "ads.developershed.com",
@@ -257,6 +255,7 @@
             "ads.evansville.net",
             "ads.exhedra.com",
             "ads.expressindia.com",
+            "ads.extube.org",
             "ads.ezboard.com",
             "ads.facebook.net",
             "ads.famegame.com",
@@ -355,7 +354,9 @@
             "ads.iboost.com",
             "ads.iforex.com",
             "ads.ihaberadserver.com",
-            "ads.imdb.com",
+            "ads.imdb.com"
+        ],
+        "to_test": [
             "ads.imposibil.ro",
             "ads.in.gr",
             "ads.incmd10.com",
