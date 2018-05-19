@@ -354,9 +354,7 @@
             "ads.iboost.com",
             "ads.iforex.com",
             "ads.ihaberadserver.com",
-            "ads.imdb.com"
-        ],
-        "to_test": [
+            "ads.imdb.com",
             "ads.imposibil.ro",
             "ads.in.gr",
             "ads.incmd10.com",
@@ -531,7 +529,9 @@
             "ads.ntbugtraq.com",
             "ads.nwso.net",
             "ads.nyjournalnews.com",
-            "ads.nypost.com",
+            "ads.nypost.com"
+        ],
+        "to_test": [
             "ads.okazii.ro",
             "ads.ole.org",
             "ads.oneview.de",
