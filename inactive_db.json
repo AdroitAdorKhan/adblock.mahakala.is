@@ -529,9 +529,7 @@
             "ads.ntbugtraq.com",
             "ads.nwso.net",
             "ads.nyjournalnews.com",
-            "ads.nypost.com"
-        ],
-        "to_test": [
+            "ads.nypost.com",
             "ads.okazii.ro",
             "ads.ole.org",
             "ads.oneview.de",
@@ -618,7 +616,6 @@
             "ads.redegg.co",
             "ads.redorbit.com",
             "ads.reed-elsevier.com",
-            "ads.regiedepub.com",
             "ads.reklamlar.net",
             "ads.revenews.com",
             "ads.revenue.net",
@@ -707,7 +704,9 @@
             "ads.thebugs.ws",
             "ads.thebulgarianpost.com",
             "ads.thefrisky.com",
-            "ads.theglobeandmail.com",
+            "ads.theglobeandmail.com"
+        ],
+        "to_test": [
             "ads.thesmokinggun.com",
             "ads.thestranger.com",
             "ads.thewebfreaks.com",
