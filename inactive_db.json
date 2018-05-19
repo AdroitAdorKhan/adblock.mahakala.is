@@ -2602,9 +2602,7 @@
             "alfapartners.biz",
             "alfapills.com",
             "alfasearch.net",
-            "alfata7.com"
-        ],
-        "to_test": [
+            "alfata7.com",
             "alfeaart.com",
             "alfinsite.info",
             "alfirstbank.info",
@@ -2736,7 +2734,6 @@
             "all.pupilmark.com",
             "all.sparkyfanpass.com",
             "all.truth-in-healing.com",
-            "all1count.net",
             "all1info.biz",
             "all2cul.com",
             "all4car.info",
@@ -2792,6 +2789,8 @@
             "allcybersearch.com",
             "alldaylinks.com",
             "alldayporn.net",
+            "alldcs-distinct.outbrain.com",
+            "alldcs.sphere.com",
             "alldirplanet.org",
             "alldiskscheck300.com",
             "alldnserrors.com",
@@ -2901,7 +2900,9 @@
             "allowsong.com",
             "allpc-softportal.net",
             "allphenterminesite.com",
-            "allpills.info",
+            "allpills.info"
+        ],
+        "to_test": [
             "allpillshere.biz",
             "allpillsweb.com",
             "allplasticsurgery.org",
