@@ -4499,9 +4499,7 @@
             "djugoogs.com",
             "djxflqluigoblmqd.biz",
             "djxmmh.xinhua800.cn",
-            "dk-forhandler.dk"
-        ],
-        "to_test": [
+            "dk-forhandler.dk",
             "dkabg-vhiot.info",
             "dkd69bwkvrht1.cloudfront.net",
             "dkdwv3lcby5zi.cloudfront.net",
@@ -4818,7 +4816,9 @@
             "dns72431.com",
             "dns75.us",
             "dnsallabout.com",
-            "dnsbakler.com",
+            "dnsbakler.com"
+        ],
+        "to_test": [
             "dnscareers.com",
             "dnsculo.com",
             "dnsduepage.com",
