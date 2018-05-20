@@ -662,9 +662,7 @@
             "connect.secure.ggj4m.wellsfarg0-onllne.net",
             "connect.secure.wellsfargo.com.auth.login.present.origin.coberror.yeslob.consdestination.accountsummary.fortunepress.com.au",
             "connect.secure.wellsfargo.com.auth.login.present.origin.konektar.com",
-            "connect.secure.wellsfargo.com.globalgcer.com.ve"
-        ],
-        "to_test": [
+            "connect.secure.wellsfargo.com.globalgcer.com.ve",
             "connect435.com",
             "connectashop.com",
             "connecte.service-confirmations-accountes.com",
@@ -722,6 +720,7 @@
             "consuelozplace.com",
             "consulgent.paaw.info",
             "consulta-saldoinativo.com.br",
+            "consulta.acessoinativo.com",
             "consultacontainativafgts.esy.es",
             "consultafgts.esy.es",
             "consultainativas.com.br",
@@ -740,6 +739,7 @@
             "consumer-credits.com",
             "consumer-org.com",
             "consumercares.net",
+            "consumerfinancialbureau.gov",
             "consumerhorizon.com",
             "consumerincentivenetwork.com",
             "consumerresearchbureau.net",
@@ -790,6 +790,7 @@
             "content.91s.com",
             "content.ad-flow.com",
             "content.axill.com",
+            "content.liveuniverse.com",
             "content.medialand.ru",
             "content.promoisland.net",
             "content.pulse360.com",
@@ -900,6 +901,7 @@
             "coolcatdocsite.sg",
             "cooldressup.com",
             "cooleefbaldw.uk.to",
+            "coolflashgames.eu",
             "coolgalway.info",
             "coolgames.gr",
             "coolgamescenter.com",
@@ -916,7 +918,9 @@
             "coolnameserv.com",
             "coolneonezz.com",
             "coolnetsearch.com",
-            "coolnetsearching.info",
+            "coolnetsearching.info"
+        ],
+        "to_test": [
             "coolpixguide.sg",
             "coolpremiumsnow.com",
             "coolringsite.net",
