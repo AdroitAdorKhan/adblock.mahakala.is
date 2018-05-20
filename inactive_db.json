@@ -5345,9 +5345,7 @@
             "download-hacks.us",
             "download-it-from.us",
             "download-soft-4free.com",
-            "download-soft-basez.com"
-        ],
-        "to_test": [
+            "download-soft-basez.com",
             "download.cdn.downloadquick.net",
             "download.cdn.shareazaweb.com",
             "download.dns-vip.net",
@@ -5392,6 +5390,7 @@
             "downloadgays.com",
             "downloadhackfacebook.com",
             "downloadhackprogram.com",
+            "downloadhacks.net",
             "downloadhacks.org",
             "downloadhacksoftware.com",
             "downloadheaven666.com",
@@ -5571,7 +5570,9 @@
             "drectjep.info",
             "drefct.com",
             "dregan.net",
-            "dregk.com",
+            "dregk.com"
+        ],
+        "to_test": [
             "drelsafty.com",
             "drenkelford.net",
             "dresrv.com",
