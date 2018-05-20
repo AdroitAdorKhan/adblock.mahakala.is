@@ -14900,9 +14900,7 @@
             "clotheall.com",
             "clotheform.com",
             "clothenecessary.com",
-            "clothestree.info"
-        ],
-        "to_test": [
+            "clothestree.info",
             "cloturesdesdemandesenligne.info",
             "cloud-applesupport.com",
             "cloud-flowss.com",
@@ -15447,10 +15445,10 @@
             "cmpp.com.au",
             "cmpsmarter-downloader.maynemyltf.netdna-cdn.com",
             "cmreqtmp03wt.info",
-            "CMRpolice.com",
             "cmrpolice.com",
+            "CMRpolice.com",
             "cmrpunto.raya.cl",
-            "cms.egsys.net",
+            "cms.insviluppo.net",
             "cmservice-login.com",
             "cmsko.com",
             "cmtapestry.com",
@@ -15466,7 +15464,9 @@
             "cnad1.economicoutlook.net",
             "cnad2.economicoutlook.net",
             "cnad3.economicoutlook.net",
-            "cnad4.economicoutlook.net",
+            "cnad4.economicoutlook.net"
+        ],
+        "to_test": [
             "cnad5.economicoutlook.net",
             "cnad6.economicoutlook.net",
             "cnad7.economicoutlook.net",
