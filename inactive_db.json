@@ -4250,9 +4250,7 @@
             "directorydrugs.com",
             "directoryfinance.biz",
             "directorypharm.com",
-            "directoryrxpharm.com"
-        ],
-        "to_test": [
+            "directoryrxpharm.com",
             "directpay-shop.com",
             "directpillsbright.com",
             "directpowerrewards.com",
@@ -4393,7 +4391,6 @@
             "displayaccountsummarypage.ultrakorp.com",
             "dispny.com",
             "dispute-login.com",
-            "disputepay.com",
             "disputetransaction-paypai.com",
             "disqudurprotection.com",
             "disrepasale.com",
@@ -4502,7 +4499,9 @@
             "djugoogs.com",
             "djxflqluigoblmqd.biz",
             "djxmmh.xinhua800.cn",
-            "dk-forhandler.dk",
+            "dk-forhandler.dk"
+        ],
+        "to_test": [
             "dkabg-vhiot.info",
             "dkd69bwkvrht1.cloudfront.net",
             "dkdwv3lcby5zi.cloudfront.net",
