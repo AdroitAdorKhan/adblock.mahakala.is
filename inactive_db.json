@@ -2694,9 +2694,7 @@
             "daonetownealy.cn",
             "daoqaz.cn",
             "daosearch.net",
-            "daosil.com"
-        ],
-        "to_test": [
+            "daosil.com",
             "daothere67.com",
             "daoway.biz",
             "dapfeed.com",
@@ -2996,7 +2994,9 @@
             "dawnyanges.com",
             "dawnyangg.com",
             "dawnyangs.com",
-            "day-sale.com.au",
+            "day-sale.com.au"
+        ],
+        "to_test": [
             "day.ccwick.com",
             "day.mmvdesigntexas.com",
             "day.tomsturf.org",
