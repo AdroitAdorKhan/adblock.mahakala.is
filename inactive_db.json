@@ -11636,9 +11636,7 @@
             "bywyn.top",
             "byymhovnu.top",
             "bz.lhzly.com",
-            "bz579zpzl00.info"
-        ],
-        "to_test": [
+            "bz579zpzl00.info",
             "bzbackend.com",
             "bzhlife.com",
             "bzj5vg.quik.a1taxisworcester.co.uk",
@@ -11657,7 +11655,6 @@
             "c.4006777009.com",
             "c.91wan.com",
             "c.adforgeinc.com",
-            "c.adroll.com",
             "c.ads.com",
             "c.adverpages.com",
             "c.allegrostatic.pl",
@@ -11680,6 +11677,7 @@
             "c.gigcount.com",
             "c.gzsanxiaomingshi.cn",
             "c.homestore.com",
+            "c.jsyeyuzuqiu.org",
             "c.kuryjs.info",
             "c.maccosmetics.com",
             "c.mttwtrack.com",
@@ -11692,6 +11690,7 @@
             "c.uu.cc",
             "c.webwise.com",
             "c.xsdwj.com.cn",
+            "c.ytvbn.cn",
             "c0013rzd1u1o.info",
             "c00l-stuff.com",
             "c01.smaato.net",
@@ -11827,7 +11826,6 @@
             "caatadgouk.com",
             "caballos.ch",
             "cabareteens.com",
-            "cabe.yonsei.ac.kr",
             "cabehealthservices.net",
             "cabernositys.com",
             "cabhe.com",
@@ -11847,7 +11845,9 @@
             "cache.download.turbopoker.fr",
             "cache.fimservecdn.com",
             "cache.gamercreated.com",
-            "cache.soloth.com",
+            "cache.soloth.com"
+        ],
+        "to_test": [
             "cache.unicast.com",
             "cache1.adhostingsolutions.com",
             "cache6.in",
