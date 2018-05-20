@@ -10767,9 +10767,7 @@
             "breeches.urra-servicios.cl",
             "breeze.reminpro.com",
             "breezeind.net",
-            "bregano.net"
-        ],
-        "to_test": [
+            "bregano.net",
             "breitbart.adsonar.com",
             "brekpost.com",
             "breliaz.cc",
@@ -11002,7 +11000,10 @@
             "bt2media.com",
             "btc4u.ru",
             "btcbroker.biz",
-            "btchot.biz",
+            "btcfund.biz",
+            "btchot.biz"
+        ],
+        "to_test": [
             "btcseeder.com",
             "btcspace.tech",
             "btcstrategy.biz",
