@@ -1872,9 +1872,7 @@
             "cubeworldhack.com",
             "cubeworldhack.net",
             "cubeworldhacks.net",
-            "cubeworldpcgame.com"
-        ],
-        "to_test": [
+            "cubeworldpcgame.com",
             "cucenbaumen1.hol.es",
             "cucinanuova.altervista.org",
             "cucix.com",
@@ -2024,6 +2022,7 @@
             "custom.madvertise.com",
             "custom.millennialmedia.com",
             "custom.mobcircle.com",
+            "custom.mobclix.com",
             "custom.mobfox.com",
             "custom.mobgold.com",
             "custom.mobilecore.com",
@@ -2230,7 +2229,9 @@
             "cyberianembassy.com.au",
             "cyberider.net",
             "cyberiumhacks.com",
-            "cyberle.usww.com",
+            "cyberle.usww.com"
+        ],
+        "to_test": [
             "cybermoonworld.info",
             "cybermult.biz",
             "cybermyx.com",
