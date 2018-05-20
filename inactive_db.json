@@ -15464,9 +15464,7 @@
             "cnad1.economicoutlook.net",
             "cnad2.economicoutlook.net",
             "cnad3.economicoutlook.net",
-            "cnad4.economicoutlook.net"
-        ],
-        "to_test": [
+            "cnad4.economicoutlook.net",
             "cnad5.economicoutlook.net",
             "cnad6.economicoutlook.net",
             "cnad7.economicoutlook.net",
@@ -15508,7 +15506,6 @@
             "cns-ssaintander.com",
             "cnsh.biz",
             "cnspqy.com",
-            "cnt.likealaugh.org",
             "cnt.mastorage.net",
             "cnt.wortalszkoleniowy.pl",
             "cnt.xcounter.com",
@@ -15686,7 +15683,9 @@
             "coldwatern.com",
             "coldwop.com",
             "colecciongastardelli.com",
-            "colegio-web.com",
+            "colegio-web.com"
+        ],
+        "to_test": [
             "colegiosanandres.webescuela.cl",
             "colektiv.info",
             "collaborateu.org",
