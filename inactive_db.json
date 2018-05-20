@@ -1137,9 +1137,7 @@
             "counter.d.delivery51.com",
             "counter.digits.com",
             "counter.e-audit.it",
-            "counter.eanalyzer.de"
-        ],
-        "to_test": [
+            "counter.eanalyzer.de",
             "counter.impressur.com",
             "counter.inti.fr",
             "counter.mgaserv.com",
@@ -1150,6 +1148,7 @@
             "counter.scribblelive.net",
             "counter.sexhound.com",
             "counter.sexhound.nl",
+            "counter.times.lv",
             "counter.uq.edu.au",
             "counter.webcom.com",
             "counter.webmasters.bpath.com",
@@ -1281,7 +1280,9 @@
             "cputa-padre.ch",
             "cputa-padre.li",
             "cpvcash.com",
-            "cpw3bllev.com",
+            "cpw3bllev.com"
+        ],
+        "to_test": [
             "cpxlife.com",
             "cq118114.net",
             "cq58726.tmweb.ru",
