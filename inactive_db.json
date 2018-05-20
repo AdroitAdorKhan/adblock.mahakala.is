@@ -6225,13 +6225,12 @@
             "e-websitesolutions.com",
             "e-worldhacks.com",
             "e-wreath.com",
-            "e-zagadki.pl"
-        ],
-        "to_test": [
+            "e-zagadki.pl",
             "e-zero.com.br",
             "e-zug.com",
             "e.analytics.yahoo.com",
             "e.as-eu.falkag.net",
+            "e.clubske.com",
             "e.csyueye.com",
             "e.duomeng.org",
             "e.ilovethat.co.uk",
@@ -6489,7 +6488,9 @@
             "eazi-way.co.uk",
             "eazinomonster.com",
             "eb.adbureau.net",
-            "eb.dd.bluelinecomputers.be",
+            "eb.dd.bluelinecomputers.be"
+        ],
+        "to_test": [
             "eb3ynu.person.a1travelpershore.co.uk",
             "eb4ystatic.com",
             "ebaay-signin.qn.com",
