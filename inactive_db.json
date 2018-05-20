@@ -3021,9 +3021,7 @@
             "dazzlephotomemoir.com.ng",
             "db1.site-stats.net",
             "db23.co.uk",
-            "db35.co.uk"
-        ],
-        "to_test": [
+            "db35.co.uk",
             "db63.co.uk",
             "db8mh.info",
             "dbaguide.com.au",
@@ -3083,6 +3081,7 @@
             "dcabkl.com",
             "dcads.biz",
             "dcans.net",
+            "dcasyni.com.ve",
             "dccallers.org",
             "dcccdbeamcfbkbab.website",
             "dccome.com",
@@ -3172,7 +3171,9 @@
             "de-sicherheits-update-030.info",
             "de-sicherheits-update-051.info",
             "de-ve.5a535441.2018.cbricdns.com",
-            "de.5.p2l.info",
+            "de.5.p2l.info"
+        ],
+        "to_test": [
             "de.intellitxt.com",
             "de.marketgid.com",
             "de.ssl-paypalservice.com",
