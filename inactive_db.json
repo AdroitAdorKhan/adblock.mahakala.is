@@ -4292,13 +4292,10 @@
             "antoluxlda.com",
             "antonietta.net.ve",
             "antoniusali.com",
-            "antrocity.com"
-        ],
-        "to_test": [
+            "antrocity.com",
             "antvirushelp.com",
             "anu.vqd.fr",
             "anu1bllev.com",
-            "anugerah-rental.com",
             "anugrahabadi.co.id",
             "anunah.com",
             "anunciatucasa.info",
@@ -4347,6 +4344,7 @@
             "anzbanknewzealand.com",
             "anzentsuru.com",
             "anznewzealand.com",
+            "anzoateguicheerleading.com.ve",
             "anzonline.info",
             "anzsecurenow.com",
             "anzsecureonline.com",
@@ -4757,7 +4755,9 @@
             "api.config.ceritadilan.plus",
             "api.connatix.com",
             "api.connect.facebook.com",
-            "api.contentclick.co.uk",
+            "api.contentclick.co.uk"
+        ],
+        "to_test": [
             "api.dsnrmg.com",
             "api.flashnetworks.com",
             "api.flicktweets.com",
