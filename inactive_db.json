@@ -6307,9 +6307,7 @@
             "asp7.co.uk",
             "asp707.com",
             "asp72.com",
-            "asp8.su"
-        ],
-        "to_test": [
+            "asp8.su",
             "asp82.co.uk",
             "aspavadiamond.com",
             "aspder.com",
@@ -6520,6 +6518,7 @@
             "atlasincomebuilder.com",
             "atlasno1.com",
             "atlaspalmsprings.com",
+            "atlass-eg.com",
             "atley.eu.pn",
             "atm-centralbank-ng.com",
             "atm.youku.com",
@@ -6536,7 +6535,9 @@
             "atomicemergencyhotwater.com.au",
             "atomikgames.com",
             "atomsister.com",
-            "atomsome.com",
+            "atomsome.com"
+        ],
+        "to_test": [
             "atoolbarservice.com",
             "atotlies.com",
             "atoumaticservicvelanserv.it",
