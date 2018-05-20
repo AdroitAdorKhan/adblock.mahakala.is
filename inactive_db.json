@@ -4011,9 +4011,7 @@
             "diamondgreen.info",
             "diamondsantiques.com",
             "diamondsearch.info",
-            "diamoney.com.my"
-        ],
-        "to_test": [
+            "diamoney.com.my",
             "diamongo.top",
             "diamots.info",
             "dianalingerie.com.pl",
@@ -4030,6 +4028,7 @@
             "diassine.com",
             "diazduque.com",
             "diazepam.ourtablets.com",
+            "diazepam.razma.net",
             "diazepamsite.com",
             "dibcuebc.info",
             "dibrunamanshyea.it",
@@ -4047,6 +4046,7 @@
             "dicint6.com.es",
             "dicint7.com.es",
             "dick-thumbs.com",
+            "dicke-titten-ficken.de.lv",
             "dictionaryingenuity.com",
             "dicut-75.tk",
             "didacticamaster.org",
@@ -4076,7 +4076,6 @@
             "diet-pills-search.com",
             "diet.rodale.com",
             "diet.vietnamese-cooking.com",
-            "dieta-personalna.pl",
             "dietalux.pl",
             "dietechinc.info",
             "dietlakhimpur.org",
@@ -4251,7 +4250,9 @@
             "directorydrugs.com",
             "directoryfinance.biz",
             "directorypharm.com",
-            "directoryrxpharm.com",
+            "directoryrxpharm.com"
+        ],
+        "to_test": [
             "directpay-shop.com",
             "directpillsbright.com",
             "directpowerrewards.com",
