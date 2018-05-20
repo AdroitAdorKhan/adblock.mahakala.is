@@ -7256,9 +7256,7 @@
             "elancenters.com",
             "elas.cl",
             "elateck.com",
-            "elbarcuisine.com"
-        ],
-        "to_test": [
+            "elbarcuisine.com",
             "elbintattoo.com.br",
             "elbusines.com",
             "elchoudelmaster.net",
@@ -7449,7 +7447,9 @@
             "emailaccountverificatiemp.com",
             "emailadvantagegroup.com",
             "emailcental.info",
-            "emailed.userprofileupdates.com",
+            "emailed.userprofileupdates.com"
+        ],
+        "to_test": [
             "emaillifecoaching.com.au",
             "emailmarketingassociates.com",
             "emailrouters.com",
