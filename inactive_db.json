@@ -11845,9 +11845,7 @@
             "cache.download.turbopoker.fr",
             "cache.fimservecdn.com",
             "cache.gamercreated.com",
-            "cache.soloth.com"
-        ],
-        "to_test": [
+            "cache.soloth.com",
             "cache.unicast.com",
             "cache1.adhostingsolutions.com",
             "cache6.in",
@@ -11955,6 +11953,7 @@
             "callcenterfeed.com",
             "callenjoy.net",
             "callfeel.net",
+            "callgirls.de.lv",
             "callhandling.com.au",
             "callincall.info",
             "calling-phone-cards.org",
@@ -11997,6 +11996,7 @@
             "calyfilmonlinetv.pl",
             "calysta_lensmoor.tripod.com",
             "calzoleriabologna.com",
+            "cam.de.lv",
             "camaradeigrejanova.al.gov.br",
             "camarasaoluizdonorte.go.gov.br",
             "camargbh.com",
@@ -12062,6 +12062,7 @@
             "camronfinancial.com",
             "camronvillage.info",
             "cams.camxs.nl",
+            "camsex.de.lv",
             "camsgang.com",
             "camspeople.com",
             "camtokenhack.com",
@@ -12079,7 +12080,9 @@
             "canadaccadm.com",
             "canadacolllege.info",
             "canadafastmeds.net",
-            "canadagooseonline.dk",
+            "canadagooseonline.dk"
+        ],
+        "to_test": [
             "canadagreatdrugstore.net",
             "canadagreatpharmacy.com",
             "canadamenrx.com",
