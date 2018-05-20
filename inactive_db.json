@@ -918,9 +918,7 @@
             "coolnameserv.com",
             "coolneonezz.com",
             "coolnetsearch.com",
-            "coolnetsearching.info"
-        ],
-        "to_test": [
+            "coolnetsearching.info",
             "coolpixguide.sg",
             "coolpremiumsnow.com",
             "coolringsite.net",
@@ -1067,7 +1065,6 @@
             "corusads.dserv.ca",
             "corvens.com",
             "cory-lane.centerfold-model.com",
-            "cos.entrope.de",
             "cosamryl.com",
             "cosamryl.net",
             "cosaws.net",
@@ -1140,7 +1137,9 @@
             "counter.d.delivery51.com",
             "counter.digits.com",
             "counter.e-audit.it",
-            "counter.eanalyzer.de",
+            "counter.eanalyzer.de"
+        ],
+        "to_test": [
             "counter.impressur.com",
             "counter.inti.fr",
             "counter.mgaserv.com",
