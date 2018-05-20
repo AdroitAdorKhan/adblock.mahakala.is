@@ -2994,9 +2994,7 @@
             "dawnyanges.com",
             "dawnyangg.com",
             "dawnyangs.com",
-            "day-sale.com.au"
-        ],
-        "to_test": [
+            "day-sale.com.au",
             "day.ccwick.com",
             "day.mmvdesigntexas.com",
             "day.tomsturf.org",
@@ -3023,7 +3021,9 @@
             "dazzlephotomemoir.com.ng",
             "db1.site-stats.net",
             "db23.co.uk",
-            "db35.co.uk",
+            "db35.co.uk"
+        ],
+        "to_test": [
             "db63.co.uk",
             "db8mh.info",
             "dbaguide.com.au",
