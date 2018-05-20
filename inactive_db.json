@@ -14686,9 +14686,7 @@
             "click.sockinga.info",
             "click.spiritemail.info",
             "click.stabbingnews.info",
-            "click.teeny-cash.com"
-        ],
-        "to_test": [
+            "click.teeny-cash.com",
             "click.whittlesbiz.info",
             "click.wishesemail.info",
             "click.xxxofferz.com",
@@ -14781,7 +14779,6 @@
             "clicktrafficfinder.info",
             "clickultimateguide.info",
             "clickusadirect.info",
-            "clickut.com.br",
             "clickworldtrade.info",
             "clickwww2.com",
             "clickwww3.com",
@@ -14842,7 +14839,6 @@
             "clinicamalvarosa.pt",
             "clinicarmel.com.br",
             "clinicasantabeatriz.es",
-            "cliniqueyasalam.com",
             "clintuserppl.gotdns.com",
             "clipdiamond.info",
             "clipfeeds.hk",
@@ -14904,7 +14900,9 @@
             "clotheall.com",
             "clotheform.com",
             "clothenecessary.com",
-            "clothestree.info",
+            "clothestree.info"
+        ],
+        "to_test": [
             "cloturesdesdemandesenligne.info",
             "cloud-applesupport.com",
             "cloud-flowss.com",
