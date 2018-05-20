@@ -3692,9 +3692,7 @@
             "detuins.com",
             "dety653.from-wv.com",
             "deunderwear.com",
-            "deunisso2.com"
-        ],
-        "to_test": [
+            "deunisso2.com",
             "deuscleaner.com",
             "deuscleaneronline.com",
             "deuscleanerpay.com",
@@ -3741,6 +3739,7 @@
             "dev.maiomall.com",
             "dev.mitzvah-store.com",
             "dev.mobcircle.com",
+            "dev.mobclix.com",
             "dev.mobgold.com",
             "dev.mobiletheory.com",
             "dev.mojiva.com",
@@ -3791,6 +3790,7 @@
             "developer.jumptap.com",
             "developer.madvertise.com",
             "developer.mobcircle.com",
+            "developer.mobclix.com",
             "developer.mobfox.com",
             "developer.mobgold.com",
             "developer.mobilecore.com",
@@ -3839,6 +3839,7 @@
             "developers.inmobi.com",
             "developers.jumptap.com",
             "developers.mobcircle.com",
+            "developers.mobclix.com",
             "developers.mobfox.com",
             "developers.mobgold.com",
             "developers.mobilecore.com",
@@ -3879,7 +3880,6 @@
             "devlp1.linkpulse.com",
             "devoid.us",
             "devopsparis.fr",
-            "devus.ma1.se",
             "devv-c0nfr1m.verifikasion1.ga",
             "dewa.lookseedesign.ca",
             "dewarteemkilopher.com",
@@ -4011,7 +4011,9 @@
             "diamondgreen.info",
             "diamondsantiques.com",
             "diamondsearch.info",
-            "diamoney.com.my",
+            "diamoney.com.my"
+        ],
+        "to_test": [
             "diamongo.top",
             "diamots.info",
             "dianalingerie.com.pl",
