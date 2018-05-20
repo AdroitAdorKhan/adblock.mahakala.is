@@ -13398,9 +13398,7 @@
             "cflabbergastgood.com",
             "cflak.com",
             "cfm29.co.uk",
-            "cfm3.eu"
-        ],
-        "to_test": [
+            "cfm3.eu",
             "cfm36.co.uk",
             "cfm48.com",
             "cfm78.com",
@@ -13604,7 +13602,6 @@
             "chambercb.tk",
             "chamberecommercedemo3.com",
             "chamberlica.com",
-            "chameasindica.com.br",
             "chameleonmasks.com",
             "chamololw.com",
             "championbft.com",
@@ -13750,7 +13747,6 @@
             "chasegascard.com",
             "chasehelp2.com",
             "chasehomeshow.com",
-            "chaseinternetbanking.com",
             "chaseissurewhenchase.us",
             "chaseonline-bank.com",
             "chaseonline-banking.com",
@@ -13780,7 +13776,9 @@
             "chaseonline1.com.chaseonlinee.com",
             "chaseonlinealerts.drabbastosan.ir",
             "chaseonlinefrauds.com",
-            "chaseonlinesm-chase.com",
+            "chaseonlinesm-chase.com"
+        ],
+        "to_test": [
             "chasepdate.us",
             "chaseplatinumcards.com",
             "chasesec-chase.myjino.ru",
