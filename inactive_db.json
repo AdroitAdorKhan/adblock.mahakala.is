@@ -7145,9 +7145,7 @@
             "ehealth-click.net",
             "eheds.com",
             "ehfhwjefhw2j.biz",
-            "ehg-associatenewmedia.hitbox.com"
-        ],
-        "to_test": [
+            "ehg-associatenewmedia.hitbox.com",
             "ehg-communityconnet.hitbox.com",
             "ehg-gatehoussmedia.hitbox.com",
             "ehg-newarkinone.hitbox.com.hitbox.com",
@@ -7258,7 +7256,9 @@
             "elancenters.com",
             "elas.cl",
             "elateck.com",
-            "elbarcuisine.com",
+            "elbarcuisine.com"
+        ],
+        "to_test": [
             "elbintattoo.com.br",
             "elbusines.com",
             "elchoudelmaster.net",
