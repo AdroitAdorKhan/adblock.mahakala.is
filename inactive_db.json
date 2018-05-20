@@ -1541,9 +1541,7 @@
             "criticalfactor.cc",
             "criticalinternet.com",
             "crklab.us",
-            "crm-niel.in"
-        ],
-        "to_test": [
+            "crm-niel.in",
             "crm.aaditech.com",
             "crm.pinion.gg",
             "crmspall.com",
@@ -1618,7 +1616,6 @@
             "crunchmutt.com",
             "crunet.biz",
             "crunuts.com",
-            "crusadersthegame.com",
             "crutch-field.com",
             "crutosearch.com",
             "crux.songline.com",
@@ -1781,6 +1778,7 @@
             "csi2004.org",
             "csiclasnwebgamer.com",
             "cskick.cn",
+            "cskin.pl",
             "csl24.com",
             "cslpb.cn",
             "csm-wii.com",
@@ -1874,7 +1872,9 @@
             "cubeworldhack.com",
             "cubeworldhack.net",
             "cubeworldhacks.net",
-            "cubeworldpcgame.com",
+            "cubeworldpcgame.com"
+        ],
+        "to_test": [
             "cucenbaumen1.hol.es",
             "cucinanuova.altervista.org",
             "cucix.com",
