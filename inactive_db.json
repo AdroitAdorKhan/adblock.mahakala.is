@@ -13125,9 +13125,7 @@
             "games.rtl.be",
             "games.sc42.info",
             "games.scd.yahoo.com",
-            "games.sk"
-        ],
-        "to_test": [
+            "games.sk",
             "games.stupid.com",
             "games.swirve.com",
             "games.terra.es",
@@ -13159,7 +13157,6 @@
             "gamesgames.ca",
             "gameshacks.net",
             "gameshackscheat.com",
-            "gameshq.nl",
             "gamesincrease.com",
             "gamesisle.net",
             "gameslicer.com",
@@ -13168,7 +13165,6 @@
             "gamesoffersdirect.com",
             "gamesonpage.com",
             "gamesource101.com",
-            "gamespls.com",
             "gamespot777.com",
             "gamesprohacks.com",
             "gamespyder.fr",
@@ -13198,6 +13194,7 @@
             "gamez.sk",
             "gamezextensionz.com",
             "gamezfree.net",
+            "gamezhq.nl",
             "gamezilla.us",
             "gameznappz.com",
             "gamezolder.nl",
@@ -13210,6 +13207,7 @@
             "gaming-gangsters.com",
             "gaming-online.petrovka.info",
             "gaming.desertdevils.de",
+            "gaming.gamesplayground.com",
             "gaming.sc",
             "gaming4u.net",
             "gaminghazard.com",
@@ -13263,7 +13261,9 @@
             "garden-search.info",
             "garden.ngadcenter.net",
             "gardenhold.com",
-            "gardeninterludes.com",
+            "gardeninterludes.com"
+        ],
+        "to_test": [
             "gardenstring.com",
             "gare-cca.jp",
             "garlem.biz",
