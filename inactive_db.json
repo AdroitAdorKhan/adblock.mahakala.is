@@ -18548,9 +18548,7 @@
             "i-softportal08.net",
             "i-stats.ieurop.net",
             "i-sudoku.net",
-            "i-wiadomosci.pl"
-        ],
-        "to_test": [
+            "i-wiadomosci.pl",
             "i.admob.com",
             "i.allfreeapps.net",
             "i.jumptap.com",
@@ -18644,6 +18642,7 @@
             "iamthewinnerhere.com",
             "iandie.net",
             "iaovzo.com",
+            "iapphackstools.com",
             "iapplsslserviceupgrade.settingaccountsslsupport.com",
             "iapulavere.com",
             "ias-jobs.org",
@@ -18736,6 +18735,7 @@
             "iceberg.adhomeworld.com",
             "icecreammaruthi.com",
             "icedesing.info",
+            "icedevils.de",
             "icedmilktea.info",
             "icefinder.info",
             "iceflixeland.com",
@@ -18820,6 +18820,7 @@
             "icloud-use.info",
             "icloud-valid.com",
             "icloud-verefyappleld.com",
+            "icloud-verifications.com",
             "icloud-verify-apple-support.com",
             "icloud-verifyldapple.com",
             "icloud-webred.com",
@@ -18886,7 +18887,9 @@
             "icodecpack.com",
             "icodecrypt.com",
             "icoderx.com",
-            "icolleger.info",
+            "icolleger.info"
+        ],
+        "to_test": [
             "icomguide.info",
             "icomunity.info",
             "icon.clickthru.net",
