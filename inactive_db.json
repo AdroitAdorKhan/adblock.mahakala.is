@@ -367,9 +367,7 @@
             "medicareintelworkshops.com",
             "medicasntred.com",
             "medicationcenter.info",
-            "medicationguide.net"
-        ],
-        "to_test": [
+            "medicationguide.net",
             "medicationscompany.com",
             "medicinaalternativaa.com",
             "medicinalherbs.space",
@@ -411,7 +409,6 @@
             "meds24h.com",
             "meds24h.net",
             "meds34.com",
-            "meds6.com",
             "meds7.com",
             "medshire.net",
             "medsnevito.com",
@@ -460,6 +457,7 @@
             "mega-drugstore.net",
             "mega-find.net",
             "mega-games-search.com",
+            "mega-movie.pl",
             "mega-nagrody.pl",
             "mega-search-online.com",
             "mega-sex-site.com",
@@ -467,6 +465,7 @@
             "mega-soft-2008.com",
             "mega-soft-codec.com",
             "mega-soft08.com",
+            "mega-titten.de.lv",
             "mega-warez.info",
             "mega-zakupy.com.pl",
             "mega1search.com",
@@ -488,7 +487,6 @@
             "megacokies-tools.com",
             "megadataupload.com",
             "megafonealert.net",
-            "megafotki.pl",
             "megafree.biz",
             "megafreesearch.info",
             "megagamez.org",
@@ -652,7 +650,9 @@
             "mens-suit.info",
             "mens.1.p2l.info",
             "mensagem-web.com",
-            "mensaje-de-la-importancia.com",
+            "mensaje-de-la-importancia.com"
+        ],
+        "to_test": [
             "mensdapperclub.com",
             "mensedpills.com",
             "mensgenerics.com",
