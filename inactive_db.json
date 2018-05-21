@@ -19663,10 +19663,9 @@
             "img.sn00.net",
             "img.soft.mail.ru",
             "img.soulmate.com",
-            "img.szsqhby.com"
-        ],
-        "to_test": [
+            "img.szsqhby.com",
             "img.xratedbucks.com",
+            "img.xrtzf.com",
             "img.xuenb.com",
             "img.xziptv.com",
             "img.zemanta.com",
@@ -19765,6 +19764,7 @@
             "import-electronics.com",
             "import.expolit.info",
             "import.quantum-marketing-quickies.net",
+            "importadorasupplyeys.com.ve",
             "important-ebay.com",
             "important-mailll.serveftp.com",
             "important-servicewebapps.com",
@@ -19786,7 +19786,9 @@
             "impresionesgay.com",
             "impressinbed.info",
             "impressionaffiliate.mobi",
-            "impressionlead.com",
+            "impressionlead.com"
+        ],
+        "to_test": [
             "impressionspartagees.ch",
             "impressive-circulations.com",
             "impressive-tone.net",
