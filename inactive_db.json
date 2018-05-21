@@ -14664,9 +14664,7 @@
             "gofreegalleries.com",
             "gofreegifts.com",
             "gofreehack.com",
-            "gofydn.com"
-        ],
-        "to_test": [
+            "gofydn.com",
             "gogates.net",
             "gogearstick.com",
             "gogetblack.info",
@@ -14718,6 +14716,7 @@
             "gold-other.info",
             "gold-secure-payment-server.com",
             "gold-treatment.info",
+            "gold-wot.pl",
             "gold2weeks.net",
             "goldandcard.ru",
             "goldasianskyshopbd.com",
@@ -14802,7 +14801,6 @@
             "golfdigt.com",
             "golffanclubs.info",
             "golfgaggift.info",
-            "golfgti.petrolhead.it",
             "golflinkmedical.com.au",
             "golfliquidationusa.com",
             "golfmanclub.info",
@@ -14905,6 +14903,7 @@
             "goodgametool.com",
             "goodgirlsdoswallow.com",
             "goodgolfshop.info",
+            "goodiebag4u.com",
             "goodjobdirect.info",
             "goodjobx.su",
             "goodjoby.su",
@@ -14922,7 +14921,6 @@
             "goodnov.net",
             "goodoldsearch.com",
             "goods.us.marketgid.com",
-            "goodsdaily.com",
             "goodsethics.com",
             "goodsfinance.com",
             "goodsform.com",
@@ -14964,7 +14962,9 @@
             "google-tour.com",
             "google-video-codec.info",
             "google.drive.out.pesanfiforlif.com",
-            "google.file.sidrahotel.com",
+            "google.file.sidrahotel.com"
+        ],
+        "to_test": [
             "google.poultrymiddleeast.com",
             "google.ryantoddrose.com",
             "googleadapis.0.google.com",
