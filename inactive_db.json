@@ -53,9 +53,7 @@
             "mdweston.com",
             "me-loginul.com",
             "me.3788.cn",
-            "me.5.p2l.info"
-        ],
-        "to_test": [
+            "me.5.p2l.info",
             "me.futures-king.com",
             "me1me.cn",
             "me2grovana.info",
@@ -80,7 +78,6 @@
             "meantparty.com",
             "measure-payment.info",
             "measure.richmetrics.com",
-            "measurebuild.com",
             "measured.sosanime.net",
             "measuredoes.com",
             "measurehome.info",
@@ -171,6 +168,7 @@
             "media.madvertise.com",
             "media.markethealth.com",
             "media.mobcircle.com",
+            "media.mobclix.com",
             "media.mobfox.com",
             "media.mobgold.com",
             "media.mobilecore.com",
@@ -369,7 +367,9 @@
             "medicareintelworkshops.com",
             "medicasntred.com",
             "medicationcenter.info",
-            "medicationguide.net",
+            "medicationguide.net"
+        ],
+        "to_test": [
             "medicationscompany.com",
             "medicinaalternativaa.com",
             "medicinalherbs.space",
