@@ -9612,9 +9612,7 @@
             "pee-shows.com",
             "peecumbathing.com",
             "peeg.fronterarq.cl",
-            "peekskillherald.info"
-        ],
-        "to_test": [
+            "peekskillherald.info",
             "peekskillonline.info",
             "peeout.com",
             "peependirect.info",
@@ -9760,7 +9758,6 @@
             "performance-optimizer.com",
             "performancebit.com",
             "performancecc.com",
-            "perfumeria24.pl",
             "perfumesdutyfree.cl",
             "perhapswithout.net",
             "peridoth.com",
@@ -9862,7 +9859,9 @@
             "pestwiper.com",
             "petalpusherbyfruehs.com",
             "petametricsinc.netdna-cdn.com",
-            "petcamonline.info",
+            "petcamonline.info"
+        ],
+        "to_test": [
             "petcollarsandmore.com",
             "peterboroughmover.com",
             "peterboroughmoving.com",
