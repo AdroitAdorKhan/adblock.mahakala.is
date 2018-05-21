@@ -22604,9 +22604,7 @@
             "jupiter.appads.com",
             "jupiter1.appads.com",
             "jupiter2.appads.com",
-            "jupiter3.appads.com"
-        ],
-        "to_test": [
+            "jupiter3.appads.com",
             "jupnre.com",
             "jur.puc-rio.br",
             "juraqim.com",
@@ -22677,7 +22675,6 @@
             "jutomtime.cn",
             "jutrack.dp.ua",
             "juventus-squade.com",
-            "juxaywnaa.mywebyportal.su",
             "jv7zf.baohaocat.cn",
             "jvbm0.info",
             "jvbs.co.jp",
@@ -22702,6 +22699,7 @@
             "jxypar.com",
             "jxys1988.cn",
             "jxzjmkma.ru",
+            "jxzol.cn",
             "jxzz.info",
             "jyaby.com",
             "jyareview-document.pdf-iso.webapps-security.review-2jk39w92.ab5nights.com",
@@ -22814,7 +22812,9 @@
             "kalavista.com.au",
             "kalawye.com",
             "kalender.mercurius.com",
-            "kalendertest.com",
+            "kalendertest.com"
+        ],
+        "to_test": [
             "kalesmasht.info",
             "kalesmasht.net",
             "kalibrium.ru",
