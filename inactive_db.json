@@ -27342,9 +27342,7 @@
             "mailgw.thtf.com.cn",
             "mailhub.minaffet.gov.rw",
             "mailhunt.cn",
-            "mailorderinternational.com"
-        ],
-        "to_test": [
+            "mailorderinternational.com",
             "mailrelaytosupport.com",
             "mails.cneic.com.cn",
             "mailscan3.cau.ctm.net",
@@ -27488,6 +27486,7 @@
             "mallar.co.in",
             "mallasstore.co.in",
             "malldirectbuy.com",
+            "malleable.usagestamp.com",
             "mallikcabs.com",
             "malloc.viedemerde.fr",
             "mallplusmore.info",
@@ -27547,6 +27546,7 @@
             "manacasresidencial.com.br",
             "manacquire.com",
             "manads.static.olcdn.com",
+            "manadsapp.com",
             "manaempreende.com.br",
             "manag.rainfall-collecting.com",
             "managableconstant.com",
@@ -27643,7 +27643,9 @@
             "mannequin-men.de",
             "mannixforgovernor.com",
             "manomaaa.com",
-            "manonthego.info",
+            "manonthego.info"
+        ],
+        "to_test": [
             "manotaso.com",
             "manreciprocity.com",
             "manredcat.com",
