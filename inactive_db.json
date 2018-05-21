@@ -4958,9 +4958,7 @@
             "njfcu-online.org",
             "njhgf.net",
             "njhu7yg.com",
-            "njieme.com"
-        ],
-        "to_test": [
+            "njieme.com",
             "njs.msypr.com",
             "njtansfer.com",
             "njvadymj.com",
@@ -5329,7 +5327,9 @@
             "not-found32.xyz",
             "not-found34.xyz",
             "not-found35.xyz",
-            "not-signed-in.com",
+            "not-signed-in.com"
+        ],
+        "to_test": [
             "not4magic.com",
             "notallblack.info",
             "notalroreb.ru",
