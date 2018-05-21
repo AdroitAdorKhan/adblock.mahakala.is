@@ -23466,9 +23466,7 @@
             "kinnaif.com",
             "kino-x.net",
             "kinogo.r.worldssl.net",
-            "kinomaniatv.pl"
-        ],
-        "to_test": [
+            "kinomaniatv.pl",
             "kinsarmar.org",
             "kintsov.net",
             "kinunca.com",
@@ -23492,6 +23490,7 @@
             "kirgo.at",
             "kirilens.com",
             "kirinng.org.uk",
+            "kirja-antikvariaatti.net",
             "kirjmbr.com",
             "kirstenzplace.com",
             "kirtijaiswal.com",
@@ -23666,7 +23665,6 @@
             "klubkids.com.br",
             "klubmp3.pl",
             "klucze-csgo.pl",
-            "kluczecs-go.pl",
             "kluetiv.com",
             "kluetiv.net",
             "kluis-amsterdam.nl",
@@ -23700,7 +23698,9 @@
             "knewother.com",
             "knewsoon.com",
             "kngzz.alldownloads.hapc.gdn",
-            "knight.economist.com",
+            "knight.economist.com"
+        ],
+        "to_test": [
             "knneegot.com",
             "knobbykneeds.com",
             "knobport.com",
