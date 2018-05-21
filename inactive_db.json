@@ -7140,9 +7140,7 @@
             "onlyfree.biz",
             "onlyfreebies.net",
             "onlyfreekeys.com",
-            "onlyfreevideo.com"
-        ],
-        "to_test": [
+            "onlyfreevideo.com",
             "onlyfreexmovies.com",
             "onlyfriendsites.com",
             "onlygadgets.net",
@@ -7236,6 +7234,7 @@
             "open.4info.net",
             "open.cellphonesglobal.com",
             "open.topsoftwareguide.com",
+            "open.vmdb.se",
             "open6098.com",
             "openad.infobel.com",
             "openads.manilatonight.com",
@@ -7321,6 +7320,7 @@
             "opreflected.com",
             "opreny.com",
             "ops-screen.com",
+            "ops.zibov.com",
             "opserver01.iti.net.pk",
             "opsfiles.com",
             "opsnet.pocketmoneyfund.com",
@@ -7329,6 +7329,7 @@
             "opticguardzip.net",
             "optick.info",
             "optikhani.co.id",
+            "optilogus.com",
             "optimaalopgewicht.nl",
             "optimismbetween.com",
             "optimismblack.com",
@@ -7353,7 +7354,9 @@
             "optinlist.org",
             "optinmedia.net",
             "optionalservicesurv.com",
-            "optiondrive.hotukdeal.xyz",
+            "optiondrive.hotukdeal.xyz"
+        ],
+        "to_test": [
             "optlon1cu.com",
             "optrkinc.com",
             "optsumcgcjtd.com",
