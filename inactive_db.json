@@ -7978,9 +7978,7 @@
             "oyunlojik.com",
             "oyuntrik.net",
             "oz.ministryofads.com",
-            "oz.valueclick.com"
-        ],
-        "to_test": [
+            "oz.valueclick.com",
             "ozarslaninsaat.com.tr",
             "ozawamadoka.com",
             "ozdarihurda.net",
@@ -7997,7 +7995,6 @@
             "ozpnf.info",
             "ozsquads.com",
             "oztoojhyqknbhyn8.com",
-            "p-alpha.ooo.al",
             "p-angels.com",
             "p-it-lim-set.info",
             "p-limitato-se.com",
@@ -8007,6 +8004,7 @@
             "p-shop.org",
             "p-uido.info",
             "p-uud.com",
+            "p.adframesrc.com",
             "p.admob.com",
             "p.aypall.ru",
             "p.aypals.ru",
@@ -8262,7 +8260,9 @@
             "pageingenuity.com",
             "pageissecured2017.com",
             "pagerank-estate-spb.ru",
-            "pagerank.g-easy.hu",
+            "pagerank.g-easy.hu"
+        ],
+        "to_test": [
             "pageranker.biz",
             "pages-actv2016.twomini.com",
             "pages-ads-activest.esy.es",
