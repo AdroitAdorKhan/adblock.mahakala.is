@@ -9859,9 +9859,7 @@
             "pestwiper.com",
             "petalpusherbyfruehs.com",
             "petametricsinc.netdna-cdn.com",
-            "petcamonline.info"
-        ],
-        "to_test": [
+            "petcamonline.info",
             "petcollarsandmore.com",
             "peterboroughmover.com",
             "peterboroughmoving.com",
@@ -9964,7 +9962,6 @@
             "pharmacy-4you.biz",
             "pharmacy-4you.org",
             "pharmacy-ca.com",
-            "pharmacy-canada.forsearch.net",
             "pharmacy-deal.com",
             "pharmacy-directory.biz",
             "pharmacy-eur.com",
@@ -10123,7 +10120,9 @@
             "phormdiscover.com",
             "phormkorea.com",
             "phormlabs.com",
-            "phormprivacy.com",
+            "phormprivacy.com"
+        ],
+        "to_test": [
             "phormservice.com",
             "phormsolution.com",
             "phormstandards.com",
