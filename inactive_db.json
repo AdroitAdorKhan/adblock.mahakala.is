@@ -8260,9 +8260,7 @@
             "pageingenuity.com",
             "pageissecured2017.com",
             "pagerank-estate-spb.ru",
-            "pagerank.g-easy.hu"
-        ],
-        "to_test": [
+            "pagerank.g-easy.hu",
             "pageranker.biz",
             "pages-actv2016.twomini.com",
             "pages-ads-activest.esy.es",
@@ -8335,7 +8333,6 @@
             "pakietylte1.pl",
             "pakmanprep.com",
             "PAKpolice.com",
-            "paksalad.com",
             "pal-comsecured.com",
             "pal-comsecured.info",
             "pal-confirm.com",
@@ -8352,6 +8349,7 @@
             "paleousegbh.com",
             "palert-changed.com",
             "palestine-dns.org",
+            "paletagrafica.com.ve",
             "palittnagu.com",
             "paliwo.as9.pl",
             "palkunden.info",
@@ -8458,6 +8456,7 @@
             "paperbotanist.org",
             "papercutbooks.info",
             "papercutmagazine.info",
+            "papergang.ru",
             "paperics.com",
             "paperlarge.com",
             "paperpapio.com",
@@ -8493,7 +8492,9 @@
             "parches.paraelpc.com",
             "parcialis.com",
             "parclubs.info",
-            "pardonmypolish.pl",
+            "pardonmypolish.pl"
+        ],
+        "to_test": [
             "parenetpay.com",
             "parent.oewabox.at",
             "parental-secrets.com",
