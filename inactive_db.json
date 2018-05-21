@@ -835,9 +835,7 @@
             "metrosexuels.zlio.net",
             "metrowbib.net",
             "metv4.com",
-            "meu-lphone.com"
-        ],
-        "to_test": [
+            "meu-lphone.com",
             "meuble-ligansadaequabat.thepinkskip.co.uk",
             "meuironline.com.br",
             "meumimo.net.br",
@@ -862,7 +860,6 @@
             "mf88.info",
             "mfacebookcom.com",
             "mfacebookphotoverify.tk",
-            "mfacebooks.com",
             "mfas.safesslredirect.com",
             "mfca.com.br",
             "mffgames.com",
@@ -1118,7 +1115,9 @@
             "milafrance.com",
             "milamedical.info",
             "milamuri.com",
-            "milan-fans.com",
+            "milan-fans.com"
+        ],
+        "to_test": [
             "milanmiddleschool.org",
             "milanonthego.info",
             "milanswimming.info",
