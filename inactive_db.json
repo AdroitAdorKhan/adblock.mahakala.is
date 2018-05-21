@@ -10905,9 +10905,7 @@
             "flldot.info",
             "flldot.net",
             "flldot.org",
-            "flndmiphone.com"
-        ],
-        "to_test": [
+            "flndmiphone.com",
             "flo.net.ru",
             "float.2299.bm-impbus.prod.nym2.adnexus.net",
             "float.2693.bm-impbus.prod.ams1.adnexus.net",
@@ -10920,6 +10918,7 @@
             "floor-cloths.com",
             "floor-teens.com",
             "floorappreciation.com",
+            "flooringinstallation-edmonton.com",
             "floorkind.com",
             "floparfol.com",
             "floppp.com",
@@ -10997,6 +10996,7 @@
             "flwinstrument.com",
             "flwplayer.com",
             "flwsolution.com",
+            "fly-search.top",
             "fly.dentonrain.com",
             "fly.fairweatherleather.com",
             "fly.quantumlifetools.com",
@@ -11096,7 +11096,9 @@
             "folderdocs.com",
             "folderzip.com",
             "foldnsit.com",
-            "folhaexata.com.br",
+            "folhaexata.com.br"
+        ],
+        "to_test": [
             "folingecorp.jp",
             "folkaconfirm.com",
             "folloerpplor.xyz",
