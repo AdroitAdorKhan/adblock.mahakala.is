@@ -5327,9 +5327,7 @@
             "not-found32.xyz",
             "not-found34.xyz",
             "not-found35.xyz",
-            "not-signed-in.com"
-        ],
-        "to_test": [
+            "not-signed-in.com",
             "not4magic.com",
             "notallblack.info",
             "notalroreb.ru",
@@ -5359,6 +5357,7 @@
             "noticecause.com",
             "noticeheavy.com",
             "noticeturn.com",
+            "noticiaportuguesa.com.ve",
             "notification-acct.ga",
             "notification-activity.16mb.com",
             "notification-control-fb.com.urazlife.com.tr",
@@ -5516,7 +5515,6 @@
             "nowworldmendrugs.com",
             "nowworldvippharmacy.com",
             "nowy-bonusy-codzienne.racing",
-            "nowykolor.com.pl",
             "nowykolorfb.pl",
             "nowyur.com",
             "nozomimiyazaki.main.jp",
@@ -5624,7 +5622,9 @@
             "ntard.co.uk",
             "ntard.org.uk",
             "ntbanner.digitalriver.com",
-            "ntbmjqcr-i-jy.info",
+            "ntbmjqcr-i-jy.info"
+        ],
+        "to_test": [
             "ntcth5y8tlp.info",
             "ntcus.org",
             "ntdfbp.com",
