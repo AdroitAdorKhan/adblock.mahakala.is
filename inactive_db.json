@@ -3965,11 +3965,10 @@
             "nellyslyrics.com",
             "nellzplace.com",
             "nelpara.rootia.jp",
-            "nelroyltd.com"
-        ],
-        "to_test": [
+            "nelroyltd.com",
             "nelscapconstructions.com",
             "nelsongod.ca",
+            "nemcicenadhanou.cz",
             "nemesis-serveurs.com",
             "nemmery.win",
             "nemo-movies.com",
@@ -4028,6 +4027,7 @@
             "net-fiselection.com",
             "net-fstat.eu",
             "net-get7.com",
+            "net-limited.com",
             "net-secure.us",
             "net-secure07.com",
             "net-server1.com",
@@ -4160,6 +4160,7 @@
             "network.business.com",
             "network.coull.com",
             "network.leadpub.com",
+            "network.nocreditcard.net",
             "network.northtexasrain.com",
             "network.realmedia.com",
             "network.realtechnetwork.net",
@@ -4228,7 +4229,9 @@
             "new.aexlimo.com",
             "new.api.ad.xiaomi.com",
             "new.grandrapidsweb.net",
-            "new.insa-tour.ru",
+            "new.insa-tour.ru"
+        ],
+        "to_test": [
             "new.ltheanine.cn",
             "new.macartu.cn",
             "new.magic-place.ru",
