@@ -21843,9 +21843,7 @@
             "spratime.com",
             "sprawdz-date.pl",
             "sprawdz-to.ga",
-            "sprawdzaj-czasy.pl"
-        ],
-        "to_test": [
+            "sprawdzaj-czasy.pl",
             "sprawdziq.eu",
             "sprawdzonagotowka.pl",
             "sprawdzone-doladowania.pl",
@@ -22064,7 +22062,6 @@
             "sql-server-driver.beesearch.info",
             "sqliinfos.com",
             "sqrgvbgfyya.org",
-            "squairel.com",
             "square2down.com",
             "square357.com",
             "squarefixv.com",
@@ -22076,7 +22073,6 @@
             "squibnetwork.co.za",
             "squidincdirect.com.au",
             "squinento96.com",
-            "squirrel-feeder.com",
             "sqyjsa.com",
             "sr159.com",
             "src-appid.com",
@@ -22165,7 +22161,9 @@
             "ssl-agent.com",
             "ssl-client.com",
             "ssl-contact.com",
-            "ssl-drive-drop-com.deltastatelottery.com",
+            "ssl-drive-drop-com.deltastatelottery.com"
+        ],
+        "to_test": [
             "ssl-ebay.info",
             "ssl-ebay.us",
             "ssl-encrypted.info",
