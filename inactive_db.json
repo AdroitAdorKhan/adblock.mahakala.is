@@ -20954,9 +20954,7 @@
             "smolet.com",
             "smolny.https443.org",
             "smooch.fj.cn",
-            "smooch.zj.cn"
-        ],
-        "to_test": [
+            "smooch.zj.cn",
             "smoothana.com",
             "smoothdns.net",
             "smovs.info",
@@ -21151,7 +21149,9 @@
             "softarez.info",
             "softasiangals.com",
             "softawe-download-forpc.com",
-            "softaxu.com",
+            "softaxu.com"
+        ],
+        "to_test": [
             "softben.info",
             "softbible.co.kr",
             "softbuyaviation.com",
