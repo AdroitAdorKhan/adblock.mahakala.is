@@ -27111,9 +27111,7 @@
             "tracking.engagedigitalmedia.com",
             "tracking.experience.com",
             "tracking.fitprosperity.net",
-            "tracking.freddybeach.com"
-        ],
-        "to_test": [
+            "tracking.freddybeach.com",
             "tracking.i-click.com.hk",
             "tracking.ientry.net",
             "tracking.ilinkmd.com",
@@ -27221,7 +27219,6 @@
             "traf-sale.com",
             "traf-shop.com",
             "traf.radeant.com",
-            "traf.street-info.com",
             "trafagon.net",
             "trafdriver.com",
             "traferreg.com",
@@ -27297,7 +27294,9 @@
             "trancelaciya.free-site-host.com",
             "trannybody.com",
             "trannyrealm.net",
-            "trans-fortmill.com",
+            "trans-fortmill.com"
+        ],
+        "to_test": [
             "trans4u.net",
             "transacoweb.com",
             "transactions-plus.com",
