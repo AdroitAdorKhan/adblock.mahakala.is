@@ -20640,9 +20640,7 @@
             "sklep.fbb.pl",
             "sklep.semigat.pl",
             "sklep.unimetal.pl",
-            "skm64.com"
-        ],
-        "to_test": [
+            "skm64.com",
             "skol0k5-khb747bjg324yuodsp.yrt-iospmsxo.in",
             "skoln.cn",
             "skonhome.at",
@@ -20669,6 +20667,7 @@
             "sky-connect.adinfuse.com",
             "sky-find.net",
             "sky.adinfuse.com",
+            "sky.estat.com",
             "sky.fairweatherleather.com",
             "sky.kies.co.kr",
             "sky.quantumlifetools.com",
@@ -20705,7 +20704,6 @@
             "skzinfos.com.br",
             "sl-paypal.com",
             "sl-rpg.com",
-            "sl-surgical.com",
             "sl952571.cn",
             "slagforhjaltar.se",
             "slahowagrup.com",
@@ -20734,7 +20732,6 @@
             "slavetutorial.com",
             "slawsearch.com",
             "slayerlife.com",
-            "slayinglance.com",
             "slayyourself.info",
             "sleazyangels.com",
             "sledzememes.pl",
@@ -20762,7 +20759,9 @@
             "slimagedirect.com",
             "slimasses.info",
             "slimrepl.com",
-            "slimtoolbar.com",
+            "slimtoolbar.com"
+        ],
+        "to_test": [
             "slinerbej.com",
             "slingbackwithkr.com",
             "slinkserver.com",
