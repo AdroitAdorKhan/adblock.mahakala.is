@@ -22592,9 +22592,7 @@
             "static.top-hitz.com",
             "static.trademob.com",
             "static.traffe.eu",
-            "static.vserv.mobi"
-        ],
-        "to_test": [
+            "static.vserv.mobi",
             "static1.influads.com",
             "static2.ero2you.com",
             "static2.rutracker.org",
@@ -22729,8 +22727,11 @@
             "statweb.info",
             "stavenic.com",
             "stavolynimp.com",
+            "staychain.net",
             "stayhrx.org",
-            "staywhich.com",
+            "staywhich.com"
+        ],
+        "to_test": [
             "stbb.pt",
             "stcwbd.com",
             "stdarlinghurst.info",
