@@ -20187,9 +20187,7 @@
             "signin-verification-acsxrva.com",
             "signin-virtulebay.com",
             "signin.amazon.co.uk-prime.form-unsuscribe.id-177.mgh.net.au",
-            "signin.amazon.co.uk-prime.form-unsuscribe.id-3234.staticfiction.com"
-        ],
-        "to_test": [
+            "signin.amazon.co.uk-prime.form-unsuscribe.id-3234.staticfiction.com",
             "signin.amazon.co.uk-prime.form-unsuscribe.id-6861.staticfiction.com",
             "signin.amazon.co.uk-prime.form-unsuscribe.id-7816.nproofing.com.au",
             "signin.appleidinc.supportappleidinc.com",
@@ -20293,6 +20291,7 @@
             "silverisecorp.com",
             "silverisecorp.net",
             "silverjinoz.net",
+            "silvermature.net",
             "silvermoonstonewear.com",
             "silverquiet.com",
             "silversuch.com",
@@ -20390,7 +20389,6 @@
             "singin-e3bay-co-uk.hardinsindustries.com",
             "singin-member-cgi2.pochta.ru",
             "singin-new-ebay.com",
-            "singinallebay.bravehost.com",
             "singinebatweba-saf.go.ro",
             "singinebeydllresponddnow.pochta.ru",
             "singinhandmade.com",
@@ -20416,7 +20414,9 @@
             "sinx.hk",
             "sioldaviharm.com",
             "sionel.net",
-            "sioney.net",
+            "sioney.net"
+        ],
+        "to_test": [
             "sipehome.cn",
             "sipelive.cn",
             "siqnin.com",
