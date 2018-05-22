@@ -142,14 +142,11 @@
             "useraccountsecure.is-a-geek.org",
             "useraccountsverifier-pages.com",
             "useradmincentralca.getmyip.com",
-            "useragreementsupserv.abktele.com"
-        ],
-        "to_test": [
+            "useragreementsupserv.abktele.com",
             "userconfdll.com",
             "userconfirm.su",
             "userdate.ac",
             "useresolution.com",
-            "userhelponline.com",
             "userinfoaccessppluk.dynalias.org",
             "userpage-charterone.com",
             "userpage-southtrust.com",
@@ -387,7 +384,9 @@
             "validate-action.cybercafe.nu",
             "validate-credentials-instantly.wonkywines.co.za",
             "validate-information.chelles.co.za",
-            "validate.id.appiestores.com",
+            "validate.id.appiestores.com"
+        ],
+        "to_test": [
             "validateyour-account.com",
             "validation-account-secure.com",
             "validation.faceboqk.co",
