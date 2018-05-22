@@ -22408,9 +22408,7 @@
             "start-find.net",
             "start-page.biz",
             "start-resolutions.com",
-            "start-secured.info"
-        ],
-        "to_test": [
+            "start-secured.info",
             "start07.ms",
             "start10.us",
             "startadvertisement.com",
@@ -22470,6 +22468,7 @@
             "stat-diagnostic-imaging.net",
             "stat-prof.com",
             "stat-run.com",
+            "stat-tracker.net",
             "stat.1688.com",
             "stat.active24stats.nl",
             "stat.alibaba.com",
@@ -22563,6 +22562,7 @@
             "static.madvertise.com",
             "static.millennialmedia.com",
             "static.mobcircle.com",
+            "static.mobclix.com",
             "static.mobfox.com",
             "static.mobgold.com",
             "static.mobiletheory.com",
@@ -22592,7 +22592,9 @@
             "static.top-hitz.com",
             "static.trademob.com",
             "static.traffe.eu",
-            "static.vserv.mobi",
+            "static.vserv.mobi"
+        ],
+        "to_test": [
             "static1.influads.com",
             "static2.ero2you.com",
             "static2.rutracker.org",
