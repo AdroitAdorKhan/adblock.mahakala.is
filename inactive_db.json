@@ -16511,9 +16511,7 @@
             "s-yoolk-billboard-assets.yoolk.com",
             "s.6113371.com",
             "s.7now.cn",
-            "s.9dcdn.cn"
-        ],
-        "to_test": [
+            "s.9dcdn.cn",
             "s.ad122m.com",
             "s.ad126m.com",
             "s.ad130m.com",
@@ -16586,6 +16584,7 @@
             "s1w.co",
             "s2.buysellads.com",
             "s2.gamecreds.com",
+            "s2.trafficmaxx.de",
             "s2.vendetta.fr",
             "s2.youtube.com",
             "s201.indexstats.com",
@@ -16598,6 +16597,7 @@
             "s2n4o7.best.a1taxispershore.co.uk",
             "s3.2mdn.net",
             "s3.adbers.com",
+            "s3.trafficmaxx.de",
             "s32.bilsay.com",
             "s3a6.su",
             "s3cur3.altervista.org",
@@ -16615,7 +16615,9 @@
             "s4teens.com",
             "s5.2mdn.net",
             "s548173211.onlinehome.us",
-            "s6.2mdn.net",
+            "s6.2mdn.net"
+        ],
+        "to_test": [
             "s6galaxyuniaonline.pl",
             "s7.2mdn.net",
             "s7lob.net",
