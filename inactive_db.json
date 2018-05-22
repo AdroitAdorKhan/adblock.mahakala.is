@@ -769,9 +769,7 @@
             "verification-userpaypal.com",
             "verification.account.parkstreetfest.com",
             "verification.fanspageaccountsupport.com",
-            "verification.priceporter.com"
-        ],
-        "to_test": [
+            "verification.priceporter.com",
             "verification.rekleklup.com",
             "verification0720.com",
             "verification112008.com",
@@ -947,6 +945,7 @@
             "veterpain.info",
             "vetig.net",
             "vetmedd.org",
+            "vetplus.com.ve",
             "veuxine.com",
             "vevesubdomeniu.hi2.ro",
             "vewrb.italisumo.at",
@@ -1132,13 +1131,16 @@
             "videoaxdata.com",
             "videoaxobject.com",
             "videoaxproject.com",
+            "videobase.pl",
             "videobay.tv",
             "videocardcodecs.biz",
             "videoclick",
             "videodirectory10.info",
             "videodown.baofeng.com",
             "videodvdshop.com",
-            "videoegg.adbureau.net",
+            "videoegg.adbureau.net"
+        ],
+        "to_test": [
             "videoexternal.com",
             "videofreeforonline.com",
             "videofxtools.com",
