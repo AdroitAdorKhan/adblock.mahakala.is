@@ -2493,9 +2493,7 @@
             "watch-search.info",
             "watch.allharrypottermovies.com",
             "watch77.com",
-            "watchbeen.net"
-        ],
-        "to_test": [
+            "watchbeen.net",
             "watchddl.funu.info",
             "watchdogsbeta.com",
             "watcher-scan.com",
@@ -2534,6 +2532,7 @@
             "waterbugsanity.org",
             "waterburners.com",
             "waterdistant.net",
+            "wateristian.com",
             "watermarkcu.biz",
             "watermarlcu.org",
             "waterpurifier.club",
@@ -2794,6 +2793,7 @@
             "webapps-verification-ncmxra.com",
             "webapps-verification-ncmxre.com",
             "webapps-verify-account-details.com",
+            "webapps.paypal.com.secure.authflow-account.management",
             "webapps.paypal.com.signin.trukt.biz",
             "webapps.secure-dispute-order.com",
             "webapps.securedispute-order.com",
@@ -2812,7 +2812,9 @@
             "webbasedbankig.net",
             "webbestlink.com",
             "webbestmedication.com",
-            "webbogi.net",
+            "webbogi.net"
+        ],
+        "to_test": [
             "webbran.com",
             "webbrowser-login.com",
             "webbrowsergoogle.com",
