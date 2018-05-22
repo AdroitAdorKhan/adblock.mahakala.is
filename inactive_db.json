@@ -14842,9 +14842,7 @@
             "registrygreat.net",
             "registryregistrycleaner.triedtool.com",
             "registryregistrytool.triedtool.com",
-            "registryupdate.org"
-        ],
-        "to_test": [
+            "registryupdate.org",
             "regjumpnow.info",
             "reglasti.com",
             "reglements-generals.com",
@@ -14955,6 +14953,7 @@
             "relogintoupdateyourinformationdetalis.com",
             "relogiodeparede.biz",
             "relsio0.com",
+            "reltelweb.com",
             "reltime-2014.ru",
             "remahs.com",
             "remake.shahrammalekzade.com",
@@ -15011,7 +15010,6 @@
             "renew-appleid-appservice-recovry-wmiid2017-billing.case4000.pw",
             "renew-appleid-appservice-recovry-wmiid2017-billing.case4001.pw",
             "renew-appleid-appservice-recovry-wmiid2017-billingexp.case4001.pw",
-            "renew-appleid-appservice-recovry-wmiid451233-billing1.case8001.pw",
             "renew-info-account.com",
             "renew-now.validation2-services.com",
             "renew-subscription-appleid.case6005.com",
@@ -15126,6 +15124,7 @@
             "reportsgarena.com",
             "repository4files.com",
             "repostujemy.pl",
+            "repplatform.us",
             "repplikks.com",
             "reppllkjw.com",
             "repraphabio.com",
@@ -15137,7 +15136,9 @@
             "representsuggest.com",
             "representthissite.info",
             "representwait.com",
-            "representwire.com",
+            "representwire.com"
+        ],
+        "to_test": [
             "reprimand.lukashotary.sk",
             "reptar.info",
             "repuc.info",
