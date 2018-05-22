@@ -16861,9 +16861,7 @@
             "salon-xxx.com",
             "salonemarta.it",
             "salonjar.ru",
-            "salonkamarmandi.id"
-        ],
-        "to_test": [
+            "salonkamarmandi.id",
             "sals123.com",
             "salsademexico.info",
             "salseras.org",
@@ -17071,7 +17069,9 @@
             "saturn2.appads.com",
             "saturn3.appads.com",
             "saturnlazienki.eu",
-            "saturnyes.net",
+            "saturnyes.net"
+        ],
+        "to_test": [
             "satyoz.com",
             "sauna-borabora.ru",
             "sauna-n-steam.com",
