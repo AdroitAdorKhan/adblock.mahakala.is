@@ -24297,9 +24297,7 @@
             "t.planvip.fr",
             "t.tellapart.com",
             "t.theoutplay.com",
-            "t.trrker.com"
-        ],
-        "to_test": [
+            "t.trrker.com",
             "t.varioususa.info",
             "t.vimeo.com",
             "t.voila.fr",
@@ -24319,7 +24317,6 @@
             "t3mortgage.com",
             "t3payday.info",
             "t3qrnccne3c6dx.itailoronline.com",
-            "t3surin.com",
             "t3viagra.com",
             "t4.liverail.com",
             "t44.ch",
@@ -24392,6 +24389,7 @@
             "tag.admeld.com",
             "tag.beanstock.co",
             "tag.didit.com",
+            "tag.email-attitude.com",
             "tag.gamecentral.hiro.tv",
             "tag.reachadv.it",
             "tag.sonymusic.com",
@@ -24423,6 +24421,7 @@
             "tagsicbo.com",
             "tagsports.co.uk",
             "tagster.hk",
+            "tagstores.it",
             "tagtoyama.com",
             "tahit.wastech2016.in",
             "tahoerew.com",
@@ -24454,7 +24453,6 @@
             "takeittotheedge.net",
             "takekiss.net",
             "takeleft.net",
-            "takenames.cn",
             "takenholiday.com",
             "takenleft.net",
             "takenlive.net",
@@ -24506,7 +24504,9 @@
             "talkshape.com",
             "tallahasseespeechcenter.verityjane.net",
             "tallcorrect.com",
-            "talllake.com",
+            "talllake.com"
+        ],
+        "to_test": [
             "talloperate.com",
             "tallread.com",
             "tallslave.com",
