@@ -18433,9 +18433,7 @@
             "security-scanner-online.com",
             "security-signin-confirm-account-information.com",
             "security-signupway.com",
-            "security-ssl128.ch"
-        ],
-        "to_test": [
+            "security-ssl128.ch",
             "security-system-failure-alert.info",
             "security-system-failure-alert7609.info",
             "security-toolbar.com",
@@ -18491,6 +18489,7 @@
             "securitysupport-info.com",
             "securityteam.name",
             "securityupdateaccount.com",
+            "securityupdatedone.top",
             "securityupdaters.somee.com",
             "securityupdatesolution.info",
             "securityupdateuser-cra.from-ut.com",
@@ -18517,7 +18516,6 @@
             "see.nomadiccarny.com",
             "see.vandenbergrealtyaustin.com",
             "see.wheatonlocksmithandgaragedoor.info",
-            "see9.us",
             "seeallnew.info",
             "seealthyy.com",
             "seeavaya.com",
@@ -18611,6 +18609,8 @@
             "segurancaetrabalhos.com",
             "segurancaguardiao.online",
             "segurancainterna0490.com",
+            "seguridadindustrialsys.com.ve",
+            "seguridadxtrema.com.ve",
             "seguro.zonabcpsegura.tk",
             "segurojf.bget.ru",
             "segurows.bget.ru",
@@ -18762,7 +18762,9 @@
             "sensehear.net",
             "sensepaid.net",
             "sensitive-gurus.net",
-            "sensitive-mechanics.net",
+            "sensitive-mechanics.net"
+        ],
+        "to_test": [
             "sentasp.graimphe.com",
             "sentencecaptain.com",
             "sentenceocean.com",
