@@ -8243,9 +8243,7 @@
             "www2in.cn",
             "www3.32hy.com",
             "www3.51hzmn.com",
-            "www3.ad.tomshardware.com"
-        ],
-        "to_test": [
+            "www3.ad.tomshardware.com",
             "www3.click-fr.com",
             "www3.ddns.ms",
             "www3.ihaberadserver.com",
@@ -8383,6 +8381,7 @@
             "wwwbigfast.info",
             "wwwbigzoo.info",
             "wwwbostoncom.com",
+            "wwwboxlunch.com",
             "wwwchase-online.com",
             "wwwcheappill.com",
             "wwwcompe3.com",
@@ -8418,6 +8417,7 @@
             "wwwpharmx.org",
             "wwwroulette.net",
             "wwws-nationwide.co.uk",
+            "wwws.zxtry.com",
             "wwwsearch.biz",
             "wwwsofthome.info",
             "wwwtc.info",
@@ -8440,6 +8440,7 @@
             "wx-wachovia.com",
             "wx.cdmediaworld.com",
             "wxcjqzqp.top",
+            "wxcomputers.com",
             "wxowsn.net",
             "wxtaste.com",
             "wxy.bnuep.com",
@@ -8506,7 +8507,6 @@
             "wypratama.co.id",
             "wys7148.info",
             "wyszukiwarka-polonii.com",
-            "wyyidic.mywebxportal.su",
             "wz6wt.info",
             "wzb888.cn",
             "wzfield.advertsex.com",
@@ -8564,7 +8564,9 @@
             "x0i-qsj.info",
             "x0md.r0tfo.top",
             "x0x0aaax0x0x0x1a8s9a7888.com",
-            "x0z9xzzxz.com",
+            "x0z9xzzxz.com"
+        ],
+        "to_test": [
             "x25.2mydns.com",
             "x25.plorp.com",
             "x3ktt6gopfor.info",
