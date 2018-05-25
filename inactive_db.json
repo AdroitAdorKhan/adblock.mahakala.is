@@ -6757,9 +6757,7 @@
             "Adsatt.go.starwave.com",
             "adsbanknepal.com",
             "adsby.uzoogle.com",
-            "adsclick.yx.js.cn"
-        ],
-        "to_test": [
+            "adsclick.yx.js.cn",
             "adsearch.www1.biz",
             "adsentnetwork.com",
             "adseo.net",
@@ -6769,6 +6767,7 @@
             "adserv.ath.cx",
             "adserv.bulletinmarketing.com",
             "adserv.entriq.net",
+            "adserv.evo-x.de",
             "adserv.free6.com",
             "adserv.geocomm.com",
             "adserv.huntseek.net",
@@ -6916,6 +6915,7 @@
             "adserver.ngz-network.de",
             "adserver.nicestream.com",
             "adserver.nzoom.com",
+            "adserver.omroepflevoland.nl",
             "adserver.omroepzeeland.nl",
             "adserver.onetaste-media.de",
             "adserver.pc-cooling.de",
@@ -6924,7 +6924,6 @@
             "adserver.pollstar.com",
             "adserver.prodigy.net",
             "adserver.przone.de",
-            "adserver.ratestar.net",
             "adserver.redcpa.es",
             "adserver.reservoir-blog.com",
             "adserver.revver.com",
@@ -6964,7 +6963,9 @@
             "adserver.virtualminds.nl",
             "adserver.voir.ca",
             "adserver.wemnet.nl",
-            "adserver.xoom.com",
+            "adserver.xoom.com"
+        ],
+        "to_test": [
             "adserver.ya.com",
             "adserver.yopi.de",
             "adserver01.ancestry.com",
