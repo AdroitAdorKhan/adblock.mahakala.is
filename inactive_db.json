@@ -10530,9 +10530,7 @@
             "api.fyreball.com",
             "api.geosrv.info",
             "api.hexagram.com",
-            "api.indemandapi.com"
-        ],
-        "to_test": [
+            "api.indemandapi.com",
             "api.instantdollarz.com",
             "api.interstateanalytics.com",
             "api.inwemo.com",
@@ -10614,6 +10612,7 @@
             "aplusgrannyflats.com.au",
             "apmeis.net",
             "apodir.oewabox.at",
+            "apokryfy.pl",
             "apokv.cn",
             "apoleoni.measurelighter.ru",
             "apolinkintunasterfun.com",
@@ -10820,7 +10819,9 @@
             "apple-icloudn.com",
             "apple-icloudql.com",
             "apple-iclould.com.br",
-            "apple-icred.xyz",
+            "apple-icred.xyz"
+        ],
+        "to_test": [
             "apple-id-163.com",
             "apple-id-apple-id.com",
             "apple-id-applecom.net-flix.com.ua",
