@@ -6343,9 +6343,7 @@
             "ads.pornoitalicum.com",
             "ads.pornolaan.com",
             "ads.pornoreich.com",
-            "ads.pornotouze.com"
-        ],
-        "to_test": [
+            "ads.pornotouze.com",
             "ads.portlandmercury.com",
             "ads.postimees.ee",
             "ads.pramer.tv",
@@ -6452,6 +6450,7 @@
             "ads.swirve.com",
             "ads.switchboard.com",
             "ads.t-kom.com",
+            "ads.t-online.de",
             "ads.tapfortap.com",
             "ads.tapjoy.com",
             "ads.taptapnetworks.com",
@@ -6527,7 +6526,9 @@
             "ads.viewlondon.co.uk",
             "ads.viewx.co.uk",
             "ads.vintageporntubenet.com",
-            "ads.vip.strlng.exodus.discovery.com",
+            "ads.vip.strlng.exodus.discovery.com"
+        ],
+        "to_test": [
             "ads.virgin.net",
             "ads.virtumundo.com",
             "ads.vm-corporate.com",
