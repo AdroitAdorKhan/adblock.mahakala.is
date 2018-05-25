@@ -6963,9 +6963,7 @@
             "adserver.virtualminds.nl",
             "adserver.voir.ca",
             "adserver.wemnet.nl",
-            "adserver.xoom.com"
-        ],
-        "to_test": [
+            "adserver.xoom.com",
             "adserver.ya.com",
             "adserver.yopi.de",
             "adserver01.ancestry.com",
@@ -7031,7 +7029,6 @@
             "adsolution-2016.info",
             "adsor.openrunner.com",
             "adspidernow.info",
-            "adspiro.pl",
             "adsports.co.kr",
             "adspr.haber7.net",
             "adsr3pg.com.br",
@@ -7169,7 +7166,9 @@
             "adultfriendster.info",
             "adultfullhd.com",
             "adultgambling.net",
-            "adultgambling.org",
+            "adultgambling.org"
+        ],
+        "to_test": [
             "adultgamesfor.com",
             "adulthosterrors.com",
             "adulthot-codec08.com",
