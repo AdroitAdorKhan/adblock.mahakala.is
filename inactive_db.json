@@ -9233,9 +9233,7 @@
             "ampmsearch.com",
             "amrade.com",
             "amrutvahiniiti.com",
-            "ams.addflow.ru"
-        ],
-        "to_test": [
+            "ams.addflow.ru",
             "ams76.us",
             "amscdn.btrll.com",
             "amsecs3.net",
@@ -9276,7 +9274,6 @@
             "anaalbabes.nl",
             "anaalibaba.com",
             "anabel-investments.com",
-            "anabolicosvenezuela.com.ve",
             "anacola.xyz",
             "anacondabig.info",
             "anad.tacoda.net",
@@ -9332,7 +9329,6 @@
             "analytics.magelan.it",
             "analytics.mecloud.vn",
             "analytics.mmosite.com",
-            "analytics.msnbc.msn.com",
             "analytics.nextmedia.com",
             "analytics.ntiermanaged.com",
             "analytics.performable.com",
@@ -9392,8 +9388,10 @@
             "andlu.org",
             "andmabi.com",
             "andounatsu.com",
-            "ANDpolice.com",
             "andpolice.com",
+            "ANDpolice.com"
+        ],
+        "to_test": [
             "andreandre.de",
             "andreas-gehring.com",
             "andreaviajera.com",
