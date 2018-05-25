@@ -4154,9 +4154,7 @@
             "abnhoyel.com",
             "abnladsrv.srvccnanl.space",
             "abnucc.com",
-            "abogadobarcelona.com.es"
-        ],
-        "to_test": [
+            "abogadobarcelona.com.es",
             "abondance-sexe.com",
             "abonne-mobilefree-fr.info",
             "abonnement-xboxlive.fr",
@@ -4313,6 +4311,7 @@
             "access-skyfi.com",
             "access-uptodate.myjino.ru",
             "access-verify.com",
+            "access.journal.mycom.co.jp",
             "access.njherald.com",
             "access6l.com",
             "accesscra-logintax.from-ak.com",
@@ -4374,6 +4373,7 @@
             "account-info.letliveindia.com",
             "account-infolimitted.com",
             "account-information-webapsssecures.com",
+            "account-infos.net",
             "account-intlviewbilling.com",
             "account-issue-amazon.com",
             "account-limitedcentre.com",
@@ -4524,7 +4524,9 @@
             "acee159.kr.kr",
             "acefightgear.com.au",
             "acehsentral.id",
-            "acehunter.com.sg",
+            "acehunter.com.sg"
+        ],
+        "to_test": [
             "aceleradorlisto.com",
             "acepaper.co.ke",
             "aceplansmuebles.com",
