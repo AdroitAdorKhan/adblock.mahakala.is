@@ -3766,9 +3766,7 @@
             "a.akncdn.com",
             "a.americanidol.com",
             "a.amxdt.com",
-            "a.analytics.yahoo.com"
-        ],
-        "to_test": [
+            "a.analytics.yahoo.com",
             "a.as-eu.falkag.net",
             "a.as-us.falkag.net",
             "a.b.c.d.e.f.gwtoys.cn",
@@ -3919,7 +3917,9 @@
             "aa.xqwqbg.com",
             "aa12111.top",
             "aa3e.info",
-            "aa7192fc4ab48025.cdn.jiashule.com",
+            "aa7192fc4ab48025.cdn.jiashule.com"
+        ],
+        "to_test": [
             "aaa.aj5.info",
             "aaa.piccash.net",
             "aaa520.izlinix.com",
