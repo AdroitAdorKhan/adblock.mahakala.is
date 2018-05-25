@@ -10819,9 +10819,7 @@
             "apple-icloudn.com",
             "apple-icloudql.com",
             "apple-iclould.com.br",
-            "apple-icred.xyz"
-        ],
-        "to_test": [
+            "apple-icred.xyz",
             "apple-id-163.com",
             "apple-id-apple-id.com",
             "apple-id-applecom.net-flix.com.ua",
@@ -11226,6 +11224,7 @@
             "appleid.apple.rieuremn.com",
             "appleid.com-remindermyaccount-center.com",
             "appleid.customerloginupdate.com",
+            "appleid.service-cancel-order.icloudken.com",
             "appleid.smmulive.com",
             "appleid.store.ujwvrs.businesspeople.cl",
             "appleid.storesapple.com.internalsupport-log.com",
@@ -11274,6 +11273,7 @@
             "appleld-ios9.com",
             "appleld-kf.com",
             "appleld-onlineservices.com",
+            "appleld.apple.com.t5j2kdkc88dd2m423-verif.info",
             "appleldapple.com",
             "appleldisupport.com",
             "applelid-ios.com",
@@ -11293,6 +11293,7 @@
             "applerepairscentre.in",
             "appleric.com.tw",
             "appleross.info",
+            "applersupporter.com",
             "apples-icloudl.com",
             "apples-lcloudios.com",
             "apples-securitmy-wupdate.applenextnew.com",
@@ -11348,7 +11349,6 @@
             "appnexus.download.akamai.com",
             "appointcome.info",
             "appolage.org",
-            "appolotion.nhwfqbt7-liquidwebsites.com",
             "appple.com-webscr.loginid.hexachrome.co.za",
             "appr0ve.bdevelop.co.za",
             "appreciationanswer.com",
@@ -11391,7 +11391,9 @@
             "appslore-scan.co",
             "appssavvy.net",
             "appssecureloginacctime.com",
-            "appsservicehelpcenter.de",
+            "appsservicehelpcenter.de"
+        ],
+        "to_test": [
             "appstore-centers-i.cloud",
             "appstore-confirmation.com",
             "appstore-unclocked.com",
