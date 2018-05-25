@@ -4524,9 +4524,7 @@
             "acee159.kr.kr",
             "acefightgear.com.au",
             "acehsentral.id",
-            "acehunter.com.sg"
-        ],
-        "to_test": [
+            "acehunter.com.sg",
             "aceleradorlisto.com",
             "acepaper.co.ke",
             "aceplansmuebles.com",
@@ -4627,6 +4625,7 @@
             "acrobatdownload-ib.com",
             "acrofinder.com",
             "acrossrad.com",
+            "acs.xpanama.net",
             "acsfoodservices.com",
             "acsiaym.com",
             "acsiaym.net",
@@ -4742,6 +4741,7 @@
             "actvier.ns11-wistee.fr",
             "actwebdesign.com.au",
             "actyah.skimotion.cl",
+            "acumen.or.ke",
             "acuraagroup.com",
             "acurainterior.com.br",
             "acut.pl",
@@ -4765,13 +4765,14 @@
             "ad-where.com",
             "ad-world.org",
             "ad-yt-bfp.doubleclick.net",
-            "ad.20six.fr",
             "ad.37.com",
             "ad.3au.doubleclick.net",
             "ad.91s.com",
             "ad.980x.com",
             "ad.about.com",
-            "ad.aboutit.de",
+            "ad.aboutit.de"
+        ],
+        "to_test": [
             "ad.abradio.cz",
             "ad.accessmediaproductions.com",
             "ad.adagogo.com",
