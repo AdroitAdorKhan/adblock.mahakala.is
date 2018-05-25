@@ -5310,9 +5310,7 @@
             "adevoroxafg.top",
             "adexcel.com.pk",
             "adexprt.me",
-            "adextensioncontrol.tudou.com"
-        ],
-        "to_test": [
+            "adextensioncontrol.tudou.com",
             "adf.com.cy",
             "adf67qre67yg.jilomodpywrad.in",
             "adfactor.nl.invalid",
@@ -5355,6 +5353,7 @@
             "adimages.beeb.com",
             "adimages.earthweb.com",
             "adimages.omroepzeeland.nl",
+            "adimages.scrippsnetworks.com",
             "adimages.watchmygf.net",
             "adincl.go2net.com",
             "adincl.gopher.com",
@@ -5427,6 +5426,7 @@
             "adj9.thruport.com",
             "adjsla.daycorpltd12.netdna-cdn.com",
             "adjuncnet.com",
+            "adjust-local-settings.com",
             "adjustable-zume.net",
             "adjustablestake.com",
             "adjustablezine.net",
@@ -5540,6 +5540,7 @@
             "admin-verification.tk",
             "admin.adoma-jawel-manufact.com",
             "admin.adriangluck.com.ar",
+            "admin.ads.t-online.de",
             "admin.akademibekerjadirumah.com",
             "admin.allin1assistant.net",
             "admin.amateurgalls.com",
@@ -5572,7 +5573,9 @@
             "administrator3-free-help-customer-service-call-1866-285-0655.site",
             "administrator4-free-help-customer-service-call-1866-285-0655.site",
             "administrator5-free-help-customer-service-call-1866-285-0655.site",
-            "administrator6-free-help-customer-service-call-1866-285-0655.site",
+            "administrator6-free-help-customer-service-call-1866-285-0655.site"
+        ],
+        "to_test": [
             "administrator7-free-help-customer-service-call-1866-285-0655.site",
             "admins-expert.com",
             "admintip.com",
