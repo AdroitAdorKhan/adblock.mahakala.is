@@ -4937,9 +4937,7 @@
             "ad.mobvista.com",
             "ad.mojiva.com",
             "ad.mopub.com",
-            "ad.moscowtimes.ru"
-        ],
-        "to_test": [
+            "ad.moscowtimes.ru",
             "ad.mygamesol.com",
             "ad.myrice.com",
             "ad.napigator.com",
@@ -5057,7 +5055,9 @@
             "ad1.denverpost.com",
             "ad1.gamezone.com",
             "ad1.hotel.com",
-            "ad1.lbn.ru",
+            "ad1.lbn.ru"
+        ],
+        "to_test": [
             "ad1.peel.com",
             "ad1.yomiuri.co.jp",
             "ad1.zendmedia.com",
