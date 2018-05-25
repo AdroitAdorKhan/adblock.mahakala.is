@@ -6526,9 +6526,7 @@
             "ads.viewlondon.co.uk",
             "ads.viewx.co.uk",
             "ads.vintageporntubenet.com",
-            "ads.vip.strlng.exodus.discovery.com"
-        ],
-        "to_test": [
+            "ads.vip.strlng.exodus.discovery.com",
             "ads.virgin.net",
             "ads.virtumundo.com",
             "ads.vm-corporate.com",
@@ -6692,6 +6690,7 @@
             "ads3.net2day.de",
             "ads3.udc.advance.net",
             "ads3.vertamedia.com",
+            "ads3.video97.com",
             "ads3.virtumundo.com",
             "ads3.wunderground.com",
             "ads3.zdnet.com",
@@ -6724,7 +6723,6 @@
             "ads5.vertamedia.com",
             "ads5.virtumundo.com",
             "ads5.woamobile.com",
-            "ads555.com",
             "ads56-us-east.stickyadstv.com",
             "ads6.ad-flow.com",
             "ads6.advance.net",
@@ -6759,7 +6757,9 @@
             "Adsatt.go.starwave.com",
             "adsbanknepal.com",
             "adsby.uzoogle.com",
-            "adsclick.yx.js.cn",
+            "adsclick.yx.js.cn"
+        ],
+        "to_test": [
             "adsearch.www1.biz",
             "adsentnetwork.com",
             "adseo.net",
