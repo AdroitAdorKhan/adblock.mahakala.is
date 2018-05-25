@@ -5055,9 +5055,7 @@
             "ad1.denverpost.com",
             "ad1.gamezone.com",
             "ad1.hotel.com",
-            "ad1.lbn.ru"
-        ],
-        "to_test": [
+            "ad1.lbn.ru",
             "ad1.peel.com",
             "ad1.yomiuri.co.jp",
             "ad1.zendmedia.com",
@@ -5166,7 +5164,9 @@
             "ad6.atlas.cz",
             "ad6.horvitznewspapers.net",
             "ad6.liverail.com",
-            "ad7.atlas.cz",
+            "ad7.atlas.cz"
+        ],
+        "to_test": [
             "ad8.atlas.cz",
             "ad9.atlas.cz",
             "ad9.co.in",
