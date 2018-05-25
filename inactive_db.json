@@ -5811,9 +5811,7 @@
             "ads.adwitserver.com",
             "ads.adx.nu",
             "ads.adxpose.mpire.akadns.net",
-            "ads.ah-ha.com"
-        ],
-        "to_test": [
+            "ads.ah-ha.com",
             "ads.ahvuw.com",
             "ads.aintitcool.com",
             "ads.airamericaradio.com",
@@ -5863,7 +5861,6 @@
             "ads.beeb.com",
             "ads.beenetworks.net",
             "ads.beta.itravel2000.com",
-            "ads.beyond.com",
             "ads.bfast.com",
             "ads.bfm.valueclick.net",
             "ads.bidmath.com",
@@ -6004,7 +6001,9 @@
             "ads.edirectme.com",
             "ads.egrappler.com",
             "ads.einmedia.com",
-            "ads.eins.de",
+            "ads.eins.de"
+        ],
+        "to_test": [
             "ads.eluniversal.com.mx",
             "ads.emailpromotion.com.br",
             "ads.emeraldcoast.com",
