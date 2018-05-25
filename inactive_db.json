@@ -10061,9 +10061,7 @@
             "antizend.com",
             "antoluxlda.com",
             "antoniusali.com",
-            "antrocity.com"
-        ],
-        "to_test": [
+            "antrocity.com",
             "antvirushelp.com",
             "anu.vqd.fr",
             "anu1bllev.com",
@@ -10115,7 +10113,6 @@
             "anzbanknewzealand.com",
             "anzentsuru.com",
             "anznewzealand.com",
-            "anzoateguicheerleading.com.ve",
             "anzonline.info",
             "anzsecurenow.com",
             "anzsecureonline.com",
@@ -10533,7 +10530,9 @@
             "api.fyreball.com",
             "api.geosrv.info",
             "api.hexagram.com",
-            "api.indemandapi.com",
+            "api.indemandapi.com"
+        ],
+        "to_test": [
             "api.instantdollarz.com",
             "api.interstateanalytics.com",
             "api.inwemo.com",
