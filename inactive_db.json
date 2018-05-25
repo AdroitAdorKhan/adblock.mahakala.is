@@ -3917,9 +3917,7 @@
             "aa.xqwqbg.com",
             "aa12111.top",
             "aa3e.info",
-            "aa7192fc4ab48025.cdn.jiashule.com"
-        ],
-        "to_test": [
+            "aa7192fc4ab48025.cdn.jiashule.com",
             "aaa.aj5.info",
             "aaa.piccash.net",
             "aaa520.izlinix.com",
@@ -4081,7 +4079,6 @@
             "abconstructions.us",
             "abcpharmx.org",
             "abcsearch4u.com",
-            "abdelabuhazi.com.ve",
             "abdelach.com",
             "abdicate.fj.cn",
             "abdicate.jl.cn",
@@ -4157,7 +4154,9 @@
             "abnhoyel.com",
             "abnladsrv.srvccnanl.space",
             "abnucc.com",
-            "abogadobarcelona.com.es",
+            "abogadobarcelona.com.es"
+        ],
+        "to_test": [
             "abondance-sexe.com",
             "abonne-mobilefree-fr.info",
             "abonnement-xboxlive.fr",
