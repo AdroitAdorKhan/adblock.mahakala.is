@@ -4770,9 +4770,7 @@
             "ad.91s.com",
             "ad.980x.com",
             "ad.about.com",
-            "ad.aboutit.de"
-        ],
-        "to_test": [
+            "ad.aboutit.de",
             "ad.abradio.cz",
             "ad.accessmediaproductions.com",
             "ad.adagogo.com",
@@ -4804,7 +4802,6 @@
             "ad.aftenposten.no",
             "ad.aftonbladet.se",
             "ad.agkn.com",
-            "ad.agorer.com",
             "ad.airad.com",
             "ad.airpush.com",
             "ad.ajanshaber.com",
@@ -4860,7 +4857,6 @@
             "ad.e-go.gr",
             "ad.e-viral.com",
             "ad.edision-nord.it",
-            "ad.erektor.ru",
             "ad.ero.ru",
             "ad.espn.starwave.com",
             "ad.exigomedia.com",
@@ -4941,7 +4937,9 @@
             "ad.mobvista.com",
             "ad.mojiva.com",
             "ad.mopub.com",
-            "ad.moscowtimes.ru",
+            "ad.moscowtimes.ru"
+        ],
+        "to_test": [
             "ad.mygamesol.com",
             "ad.myrice.com",
             "ad.napigator.com",
