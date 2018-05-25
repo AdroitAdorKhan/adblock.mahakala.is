@@ -6164,9 +6164,7 @@
             "ads.komli.com",
             "ads.kompas.com",
             "ads.lanetro.com",
-            "ads.lansingstatejournal.com"
-        ],
-        "to_test": [
+            "ads.lansingstatejournal.com",
             "ads.latinmedios.com",
             "ads.lavoix.com",
             "ads.lawnsite.com",
@@ -6345,7 +6343,9 @@
             "ads.pornoitalicum.com",
             "ads.pornolaan.com",
             "ads.pornoreich.com",
-            "ads.pornotouze.com",
+            "ads.pornotouze.com"
+        ],
+        "to_test": [
             "ads.portlandmercury.com",
             "ads.postimees.ee",
             "ads.pramer.tv",
