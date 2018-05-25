@@ -5164,9 +5164,7 @@
             "ad6.atlas.cz",
             "ad6.horvitznewspapers.net",
             "ad6.liverail.com",
-            "ad7.atlas.cz"
-        ],
-        "to_test": [
+            "ad7.atlas.cz",
             "ad8.atlas.cz",
             "ad9.atlas.cz",
             "ad9.co.in",
@@ -5199,6 +5197,7 @@
             "adatepekarot.com",
             "adaware.cc",
             "adazplace.com",
+            "adb.nikkei.co.jp",
             "adbbf-bn.com",
             "adbcache.brandreachsys.com",
             "adbiz.us",
@@ -5311,7 +5310,9 @@
             "adevoroxafg.top",
             "adexcel.com.pk",
             "adexprt.me",
-            "adextensioncontrol.tudou.com",
+            "adextensioncontrol.tudou.com"
+        ],
+        "to_test": [
             "adf.com.cy",
             "adf67qre67yg.jilomodpywrad.in",
             "adfactor.nl.invalid",
