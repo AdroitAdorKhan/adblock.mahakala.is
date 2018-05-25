@@ -6001,9 +6001,7 @@
             "ads.edirectme.com",
             "ads.egrappler.com",
             "ads.einmedia.com",
-            "ads.eins.de"
-        ],
-        "to_test": [
+            "ads.eins.de",
             "ads.eluniversal.com.mx",
             "ads.emailpromotion.com.br",
             "ads.emeraldcoast.com",
@@ -6141,6 +6139,7 @@
             "ads.ipod-forum.de",
             "ads.iqweb.de",
             "ads.ireport.com",
+            "ads.isat-tech.com",
             "ads.isum.de",
             "ads.ivillage.com",
             "ads.iweb.cortica.com",
@@ -6165,6 +6164,9 @@
             "ads.komli.com",
             "ads.kompas.com",
             "ads.lanetro.com",
+            "ads.lansingstatejournal.com"
+        ],
+        "to_test": [
             "ads.latinmedios.com",
             "ads.lavoix.com",
             "ads.lawnsite.com",
