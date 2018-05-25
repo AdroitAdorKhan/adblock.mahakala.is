@@ -5573,9 +5573,7 @@
             "administrator3-free-help-customer-service-call-1866-285-0655.site",
             "administrator4-free-help-customer-service-call-1866-285-0655.site",
             "administrator5-free-help-customer-service-call-1866-285-0655.site",
-            "administrator6-free-help-customer-service-call-1866-285-0655.site"
-        ],
-        "to_test": [
+            "administrator6-free-help-customer-service-call-1866-285-0655.site",
             "administrator7-free-help-customer-service-call-1866-285-0655.site",
             "admins-expert.com",
             "admintip.com",
@@ -5718,7 +5716,6 @@
             "adremote.timeinc.net",
             "adremovergold.com",
             "adrenalin-stk.ru",
-            "adrenalinatours.com.ve",
             "adrenallin.ir",
             "adrenalline.in",
             "adress.flamingsavings.com",
@@ -5814,7 +5811,9 @@
             "ads.adwitserver.com",
             "ads.adx.nu",
             "ads.adxpose.mpire.akadns.net",
-            "ads.ah-ha.com",
+            "ads.ah-ha.com"
+        ],
+        "to_test": [
             "ads.ahvuw.com",
             "ads.aintitcool.com",
             "ads.airamericaradio.com",
