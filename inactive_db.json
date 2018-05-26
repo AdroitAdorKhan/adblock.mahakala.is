@@ -9265,9 +9265,7 @@
             "hyipmail.com",
             "hyipmanager.org",
             "hyipscripts.biz",
-            "hyipsensor.com"
-        ],
-        "to_test": [
+            "hyipsensor.com",
             "hymenostilbe.justbroke.com",
             "hymesh.net",
             "hynk.kgune.com",
@@ -9307,6 +9305,7 @@
             "i-am-leet.com",
             "i-bony24.pl",
             "i-c-error.net",
+            "i-cloudnet.com.pl",
             "i-contact.co.jp",
             "i-drogeryjne-bony-2017.pl",
             "i-ebay.net",
@@ -9341,6 +9340,7 @@
             "i.syasn.com",
             "i.tfag.de",
             "i.total-media.net",
+            "i.xyqsnc.com",
             "i.zugo.com",
             "i1.services.social.microsoft.com.nsatc.net",
             "i15esi65nybxj16dvpscvjzlyi55n20g13i35ft.org",
@@ -9513,7 +9513,9 @@
             "iceappear.com",
             "icearrowszoey.com",
             "iceberg.adhomeworld.com",
-            "icecreammaruthi.com",
+            "icecreammaruthi.com"
+        ],
+        "to_test": [
             "icedesing.info",
             "icedevils.de",
             "icedmilktea.info",
