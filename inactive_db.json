@@ -7748,9 +7748,7 @@
             "hfrul9.info",
             "hfunt.com",
             "hfutz.com",
-            "hg0.myjino.ru"
-        ],
-        "to_test": [
+            "hg0.myjino.ru",
             "hg3.hitbox.com",
             "hg4.hitbox.com",
             "hg5.hitbox.com",
@@ -7814,6 +7812,7 @@
             "hiafpoftsh.cd",
             "hiaone.net",
             "hiaremoin.com",
+            "hibernia.cz",
             "hicioryztop.pl",
             "hiclbac.biz",
             "hidayeth.com",
@@ -7971,7 +7970,9 @@
             "hit32.jp",
             "hitachibreakout.com",
             "hitahottie.com",
-            "hitatom.com",
+            "hitatom.com"
+        ],
+        "to_test": [
             "hitboxwireless.com",
             "hitchiclah.com",
             "hitcount.heraldm.com",
