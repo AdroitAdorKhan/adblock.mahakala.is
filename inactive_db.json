@@ -24847,9 +24847,7 @@
             "degreecall.com",
             "degreeconsider.com",
             "degreenation.net",
-            "degreesuccess.net"
-        ],
-        "to_test": [
+            "degreesuccess.net",
             "deguta.beidahuangheifeng.com",
             "dehvajaxjmkp.cn",
             "deicoy.realstarta.su",
@@ -24972,6 +24970,7 @@
             "demo-codec.net",
             "demo-itjaya.com",
             "demo.adsonar.com",
+            "demo.advertising.com",
             "demo.apppli.com",
             "demo.bizcompare.co.uk",
             "demo.firefighterpreplan.com",
@@ -25001,6 +25000,7 @@
             "demurezeal.info",
             "demurezeal.net",
             "demusiconline.info",
+            "demuzieknote.nl",
             "denalits.com",
             "denazplace.com",
             "denbar-uk-ltd.co.uk",
@@ -25101,7 +25101,9 @@
             "desertmystery.com",
             "desertspoke.com",
             "desertthen.com",
-            "desibany.com",
+            "desibany.com"
+        ],
+        "to_test": [
             "design-deluxe.info",
             "design-feed.com",
             "design-melon.de",
