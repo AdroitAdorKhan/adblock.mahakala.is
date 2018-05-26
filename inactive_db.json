@@ -1671,9 +1671,7 @@
             "flldot.com",
             "flldot.info",
             "flldot.net",
-            "flldot.org"
-        ],
-        "to_test": [
+            "flldot.org",
             "flndmiphone.com",
             "flo.net.ru",
             "float.2299.bm-impbus.prod.nym2.adnexus.net",
@@ -1765,7 +1763,6 @@
             "flwinstrument.com",
             "flwplayer.com",
             "flwsolution.com",
-            "fly-search.top",
             "fly.dentonrain.com",
             "fly.fairweatherleather.com",
             "fly.quantumlifetools.com",
@@ -1868,8 +1865,9 @@
             "folhaexata.com.br",
             "folingecorp.jp",
             "folkaconfirm.com",
-            "folletonegro.com.ve",
-            "folloerpplor.xyz",
+            "folloerpplor.xyz"
+        ],
+        "to_test": [
             "followersinsta.pl",
             "following12-following32.com",
             "followinsta.pl",
