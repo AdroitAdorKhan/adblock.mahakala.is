@@ -22346,9 +22346,7 @@
             "cookie68.com",
             "cookieadw.com",
             "cookinggameszone.com",
-            "cookonsea.com"
-        ],
-        "to_test": [
+            "cookonsea.com",
             "cooksrodshop.info",
             "cookwife.com",
             "cool-bookmark.com",
@@ -22379,6 +22377,7 @@
             "coolgamescenter.com",
             "coolgamestop.com",
             "coolgamestoplay.org",
+            "coolgolfcaps.com",
             "coolgreeksoftware.com",
             "coolibahconstructions.com.au",
             "coolinstagoods.com",
@@ -22389,7 +22388,6 @@
             "coolmydl.com",
             "coolnameserv.com",
             "coolneonezz.com",
-            "coolnetsearch.com",
             "coolnetsearching.info",
             "coolpixguide.sg",
             "coolpremiumsnow.com",
@@ -22585,7 +22583,9 @@
             "count.e-ratings.com.ua",
             "count.livetv.sx",
             "count.newhua.com",
-            "count.painlessprocessing.com",
+            "count.painlessprocessing.com"
+        ],
+        "to_test": [
             "count.snacktv.de",
             "count.xhit.com",
             "count.yourmusic.cc",
