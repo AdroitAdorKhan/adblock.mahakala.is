@@ -7970,9 +7970,7 @@
             "hit32.jp",
             "hitachibreakout.com",
             "hitahottie.com",
-            "hitatom.com"
-        ],
-        "to_test": [
+            "hitatom.com",
             "hitboxwireless.com",
             "hitchiclah.com",
             "hitcount.heraldm.com",
@@ -8107,7 +8105,6 @@
             "hkdop.info",
             "hkgdns.com",
             "hkgnsone.com",
-            "hkleofepnyvv.com",
             "hkmop.biz",
             "hknasmer.net",
             "hkop3.biz",
@@ -8218,7 +8215,9 @@
             "holidayguides.com.au",
             "holidayhomes.com.my",
             "holidayproductpromo.com",
-            "holidayresidency.co.in",
+            "holidayresidency.co.in"
+        ],
+        "to_test": [
             "holidayvillaestepona.com",
             "holishit.in",
             "holistef.com",
