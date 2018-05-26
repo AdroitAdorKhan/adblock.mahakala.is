@@ -16764,9 +16764,7 @@
             "bsu.us.step1miami.com",
             "bsw13.com",
             "bswe-corecct.myjino.ru",
-            "bsx-games.com"
-        ],
-        "to_test": [
+            "bsx-games.com",
             "bsybr.cn",
             "bt.ilsemedia.nl",
             "bt.linkpulse.com",
@@ -16844,7 +16842,6 @@
             "buenascene.info",
             "buenaspect.com",
             "buergerinfo-kreis-bad-duerkheim.de",
-            "buero55.de",
             "buerodepot.com",
             "buffer-control.com",
             "buffers.com.br",
@@ -16967,7 +16964,9 @@
             "buscandoempleointernacional.com",
             "buscar-iclouds.com.br",
             "buscar-meuiphone.com",
-            "buscards.net",
+            "buscards.net"
+        ],
+        "to_test": [
             "busen.de.lv",
             "busestec.proyectosjk.cl",
             "bushkillambulance.info",
