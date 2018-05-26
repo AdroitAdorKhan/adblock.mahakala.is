@@ -5290,9 +5290,7 @@
             "gmbh-inform-de.info",
             "gmieux.com",
             "gmjett.info",
-            "gmlzz.alldownloads.hapc.gdn"
-        ],
-        "to_test": [
+            "gmlzz.alldownloads.hapc.gdn",
             "gmrjoias.com.br",
             "gmrockshotel.org",
             "gmtoffumagnasco.superslimcoloncleanse.com",
@@ -5342,6 +5340,7 @@
             "go.idmnet.bbelements.com",
             "go.intact.bbelements.com",
             "go.jxvector.com",
+            "go.kissmetrics.com",
             "go.lotech.bbelements.com",
             "go.mega-games.org",
             "go.mobilix.eu",
@@ -5563,8 +5562,11 @@
             "goldvipclub777.com",
             "goldwatchdirect.com",
             "goldwindos2000.com",
+            "gole-baby.pl",
             "golfabode.com",
-            "golfairomzon.com",
+            "golfairomzon.com"
+        ],
+        "to_test": [
             "golfbgas.com",
             "golfcarclub.info",
             "golfclubcams.info",
