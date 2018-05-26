@@ -2421,9 +2421,7 @@
             "frame4.cc",
             "framemoney.biz",
             "framesforhome.com",
-            "franceaol.com"
-        ],
-        "to_test": [
+            "franceaol.com",
             "francepayment-fr.com",
             "francescainternational.com",
             "francescorverage.com",
@@ -2746,7 +2744,9 @@
             "freegalway.info",
             "freegame2all.com",
             "freegames.media-fix.co.uk",
-            "freegames.uk.eu.org",
+            "freegames.uk.eu.org"
+        ],
+        "to_test": [
             "freegames3.de",
             "freegames777.net",
             "freegamesfiles.com",
