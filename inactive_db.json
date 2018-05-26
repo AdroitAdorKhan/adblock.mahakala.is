@@ -27223,9 +27223,7 @@
             "drugs-no-prescription.us",
             "drugs-non-prescription.com",
             "drugs-on-web.com",
-            "drugs-shop.biz"
-        ],
-        "to_test": [
+            "drugs-shop.biz",
             "drugs-sn.com",
             "drugs18.net",
             "drugs2006.com",
@@ -27290,6 +27288,7 @@
             "dsa.csdata1.com",
             "dsa.er.cyberwing.co.jp",
             "dsa.psiquiatraembeltrao.com.br",
+            "dsaewq.2039sw.org",
             "dsalchi.org",
             "dsandosdesign.com",
             "dsbdshbns.com",
@@ -27318,7 +27317,6 @@
             "dsgvhtr.ajjasianbistro.com",
             "dshirrwo.myjino.ru",
             "dsiners.com.br",
-            "dsip.cl",
             "dsj-bz-khb747bjg324yu-wsj.askiwmvno43.in",
             "dsjue3.hk",
             "dsknso.abadsupermarket.com",
@@ -27461,6 +27459,7 @@
             "dutchgangbangs.nl",
             "dutchibabd.com",
             "dutchmarketusa.com",
+            "dutchproxy.nl",
             "dutchshopusa.com",
             "dutige.org",
             "dutrus.com",
@@ -27499,7 +27498,9 @@
             "dvdsaccess.com",
             "dvdsclip.com",
             "dvdsorgames.info",
-            "dvdsvideos.net",
+            "dvdsvideos.net"
+        ],
+        "to_test": [
             "dvdx-pro-no.com",
             "dvetabs.com",
             "dvf2u7vwmkr5w.cloudfront.net",
