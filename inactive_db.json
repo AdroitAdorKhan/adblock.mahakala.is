@@ -7496,9 +7496,7 @@
             "helgazweb.com",
             "helicoptergame.ca",
             "helios.finn.no",
-            "helios.gamerdna.com"
-        ],
-        "to_test": [
+            "helios.gamerdna.com",
             "helium.adextent.com",
             "helixtransnationalltd.com",
             "helj2.hk",
@@ -7598,7 +7596,6 @@
             "hemenmp3.net",
             "hemibites.net",
             "hemouth.com",
-            "hempbrasil.com.br",
             "henaseruiasterfunkion.com",
             "heneids.com",
             "henex.net.ua",
@@ -7690,6 +7687,7 @@
             "herritge.com",
             "herriver.com",
             "hersneakers.pl",
+            "hersnkrs.pl",
             "hert.hblcrew.com",
             "hertfresh.com",
             "herthank.com",
@@ -7750,7 +7748,9 @@
             "hfrul9.info",
             "hfunt.com",
             "hfutz.com",
-            "hg0.myjino.ru",
+            "hg0.myjino.ru"
+        ],
+        "to_test": [
             "hg3.hitbox.com",
             "hg4.hitbox.com",
             "hg5.hitbox.com",
