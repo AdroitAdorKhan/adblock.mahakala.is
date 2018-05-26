@@ -4000,9 +4000,7 @@
             "ganek.eu",
             "ganeshabakery.id",
             "gang-wars.org.uk",
-            "gang.dothome.co.kr"
-        ],
-        "to_test": [
+            "gang.dothome.co.kr",
             "gangbanged.biz",
             "ganglandwarz.com",
             "gangle2008.cn",
@@ -4211,7 +4209,9 @@
             "gcirm.centralohio.com",
             "gcirm.detnews.com",
             "gcirm.flatoday.com",
-            "gcirm.gannett-tv.com",
+            "gcirm.gannett-tv.com"
+        ],
+        "to_test": [
             "gcirm.idehostatesman.com",
             "gcirm.laregionalonline.com",
             "gcirm.ozarksnow.com",
