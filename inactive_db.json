@@ -4209,9 +4209,7 @@
             "gcirm.centralohio.com",
             "gcirm.detnews.com",
             "gcirm.flatoday.com",
-            "gcirm.gannett-tv.com"
-        ],
-        "to_test": [
+            "gcirm.gannett-tv.com",
             "gcirm.idehostatesman.com",
             "gcirm.laregionalonline.com",
             "gcirm.ozarksnow.com",
@@ -4306,7 +4304,6 @@
             "geek24.pl",
             "geekmyworld.com",
             "geekpets.net",
-            "geer.exposedreport.com",
             "geerdale.com",
             "geetasilkmills.com",
             "gefc.gdn",
@@ -4316,6 +4313,7 @@
             "geheee.freespaces.com",
             "geheugenredder.com",
             "gei7oos.top",
+            "geilechica.de",
             "geilegaysex.nl",
             "geilejongetieners.nl",
             "geilenegers.nl",
@@ -4486,7 +4484,9 @@
             "geoepd.com",
             "geogral.com",
             "geoiplookup.wikimedia.org",
-            "geolocation.performgroup.com",
+            "geolocation.performgroup.com"
+        ],
+        "to_test": [
             "geoluxuryline.com",
             "geometrica-design.co.uk",
             "geometriksconferencesdisques.com",
