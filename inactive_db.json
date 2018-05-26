@@ -18853,9 +18853,7 @@
             "cdn8-ref.landing.comcontent.net",
             "cdn9-ref.landing.comcontent.net",
             "cdnjs.touclick.com",
-            "cdnm.zapunited.com"
-        ],
-        "to_test": [
+            "cdnm.zapunited.com",
             "cdns.privatamateure.com",
             "cdnt.yottos.com",
             "cdnw.ringtonepartner.com",
@@ -18865,6 +18863,7 @@
             "cds.adecn.com",
             "cds1143.lon.llnw.net",
             "cds26.ams9.msecn.net",
+            "cds339.lcy.llnw.net",
             "cds344.lcy.llnw.net",
             "cds965.lon.llnw.net",
             "cdshowplace.com",
@@ -18952,6 +18951,7 @@
             "cellphoneportal.us",
             "cellplease.com",
             "cellpqwe.com",
+            "cellulaexcel.com",
             "cellularmania.info",
             "celochka.com",
             "celphonat.com",
@@ -19054,7 +19054,9 @@
             "centuryproject.co",
             "centuryselflock.com",
             "centurywith.com",
-            "ceo.efa-light.com",
+            "ceo.efa-light.com"
+        ],
+        "to_test": [
             "cepatlangsing.id",
             "cephalexin.ourtablets.com",
             "ceqypawkht.com",
