@@ -2220,9 +2220,7 @@
             "forum1.carssprotauto.in",
             "forum1.fashionmix.in",
             "forum1.fashionsdrest.in",
-            "forum1.fashionshipt.in"
-        ],
-        "to_test": [
+            "forum1.fashionshipt.in",
             "forum1.milkstreet.in",
             "forum1.minimol-techomusik.in",
             "forum1.sevkavstrreet.in",
@@ -2423,7 +2421,9 @@
             "frame4.cc",
             "framemoney.biz",
             "framesforhome.com",
-            "franceaol.com",
+            "franceaol.com"
+        ],
+        "to_test": [
             "francepayment-fr.com",
             "francescainternational.com",
             "francescorverage.com",
