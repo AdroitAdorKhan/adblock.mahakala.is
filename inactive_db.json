@@ -28647,9 +28647,7 @@
             "ehg-gatehoussmedia.hitbox.com",
             "ehg-newarkinone.hitbox.com.hitbox.com",
             "ehg-newsinternational.hitbox.com",
-            "ehg-oreilley.hitbox.com"
-        ],
-        "to_test": [
+            "ehg-oreilley.hitbox.com",
             "ehg-presentigsolutions.hitbox.com",
             "ehg-sportsline.hitbox.com",
             "ehg-warner-brothers.hitbox.com",
@@ -28739,6 +28737,7 @@
             "ekompra.cl",
             "ekonkursowoip6.pl",
             "ekort.net",
+            "ekosmetyki.net.pl",
             "ekpate.com",
             "ekrito.info",
             "ekrot.net",
@@ -28794,13 +28793,14 @@
             "electronicspresent.com",
             "electroshock-promo.com",
             "electrosunny.com",
-            "elefrantec.cl",
             "elegancewares.com",
             "elegantangelppv.com",
             "elegantbabyct.com",
             "eleganza.ae",
             "eleganza.pk",
-            "elektro-studio24.pl",
+            "elektro-studio24.pl"
+        ],
+        "to_test": [
             "elemaby.com",
             "element.sapb1addons.in",
             "elementalfile.com",
