@@ -29232,9 +29232,7 @@
             "entertainment-rewardpath.com",
             "entertainpage.com",
             "entertainpoll.com",
-            "entertainsite.net"
-        ],
-        "to_test": [
+            "entertainsite.net",
             "entertaintool.net",
             "enterthename13.bbsindex.com",
             "entertherob.info",
@@ -29345,7 +29343,6 @@
             "epremiercapsules.com",
             "epremierpills.com",
             "eprofile.uimserv.net",
-            "epromo.beyond.com",
             "eprotectionline.com",
             "eprotectpage.com",
             "epserv.net",
@@ -29464,7 +29461,9 @@
             "eroticlick.net",
             "eroticscreensaver.org",
             "eroticwoman.net",
-            "erotik-butik.dk",
+            "erotik-butik.dk"
+        ],
+        "to_test": [
             "erotik.clickseller-leipzig.de",
             "erotikangebote.de.lv",
             "erotikdesires.com",
