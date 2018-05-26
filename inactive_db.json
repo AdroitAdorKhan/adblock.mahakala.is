@@ -33,9 +33,7 @@
             "falconsmerlin.info",
             "falenlis.com",
             "falianglaskar.org",
-            "falisha.co.id"
-        ],
-        "to_test": [
+            "falisha.co.id",
             "fall.cellman.club",
             "fall.fladnertech.com",
             "fall.sapb1addons.com",
@@ -56,6 +54,7 @@
             "famalypharmworld.com",
             "famalyprescriptionmarket.com",
             "fame.web24news.com",
+            "famfight.com",
             "fami4ka.net",
             "familiapedrocamejo.com.ve",
             "familiavaldes.net",
@@ -256,7 +255,9 @@
             "fastfilesload.com",
             "fastfreegames.info",
             "fasthanter2.name",
-            "fasthealthycare.com",
+            "fasthealthycare.com"
+        ],
+        "to_test": [
             "fastkillzone.info",
             "fastleakedmedia.com",
             "fastlearningsquad.ru",
