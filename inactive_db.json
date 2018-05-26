@@ -4484,9 +4484,7 @@
             "geoepd.com",
             "geogral.com",
             "geoiplookup.wikimedia.org",
-            "geolocation.performgroup.com"
-        ],
-        "to_test": [
+            "geolocation.performgroup.com",
             "geoluxuryline.com",
             "geometrica-design.co.uk",
             "geometriksconferencesdisques.com",
@@ -4549,6 +4547,7 @@
             "get.keywordsconnect.com",
             "get.mb8e17f12.website",
             "get.quithappenbetting.com",
+            "get.rubyroyal.com",
             "get.sad9876.info",
             "get.serveddownmanage.com",
             "get.thefile.me",
@@ -4771,7 +4770,6 @@
             "gettorontofastcapsules.com",
             "gettorontostoremedicines.net",
             "gettotalsec2008.com",
-            "gettpromos.com",
             "gettradecapsules.com",
             "gettradetablet.com",
             "gettrustdrugstore.com",
@@ -4843,7 +4841,9 @@
             "gfsql.geforce.com",
             "gfswl.geforce.com",
             "gftuaope.traeumtgerade.de",
-            "gfwcu.com",
+            "gfwcu.com"
+        ],
+        "to_test": [
             "gfx3.avn.com",
             "gfxgraphics.net",
             "gfye-utdp8.info",
