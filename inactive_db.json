@@ -23257,13 +23257,10 @@
             "cshacks.org",
             "cshacks.partycat.us",
             "cshotwin.com",
-            "csi.cauly.co.kr"
-        ],
-        "to_test": [
+            "csi.cauly.co.kr",
             "csi2004.org",
             "csiclasnwebgamer.com",
             "cskick.cn",
-            "cskin.pl",
             "csl24.com",
             "cslpb.cn",
             "csm-wii.com",
@@ -23639,7 +23636,9 @@
             "cv36720.tmweb.ru",
             "cv3xf.com",
             "cv43.co.uk",
-            "cvb4d.com",
+            "cvb4d.com"
+        ],
+        "to_test": [
             "cvb65.com",
             "cvbcv.com",
             "cvbcve.com",
