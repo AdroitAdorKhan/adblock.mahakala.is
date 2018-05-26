@@ -16123,9 +16123,7 @@
             "bonerrx.net",
             "bonerrx.org",
             "bonette.ind.br",
-            "bonghuikunsa.com"
-        ],
-        "to_test": [
+            "bonghuikunsa.com",
             "bongo10.fr",
             "bonidos.pl",
             "bonilt.com",
@@ -16172,6 +16170,7 @@
             "bony-paliwowe.pl",
             "bony.bialystok.pl",
             "bony.szczecin.pl",
+            "bony.uyp.pl",
             "bony.warszawa.pl",
             "bony247.pl",
             "bonydodrogeri.pl",
@@ -16229,6 +16228,7 @@
             "boonbbc.com",
             "boonty.aol.fr",
             "boooes.com",
+            "booostphone.pl",
             "boostore.fr",
             "boostphone.gq",
             "boostphone.pl",
@@ -16337,7 +16337,9 @@
             "boucenbobs.com",
             "bougetesdoigts.fr",
             "boughtdesign.com",
-            "boughtplain.com",
+            "boughtplain.com"
+        ],
+        "to_test": [
             "boughtpurpose.com",
             "boughtsail.com",
             "boughtshell.com",
