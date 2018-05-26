@@ -3537,9 +3537,7 @@
             "fyasspp.com",
             "fydefr.be",
             "fyh.net.ru",
-            "fyiudd.online"
-        ],
-        "to_test": [
+            "fyiudd.online",
             "fyod14.com",
             "fyqtguo.biz",
             "fyqydogivoxed.com",
@@ -3691,6 +3689,7 @@
             "gallendor.co.uk",
             "gallendor.es",
             "gallendor.it",
+            "gallendor.us",
             "gallerie-foto-gratis.com",
             "galleries.adult.com",
             "galleries.fuckingdrunks.com",
@@ -3745,6 +3744,7 @@
             "gamblerscarnival.info",
             "gamblersfrontier.info",
             "gamblersinvestor.info",
+            "gamblin.pl",
             "gambling-best.net",
             "gambling-factor.biz",
             "gambling-factor.info",
@@ -3756,7 +3756,9 @@
             "gamblingtopsite.net",
             "gambrum.com",
             "game-backgammon.net",
-            "game-backgammon.org",
+            "game-backgammon.org"
+        ],
+        "to_test": [
             "game-cards.org",
             "game-carnival.info",
             "game-crack.org",
