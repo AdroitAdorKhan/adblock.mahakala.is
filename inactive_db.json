@@ -3756,9 +3756,7 @@
             "gamblingtopsite.net",
             "gambrum.com",
             "game-backgammon.net",
-            "game-backgammon.org"
-        ],
-        "to_test": [
+            "game-backgammon.org",
             "game-cards.org",
             "game-carnival.info",
             "game-crack.org",
@@ -3829,7 +3827,6 @@
             "gameisto.com",
             "gamejacket.net",
             "gamekeysandhacks.com",
-            "gamekong.nl",
             "gamekult.2xmoinscher.com",
             "gameleadon.com",
             "gamelog.nl",
@@ -3866,7 +3863,9 @@
             "games-toys-rewardpath.com",
             "games-treatment.info",
             "games.123india.com",
-            "games.3conline.net",
+            "games.3conline.net"
+        ],
+        "to_test": [
             "games.amazing4u.info",
             "games.clanbase.com",
             "games.crossmap.com",
