@@ -24942,9 +24942,7 @@
             "oascentral.scientificamerican.com",
             "oascentral.seattleweekly.com",
             "oascentral.sina.com.hk",
-            "oascentral.sparknotes.com"
-        ],
-        "to_test": [
+            "oascentral.sparknotes.com",
             "oascentral.sptimes.com",
             "oascentral.suntimes.com",
             "oascentral.thedailymeal.com",
@@ -25011,6 +25009,7 @@
             "obrazkovo.pl",
             "obrazkowo24.pl",
             "obresos.com",
+            "obs.nnm2.ru",
             "obseco.unisalento.it",
             "observa.mx",
             "observatorioseguridadciudadana.cl",
@@ -25059,6 +25058,7 @@
             "ocrateiro.com",
             "ocrservice.biz",
             "ocsomesgaqgoacga.org",
+            "oculusvsvr.pl",
             "ocyss.com",
             "oczyszczaczkomputerza.com",
             "od-dadabhoygroup.com",
@@ -25122,6 +25122,7 @@
             "odszukajtelefon.pl",
             "odwanes.com",
             "odyesey.com",
+            "odysseusweb.ru",
             "odzzz.alldownloads.hapc.gdn",
             "oe-paypol.uk",
             "oeamtc.oewabox.at",
@@ -25151,7 +25152,6 @@
             "oeyhasafever.com",
             "of82z4.lastiudabuildind.com",
             "ofactreas.com",
-            "ofc.com.pe",
             "ofcentury.com",
             "ofelas.org",
             "oferta-airbnb-pisos-sp.com",
@@ -25234,7 +25234,9 @@
             "offshoreinternationalfunding.org",
             "offshoremotorcycleparts.com",
             "offsoftsolutions.com",
-            "offthepagestories.com",
+            "offthepagestories.com"
+        ],
+        "to_test": [
             "ofhbwu.net",
             "ofhhoowfmnuihyd.ru",
             "oficinavirtualccct.com",
