@@ -4360,9 +4360,7 @@
             "proxy-servers.eu",
             "proxy-socks.net",
             "proxy.blogads.com",
-            "proxy.dlf.lt"
-        ],
-        "to_test": [
+            "proxy.dlf.lt",
             "proxy.ia2.marketscore.com",
             "proxy.ia3.marketscore.com",
             "proxy.ia4.marketscore.com",
@@ -4587,6 +4585,7 @@
             "pudesignsstudio.com",
             "pudrx.com",
             "puertealhouse.myjino.ru",
+            "puertovallartamassage.com",
             "puffyseanw.5gbfree.com",
             "pufip.com",
             "pufisi.com",
@@ -4603,7 +4602,9 @@
             "pula-mea1qaz.com",
             "pula-mea2wsx.com",
             "pula-mea3edc.com",
-            "pulameainvartita.com",
+            "pulameainvartita.com"
+        ],
+        "to_test": [
             "pull-master.com",
             "pullbban.com",
             "pullmotivation.com",
