@@ -10481,9 +10481,7 @@
             "imgpots.com",
             "imgr.eu",
             "imgresult.com",
-            "imgserver.kr"
-        ],
-        "to_test": [
+            "imgserver.kr",
             "imgstorages.com",
             "imgyr.eu",
             "imgzportal.com",
@@ -10541,6 +10539,7 @@
             "implementingproduction.com",
             "implementprovide.info",
             "implicit-inspire.com",
+            "impliedscripting.com",
             "impm.upel.edu.ve",
             "impoexgo.com",
             "impopa.com",
@@ -10549,7 +10548,6 @@
             "import-electronics.com",
             "import.expolit.info",
             "import.quantum-marketing-quickies.net",
-            "importadorasupplyeys.com.ve",
             "important-ebay.com",
             "important-mailll.serveftp.com",
             "important-servicewebapps.com",
@@ -10579,7 +10577,6 @@
             "impressnow.info",
             "imprimeloconmbe.com.ve",
             "imprintablesexpress.com",
-            "improeventos.com.ve",
             "impsnare.iesnare.com",
             "impulse-estore.co.uk",
             "imrankhan.web.pk",
@@ -10778,7 +10775,9 @@
             "independencerepresent.com",
             "independenceson.com",
             "independencesurprise.com",
-            "independencetall.com",
+            "independencetall.com"
+        ],
+        "to_test": [
             "independencetry.com",
             "independencewhy.com",
             "independencewide.com",
