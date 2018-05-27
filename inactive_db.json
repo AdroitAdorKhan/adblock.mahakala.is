@@ -8816,9 +8816,7 @@
             "schkolisgreatone.com",
             "schlager-treffpunkt.de",
             "schlager.oewabox.at",
-            "schlicher-domung.brightfuture.biz"
-        ],
-        "to_test": [
+            "schlicher-domung.brightfuture.biz",
             "schmuck-und-esoterik.de",
             "schmucktrend.ch",
             "schoea.net",
@@ -8987,7 +8985,9 @@
             "sdc.bayerweb.com",
             "sdc.brightcove.com",
             "sdc.corning.com",
-            "sdc.dtag.com",
+            "sdc.dtag.com"
+        ],
+        "to_test": [
             "sdc.jumptheshark.com",
             "sdc.michelin.com",
             "sdc.outback.com",
