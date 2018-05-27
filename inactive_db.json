@@ -10364,9 +10364,7 @@
             "images.ultsearch.com",
             "images.vantage-media.net",
             "images.vserv.mobi",
-            "images.zwire.com"
-        ],
-        "to_test": [
+            "images.zwire.com",
             "images2.nytimes.com",
             "images3.bustyvixen.net",
             "images4orkut.com",
@@ -10402,7 +10400,6 @@
             "imcodec.com",
             "imcsmanagementinstitute.com",
             "imd-japan.com",
-            "imedia.cz",
             "imediacodec.com",
             "imemories.com.br",
             "imendrugs.com",
@@ -10484,7 +10481,9 @@
             "imgpots.com",
             "imgr.eu",
             "imgresult.com",
-            "imgserver.kr",
+            "imgserver.kr"
+        ],
+        "to_test": [
             "imgstorages.com",
             "imgyr.eu",
             "imgzportal.com",
