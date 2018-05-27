@@ -11616,9 +11616,8 @@
             "ipfudge.com",
             "iphone-6s.pl",
             "iphone-appleid.me",
-            "iphone-avril.offreflash.xyz"
-        ],
-        "to_test": [
+            "iphone-avril.offreflash.xyz",
+            "iphone-id.ltd",
             "iphone-internet.com",
             "iphone-iosui.com",
             "iphone-recovery.info",
@@ -11866,6 +11865,7 @@
             "isms-icloud.com",
             "isnt-that-cute.com",
             "isobelrainbo.com",
+            "isognidially.it",
             "isones.net",
             "isotorfun.com",
             "isotorfun.net",
@@ -11885,7 +11885,9 @@
             "issue-paypal.com",
             "issue.web.com",
             "issue10.xyz",
-            "issue20.xyz",
+            "issue20.xyz"
+        ],
+        "to_test": [
             "issue40.xyz",
             "issue50.xyz",
             "issue60.xyz",
