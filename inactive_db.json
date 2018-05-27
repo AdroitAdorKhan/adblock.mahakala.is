@@ -8985,9 +8985,7 @@
             "sdc.bayerweb.com",
             "sdc.brightcove.com",
             "sdc.corning.com",
-            "sdc.dtag.com"
-        ],
-        "to_test": [
+            "sdc.dtag.com",
             "sdc.jumptheshark.com",
             "sdc.michelin.com",
             "sdc.outback.com",
@@ -9056,9 +9054,11 @@
             "sdk.mopub.com",
             "sdk.motiveinteractive.com",
             "sdk.nuxsdk.com",
+            "sdk.open.amp.igexin.com",
             "sdk.open.inc2.igexin.com",
             "sdk.placeplay.com",
             "sdk.playhaven.com",
+            "sdk.revmob.com",
             "sdk.seventynine.mobi",
             "sdk.smaato.com",
             "sdk.sponsormob.com",
@@ -9436,7 +9436,9 @@
             "searchmerlinshopping.info",
             "searchmerlintravel.info",
             "searchmeta.biz",
-            "searchmeta.md",
+            "searchmeta.md"
+        ],
+        "to_test": [
             "searchmeup.biz",
             "searchmp3file.com",
             "searchnclick.info",
