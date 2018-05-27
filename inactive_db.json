@@ -12957,9 +12957,7 @@
             "jochen-melzer.de",
             "jockcsoft.com",
             "joculete-barbie.com",
-            "jocuri-jetix.info"
-        ],
-        "to_test": [
+            "jocuri-jetix.info",
             "jocuri-ty.com",
             "jocuri.fanni.biz",
             "jocuri.pentrunoi.net",
@@ -13169,7 +13167,9 @@
             "js.526d.com",
             "js.5689.nl",
             "js.admeld.com",
-            "js.admngr.com",
+            "js.admngr.com"
+        ],
+        "to_test": [
             "js.aomeishang.com",
             "js.betburdaaffiliates.com",
             "js.bigdoor.com",
