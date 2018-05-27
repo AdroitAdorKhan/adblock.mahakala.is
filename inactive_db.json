@@ -18143,9 +18143,7 @@
             "mailgw.thtf.com.cn",
             "mailhub.minaffet.gov.rw",
             "mailhunt.cn",
-            "mailorderinternational.com"
-        ],
-        "to_test": [
+            "mailorderinternational.com",
             "mailrelaytosupport.com",
             "mails.cneic.com.cn",
             "mailscan3.cau.ctm.net",
@@ -18437,7 +18435,9 @@
             "maniakii.com",
             "maninslavery.org",
             "manipulelasuperficiedelhielo.com",
-            "manismeed.com",
+            "manismeed.com"
+        ],
+        "to_test": [
             "manjumetal.com",
             "manmednw.net",
             "manmoneylistener.com",
