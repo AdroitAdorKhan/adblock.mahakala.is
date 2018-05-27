@@ -2038,9 +2038,7 @@
             "pitagora2.tk",
             "pitalguide.info",
             "pitalradio.info",
-            "pitatto.rakuten.co.jp"
-        ],
-        "to_test": [
+            "pitatto.rakuten.co.jp",
             "pitchcaptain.com",
             "pitchhair.com",
             "pitchkind.com",
@@ -2124,7 +2122,6 @@
             "pkbrde.net",
             "pkeno.net",
             "pkgjbrophgvs.net",
-            "pkgo.com.ve",
             "pkgsolar.com",
             "pki-server.com",
             "pkiddiesnmoms.com",
@@ -2207,7 +2204,6 @@
             "plank.duplicolor.cl",
             "plankersterns.com",
             "planonthego.info",
-            "plant-marker.com",
             "plant.lasushiteria.cl",
             "plantaardigebrandstof.nl",
             "plantdevelop.com",
@@ -2219,6 +2215,7 @@
             "plantsourcedirect.com",
             "plantszombies.newzgames.com",
             "plasma-rent.de",
+            "plasmaarraak.nl",
             "plasmatv4free.com",
             "plasmatvpros.com",
             "plasmatvreward.com",
@@ -2255,7 +2252,9 @@
             "play-boom.com",
             "play-casino-online-gambling.com",
             "play-explorer.com",
-            "play-gamer.biz",
+            "play-gamer.biz"
+        ],
+        "to_test": [
             "play-gamer.info",
             "play-gamer.net",
             "play-gameronline.com",
