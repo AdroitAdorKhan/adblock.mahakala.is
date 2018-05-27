@@ -19046,9 +19046,7 @@
             "mean.allinoneassistant.net",
             "mean.cellman.info",
             "mean.realgodproof.com",
-            "meandafork.com"
-        ],
-        "to_test": [
+            "meandafork.com",
             "meanharmony.com",
             "meanmotivation.com",
             "meanpiece.com",
@@ -19087,6 +19085,7 @@
             "med-dis.com",
             "med4.org",
             "medauditory.com",
+            "medbog.com",
             "medcaldirect.info",
             "medcalgroup.info",
             "medcalschool.info",
@@ -19358,7 +19357,9 @@
             "medicines-choice.com",
             "medicines-inexpensive.com",
             "medicinestorerx.com",
-            "medicomhealthservices.org",
+            "medicomhealthservices.org"
+        ],
+        "to_test": [
             "medicosdelara.com.ve",
             "medidz.com",
             "medieval-tapestry-wallhangings.com",
