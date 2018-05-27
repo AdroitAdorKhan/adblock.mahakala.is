@@ -8548,9 +8548,7 @@
             "sarcozy.net",
             "sarepta.com.ua",
             "saretionhenfunhaandsuikin.com",
-            "sarfazweb.com"
-        ],
-        "to_test": [
+            "sarfazweb.com",
             "sariclon.org",
             "sarkyphagbh.com",
             "sarsijpandey.2fh.co",
@@ -8593,7 +8591,6 @@
             "sauna-borabora.ru",
             "sauna-n-steam.com",
             "saunatech.net",
-            "saunaundbad.de",
             "saurar.com",
             "savafutdebulai.com",
             "savandeal.com",
@@ -8659,7 +8656,6 @@
             "savingstie.info",
             "savne.org",
             "saw-cgi-dll.us",
-            "sawargi.co.id",
             "sawbetter.com",
             "sawerjib.com",
             "sawiorugn.com",
@@ -8673,7 +8669,6 @@
             "sayardirect.info",
             "saybert.com.au",
             "saydevelop.com",
-            "sayelemall.com",
             "sayfollow.com",
             "sayikbugra.com",
             "sayima.com",
@@ -8821,7 +8816,9 @@
             "schkolisgreatone.com",
             "schlager-treffpunkt.de",
             "schlager.oewabox.at",
-            "schlicher-domung.brightfuture.biz",
+            "schlicher-domung.brightfuture.biz"
+        ],
+        "to_test": [
             "schmuck-und-esoterik.de",
             "schmucktrend.ch",
             "schoea.net",
