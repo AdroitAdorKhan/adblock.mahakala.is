@@ -25985,9 +25985,7 @@
             "onlinecomguide.info",
             "onlinecounter1.net",
             "onlinedaa.com",
-            "onlinedersnotlari.com"
-        ],
-        "to_test": [
+            "onlinedersnotlari.com",
             "onlinedrugscatalogue.com",
             "onlinedrugsnight.com",
             "onlineeast-bankofamerica.com",
@@ -26207,6 +26205,7 @@
             "opami.flame-clothing.com",
             "opaoie1.xz.cn",
             "opapopagirls.info",
+            "opco.uk.com",
             "opcwdns.opcw.nl",
             "opdrf.queensgateowners.com",
             "opec.lflink.com",
@@ -26254,7 +26253,9 @@
             "openx.city-nav.com",
             "openx.coolconcepts.nl",
             "openx.depoilab.com",
-            "openx.edf.com",
+            "openx.edf.com"
+        ],
+        "to_test": [
             "openx.hack2learn.org",
             "openx.ip.radio.de",
             "openx.kasjauns.lv",
