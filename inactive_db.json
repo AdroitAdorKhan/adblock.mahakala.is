@@ -23092,9 +23092,7 @@
             "netmodality.com",
             "netmoviedownload.biz",
             "netmp3downloads.com",
-            "netmsg5.eu"
-        ],
-        "to_test": [
+            "netmsg5.eu",
             "netpace.cn",
             "netpalgames.com",
             "netphuck.com",
@@ -23149,7 +23147,6 @@
             "network.business.com",
             "network.coull.com",
             "network.leadpub.com",
-            "network.nocreditcard.net",
             "network.northtexasrain.com",
             "network.realmedia.com",
             "network.realtechnetwork.net",
@@ -23301,7 +23298,6 @@
             "newdata.box.sk",
             "newdawnliggt.com",
             "newddl.info",
-            "newdg.net",
             "newdgl.com",
             "newdgl.net",
             "newdirectmedication.com",
@@ -23369,7 +23365,6 @@
             "newincall.info",
             "newintmeds.com",
             "newintpharms.com",
-            "newjerseysurfco.com",
             "newjuris.com.br",
             "newlegaldrugs.com",
             "newlights.greatnewonlinebonus.xyz",
@@ -23460,7 +23455,9 @@
             "newrxki.com",
             "news-affairs.com",
             "news-chase.us",
-            "news-icl0ud.com",
+            "news-icl0ud.com"
+        ],
+        "to_test": [
             "news-korea.com",
             "news-location.com",
             "news.movieworld.kz",
