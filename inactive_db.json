@@ -5174,9 +5174,7 @@
             "quickvids.ml",
             "quickylookup.com",
             "quiendicequenosepuede.com",
-            "quienteadmite.info"
-        ],
-        "to_test": [
+            "quienteadmite.info",
             "quiesn.net",
             "quiet-actions.com",
             "quiet-interactions.net",
@@ -5293,6 +5291,7 @@
             "r-soft.org",
             "r-top.ch",
             "r-vision.org",
+            "r.14244.com",
             "r.369dl.com",
             "r.ace.advertising.com",
             "r.admob.com",
@@ -5409,7 +5408,9 @@
             "radston-co.net",
             "raduo4.es",
             "raduse.info",
-            "radvdieo.com",
+            "radvdieo.com"
+        ],
+        "to_test": [
             "raeumende.justbroke.com",
             "rafaelsport.co.id",
             "rafcsc.co.uk",
