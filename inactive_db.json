@@ -11052,9 +11052,7 @@
             "inh1ts06-qfe0.ims.bt.net",
             "inh1ts09-qfe0.ims.bt.net",
             "inh1ts10-qfe0.ims.bt.net",
-            "inh1ts12-qfe0.ims.bt.net"
-        ],
-        "to_test": [
+            "inh1ts12-qfe0.ims.bt.net",
             "inhaltsaeuberung.com",
             "inhealthtablet.com",
             "inherhole.com",
@@ -11319,7 +11317,9 @@
             "interesuj-ace.pl",
             "interfere.marionunezcampusano.com",
             "interferencer.ru",
-            "interfil.pl",
+            "interfil.pl"
+        ],
+        "to_test": [
             "intergalactics.biz",
             "intergeuide.com",
             "interior-dezine.info",
