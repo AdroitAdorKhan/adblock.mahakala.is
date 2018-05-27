@@ -14826,9 +14826,7 @@
             "ksiazki.wydawnictwowam.pl",
             "ksiegarnia.b-52.com.pl",
             "ksineo.com",
-            "ksjba3.nsa.northpeninsulaopenspacetrust.com"
-        ],
-        "to_test": [
+            "ksjba3.nsa.northpeninsulaopenspacetrust.com",
             "ksnsse.com",
             "ksp.chel.ru",
             "kspoe.com",
@@ -14935,6 +14933,7 @@
             "kuyic.m.gxwztv.com",
             "kuzakatrans.com",
             "kuzins.biz",
+            "kuzinsp.ru",
             "kv101-prod.do.dsp.mp.microsoft.com",
             "kv201-prod.do.dsp.mp.microsoft.com",
             "kv401-prod.do.dsp.mp.microsoft.com",
@@ -15015,9 +15014,10 @@
             "laborcareer.info",
             "labprint.online",
             "labthanhthanhpg.com",
-            "lacabinadigital.com.ve",
             "lacapitalcu.us",
-            "lacedirmart.com",
+            "lacedirmart.com"
+        ],
+        "to_test": [
             "laceyzplace.com",
             "lacie-heart.com",
             "laciumax.com",
