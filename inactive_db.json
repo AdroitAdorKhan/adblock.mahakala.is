@@ -14343,9 +14343,7 @@
             "kizi360.com",
             "kizi4.org",
             "kizi5.org",
-            "kizi7.net"
-        ],
-        "to_test": [
+            "kizi7.net",
             "kizi8.net",
             "kizi9.net",
             "kizi9.org",
@@ -14390,6 +14388,7 @@
             "kkls9.co.uk",
             "kkmjf4.iudasitebuildng.org",
             "kkninuo.com",
+            "kkpucollege.com",
             "kkrox.com",
             "kkuumn.com",
             "kkvmaj.com",
@@ -14459,6 +14458,7 @@
             "klubkids.com.br",
             "klubmp3.pl",
             "klucze-csgo.pl",
+            "kluczecs-go.pl",
             "kluetiv.com",
             "kluetiv.net",
             "kluis-amsterdam.nl",
@@ -14537,7 +14537,6 @@
             "kobfus.net",
             "kobieta-kobietom.com.pl",
             "kocesti.com",
-            "kochamy-filmy.pl",
             "kochmedia.gameswelt.de",
             "koclassroom.com",
             "kodabec.com",
@@ -14582,7 +14581,9 @@
             "kolonka17.cn",
             "kolor-fejsa24.pl",
             "koloty.com",
-            "kolrettinos.com",
+            "kolrettinos.com"
+        ],
+        "to_test": [
             "komateurioplionsdgiteurios.com",
             "kombatgames.com.br",
             "komcu.com",
