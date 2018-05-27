@@ -27120,9 +27120,7 @@
             "p27dokhpz2n7nvgr.1jzmjr.top",
             "p27dokhpz2n7nvgr.1kja1j.top",
             "p27dokhpz2n7nvgr.1kq4l8.top",
-            "p27dokhpz2n7nvgr.1ktjse.top"
-        ],
-        "to_test": [
+            "p27dokhpz2n7nvgr.1ktjse.top",
             "p27dokhpz2n7nvgr.1kyjw7.top",
             "p27dokhpz2n7nvgr.1l4zyd.top",
             "p27dokhpz2n7nvgr.1lcteo.top",
@@ -27238,6 +27236,7 @@
             "page-update.esy.es",
             "page.5iplay.cn",
             "page.barclaysapp.com",
+            "page.v5.yy.com",
             "page62.cc",
             "page7.su",
             "page73.be",
@@ -27338,7 +27337,6 @@
             "paleousegbh.com",
             "palert-changed.com",
             "palestine-dns.org",
-            "paletagrafica.com.ve",
             "palittnagu.com",
             "paliwo.as9.pl",
             "palkunden.info",
@@ -27390,7 +27388,9 @@
             "panga-gmbh.com",
             "pangelin.com",
             "panggya.com",
-            "panguinproductions.net",
+            "panguinproductions.net"
+        ],
+        "to_test": [
             "panimooladevi.org",
             "panispalu.com",
             "pankajjayale.com",
