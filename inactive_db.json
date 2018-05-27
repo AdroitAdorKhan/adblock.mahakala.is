@@ -11971,9 +11971,7 @@
             "sisterscreatingastir.com",
             "sistertrust.cn",
             "sisutemuantei.com",
-            "sisutemuorugurin.com"
-        ],
-        "to_test": [
+            "sisutemuorugurin.com",
             "sit.upraise.in",
             "sita-atl.bench.cedexis.com",
             "sitama.cn",
@@ -12052,6 +12050,7 @@
             "sitestat3.sport1.de",
             "sitesyouwant.com",
             "siteticket.net",
+            "siteverification.online",
             "sitevgb.ru",
             "sitnsleepga.com",
             "sitspend.com",
@@ -12111,7 +12110,6 @@
             "skarz.biz",
             "skaska.biz",
             "skateboardgamez.com",
-            "skates4all.nl",
             "skateshop.andegrand.pl",
             "skcym.co.in",
             "skeet.advetime.ru",
@@ -12145,7 +12143,6 @@
             "skinscastle.com",
             "skinsgang.com",
             "skinygo.pl",
-            "skinykonkurs.pl",
             "skip-beat.com",
             "skipp-hacks.net",
             "skippydotcom.info",
@@ -12202,7 +12199,9 @@
             "skyeng-afric.com",
             "skyespecially.com",
             "skyfi-confirm.com",
-            "skyfidepartment.com",
+            "skyfidepartment.com"
+        ],
+        "to_test": [
             "skyfione.com",
             "skyfyre.net",
             "skygatetrade.com",
