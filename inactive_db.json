@@ -9436,11 +9436,10 @@
             "searchmerlinshopping.info",
             "searchmerlintravel.info",
             "searchmeta.biz",
-            "searchmeta.md"
-        ],
-        "to_test": [
+            "searchmeta.md",
             "searchmeup.biz",
             "searchmp3file.com",
+            "searchmyword.com",
             "searchnclick.info",
             "searchnetworks.net",
             "searchonlineinfo.com",
@@ -9612,6 +9611,7 @@
             "secure-ebank.com",
             "secure-ebanking.com",
             "secure-ebaypayment-resolution.com",
+            "secure-ebill.capcham.com",
             "secure-fraud.info",
             "secure-googledoc.boulderentertainmentllc.com",
             "secure-hsfcu.com",
@@ -9900,7 +9900,9 @@
             "securite-payage.fr",
             "securitecontrolepass.com",
             "securitesuite.com",
-            "securitieservers.com",
+            "securitieservers.com"
+        ],
+        "to_test": [
             "securittyyaccount-updaateeinformationss.com",
             "securitverif.net",
             "security-163e4cb.win",
