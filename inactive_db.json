@@ -24713,9 +24713,7 @@
             "nutprox.com",
             "nutri-lean.com",
             "nutrinuts.vn",
-            "nutrionline.co.uk"
-        ],
-        "to_test": [
+            "nutrionline.co.uk",
             "nutritional-watford.info",
             "nutsgreensfruitbeans.com",
             "nuvhxc.com",
@@ -24724,6 +24722,7 @@
             "nuy.myjino.ru",
             "nv.5.p2l.info",
             "nv1.ad.naver.com",
+            "nv1.pl",
             "nv2.ad.naver.com",
             "nvbrmb.com",
             "nvc.n1bus-exp.com",
@@ -24943,7 +24942,9 @@
             "oascentral.scientificamerican.com",
             "oascentral.seattleweekly.com",
             "oascentral.sina.com.hk",
-            "oascentral.sparknotes.com",
+            "oascentral.sparknotes.com"
+        ],
+        "to_test": [
             "oascentral.sptimes.com",
             "oascentral.suntimes.com",
             "oascentral.thedailymeal.com",
