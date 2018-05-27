@@ -13167,14 +13167,12 @@
             "js.526d.com",
             "js.5689.nl",
             "js.admeld.com",
-            "js.admngr.com"
-        ],
-        "to_test": [
+            "js.admngr.com",
             "js.aomeishang.com",
             "js.betburdaaffiliates.com",
             "js.bigdoor.com",
             "js.brfrb.cn",
-            "js.cdn.ac",
+            "js.cybermonitor.com",
             "js.dmtry.com",
             "js.e-satisfy.com",
             "js.eyouv.cn",
@@ -13226,6 +13224,7 @@
             "jstnightnow.xyz",
             "jstnightpro.xyz",
             "jswalk.com",
+            "jsym.qcrx.cn",
             "jtanes.com",
             "jtbace.com",
             "jtl-skiwear.co.uk",
@@ -13263,6 +13262,7 @@
             "juegos.antronio.com",
             "juegos.diariomadrid.eu",
             "juegos.donmegabite.com",
+            "juegos.hispavista.com",
             "juegos.kroaton.net",
             "juegos.larompe.com.ar",
             "juegos.mujeraldia.com",
@@ -13286,7 +13286,9 @@
             "juegosdeconsolas.com.ar",
             "juegosdemaquillargratis.com",
             "juegosdemaquillarse.com",
-            "juegosdemario.tv",
+            "juegosdemario.tv"
+        ],
+        "to_test": [
             "juegosdepeluqueria.es",
             "juegosdesims.net",
             "juegosdetiros.net",
