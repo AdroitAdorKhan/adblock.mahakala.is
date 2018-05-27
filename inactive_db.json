@@ -10286,9 +10286,7 @@
             "sentenceocean.com",
             "sentenceoh.com",
             "sentencerequire.com",
-            "sentencewild.com"
-        ],
-        "to_test": [
+            "sentencewild.com",
             "sentexercise.com",
             "sentici.info",
             "sentimentindia.com",
@@ -10475,6 +10473,7 @@
             "serverc.org",
             "serverchase.com",
             "servercustomerappsuser.homeftp.org",
+            "servererror001.info",
             "serverexchusers.com",
             "serverforw.info",
             "serveric.wellsfarg0t.com.aquisites.net",
@@ -10489,6 +10488,7 @@
             "serversecuritycibcupdate.dvrdns.org",
             "serverserrvice.cf",
             "serversss.biz",
+            "serversupdatecustomerslimiteds.com",
             "serverupdate13.com",
             "serveruser-craonline.from-wv.com",
             "serveruu.hk",
@@ -10537,7 +10537,6 @@
             "service-it-secure.de",
             "service-kiert.com",
             "service-lf.com",
-            "service-limit.com",
             "service-limited-account-id-006.com",
             "service-limited-yourpayment.com",
             "service-loads.com",
@@ -10547,7 +10546,6 @@
             "service-paypal-information.sweddy.com",
             "service-paypal-key.com",
             "service-paypal.general-help-important.com",
-            "service-paypal.info",
             "service-paypal.limit-resolvecenter.cf",
             "service-paypal08.com",
             "service-paypayl.com",
@@ -10651,7 +10649,9 @@
             "servicewebclient.com",
             "serviceyourpaypal.com",
             "servicezabibibe.com",
-            "servicfrance24h.com",
+            "servicfrance24h.com"
+        ],
+        "to_test": [
             "servicfraud.com",
             "servicgricol.com",
             "serviciorecouvre-impts.it",
