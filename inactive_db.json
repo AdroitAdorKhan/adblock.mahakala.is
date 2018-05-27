@@ -86,9 +86,7 @@
             "party-find.net",
             "party2pal.com",
             "partycasino12.com",
-            "partycostumeshop.co.uk"
-        ],
-        "to_test": [
+            "partycostumeshop.co.uk",
             "partymoore.com.au",
             "partystead.com",
             "parusnu.com",
@@ -176,7 +174,6 @@
             "patrickrreid.biz",
             "patrimoniofamiliar.com.br",
             "patrinha.com",
-            "patrono.com.br.villantio.com",
             "patrouts.com",
             "patrzetu.pl",
             "pattayabazaar.com",
@@ -191,6 +188,7 @@
             "pauiyaspal-pl.com",
             "paul.cescon.ca",
             "paulripleymedia.com",
+            "paulsdrivethru.net",
             "paulsmarkt.de",
             "paupoer.com",
             "pavalova.com",
@@ -512,7 +510,9 @@
             "paypal.benutzersicherheitsonline.com",
             "paypal.bogiatiland.com",
             "paypal.cgi-binwebapps.com",
-            "paypal.ch.fastlink.site",
+            "paypal.ch.fastlink.site"
+        ],
+        "to_test": [
             "paypal.co.uk-home-uk-codeb6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675796455622.sanlux.ro",
             "paypal.co.uk.6a87.pw",
             "paypal.co.uk.mikhailovaphoto.ru",
