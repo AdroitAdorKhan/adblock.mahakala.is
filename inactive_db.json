@@ -6547,9 +6547,7 @@
             "rentalmaty.kz",
             "rentalspecialnewupdates.eu",
             "rentalupdatedyachtspecials.eu",
-            "rentard.me.uk"
-        ],
-        "to_test": [
+            "rentard.me.uk",
             "rentcentralohio.info",
             "rentimeinvz.com",
             "rentinclub.fr",
@@ -6731,8 +6729,6 @@
             "resolve-limit.com",
             "resolve-limitations.xyz",
             "resolve-payment-activity.com",
-            "resolve-paypal.com-secure-center.info",
-            "resolve-paypal.com-secure-costumer.info",
             "resolve-paypal.com-secure-payment.net",
             "resolve-paypal.com-secure-updates.net",
             "resolve-updateinfo.net",
@@ -6821,6 +6817,7 @@
             "restoreacc.com",
             "restorebuono.cloudapp.net",
             "restoresrvsecure.com",
+            "restro-oona.be",
             "restwrite.com",
             "resultcentury.com",
             "resultplacement.com",
@@ -6912,7 +6909,9 @@
             "rexboothtradingroup.com",
             "rexdon2.net",
             "rexec39.com",
-            "rexhost.biz",
+            "rexhost.biz"
+        ],
+        "to_test": [
             "rezolution-center.com",
             "rezultsd.info",
             "rf104.com",
