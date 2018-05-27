@@ -13242,9 +13242,7 @@
             "spincert.info",
             "spincertainty.info",
             "spincerts.info",
-            "spincertskydiving.info"
-        ],
-        "to_test": [
+            "spincertskydiving.info",
             "spindyirl.info",
             "spindyn.info",
             "spindyncentral.info",
@@ -13464,7 +13462,9 @@
             "spycut.com",
             "spydating.net",
             "spydeath.com",
-            "spydeface.com",
+            "spydeface.com"
+        ],
+        "to_test": [
             "spydefenderpro.com",
             "spydemolisher.com",
             "spydestroying.com",
