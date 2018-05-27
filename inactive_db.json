@@ -6265,9 +6265,7 @@
             "refund-hmrc.uk-codeb6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675743465468.zirakpurproperty.com",
             "refund-irs-alert.com",
             "refunds-online.com",
-            "reg-cleaners.com"
-        ],
-        "to_test": [
+            "reg-cleaners.com",
             "reg0rr01x011917ml.club",
             "reg5f.com",
             "regalosdetalles.cl",
@@ -6297,6 +6295,7 @@
             "reggame.biz",
             "reggetkn.com",
             "reggetnow.info",
+            "regica.si",
             "regie.a1clipart.org",
             "regie.jaber.firstream.net",
             "regiepublicitairecpm.com",
@@ -6507,6 +6506,7 @@
             "renasup-nord-de-france.fr",
             "renatododetran.com.br",
             "renaul4you.info",
+            "renaulrtcenturytrick.top",
             "renavd.com",
             "renazplace.com",
             "renecaovilla.online",
@@ -6539,6 +6539,7 @@
             "renoise-info.de",
             "renoregency.com",
             "renova.1.p2l.info",
+            "rent-a-keg.ashopcommerce.co.uk",
             "rent.amazonokc.com",
             "rent.natureville.in",
             "rental-2004.com",
@@ -6546,7 +6547,9 @@
             "rentalmaty.kz",
             "rentalspecialnewupdates.eu",
             "rentalupdatedyachtspecials.eu",
-            "rentard.me.uk",
+            "rentard.me.uk"
+        ],
+        "to_test": [
             "rentcentralohio.info",
             "rentimeinvz.com",
             "rentinclub.fr",
