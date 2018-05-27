@@ -10149,9 +10149,7 @@
             "ilegaldrugstore.com",
             "ilegalmedicines.com",
             "ilemasziq.pl",
-            "ilesdekorus.com"
-        ],
-        "to_test": [
+            "ilesdekorus.com",
             "ilheaked.biz",
             "iliacgnkln.com",
             "iliesahbevern.com",
@@ -10308,6 +10306,7 @@
             "images.admob.com",
             "images.admoda.com",
             "images.adsmobi.com",
+            "images.adster.com",
             "images.adwhirl.com",
             "images.appflood.com",
             "images.applifier.com",
@@ -10326,7 +10325,6 @@
             "images.clicksmob.com",
             "images.dsnrmg.com",
             "images.emapadserver.com",
-            "images.enhance.com",
             "images.fiksu.com",
             "images.flurry.com",
             "images.freeshop.com",
@@ -10366,7 +10364,9 @@
             "images.ultsearch.com",
             "images.vantage-media.net",
             "images.vserv.mobi",
-            "images.zwire.com",
+            "images.zwire.com"
+        ],
+        "to_test": [
             "images2.nytimes.com",
             "images3.bustyvixen.net",
             "images4orkut.com",
