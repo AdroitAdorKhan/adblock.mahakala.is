@@ -510,9 +510,7 @@
             "paypal.benutzersicherheitsonline.com",
             "paypal.bogiatiland.com",
             "paypal.cgi-binwebapps.com",
-            "paypal.ch.fastlink.site"
-        ],
-        "to_test": [
+            "paypal.ch.fastlink.site",
             "paypal.co.uk-home-uk-codeb6159368de39251d7a-login.id-107sbtd9cbhsbtd5d80a13c0db1f546757jnq9j5754675796455622.sanlux.ro",
             "paypal.co.uk.6a87.pw",
             "paypal.co.uk.mikhailovaphoto.ru",
@@ -525,6 +523,7 @@
             "paypal.com-intlservicelimitied.info",
             "paypal.com-limited-accounts-re-active.siib.com.au",
             "paypal.com-resolution.center-ujpmq2vvcy7.l06v.com",
+            "paypal.com-resolve-payment.net",
             "paypal.com-secured-verify.com",
             "paypal.com-security-access-updates.acount-customer.info",
             "paypal.com-security-center.safe-accountfraud.com",
@@ -900,7 +899,6 @@
             "pazawaxa10.fr",
             "pazmogutionsa.com",
             "pb7.us",
-            "pba39.inethoster.org",
             "pbcontrolcar.com",
             "pbemnexus.com",
             "pbh-sales.com",
@@ -1017,7 +1015,9 @@
             "pdasell.hk",
             "pddklpy.com",
             "pdes.honor.es",
-            "pdf-4downloadfreeonline.com",
+            "pdf-4downloadfreeonline.com"
+        ],
+        "to_test": [
             "pdf.adobe.accounts.teedelconsulting.com",
             "pdf.adoppe.account.pateloptics.com",
             "pdf.chaiandbluesky.com",
