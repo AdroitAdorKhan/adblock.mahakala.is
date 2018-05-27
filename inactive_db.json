@@ -21896,9 +21896,7 @@
             "myapologies.net",
             "myappieid-appie.com",
             "myapple-locked-account-resolve-data-service-webrecovery.com",
-            "myappleid-application-processing-validateusername.lawofcriminaldefense.com"
-        ],
-        "to_test": [
+            "myappleid-application-processing-validateusername.lawofcriminaldefense.com",
             "myappleid-verifications.com",
             "myappleid.secureapple.callcenterclient.com",
             "myavailcode.info",
@@ -22286,7 +22284,9 @@
             "mysaigonspace.com",
             "mysalepills.com",
             "mysalom.at",
-            "mysapcve.com",
+            "mysapcve.com"
+        ],
+        "to_test": [
             "myscreennamesrv1.com",
             "myscreennamesrv2.com",
             "myscreennamesrv3.com",
