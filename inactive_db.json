@@ -23455,9 +23455,7 @@
             "newrxki.com",
             "news-affairs.com",
             "news-chase.us",
-            "news-icl0ud.com"
-        ],
-        "to_test": [
+            "news-icl0ud.com",
             "news-korea.com",
             "news-location.com",
             "news.movieworld.kz",
@@ -23688,7 +23686,6 @@
             "nextworldmenrx.com",
             "nextworldsupercapsules.com",
             "nextwritten.com",
-            "nexusinmobiliario.cl",
             "nexware.net",
             "nf.5.p2l.info",
             "nf7k2q.info",
@@ -23791,7 +23788,9 @@
             "nichetoolbars.com",
             "nicholaslanejewelry.com",
             "nickadeal.com",
-            "nickjotel.com",
+            "nickjotel.com"
+        ],
+        "to_test": [
             "nickysalonealing.com",
             "nicoentretenciones.cl",
             "nicoland.be",
