@@ -8004,9 +8004,7 @@
             "rzss2zfue73dfvmj.truewargame.ch",
             "rzytek.com",
             "s-161978.abc188.com",
-            "s-295606.abc188.com"
-        ],
-        "to_test": [
+            "s-295606.abc188.com",
             "s-akai.com",
             "s-angel.net",
             "s-avir2009-buy.com",
@@ -8023,6 +8021,7 @@
             "s-static.ak.facebook.com",
             "s-static.ak.fbcdn.net",
             "s-store.org",
+            "s-teamworld.com",
             "s-yoolk-banner-assets.yoolk.com",
             "s-yoolk-billboard-assets.yoolk.com",
             "s.6113371.com",
@@ -8035,6 +8034,7 @@
             "s.ad136m.com",
             "s.adklik.com.tr",
             "s.admob.com",
+            "s.ads.t-online.de",
             "s.as-us.falkag.net",
             "s.baidu.com",
             "s.betus.com",
@@ -8065,6 +8065,7 @@
             "s.svtrd.com",
             "s.tfile.ru",
             "s.troveread.com",
+            "s.vgsgaming-ads.com",
             "s.weheartstats.com",
             "s.xbox.com",
             "s.xz15801.com",
@@ -8114,7 +8115,9 @@
             "s3.2mdn.net",
             "s3.adbers.com",
             "s3.trafficmaxx.de",
-            "s32.bilsay.com",
+            "s32.bilsay.com"
+        ],
+        "to_test": [
             "s3a6.su",
             "s3cur3.altervista.org",
             "s3fni5.com",
