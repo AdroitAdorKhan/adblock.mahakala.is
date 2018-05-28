@@ -18584,9 +18584,7 @@
             "track.webmatics.info",
             "track.whatwhowhywhere.com",
             "track.whereflower.com",
-            "track.whitespace57.com"
-        ],
-        "to_test": [
+            "track.whitespace57.com",
             "track.yourmedicalpurchase.ru",
             "track.zalando.de",
             "track.zapromotions.com",
@@ -18602,6 +18600,7 @@
             "trackedge.fastforskolinweightloss.com",
             "tracker-pm2.erosaffiliates.com",
             "tracker.baidu.com",
+            "tracker.blueprintinteractivetest.com",
             "tracker.eton-events.com",
             "tracker.everestnutrition.com",
             "tracker.freerun.com",
@@ -18630,6 +18629,7 @@
             "tracker.vreveal.com",
             "tracker.washtimes.com",
             "tracker2.apollo-mail.net",
+            "trackerhost.us",
             "trackers.1st-affiliation.fr",
             "trackerv2.picapp.com",
             "tracking-rce.veeseo.com",
@@ -18646,7 +18646,6 @@
             "tracking.chooserocket.com",
             "tracking.conversion-lab.it",
             "tracking.conversionlab.it",
-            "tracking.craktraffic.com",
             "tracking.crossovertech.asia",
             "tracking.ddd.de",
             "tracking.dhl.com-account-redirect-track-package.10zenspa.com",
@@ -18675,7 +18674,6 @@
             "tracking.mvsuite.de",
             "tracking.nuasti.com",
             "tracking.oggifinogi.com",
-            "tracking.one-tracker.de",
             "tracking.opencandy.com",
             "tracking.paymentfindermail.net",
             "tracking.peopletomysite.com",
@@ -18726,7 +18724,9 @@
             "traderpod.co.uk",
             "traderxpharm.com",
             "tradesolveworld.com",
-            "tradetwenty.net",
+            "tradetwenty.net"
+        ],
+        "to_test": [
             "tradewiresolutions.com",
             "tradgardspartner.se",
             "trading-atropine.biz",
