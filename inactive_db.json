@@ -24958,9 +24958,7 @@
             "winsoftpc.com",
             "winspycontrol.com",
             "winspykiller.com",
-            "winspywareprotect.com"
-        ],
-        "to_test": [
+            "winspywareprotect.com",
             "winspywareprotectdl.com",
             "winspywareprotects.com",
             "winspywarescanner.com",
@@ -25007,7 +25005,6 @@
             "winxprotector.com",
             "winxpspeedup.com",
             "winxsecuritycenter.com",
-            "winzipices.cn",
             "wiodasd.org",
             "wiosenny-bon-1500.pl",
             "wipbror.com",
@@ -25365,7 +25362,9 @@
             "workouton.com.br",
             "workpartnners.info",
             "workrxpharm.com",
-            "workrxpills.com",
+            "workrxpills.com"
+        ],
+        "to_test": [
             "workshop-medo.com",
             "workwebdatabase.com",
             "workwithbobbykeefe.com",
