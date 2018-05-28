@@ -13796,9 +13796,7 @@
             "ssolo.ir",
             "ssolsoftware.com",
             "ssouranceservicemangar.it",
-            "ssp.ad.xiaomi.com"
-        ],
-        "to_test": [
+            "ssp.ad.xiaomi.com",
             "ssp.virool.com",
             "sspcash.com",
             "sspowl.cn",
@@ -14005,11 +14003,14 @@
             "stat.alibaba.com",
             "stat.bilibili.tv",
             "stat.china.alibaba.com",
+            "stat.cybermonitor.com",
             "stat.designntrend.com",
             "stat.doxod.net",
             "stat.easydate.biz",
             "stat.ed.cupidplc.com",
-            "stat.freemediastats.com",
+            "stat.freemediastats.com"
+        ],
+        "to_test": [
             "stat.gmonitor.aliimg.com",
             "stat.itp-nyc.com",
             "stat.ku6.com",
