@@ -21630,9 +21630,7 @@
             "venita.biz",
             "venitex.nut.cc",
             "venmoneyassociation.com",
-            "ventaviagra.com"
-        ],
-        "to_test": [
+            "ventaviagra.com",
             "venteenor.ecommerce.softakt.com",
             "venturytel.net",
             "ventusdesigns.info",
@@ -21735,6 +21733,7 @@
             "verified-your-visa.com",
             "verified.apple.com.security.customer.id.criogen.cl",
             "verified.capitalone.com.login.mad105.mccdgm.net",
+            "verified.secure2.suspiciouss-activity.com",
             "verifiedaccountdetails.com",
             "verifiedaccountinformation-apple.com",
             "verifiedaccountpaiypal.com",
@@ -21883,7 +21882,6 @@
             "veterpain.info",
             "vetig.net",
             "vetmedd.org",
-            "vetplus.com.ve",
             "veuxine.com",
             "vevesubdomeniu.hi2.ro",
             "vewrb.italisumo.at",
@@ -22054,7 +22052,9 @@
             "video.flashtalking.com",
             "video.gamecreds.com",
             "video.tep.su",
-            "video.ymapp.com",
+            "video.ymapp.com"
+        ],
+        "to_test": [
             "video2008codec.com",
             "video3x-codec.com",
             "videoaccesscodec.com",
