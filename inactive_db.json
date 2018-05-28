@@ -29095,9 +29095,7 @@
             "www.yoyozz.net",
             "www.ytzi.co",
             "www.yun.uc.cn",
-            "www.yxnbroot.com"
-        ],
-        "to_test": [
+            "www.yxnbroot.com",
             "www.zal-inkasso.de",
             "www.zedoadservices.com",
             "www.zeronegames.com.br",
@@ -29370,7 +29368,6 @@
             "wwwbigfast.info",
             "wwwbigzoo.info",
             "wwwbostoncom.com",
-            "wwwboxlunch.com",
             "wwwchase-online.com",
             "wwwcheappill.com",
             "wwwcompe3.com",
@@ -29429,7 +29426,9 @@
             "wx-wachovia.com",
             "wx.cdmediaworld.com",
             "wxcjqzqp.top",
-            "wxcomputers.com",
+            "wxcomputers.com"
+        ],
+        "to_test": [
             "wxowsn.net",
             "wxtaste.com",
             "wxy.bnuep.com",
