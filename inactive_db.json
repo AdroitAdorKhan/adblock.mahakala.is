@@ -18094,9 +18094,7 @@
             "top100adult.info",
             "top100auto.info",
             "top100bestoffers.com",
-            "top100clipz.com"
-        ],
-        "to_test": [
+            "top100clipz.com",
             "top20.com.invalid",
             "top2one.com",
             "top3rxpills.com",
@@ -18105,7 +18103,6 @@
             "top7juegos.com",
             "top7search.info",
             "topads.men",
-            "topadult10.com",
             "topadwareremovers.com",
             "topamyweb.su",
             "topantispy.com",
@@ -18121,6 +18118,7 @@
             "topbranding.com.ve",
             "topbrandrewards.com",
             "topcanadianvoice.com",
+            "topcarshop.ir",
             "topcasinocenter.net",
             "topcasinodirect.net",
             "topcasinoone.net",
@@ -18143,6 +18141,7 @@
             "topelevenhackcheats.com",
             "topelevenhacked.com",
             "topelevenmanagerhack.com",
+            "topfast.in",
             "topfbhacks.com",
             "topfirstcasino.com",
             "topfirstcasino.net",
@@ -18380,7 +18379,9 @@
             "toxid-band.de",
             "toy-offer.net",
             "toybabi.com",
-            "toybie.com",
+            "toybie.com"
+        ],
+        "to_test": [
             "toygogo.idv.tw",
             "toyota.cyberealhosting.com",
             "toyotaglobal.org",
