@@ -15653,9 +15653,7 @@
             "sync.botscanner.com",
             "sync.smarttds.ru",
             "syncroads.net",
-            "syndicate.powerofads.com"
-        ],
-        "to_test": [
+            "syndicate.powerofads.com",
             "syndication.loganmueller.info",
             "syndication.streamads.yahoo.com",
             "syndication1.viraladnetwork.net",
@@ -15805,7 +15803,6 @@
             "szkocja.miecio.pl",
             "szlyircs.com",
             "szpfgc.com",
-            "szpiegfriend.pl",
             "szpiegsms.na.footoo.pl",
             "szpieguj.com",
             "szpiegujefb.pl",
@@ -15865,7 +15862,9 @@
             "t7qj58.boro.katsujinken.co.uk",
             "t9qzvw.info",
             "ta.at.ic5mp.net",
-            "ta.at.user-mode-linux.net",
+            "ta.at.user-mode-linux.net"
+        ],
+        "to_test": [
             "ta20w32e7u.ru",
             "tabanta.com",
             "tabfirmware.com",
