@@ -14008,9 +14008,7 @@
             "stat.doxod.net",
             "stat.easydate.biz",
             "stat.ed.cupidplc.com",
-            "stat.freemediastats.com"
-        ],
-        "to_test": [
+            "stat.freemediastats.com",
             "stat.gmonitor.aliimg.com",
             "stat.itp-nyc.com",
             "stat.ku6.com",
@@ -14031,7 +14029,9 @@
             "stat1.888.ku6.com",
             "stat1count.net",
             "stat2.888.ku6.com",
+            "stat2.cybermonitor.com",
             "stat3.888.ku6.com",
+            "stat3.cybermonitor.com",
             "stat482.com",
             "statadd.com",
             "state.pioneertanksupplies.com",
@@ -14158,7 +14158,9 @@
             "stats.behance.net",
             "stats.bestvirusremovalsoftware.com",
             "stats.betaseries.com",
-            "stats.big-boards.com",
+            "stats.big-boards.com"
+        ],
+        "to_test": [
             "stats.bonzaii.no",
             "stats.businessol.com",
             "stats.cdn.playfair.co.za",
