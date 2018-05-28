@@ -21243,9 +21243,7 @@
             "v4dq.com",
             "v4ed.com",
             "v4qed.info",
-            "v5.chinoc.net"
-        ],
-        "to_test": [
+            "v5.chinoc.net",
             "v5hw0m2.info",
             "v5jm523lsp.info",
             "v5msn.com",
@@ -21360,6 +21358,7 @@
             "valuedispatch.com",
             "valuegenerics.info",
             "valuelocatereg.info",
+            "valuemailingsalert.com",
             "valuephrase.com",
             "valueplaceaboutg.info",
             "valueplacereg.info",
@@ -21631,7 +21630,9 @@
             "venita.biz",
             "venitex.nut.cc",
             "venmoneyassociation.com",
-            "ventaviagra.com",
+            "ventaviagra.com"
+        ],
+        "to_test": [
             "venteenor.ecommerce.softakt.com",
             "venturytel.net",
             "ventusdesigns.info",
