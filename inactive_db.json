@@ -13462,9 +13462,7 @@
             "spycut.com",
             "spydating.net",
             "spydeath.com",
-            "spydeface.com"
-        ],
-        "to_test": [
+            "spydeface.com",
             "spydefenderpro.com",
             "spydemolisher.com",
             "spydestroying.com",
@@ -13672,6 +13670,7 @@
             "ssdjflk.cn",
             "ssdsdg.akirasmithtown.com",
             "ssedu.org.cn",
+            "ssfo.info",
             "ssgiftstore.com",
             "ssh5g.org",
             "ssiaomoe.eu",
@@ -13709,8 +13708,8 @@
             "ssl-lognewok.com",
             "ssl-member.info",
             "ssl-msn.oewabox.at",
-            "ssl-nl.persgroep.edgekey.neto",
             "ssl-nl.persgroep.edgekey.netO",
+            "ssl-nl.persgroep.edgekey.neto",
             "ssl-paypal-us-cgi-bin.net",
             "ssl-paypal.de-east-account-verification-center.xyz",
             "ssl-paypal.safer-security-and-safe-ty-center.xyz",
@@ -13797,7 +13796,9 @@
             "ssolo.ir",
             "ssolsoftware.com",
             "ssouranceservicemangar.it",
-            "ssp.ad.xiaomi.com",
+            "ssp.ad.xiaomi.com"
+        ],
+        "to_test": [
             "ssp.virool.com",
             "sspcash.com",
             "sspowl.cn",
