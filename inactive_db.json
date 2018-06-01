@@ -7366,9 +7366,7 @@
             "advertisingaerator.info",
             "advertisingemailcorporation.com",
             "advertisingodds.info",
-            "advertizer-test1.asap-asp.net"
-        ],
-        "to_test": [
+            "advertizer-test1.asap-asp.net",
             "advertlead.net",
             "advertmanagers.com",
             "advertnetnow.info",
@@ -7573,7 +7571,9 @@
             "affiliates.about.com",
             "affiliates.amorix.biz",
             "affiliates.devilfishpartners.com",
-            "affiliates.ige.com",
+            "affiliates.ige.com"
+        ],
+        "to_test": [
             "affiliates.jlist.com",
             "affiliates.matchmaker.com",
             "affiliates.mediaring.com",
