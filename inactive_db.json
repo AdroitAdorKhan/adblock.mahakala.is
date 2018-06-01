@@ -6564,9 +6564,7 @@
             "ads.vs.com",
             "ads.waframedia1.com",
             "ads.wanadooregie.com",
-            "ads.warcraftmovies.com"
-        ],
-        "to_test": [
+            "ads.warcraftmovies.com",
             "ads.waterbondage.com",
             "ads.watershed-publishing.com",
             "ads.weather.com",
@@ -6790,7 +6788,9 @@
             "adsearch.www1.biz",
             "adsentnetwork.com",
             "adseo.net",
-            "adserer.ihigh.com",
+            "adserer.ihigh.com"
+        ],
+        "to_test": [
             "adserv.680180.net",
             "adserv.aip.org",
             "adserv.ath.cx",
