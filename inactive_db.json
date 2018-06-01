@@ -10106,9 +10106,7 @@
             "anugrahabadi.co.id",
             "anunah.com",
             "anunciatucasa.info",
-            "anunturi.anatech.ro"
-        ],
-        "to_test": [
+            "anunturi.anatech.ro",
             "anuoluwa.info",
             "anurizum.com",
             "anusblast.com",
@@ -10543,6 +10541,7 @@
             "apgs.us",
             "aphraimnhl.com",
             "aphrodisia.be",
+            "aphrodisiacs.com.au",
             "aphttp.com",
             "api.access-mc.com",
             "api.ad.ly",
@@ -10569,12 +10568,15 @@
             "api.flicktweets.com",
             "api.fyreball.com",
             "api.geosrv.info",
+            "api.grandonmedia.com",
             "api.hexagram.com",
             "api.indemandapi.com",
             "api.instantdollarz.com",
             "api.interstateanalytics.com",
             "api.inwemo.com",
-            "api.ireai.cn",
+            "api.ireai.cn"
+        ],
+        "to_test": [
             "api.jumptap.com",
             "api.linkz.net",
             "api.mobads4app.com",
