@@ -4630,9 +4630,7 @@
             "acorng.com.au",
             "acortar.tk",
             "acosas.com",
-            "acount-summary.net"
-        ],
-        "to_test": [
+            "acount-summary.net",
             "acount.renew-an-account-validation-verification.acadianafriends.com",
             "acountreview.info",
             "acounts-has-ben-limitted.com",
@@ -4771,7 +4769,6 @@
             "acumen.or.ke",
             "acuraagroup.com",
             "acurainterior.com.br",
-            "acut.pl",
             "acuudhnrrtgdb.net",
             "acvacuumpump.net",
             "acvfoundation.com",
@@ -4780,6 +4777,7 @@
             "acxscketn.com",
             "acyclovir.1.p2l.info",
             "ad-411.com",
+            "ad-beast.com",
             "ad-blockeds.com",
             "ad-images.suntimes.com",
             "ad-incisive.grapeshot.co.uk",
@@ -4852,7 +4850,9 @@
             "ad.bnmedia.ru",
             "ad.bodybuilding.com",
             "ad.bryghtad.com",
-            "ad.burstly.com",
+            "ad.burstly.com"
+        ],
+        "to_test": [
             "ad.caramail.com",
             "ad.carrieriq.com",
             "ad.casee.cn",
