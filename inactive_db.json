@@ -6788,9 +6788,7 @@
             "adsearch.www1.biz",
             "adsentnetwork.com",
             "adseo.net",
-            "adserer.ihigh.com"
-        ],
-        "to_test": [
+            "adserer.ihigh.com",
             "adserv.680180.net",
             "adserv.aip.org",
             "adserv.ath.cx",
@@ -6807,7 +6805,6 @@
             "adserv.qconline.com",
             "adserv.quality-channel.com",
             "adserv.quality-channel.de",
-            "adserv.roundrockmedia.com",
             "adserv.spiegel.de",
             "adserv.windowenhancer.com",
             "adserv.wiredmediainc.com",
@@ -6930,6 +6927,7 @@
             "adserver.magelan.it",
             "adserver.manutd.com",
             "adserver.medialoopsa.com",
+            "adserver.ministryofads.com",
             "adserver.mmoguru.com",
             "adserver.monster.com",
             "adserver.monstersandcritics.com",
@@ -6998,7 +6996,9 @@
             "adserver01.ancestry.com",
             "adserver04.ancestry.com",
             "adserver1.adserver.com.pl",
-            "adserver1.adtech.com.tr",
+            "adserver1.adtech.com.tr"
+        ],
+        "to_test": [
             "adserver1.economist.com",
             "adserver1.isohunt.com",
             "adserver1.mediainsight.de",
