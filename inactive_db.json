@@ -10984,9 +10984,7 @@
             "apple-phone-support.com",
             "apple-phones.xyz",
             "apple-pple.com",
-            "apple-protection.info"
-        ],
-        "to_test": [
+            "apple-protection.info",
             "apple-re-login.com",
             "apple-reaved.com",
             "apple-reaven.com",
@@ -11089,6 +11087,7 @@
             "apple.com-----scanner.club",
             "apple.com--validation.systems",
             "apple.com-internet-security-review.info",
+            "apple.com-internet-security-review.review",
             "apple.com-notice.info",
             "apple.com-onlinesupport.host",
             "apple.com-onlinesupport.site",
@@ -11154,6 +11153,7 @@
             "applech-apple.com",
             "applecheckdevice.com",
             "applecloud-id.com",
+            "appleconnect.review",
             "applecrash.info",
             "appled-40088088-icloud.top",
             "appled-info.com",
@@ -11466,7 +11466,9 @@
             "apteka91.com",
             "aptget-update.com",
             "aptget-update.net",
-            "aptgongjang.info",
+            "aptgongjang.info"
+        ],
+        "to_test": [
             "aptinbuilders.com",
             "aptinccorp.info",
             "aptitude.newversionupdatefreshand4you.space",
