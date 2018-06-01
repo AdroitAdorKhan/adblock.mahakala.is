@@ -7571,9 +7571,7 @@
             "affiliates.about.com",
             "affiliates.amorix.biz",
             "affiliates.devilfishpartners.com",
-            "affiliates.ige.com"
-        ],
-        "to_test": [
+            "affiliates.ige.com",
             "affiliates.jlist.com",
             "affiliates.matchmaker.com",
             "affiliates.mediaring.com",
@@ -7729,6 +7727,7 @@
             "agneszplace.com",
             "agnieszkapudlo-dekoracje.pl",
             "agnugaal.com",
+            "agny7s.myjino.ru",
             "agocentury.com",
             "agocould.com",
             "agoeffect.com",
@@ -7757,8 +7756,11 @@
             "agrivir.com",
             "agroadamek.pl",
             "agrogestionwebsite.com.ar",
+            "agropecuaria.ws",
             "agropplac.com",
-            "agropus.pl",
+            "agropus.pl"
+        ],
+        "to_test": [
             "agt-crux.com",
             "agtecnlogy.com",
             "aguardsoftware.com",
