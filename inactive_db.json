@@ -6226,9 +6226,7 @@
             "ads.matomymobile.com",
             "ads.mconetwork.com",
             "ads.mdotm.com",
-            "ads.mediaflite.de"
-        ],
-        "to_test": [
+            "ads.mediaflite.de",
             "ads.meninpain.com",
             "ads.meredithads.com",
             "ads.meropar.jp",
@@ -6380,6 +6378,7 @@
             "ads.primaryclick.com",
             "ads.primeinteractive.net",
             "ads.promo.web.id",
+            "ads.protocoloweb.com.br",
             "ads.psxextreme.com",
             "ads.publicast.be",
             "ads.puls24.mk",
@@ -6389,7 +6388,9 @@
             "ads.quicken.com",
             "ads.qweb.es",
             "ads.racingpost.com",
-            "ads.rackshack.net",
+            "ads.rackshack.net"
+        ],
+        "to_test": [
             "ads.radioteleffh.de",
             "ads.rasmussenreports.com",
             "ads.ratemyprofessors.com",
