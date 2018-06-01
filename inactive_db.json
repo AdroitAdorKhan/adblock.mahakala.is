@@ -1737,9 +1737,7 @@
             "300webcams.com",
             "301087--gast-mitteilung-account.sicherheitshilfe-hilfeservice.ga",
             "301501-de-verbraucher-angabe-nachweis.sicherheitsabwehr-sicher.tk",
-            "302224-germany-verbraucher-angabe-benutzer.sicherheitshilfe-hilfeservice.ml"
-        ],
-        "to_test": [
+            "302224-germany-verbraucher-angabe-benutzer.sicherheitshilfe-hilfeservice.ml",
             "303615-deu-nutzung-angabe-validierung.sicherheitshilfe-hilfeservice.ga",
             "308251-deu-prob-sicherheit-konto_identity.sicherheitshilfe-hilfeservice.tk",
             "308459-deu-prob-mitteilung-konto_identity.hilfeservice-sicherheitshilfe.tk",
@@ -1926,7 +1924,6 @@
             "3dsemulatorfree.com",
             "3dsprepaidcardcodegenerator.com",
             "3dsvc.com.br",
-            "3dubo.com",
             "3dwamu.biz",
             "3dxxx3d.com",
             "3dyorking.com",
@@ -1959,6 +1956,7 @@
             "3nsxlxf.com",
             "3ntdll.tv",
             "3o1-xevjp8.info",
+            "3ofau8x33u.smallpanda1.xyz",
             "3omry.org",
             "3othman.com",
             "3p0vpmodkdku4x01.com",
@@ -2127,7 +2125,9 @@
             "464556--storno-mitteilung-validierung.hilfeservice-sicherheitshilfe.tk",
             "464boxes.com",
             "464fg.org",
-            "465663-deutschland-nutzung-sicher-benutzer.sicher-vorbeugung.tk",
+            "465663-deutschland-nutzung-sicher-benutzer.sicher-vorbeugung.tk"
+        ],
+        "to_test": [
             "470032-de-gast-sicher-validierung.trade-verification-lite.com",
             "471234-de-gast-kenntnis-benutzer.vorbeugung-sicher.ga",
             "472805--nutzung-angabe-benutzer.sicherheitssystem-sicher.ml",
