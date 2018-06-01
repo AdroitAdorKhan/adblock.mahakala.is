@@ -3816,9 +3816,7 @@
             "a.lingospot.com",
             "a.lolwot.com",
             "a.m.gxwztv.com",
-            "a.namemilky.com"
-        ],
-        "to_test": [
+            "a.namemilky.com",
             "a.ns.xxxhay.com",
             "a.phormlabs.com",
             "a.qhwch.com",
@@ -3868,6 +3866,7 @@
             "a142oz01zoz0zozuz.com",
             "a1435bvg56.com",
             "a15172379.alturo-server.de",
+            "a188.ws",
             "a195501.mcdir.ru",
             "a1clockman.com",
             "a1f21657df.com",
@@ -4024,7 +4023,9 @@
             "aaxqiu-cmd.info",
             "aayds.com",
             "aazzz0z0x00z0x0z0aa.com",
-            "ab-asesores.com.pe",
+            "ab-asesores.com.pe"
+        ],
+        "to_test": [
             "ab-nb.mgid.com",
             "ab-pills.com",
             "ab-tiendas.com",
