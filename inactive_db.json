@@ -10574,9 +10574,7 @@
             "api.instantdollarz.com",
             "api.interstateanalytics.com",
             "api.inwemo.com",
-            "api.ireai.cn"
-        ],
-        "to_test": [
+            "api.ireai.cn",
             "api.jumptap.com",
             "api.linkz.net",
             "api.mobads4app.com",
@@ -10693,6 +10691,7 @@
             "app-v0.com",
             "app-verification.com",
             "app-verificationupdate.org",
+            "app-verify-id.com",
             "app.androidphone.mobi",
             "app.logs-facebook.com",
             "app.mailersend.co",
@@ -10725,7 +10724,6 @@
             "appbin.me",
             "appcloudstore.cloud",
             "appconnect-itun-es.com",
-            "appdad.com",
             "appearantly.com",
             "appearegg.com",
             "appearflow.com",
@@ -10868,6 +10866,7 @@
             "apple-id-applewebinfo.com",
             "apple-id-cziphone.top",
             "apple-id-error.info",
+            "apple-id-fmyiphoneid.top",
             "apple-id-hasbeen-locked.com",
             "apple-id-icloud-appleid.com",
             "apple-id-icloud-id.com",
@@ -10985,7 +10984,9 @@
             "apple-phone-support.com",
             "apple-phones.xyz",
             "apple-pple.com",
-            "apple-protection.info",
+            "apple-protection.info"
+        ],
+        "to_test": [
             "apple-re-login.com",
             "apple-reaved.com",
             "apple-reaven.com",
