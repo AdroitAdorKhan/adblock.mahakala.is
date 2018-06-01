@@ -13539,9 +13539,7 @@
             "banner.thamasta.net",
             "banner.trifle.net",
             "banner.usacasino.com",
-            "banner.vegasred.com"
-        ],
-        "to_test": [
+            "banner.vegasred.com",
             "banner.westernunion.com",
             "banner2.babenet.com",
             "banner2.babenet.nl",
@@ -13558,7 +13556,7 @@
             "bannermercial.info",
             "bannernetwork.cearchives.com",
             "banners.amateurtour.com",
-            "banners.amoestecuzinho.com",
+            "banners.animeerotico.com",
             "banners.apnuk.com",
             "banners.audioholics.com",
             "banners.babylon-boy.com",
@@ -13597,9 +13595,9 @@
             "banners.japantoday.com",
             "banners.kfmb.com",
             "banners.krsk.ru",
-            "banners.lativio.com",
             "banners.lifeserv.com",
             "banners.looksmart.com",
+            "banners.mediaparade.net",
             "banners.mobilesidewalk.com",
             "banners.moviesunlimited.com",
             "banners.mymedia.bg",
@@ -13682,7 +13680,9 @@
             "barbiemarley.com",
             "barbihell.com",
             "barbrayaffe.com",
-            "barbrazblog.com",
+            "barbrazblog.com"
+        ],
+        "to_test": [
             "barbudafarms.com",
             "barbuxo.net",
             "barc-online-london.org",
