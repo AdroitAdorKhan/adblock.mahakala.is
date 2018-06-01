@@ -4850,9 +4850,7 @@
             "ad.bnmedia.ru",
             "ad.bodybuilding.com",
             "ad.bryghtad.com",
-            "ad.burstly.com"
-        ],
-        "to_test": [
+            "ad.burstly.com",
             "ad.caramail.com",
             "ad.carrieriq.com",
             "ad.casee.cn",
@@ -4986,7 +4984,9 @@
             "ad.playground.ru",
             "ad.playhaven.com",
             "ad.pornfuzepremium.videobox.com",
-            "ad.preferences.com",
+            "ad.preferences.com"
+        ],
+        "to_test": [
             "ad.putenbrust.net",
             "ad.pxlad.io",
             "ad.qwapi.com",
