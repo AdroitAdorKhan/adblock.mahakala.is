@@ -5216,9 +5216,7 @@
             "adarmor5.com",
             "adarmor6.com",
             "adastra-ars.ru",
-            "adatepekarot.com"
-        ],
-        "to_test": [
+            "adatepekarot.com",
             "adaware.cc",
             "adazplace.com",
             "adb.nikkei.co.jp",
@@ -5226,7 +5224,6 @@
             "adbcache.brandreachsys.com",
             "adbiz.us",
             "adblockdetect.xyz",
-            "adblockerkillswebsites.pw",
             "adbnr.ru",
             "adbpt.com",
             "adbreak.ubeei.com",
@@ -5304,6 +5301,7 @@
             "adds-info.com",
             "adds-info.site",
             "adds-info.tech",
+            "addsteam.pl",
             "addtification.com",
             "addtoadd.men",
             "addwebporn.com",
@@ -5374,7 +5372,9 @@
             "adimage.asiaone.com.sg",
             "adimage.blm.org",
             "adimages.4sure.com",
-            "adimages.beeb.com",
+            "adimages.beeb.com"
+        ],
+        "to_test": [
             "adimages.earthweb.com",
             "adimages.omroepzeeland.nl",
             "adimages.scrippsnetworks.com",
