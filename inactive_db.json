@@ -6996,9 +6996,7 @@
             "adserver01.ancestry.com",
             "adserver04.ancestry.com",
             "adserver1.adserver.com.pl",
-            "adserver1.adtech.com.tr"
-        ],
-        "to_test": [
+            "adserver1.adtech.com.tr",
             "adserver1.economist.com",
             "adserver1.isohunt.com",
             "adserver1.mediainsight.de",
@@ -7085,7 +7083,6 @@
             "adstage.ticketmaster.com",
             "adstat.fgsta.com",
             "adstatic.ameba.jp",
-            "adstockrenewables.com",
             "adstockxplore.com",
             "adstream1.integra.fr",
             "adstudio.switchboard.com",
@@ -7182,7 +7179,9 @@
             "adultcodecportal.com",
             "adultcodecstars.com",
             "adultcollect.com",
-            "adultcomp.com",
+            "adultcomp.com"
+        ],
+        "to_test": [
             "adultdvdsfor.com",
             "adulteducatio.com",
             "adulterotica4free.com",
