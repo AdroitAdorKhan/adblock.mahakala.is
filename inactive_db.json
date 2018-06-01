@@ -5877,9 +5877,7 @@
             "ads.aws.sitepoint.com",
             "ads.babeclicks.com",
             "ads.banner.t-online.de",
-            "ads.barnonedrinks.com"
-        ],
-        "to_test": [
+            "ads.barnonedrinks.com",
             "ads.batpmturner.com",
             "ads.battle.net",
             "ads.baventures.com",
@@ -5929,6 +5927,7 @@
             "ads.cdnow.com",
             "ads.centerstage.net",
             "ads.cgi.enthusiastonline.com",
+            "ads.chacomedia.com",
             "ads.chalomumbai.com",
             "ads.chartbeat.com",
             "ads.chartboost.com",
@@ -5989,7 +5988,6 @@
             "ads.dealnews.com",
             "ads.deblok.net.kadserver.com",
             "ads.dedicatedmedia.com",
-            "ads.delfin.bg",
             "ads.deliads.com",
             "ads.designboom.com",
             "ads.designworldonline.com",
@@ -6049,7 +6047,9 @@
             "ads.fayettevillenc.com",
             "ads.filez.nl",
             "ads.firingsquad.com",
-            "ads.fish4.co.uk",
+            "ads.fish4.co.uk"
+        ],
+        "to_test": [
             "ads.fixlive.tech",
             "ads.flabber.nl",
             "ads.flashnetworks.com",
