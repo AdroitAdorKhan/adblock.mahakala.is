@@ -14081,9 +14081,7 @@
             "beacons.helium.com",
             "beacons.hottraffic.nl",
             "beadbazaar.co.nz",
-            "beadcareer.info"
-        ],
-        "to_test": [
+            "beadcareer.info",
             "beads-fantasy.com",
             "beads.rebolledo.cl",
             "beadsandmasks.com",
@@ -14311,7 +14309,9 @@
             "bellarosaflowers.ae",
             "bellavistagardendesign.com.au",
             "bellbegin.com",
-            "bellbuckleantiques.com",
+            "bellbuckleantiques.com"
+        ],
+        "to_test": [
             "bellestarfireworks.com",
             "bellinghambar.tk",
             "belllone.com",
