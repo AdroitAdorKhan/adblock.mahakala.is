@@ -6388,9 +6388,7 @@
             "ads.quicken.com",
             "ads.qweb.es",
             "ads.racingpost.com",
-            "ads.rackshack.net"
-        ],
-        "to_test": [
+            "ads.rackshack.net",
             "ads.radioteleffh.de",
             "ads.rasmussenreports.com",
             "ads.ratemyprofessors.com",
@@ -6406,6 +6404,7 @@
             "ads.redegg.co",
             "ads.redorbit.com",
             "ads.reed-elsevier.com",
+            "ads.regiedepub.com",
             "ads.reklamlar.net",
             "ads.revenews.com",
             "ads.revenue.net",
@@ -6463,6 +6462,7 @@
             "ads.sponsorpay.com",
             "ads.startapp.com",
             "ads.startseiten24.de",
+            "ads.staticyonkis.com",
             "ads.station.sony.com",
             "ads.stationplay.com",
             "ads.streamlivesex.com",
@@ -6564,7 +6564,9 @@
             "ads.vs.com",
             "ads.waframedia1.com",
             "ads.wanadooregie.com",
-            "ads.warcraftmovies.com",
+            "ads.warcraftmovies.com"
+        ],
+        "to_test": [
             "ads.waterbondage.com",
             "ads.watershed-publishing.com",
             "ads.weather.com",
