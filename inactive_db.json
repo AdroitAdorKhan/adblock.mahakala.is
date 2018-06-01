@@ -13868,9 +13868,7 @@
             "bazuim.ru",
             "bazziebizzle.com",
             "bb-acesso-web.ml",
-            "bb-informa.com"
-        ],
-        "to_test": [
+            "bb-informa.com",
             "bb-photostudio.com",
             "bb-search.com",
             "bb-stats.com",
@@ -14013,6 +14011,7 @@
             "bdcode.gaosan.com",
             "bdcqxaadv.freewww.info",
             "bddadevlpkwrrmud.xyz",
+            "bddm.58news.org",
             "bddm1.pc899.com",
             "bddr-cash.com",
             "bdefungandesjinoiki.com",
@@ -14023,6 +14022,7 @@
             "bdhzz.alldownloads.hapc.gdn",
             "bdieons.com",
             "bdinow.com",
+            "bdjs.58news.org",
             "bdjs.faxingzhan.com",
             "bdjs.ylq.com",
             "bdlife.cf",
@@ -14081,7 +14081,9 @@
             "beacons.helium.com",
             "beacons.hottraffic.nl",
             "beadbazaar.co.nz",
-            "beadcareer.info",
+            "beadcareer.info"
+        ],
+        "to_test": [
             "beads-fantasy.com",
             "beads.rebolledo.cl",
             "beadsandmasks.com",
