@@ -5648,9 +5648,7 @@
             "adn.mobiletheory.com",
             "adn.mojiva.com",
             "adn.mopub.com",
-            "adn.motiveinteractive.com"
-        ],
-        "to_test": [
+            "adn.motiveinteractive.com",
             "adn.nsmartad.com",
             "adn.placeplay.com",
             "adn.playhaven.com",
@@ -5879,7 +5877,9 @@
             "ads.aws.sitepoint.com",
             "ads.babeclicks.com",
             "ads.banner.t-online.de",
-            "ads.barnonedrinks.com",
+            "ads.barnonedrinks.com"
+        ],
+        "to_test": [
             "ads.batpmturner.com",
             "ads.battle.net",
             "ads.baventures.com",
