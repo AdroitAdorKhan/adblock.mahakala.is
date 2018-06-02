@@ -19414,9 +19414,7 @@
             "cgl1-paypal.com",
             "cgllebay.com",
             "cgm.adbureau.ne",
-            "cgm.adbureau.net"
-        ],
-        "to_test": [
+            "cgm.adbureau.net",
             "cgmess.com",
             "cgnluarlce.com",
             "cgratuix.com02.com",
@@ -19695,7 +19693,9 @@
             "cheapest-drug.org",
             "cheapest-drugs.org",
             "cheapest-generic-viagra.net",
-            "cheapest-pills.org",
+            "cheapest-pills.org"
+        ],
+        "to_test": [
             "cheapestbuypill.com",
             "cheapestgeneric.info",
             "cheapestjerseys-wholesale.com",
