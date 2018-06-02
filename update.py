@@ -65,7 +65,7 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     # Note: This variable is auto updated by Initiate()
     #
     # Example: "adaway.github.io@AdAway.list"
-    list_name = ""
+    list_name = "EnergizedUltimate.list"
 
     # This variable will help us know where we are working into the filesystem.
     #
