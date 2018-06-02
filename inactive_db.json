@@ -22268,9 +22268,7 @@
             "construline.cl",
             "construmaxservicos.com.br",
             "construmetalms.com.br",
-            "construtoraconstruterra.com.br"
-        ],
-        "to_test": [
+            "construtoraconstruterra.com.br",
             "construtoraphiladelphia.com.br",
             "construtoraviplar.com.br",
             "consuelozplace.com",
@@ -22295,6 +22293,7 @@
             "consumer-credits.com",
             "consumer-org.com",
             "consumercares.net",
+            "consumerfinancialbureau.gov",
             "consumerhorizon.com",
             "consumerincentivenetwork.com",
             "consumerresearchbureau.net",
@@ -22538,7 +22537,9 @@
             "coralcoastdivers.com",
             "coratadeg.com",
             "corba.adtech.de",
-            "corbincoding.com",
+            "corbincoding.com"
+        ],
+        "to_test": [
             "corbscycle.com",
             "cordesblow.de",
             "core.adprotected.com",
