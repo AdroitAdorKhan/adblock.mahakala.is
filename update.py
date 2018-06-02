@@ -50,7 +50,7 @@ class Settings(object):  # pylint: disable=too-few-public-methods
     #
     # Example:
     # "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt"
-    raw_link = ""
+    raw_link = "https://raw.githubusercontent.com/EnergizedProtection/EnergizedHosts/master/EnergizedUltimate/energized/hosts"
 
     # This variable should be initiated with the name of the list once downloaded.
     # Recommended formats:
