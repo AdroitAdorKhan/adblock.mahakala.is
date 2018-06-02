@@ -22714,9 +22714,7 @@
             "counter.xoom.com",
             "counter.zerohedge.com",
             "counter1.sextracker.de",
-            "counter1.xoom.com"
-        ],
-        "to_test": [
+            "counter1.xoom.com",
             "counter10.sextracker.de",
             "counter11.sextracker.de",
             "counter12.sextracker.de",
@@ -22822,6 +22820,7 @@
             "cparts.impt6-particuliers.com",
             "cparts.partal-publics.com",
             "cparts.particuliers-acueils.com",
+            "cparts.particuliers-depclients.com",
             "cparts.vos-drotspublics.com",
             "cparts1-partais.com",
             "cpasdf.myjino.ru",
@@ -22903,7 +22902,9 @@
             "craftcavern.co.uk",
             "craftendo.com",
             "craftferfree.com",
-            "craftsmensearch.com",
+            "craftsmensearch.com"
+        ],
+        "to_test": [
             "craftycauldron.co.uk",
             "cragslistmobile.org",
             "craig-hallum.ga",
