@@ -20609,9 +20609,7 @@
             "clicks.superpages.com",
             "clickscheme.info",
             "clicksearchclick.biz",
-            "clicksearchfind.info"
-        ],
-        "to_test": [
+            "clicksearchfind.info",
             "clickshophere.info",
             "clicksimpact.cashtrk.com",
             "clicksms247.com.ng",
@@ -20634,7 +20632,6 @@
             "clickthrough.wegcash.com",
             "clickthrunet.net",
             "clicktomakeasearch.com",
-            "clicktopass.com",
             "clicktrack.savings-foryou.net",
             "clicktrack.shopping-networks.net",
             "clicktracker.postmasterglobal.com",
@@ -20781,6 +20778,7 @@
             "cloud-flowss.com",
             "cloud-mobile.info",
             "cloud-photo.net",
+            "cloud.camera360.com",
             "cloud.duba.cn",
             "cloud.duba.com",
             "cloud.liebao.cn",
@@ -20861,7 +20859,9 @@
             "cluster-fuckz.girls-movies.com",
             "cluster.blingblingcontent.com",
             "cluster.fr.yieldbids.com",
-            "cluster1.sexhound.com",
+            "cluster1.sexhound.com"
+        ],
+        "to_test": [
             "cluster10.sexhound.com",
             "cluster11.sexhound.com",
             "cluster12.sexhound.com",
